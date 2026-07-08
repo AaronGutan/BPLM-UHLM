@@ -461,6 +461,16 @@
 									<CommandName>Form.Command.СформироватьОСВ</CommandName>
 									<ExtendedTooltip name="СформироватьОСВРасширеннаяПодсказка" id="123" />
 								</Button>
+								<Button name="СкрытьБезРасхождений" id="197">
+									<CommandName>Form.Command.СкрытьБезРасхождений</CommandName>
+									<Title>
+										<v8:item>
+											<v8:lang>ru</v8:lang>
+											<v8:content>Скрыть без расхождений</v8:content>
+										</v8:item>
+									</Title>
+									<ExtendedTooltip name="СкрытьБезРасхожденийРасширеннаяПодсказка" id="198" />
+								</Button>
 							</ChildItems>
 						</UsualGroup>
 						<Table name="ТаблицаОСВ" id="124">
@@ -966,7 +976,29 @@
 						</v8:NumberQualifiers>
 					</Type>
 				</Column>
+				<Column name="ЕстьРасхождение" id="16">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Есть расхождение</v8:content>
+						</v8:item>
+					</Title>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+				</Column>
 			</Columns>
+		</Attribute>
+		<Attribute name="ТолькоРасхожденияОСВ" id="65">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Только расхождения ОСВ</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:boolean</v8:Type>
+			</Type>
 		</Attribute>
 	</Attributes>
 	<Commands>
@@ -1018,6 +1050,15 @@
 			</ToolTip>
 			<Action>ВыбратьПериод</Action>
 			<CurrentRowUse>DontUse</CurrentRowUse>
+		</Command>
+		<Command name="СкрытьБезРасхождений" id="106">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Скрыть без расхождений</v8:content>
+				</v8:item>
+			</Title>
+			<Action>СкрытьБезРасхожденийВыполнить</Action>
 		</Command>
 	</Commands>
 </Form>
