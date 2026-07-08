@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcssch="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1" />
+	<ChildItems>
+		<Pages name="Группа3" id="18">
+			<PagesRepresentation>TabsOnTop</PagesRepresentation>
+			<ExtendedTooltip name="Группа3РасширеннаяПодсказка" id="19" />
+			<ChildItems>
+				<Page name="Группа4" id="20">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Организация</v8:content>
+						</v8:item>
+					</Title>
+					<ExtendedTooltip name="Группа4РасширеннаяПодсказка" id="21" />
+					<ChildItems>
+						<UsualGroup name="Группа1" id="12">
+							<Representation>StrongSeparation</Representation>
+							<ThroughAlign>Use</ThroughAlign>
+							<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="13" />
+							<ChildItems>
+								<InputField name="Организация" id="3">
+									<DataPath>Объект.Организация</DataPath>
+									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+									<ContextMenu name="ОрганизацияКонтекстноеМеню" id="4" />
+									<ExtendedTooltip name="ОрганизацияРасширеннаяПодсказка" id="5" />
+									<Events>
+										<Event name="OnChange">ОрганизацияПриИзменении</Event>
+									</Events>
+								</InputField>
+								<LabelField name="ОрганизацияКод" id="6">
+									<DataPath>Объект.Организация.Code</DataPath>
+									<TitleLocation>None</TitleLocation>
+									<ContextMenu name="ОрганизацияКодКонтекстноеМеню" id="7" />
+									<ExtendedTooltip name="ОрганизацияКодРасширеннаяПодсказка" id="8" />
+								</LabelField>
+								<Button name="ФормаСкопировать" id="1">
+									<Type>UsualButton</Type>
+									<CommandName>Form.Command.СкопироватьОрг</CommandName>
+									<ExtendedTooltip name="ФормаСкопироватьРасширеннаяПодсказка" id="2" />
+								</Button>
+							</ChildItems>
+						</UsualGroup>
+						<UsualGroup name="Группа2" id="14">
+							<Representation>StrongSeparation</Representation>
+							<ThroughAlign>Use</ThroughAlign>
+							<ExtendedTooltip name="Группа2РасширеннаяПодсказка" id="15" />
+							<ChildItems>
+								<InputField name="GUID" id="9">
+									<DataPath>Объект.GUID</DataPath>
+									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+									<ContextMenu name="GUIDКонтекстноеМеню" id="10" />
+									<ExtendedTooltip name="GUIDРасширеннаяПодсказка" id="11" />
+								</InputField>
+								<Button name="СоздатьПоGUID" id="16">
+									<Type>UsualButton</Type>
+									<CommandName>Form.Command.СоздатьПоGUIDОрг</CommandName>
+									<ExtendedTooltip name="СоздатьПоGUIDРасширеннаяПодсказка" id="17" />
+								</Button>
+							</ChildItems>
+						</UsualGroup>
+						<Button name="СброситьНесколькоОрганизаций" id="41">
+							<CommandName>Form.Command.СброситьНесколькоОрганизаций</CommandName>
+							<Title>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Сбросить «несколько организаций»</v8:content>
+								</v8:item>
+							</Title>
+							<ExtendedTooltip name="СброситьНесколькоОрганизацийРасширеннаяПодсказка" id="42" />
+						</Button>
+					</ChildItems>
+				</Page>
+				<Page name="Группа5" id="22">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Подразделение</v8:content>
+						</v8:item>
+					</Title>
+					<ExtendedTooltip name="Группа5РасширеннаяПодсказка" id="23" />
+					<ChildItems>
+						<UsualGroup name="Группа6" id="27">
+							<Representation>StrongSeparation</Representation>
+							<ThroughAlign>Use</ThroughAlign>
+							<ExtendedTooltip name="Группа6РасширеннаяПодсказка" id="28" />
+							<ChildItems>
+								<InputField name="Подразделение" id="24">
+									<DataPath>Объект.Подразделение</DataPath>
+									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+									<TypeLink>
+										<xr:DataPath>Объект.Организация</xr:DataPath>
+										<xr:LinkItem>0</xr:LinkItem>
+									</TypeLink>
+									<ContextMenu name="ПодразделениеКонтекстноеМеню" id="25" />
+									<ExtendedTooltip name="ПодразделениеРасширеннаяПодсказка" id="26" />
+								</InputField>
+								<LabelField name="ПодразделениеКод" id="29">
+									<DataPath>Объект.Подразделение.Code</DataPath>
+									<TitleLocation>None</TitleLocation>
+									<ContextMenu name="ПодразделениеКодКонтекстноеМеню" id="30" />
+									<ExtendedTooltip name="ПодразделениеКодРасширеннаяПодсказка" id="31" />
+								</LabelField>
+								<Button name="СкопироватьПодр" id="32">
+									<Type>UsualButton</Type>
+									<CommandName>Form.Command.СкопироватьПодр</CommandName>
+									<ExtendedTooltip name="СкопироватьПодрРасширеннаяПодсказка" id="33" />
+								</Button>
+							</ChildItems>
+						</UsualGroup>
+						<UsualGroup name="Группа7" id="34">
+							<Representation>StrongSeparation</Representation>
+							<ThroughAlign>Use</ThroughAlign>
+							<ExtendedTooltip name="Группа7РасширеннаяПодсказка" id="35" />
+							<ChildItems>
+								<InputField name="GUIDПодр" id="36">
+									<DataPath>Объект.GUIDПодр</DataPath>
+									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+									<ContextMenu name="GUIDПодрКонтекстноеМеню" id="37" />
+									<ExtendedTooltip name="GUIDПодрРасширеннаяПодсказка" id="38" />
+								</InputField>
+								<Button name="СоздатьПоGUIDПодр" id="39">
+									<Type>UsualButton</Type>
+									<CommandName>Form.Command.СоздатьПоGUIDПодр</CommandName>
+									<ExtendedTooltip name="СоздатьПоGUIDПодрРасширеннаяПодсказка" id="40" />
+								</Button>
+							</ChildItems>
+						</UsualGroup>
+					</ChildItems>
+				</Page>
+			</ChildItems>
+		</Pages>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="Объект" id="1">
+			<Type>
+				<v8:Type>cfg:ExternalDataProcessorObject.ID_org</v8:Type>
+			</Type>
+			<MainAttribute>true</MainAttribute>
+		</Attribute>
+	</Attributes>
+	<Commands>
+		<Command name="СкопироватьОрг" id="1">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Создать копию</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Создать копию организации</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>Скопировать</Action>
+		</Command>
+		<Command name="СоздатьПоGUIDОрг" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Создать копию орг-ции по GUID</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Создать копию орг-ции по GUID</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>СоздатьПоGUID</Action>
+		</Command>
+		<Command name="СкопироватьПодр" id="3">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Создать копию</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Создать копию подразделения</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>СкопироватьПодр</Action>
+		</Command>
+		<Command name="СоздатьПоGUIDПодр" id="4">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Создатькопию подр-ния по GUID</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Создатькопию подр-ния по GUID</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>СоздатьПоGUIDПодр</Action>
+		</Command>
+		<Command name="СброситьНесколькоОрганизаций" id="5">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Сбросить «несколько организаций»</v8:content>
+				</v8:item>
+			</Title>
+			<Action>СброситьНесколькоОрганизаций</Action>
+		</Command>
+	</Commands>
+</Form>

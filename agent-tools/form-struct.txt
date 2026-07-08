@@ -1,0 +1,2 @@
+﻿E:\1C\AY\BPLM-UHLM-XML\acclmcopy\DataProcessors\Бюджет\Forms\Форма\Ext\Form.xml
+E:\1C\AY\BPLM-UHLM-XML\acclmcopy\DataProcessors\Бюджет\Forms\Форма\Ext\Form\Module.bsl

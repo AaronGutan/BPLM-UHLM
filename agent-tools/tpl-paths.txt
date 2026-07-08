@@ -1,0 +1,2 @@
+﻿E:\1C\AY\BPLM-UHLM-XML\acclmcopy\DataProcessors\Бюджет\Templates\ВыгрузкаВФайл\Ext\Template.xml
+E:\1C\AY\BPLM-UHLM-XML\acclmcopy\DataProcessors\ВводНачальныхОстатков\Templates\Справка\Ext\Template.xml

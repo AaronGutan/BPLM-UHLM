@@ -1,0 +1,3 @@
+﻿E:\1C\AY\BPLM-UHLM-XML\acclmcopy\AccountingRegisters\Хозрасчетный\Forms\ФормаСписка\Ext\Form.xml
+E:\1C\AY\BPLM-UHLM-XML\acclmcopy\AccumulationRegisters\ВыпускПродукцииУслуг\Forms\ФормаСписка\Ext\Form.xml
+E:\1C\AY\BPLM-UHLM-XML\acclmcopy\AccumulationRegisters\КнигаУчетаДоходовИРасходов\Forms\ФормаСписка\Ext\Form.xml

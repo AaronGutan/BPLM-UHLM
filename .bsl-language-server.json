@@ -1,0 +1,14 @@
+{
+  "language": "ru",
+  "diagnostics": {
+    "parameters": {
+      "LineLength": {
+        "maxLineLength": 130
+      },
+      "CognitiveComplexity": {
+        "complexityThreshold": 15
+      }
+    }
+  },
+  "configurationRoot": "src"
+}

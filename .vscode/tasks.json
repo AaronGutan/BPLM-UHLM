@@ -1,0 +1,64 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "echo",
+            "type": "shell",
+            "command": "echo Hello"
+        },
+        {
+            "label": "1C: Сборка CFE",
+            "type": "shell",
+            "command": "powershell",
+            "args": [
+                "-NoProfile",
+                "-ExecutionPolicy",
+                "Bypass",
+                "-File",
+                "${workspaceFolder}/.vscode/scripts/cfe-build.ps1"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared",
+                "focus": false,
+                "clear": false
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "1C: Сборка CFE (режим агента)",
+            "type": "shell",
+            "command": "powershell",
+            "args": [
+                "-NoProfile",
+                "-ExecutionPolicy",
+                "Bypass",
+                "-File",
+                "${workspaceFolder}/.vscode/scripts/cfe-build.ps1",
+                "-UseAgentMode",
+                "-KeepAgentConnected",
+                "-RecreateExtension",
+                "-DebugAgent"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared",
+                "focus": false,
+                "clear": false
+            },
+            "problemMatcher": []
+        }
+    ]
+}

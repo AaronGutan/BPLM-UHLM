@@ -1,0 +1,45 @@
+{
+  "title": "Сверка данных",
+  "properties": { "autoTitle": false },
+  "events": { "OnCreateAtServer": "ПриСозданииНаСервере" },
+  "elements": [
+    { "group": "vertical", "name": "ГруппаПодключение", "title": "Подключение к OData", "showTitle": true, "children": [
+      { "input": "URLСервераOData", "path": "Объект.URLСервераOData", "title": "URL OData-сервиса", "width": 60, "autoMaxWidth": false },
+      { "group": "horizontal", "name": "ГруппаАвторизация", "children": [
+        { "input": "ИмяПользователяOData", "path": "Объект.ИмяПользователяOData", "title": "Пользователь", "width": 25, "autoMaxWidth": false },
+        { "input": "ПарольOData", "path": "Объект.ПарольOData", "title": "Пароль", "passwordMode": true, "width": 25, "autoMaxWidth": false }
+      ]},
+      { "button": "ПроверитьПодключение", "command": "ПроверитьПодключение" }
+    ]},
+    { "group": "vertical", "name": "ГруппаПараметры", "title": "Параметры сверки", "showTitle": true, "children": [
+      { "input": "ТипСверки", "path": "Объект.ТипСверки", "title": "Тип сверки", "dropListButton": true, "width": 20, "autoMaxWidth": false },
+      { "group": "horizontal", "name": "ГруппаПериод", "children": [
+        { "input": "ДатаНачала", "path": "Объект.ДатаНачала", "title": "Период с", "width": 15, "autoMaxWidth": false },
+        { "input": "ДатаОкончания", "path": "Объект.ДатаОкончания", "title": "по", "width": 15, "autoMaxWidth": false }
+      ]},
+      { "button": "ЗаполнитьСписокОбъектов", "command": "ЗаполнитьСписокОбъектов", "title": "Заполнить список объектов" }
+    ]},
+    { "table": "ОбъектыСверки", "path": "Объект.ОбъектыСверки", "height": 10, "columns": [
+      { "check": "ОбъектыСверкиВыбран", "path": "Объект.ОбъектыСверки.Выбран", "title": "", "width": 3 },
+      { "input": "ОбъектыСверкиИмяОбъекта", "path": "Объект.ОбъектыСверки.ИмяОбъекта", "title": "Объект", "readOnly": true, "width": 30 },
+      { "input": "ОбъектыСверкиКоличествоИсточник", "path": "Объект.ОбъектыСверки.КоличествоИсточник", "title": "Источник", "readOnly": true, "width": 10 },
+      { "input": "ОбъектыСверкиКоличествоПриёмник", "path": "Объект.ОбъектыСверки.КоличествоПриёмник", "title": "Приёмник", "readOnly": true, "width": 10 },
+      { "input": "ОбъектыСверкиКоличествоРасхождений", "path": "Объект.ОбъектыСверки.КоличествоРасхождений", "title": "Расхождения", "readOnly": true, "width": 10 },
+      { "input": "ОбъектыСверкиСтатусСверки", "path": "Объект.ОбъектыСверки.СтатусСверки", "title": "Статус", "readOnly": true, "width": 15 },
+      { "input": "ОбъектыСверкиТекстОшибки", "path": "Объект.ОбъектыСверки.ТекстОшибки", "title": "Ошибка", "readOnly": true, "width": 25 }
+    ]},
+    { "group": "horizontal", "name": "ГруппаКнопокСверки", "children": [
+      { "button": "ВыполнитьСверку", "command": "ВыполнитьСверку", "defaultButton": true },
+      { "button": "ОткрытьОтчёт", "command": "ОткрытьОтчёт" }
+    ]}
+  ],
+  "attributes": [
+    { "name": "Объект", "type": "DataProcessorObject.Consd_СверкаДанных", "main": true }
+  ],
+  "commands": [
+    { "name": "ПроверитьПодключение", "action": "ПроверитьПодключениеВыполнить" },
+    { "name": "ЗаполнитьСписокОбъектов", "action": "ЗаполнитьСписокОбъектовВыполнить" },
+    { "name": "ВыполнитьСверку", "action": "ВыполнитьСверкуВыполнить" },
+    { "name": "ОткрытьОтчёт", "action": "ОткрытьОтчётВыполнить" }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "columns": 6,
+  "columnWidths": { "1": 5, "2": 40, "3-5": 15, "6": 20 },
+  "fonts": {
+    "default": { "face": "Arial", "size": 10 },
+    "bold": { "face": "Arial", "size": 10, "bold": true },
+    "header": { "face": "Arial", "size": 14, "bold": true }
+  },
+  "styles": {
+    "default": {},
+    "header": { "font": "header", "align": "center" },
+    "subheader": { "align": "center" },
+    "label": { "font": "bold", "border": "all", "align": "center", "valign": "center", "wrap": true },
+    "bordered": { "border": "all", "wrap": true },
+    "bordered-right": { "border": "all", "align": "right" },
+    "bordered-center": { "border": "all", "align": "center" },
+    "total-label": { "font": "bold", "border": "all", "align": "right" },
+    "total-value": { "font": "bold", "border": "all", "align": "right" }
+  },
+  "areas": [
+    {
+      "name": "Заголовок",
+      "rows": [
+        { "height": 24, "cells": [ { "col": 1, "span": 6, "style": "header", "param": "ТекстЗаголовка" } ] },
+        { "height": 18, "cells": [ { "col": 1, "span": 6, "style": "subheader", "param": "ТекстПериода" } ] },
+        { "empty": 1 }
+      ]
+    },
+    {
+      "name": "ШапкаТаблицы",
+      "rows": [
+        { "rowStyle": "label", "height": 24, "cells": [
+          { "col": 1, "text": "№" },
+          { "col": 2, "text": "Объект сверки" },
+          { "col": 3, "text": "Источник" },
+          { "col": 4, "text": "Приёмник" },
+          { "col": 5, "text": "Расхождения" },
+          { "col": 6, "text": "Статус" }
+        ]}
+      ]
+    },
+    {
+      "name": "Строка",
+      "rows": [
+        { "cells": [
+          { "col": 1, "style": "bordered-center", "param": "НомерСтроки" },
+          { "col": 2, "style": "bordered", "param": "ИмяОбъекта", "detail": "ОбъектСверки" },
+          { "col": 3, "style": "bordered-right", "param": "КоличествоИсточник" },
+          { "col": 4, "style": "bordered-right", "param": "КоличествоПриёмник" },
+          { "col": 5, "style": "bordered-right", "param": "КоличествоРасхождений" },
+          { "col": 6, "style": "bordered-center", "param": "СтатусСверки" }
+        ]}
+      ]
+    },
+    {
+      "name": "СтрокаОшибка",
+      "rows": [
+        { "cells": [
+          { "col": 1, "span": 6, "style": "bordered", "param": "ТекстОшибки" }
+        ]}
+      ]
+    },
+    {
+      "name": "Итого",
+      "rows": [
+        { "empty": 1 },
+        { "cells": [
+          { "col": 1, "span": 2, "style": "total-label", "text": "Итого:" },
+          { "col": 3, "style": "total-value", "param": "ИтогоИсточник" },
+          { "col": 4, "style": "total-value", "param": "ИтогоПриёмник" },
+          { "col": 5, "style": "total-value", "param": "ИтогоРасхождений" },
+          { "col": 6, "style": "bordered-center", "param": "ИтогоСтатус" }
+        ]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "v8path": "C:\\Program Files\\1cv8\\8.3.27.1936\\bin",
+  "databases": [
+    {
+      "id": "uh-lm",
+      "name": "УХ acc_lm_copy (приёмник конвертации)",
+      "type": "server",
+      "server": "DNA-DEVAPPS-1S0",
+      "ref": "acc_lm_copy",
+      "aliases": ["ух", "uh", "acc_lm", "приемник", "приёмник", "uh-lm"]
+    },
+    {
+      "id": "bp-copy",
+      "name": "БП copyBP (источник, acclmcopy)",
+      "type": "server",
+      "server": "DNA-DEVAPPS-1S0",
+      "ref": "copyBP",
+      "aliases": ["бп", "bp", "copybp", "acclmcopy", "источник"],
+      "configSrc": "E:\\1C\\AY\\Acc_DR_copy"
+    }
+  ],
+  "default": "uh-lm"
+}
