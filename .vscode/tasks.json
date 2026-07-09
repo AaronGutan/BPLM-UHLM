@@ -35,6 +35,29 @@
             "problemMatcher": []
         },
         {
+            "label": "1C: Сборка EPF",
+            "type": "shell",
+            "command": "powershell",
+            "args": [
+                "-NoProfile",
+                "-ExecutionPolicy",
+                "Bypass",
+                "-File",
+                "${workspaceFolder}/.vscode/scripts/epf-build.ps1"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "group": "build",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared",
+                "focus": false,
+                "clear": false
+            },
+            "problemMatcher": []
+        },
+        {
             "label": "1C: Сборка CFE (режим агента)",
             "type": "shell",
             "command": "powershell",

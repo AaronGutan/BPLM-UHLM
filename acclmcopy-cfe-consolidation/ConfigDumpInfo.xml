@@ -2,8 +2,8 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
 		<Metadata name="CommonModule.Consd_РегистрацияИзменений" id="a8f9e4c2-1d3b-4f5a-9e7c-2b8d6a4c1f3e" configVersion="22a41162c3aba44be816e017cddc0e3daf84692f"/>
-		<Metadata name="CommonModule.Consd_РегистрацияИзменений.Module" id="a8f9e4c2-1d3b-4f5a-9e7c-2b8d6a4c1f3e.0" configVersion="77cf57dec43613f3c574946d3171f8ce8c5e547b"/>
-		<Metadata name="Configuration.Консолидация" id="d76f6bac-fee5-4dd9-9da0-4438e49f967a" configVersion="9cb7ba5b0e3abb406ca4318d528c6489fb02de27"/>
+		<Metadata name="CommonModule.Consd_РегистрацияИзменений.Module" id="a8f9e4c2-1d3b-4f5a-9e7c-2b8d6a4c1f3e.0" configVersion="96a415cb5382b44c662dd25e0e39430f92350b60"/>
+		<Metadata name="Configuration.Консолидация" id="d76f6bac-fee5-4dd9-9da0-4438e49f967a" configVersion="56cfef2230ea2451f4b9f9af2b42ae0cf5aed2cf"/>
 		<Metadata name="DataProcessor.Consd_СверкаДанных" id="cbbe1eba-3914-44a1-aefa-c1e029116c30" configVersion="38f231fcf0004673f51b2be19429be5e6690ecea">
 			<Metadata name="DataProcessor.Consd_СверкаДанных.TabularSection.ОбъектыСверки.Attribute.ТипОбъекта" id="192e2503-db61-436a-9d3c-7d533cae9a62"/>
 			<Metadata name="DataProcessor.Consd_СверкаДанных.TabularSection.ИсточникиСверки.Attribute.ПарольOData" id="256fd10e-6096-4c4e-ac51-09b51c82aa52"/>
@@ -29,16 +29,16 @@
 			<Metadata name="DataProcessor.Consd_СверкаДанных.TabularSection.ОбъектыСверки.Attribute.ИмяOData" id="f635139f-e6b6-479f-99fe-724570810cdd"/>
 		</Metadata>
 		<Metadata name="DataProcessor.Consd_СверкаДанных.Form.Форма" id="882fa68e-f206-41e3-a117-1036caafeac3" configVersion="6347aef4c6b764ef775373ab8ff75cccf71ef51c"/>
-		<Metadata name="DataProcessor.Consd_СверкаДанных.Form.Форма.Form" id="882fa68e-f206-41e3-a117-1036caafeac3.0" configVersion="cd1eee300f5a4d5232d3486e1ca969669a760c4c"/>
+		<Metadata name="DataProcessor.Consd_СверкаДанных.Form.Форма.Form" id="882fa68e-f206-41e3-a117-1036caafeac3.0" configVersion="364ea1f2147c027278418bdb3b19e30546059e37"/>
 		<Metadata name="DataProcessor.Consd_СверкаДанных.Form.ФормаОтчета" id="05dd81cb-1fd7-48d4-b29f-6ac95582ed02" configVersion="f6b0dac5cc06071a0285e316361d216bb3cb2a14"/>
 		<Metadata name="DataProcessor.Consd_СверкаДанных.Form.ФормаОтчета.Form" id="05dd81cb-1fd7-48d4-b29f-6ac95582ed02.0" configVersion="f7b22bd31551285138ecb72ebbac6c32dd9b441f"/>
-		<Metadata name="DataProcessor.Consd_СверкаДанных.ObjectModule" id="cbbe1eba-3914-44a1-aefa-c1e029116c30.0" configVersion="716a2192f7bbf891987d281c41ed1db4bbce322f"/>
+		<Metadata name="DataProcessor.Consd_СверкаДанных.ObjectModule" id="cbbe1eba-3914-44a1-aefa-c1e029116c30.0" configVersion="515bad4f973c15a86103b4d9b70391bd4d15f504"/>
 		<Metadata name="DataProcessor.Consd_СверкаДанных.Template.ОтчетСверки" id="04e19e3d-5b0c-4231-830e-5043427c0611" configVersion="fd1d500ce889fc4decedbdb76ed38af526163988"/>
 		<Metadata name="DataProcessor.Consd_СверкаДанных.Template.ОтчетСверки.Template" id="04e19e3d-5b0c-4231-830e-5043427c0611.0" configVersion="a32bb66bdd653e1c7cd0c1666e600ae40ea9a4cb"/>
 		<Metadata name="EventSubscription.Consd_ПодпискаНаСобытиеДокументОбъектПриЗаписи" id="eba03da9-2d36-4095-b761-f2985ff4955d" configVersion="43ddedef55cbe8156cf10823ebeb436b244231c5"/>
 		<Metadata name="ExchangePlan.Консолидация" id="5c784741-5694-4f87-950a-41f21f0b2aed" configVersion="7fc959c096e8df32f0a078ac63bddc31a489c741"/>
-		<Metadata name="ExchangePlan.Консолидация.ManagerModule" id="5c784741-5694-4f87-950a-41f21f0b2aed.3" configVersion="0e9806d11dfb5e7928ace8a8c6b292bb2e971640"/>
-		<Metadata name="ExchangePlan.Консолидация.ObjectModule" id="5c784741-5694-4f87-950a-41f21f0b2aed.2" configVersion="edae4c2b7259b0eff19dc78fd1a5365f2d0b4ab3"/>
+		<Metadata name="ExchangePlan.Консолидация.ManagerModule" id="5c784741-5694-4f87-950a-41f21f0b2aed.3" configVersion="7e49d7ff3d97bf42e7c9539ec738b77380551ca8"/>
+		<Metadata name="ExchangePlan.Консолидация.ObjectModule" id="5c784741-5694-4f87-950a-41f21f0b2aed.2" configVersion="bd462773646bf15afa4aa1896d3efd0a09c89755"/>
 		<Metadata name="InformationRegister.Consd_Источники" id="5a838e7a-0172-478f-aecc-224b2034713e" configVersion="ee9e4e27b219919f249270ac43e71bcdd15bea7b">
 			<Metadata name="InformationRegister.Consd_Источники.Resource.Адрес" id="51dbda67-19b5-483b-88b9-6267e019b0d0"/>
 			<Metadata name="InformationRegister.Consd_Источники.Dimension.Организация" id="9125490a-00a3-498e-aaf5-9520eb41349a"/>
