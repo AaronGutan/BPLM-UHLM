@@ -741,6 +741,42 @@
 							<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 						</Properties>
 					</Attribute>
+					<Attribute uuid="d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f70">
+						<Properties>
+							<Name>ЕстьРасхождение</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Есть расхождение</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment />
+							<Type>
+								<v8:Type>xs:boolean</v8:Type>
+							</Type>
+							<PasswordMode>false</PasswordMode>
+							<Format />
+							<EditFormat />
+							<ToolTip />
+							<MarkNegatives>false</MarkNegatives>
+							<Mask />
+							<MultiLine>false</MultiLine>
+							<ExtendedEdit>false</ExtendedEdit>
+							<MinValue xsi:nil="true" />
+							<MaxValue xsi:nil="true" />
+							<FillFromFillingValue>false</FillFromFillingValue>
+							<FillValue xsi:type="xs:boolean">false</FillValue>
+							<FillChecking>DontCheck</FillChecking>
+							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+							<ChoiceParameterLinks />
+							<ChoiceParameters />
+							<QuickChoice>Auto</QuickChoice>
+							<CreateOnInput>Auto</CreateOnInput>
+							<ChoiceForm />
+							<LinkByType />
+							<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+						</Properties>
+					</Attribute>
 					<Attribute uuid="15f27a91-ccb4-44af-a96b-c864437b3ebb">
 						<Properties>
 							<Name>СводкаПоИсточникам</Name>

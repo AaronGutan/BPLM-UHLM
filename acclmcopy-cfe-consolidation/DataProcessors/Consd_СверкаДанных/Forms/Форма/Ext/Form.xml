@@ -259,6 +259,11 @@
 										</Title>
 										<ExtendedTooltip name="ОбъектыСверкиСнятьВыборРасширеннаяПодсказка" id="98"/>
 									</Button>
+									<Button name="ОбъектыСверкиСкрытьБезРасхождений" id="236">
+										<Type>CommandBarButton</Type>
+										<CommandName>Form.Command.СкрытьБезРасхожденийОбъектыСверки</CommandName>
+										<ExtendedTooltip name="ОбъектыСверкиСкрытьБезРасхожденийРасширеннаяПодсказка" id="237"/>
+									</Button>
 									<Button name="ВыполнитьСверку" id="60">
 										<Type>CommandBarButton</Type>
 										<DefaultButton>true</DefaultButton>
@@ -1093,6 +1098,21 @@
 				<v8:Type>xs:boolean</v8:Type>
 			</Type>
 		</Attribute>
+		<Attribute name="ТолькоРасхожденияОбъектыСверки" id="235">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Только расхождения объектов сверки</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Reconciliation objects discrepancies only</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:boolean</v8:Type>
+			</Type>
+		</Attribute>
 		<Attribute name="РасхожденияGUID" id="224">
 			<Title>
 				<v8:item>
@@ -1249,6 +1269,19 @@
 				</v8:item>
 			</Title>
 			<Action>СкрытьБезРасхожденийВыполнить</Action>
+		</Command>
+		<Command name="СкрытьБезРасхожденийОбъектыСверки" id="107">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Скрыть без расхождений</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Hide rows without discrepancies</v8:content>
+				</v8:item>
+			</Title>
+			<Action>СкрытьБезРасхожденийОбъектыСверкиВыполнить</Action>
 		</Command>
 		<Command name="ЗарегистрироватьКОбмену" id="1">
 			<Title>
