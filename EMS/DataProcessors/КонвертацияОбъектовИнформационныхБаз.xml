@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<DataProcessor uuid="f71dd44e-700c-4f7d-9607-1ff0b6d29a73">
+		<InternalInfo>
+			<xr:GeneratedType name="DataProcessorObject.КонвертацияОбъектовИнформационныхБаз" category="Object">
+				<xr:TypeId>1529c6f0-feeb-4b11-947b-af0696236d0e</xr:TypeId>
+				<xr:ValueId>c57f8058-e92a-4e36-9ba8-a9792a5b455c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DataProcessorManager.КонвертацияОбъектовИнформационныхБаз" category="Manager">
+				<xr:TypeId>d41edcd2-86ad-4ea7-ac69-9eef4ac67395</xr:TypeId>
+				<xr:ValueId>ca919e93-272f-4cf7-bc83-4638bdbae6e2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:PropertyState>
+				<xr:Property>ObjectModule</xr:Property>
+				<xr:State>Extended</xr:State>
+			</xr:PropertyState>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КонвертацияОбъектовИнформационныхБаз</Name>
+			<Comment/>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="5aa9f741-397f-4e29-8eb6-9e7ceedf4ce2">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ОтладкаОбработчиковЗагрузки</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>811f356f-554a-4a63-90b6-dedb5fec7c05</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="26baf8a6-3d68-4c6d-b16a-2a77b1eea076">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ПродолжитьПриОшибке</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>1491cc2a-b3be-4bcc-a181-ce68d4b5d4cb</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</DataProcessor>
+</MetaDataObject>

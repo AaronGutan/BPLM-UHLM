@@ -80,6 +80,12 @@
 					<ContextMenu name="АдресКонтекстноеМеню" id="20"/>
 					<ExtendedTooltip name="АдресРасширеннаяПодсказка" id="21"/>
 				</LabelField>
+				<LabelField name="Узел" id="22">
+					<DataPath>Список.Узел</DataPath>
+					<DefaultItem>true</DefaultItem>
+					<ContextMenu name="УзелКонтекстноеМеню" id="23"/>
+					<ExtendedTooltip name="УзелРасширеннаяПодсказка" id="24"/>
+				</LabelField>
 			</ChildItems>
 		</Table>
 	</ChildItems>

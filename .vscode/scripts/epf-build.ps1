@@ -1,4 +1,4 @@
-# Сборка EPF: сборка внешней обработки из XML-исходников
+﻿# Сборка EPF: сборка внешней обработки из XML-исходников
 param(
     [string]$SourceDir,
     [string]$ProcessorName,

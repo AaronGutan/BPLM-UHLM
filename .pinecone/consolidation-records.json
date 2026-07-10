@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "http-reconciliation-endpoints",
+    "chunk_text": "HTTP-сервис Consd_Reconciliation (базовый путь /hs/recon/v1): GET ping — проверка доступности через Consd_СверкаСервис.ПроверкаДоступности(); GET nodes — список узлов плана обмена Консолидация; POST register — регистрация объектов на узле обмена из JSON-тела запроса.",
+    "module": "HTTPServices/Consd_Reconciliation",
+    "subsystem": "consolidation",
+    "topic": "http-api"
+  },
+  {
+    "_id": "service-register-objects",
+    "chunk_text": "Consd_СверкаСервис.ЗарегистрироватьОбъекты принимает NodeGuid или NodeCode и массив Objects с полями ODataName и Guid. Находит узел плана обмена Консолидация, получает ссылку по имени OData и GUID, вызывает ПланыОбмена.Консолидация.ЗарегистрироватьИзмененияОбъекта. Нельзя регистрировать на узле ЭтотУзел.",
+    "module": "CommonModules/Consd_СверкаСервис",
+    "subsystem": "consolidation",
+    "topic": "exchange-registration"
+  },
+  {
+    "_id": "recon-run-guid-diff",
+    "chunk_text": "Обработка Consd_СверкаДанных: ВыполнитьСверку сравнивает состав ссылочных объектов по UUID между приемником и источниками OData. НачатьСверку инициализирует таблицу расхождений GUID. ВыполнитьСверкуОбъекта обрабатывает одну строку ОбъектыСверки. ПолучитьРасхожденияGUID возвращает накопленные отличия.",
+    "module": "DataProcessors/Consd_СверкаДанных",
+    "subsystem": "consolidation",
+    "topic": "guid-reconciliation"
+  },
+  {
+    "_id": "recon-register-discrepancies",
+    "chunk_text": "Consd_СверкаДанных.ЗарегистрироватьРасхожденияНаИсточниках регистрирует на базах-источниках объекты, отсутствующие в приемнике. Принимает таблицу расхождений (Источник, ИмяOData, GUID, Сторона) и таблицу источников (URL OData, учетные данные, организация, узел). Возвращает Success, RegisteredCount, TextError.",
+    "module": "DataProcessors/Consd_СверкаДанных",
+    "subsystem": "consolidation",
+    "topic": "exchange-registration"
+  },
+  {
+    "_id": "recon-osv-comparison",
+    "chunk_text": "Формирование ОСВ в Consd_СверкаДанных: НачатьФормированиеОСВ создает таблицу сравнения; ДобавитьОСВПоИсточнику подтягивает обороты приемника и источника по счетам; ЗавершитьФормированиеОСВ заполняет признаки расхождений; ПолучитьОСВСравнениеПоСчетам возвращает итоговую таблицу.",
+    "module": "DataProcessors/Consd_СверкаДанных",
+    "subsystem": "consolidation",
+    "topic": "trial-balance"
+  },
+  {
+    "_id": "service-odata-url-builder",
+    "chunk_text": "Consd_СверкаСервис.ПолучитьURLСервисаПоАдресуOData строит URL HTTP-сервиса регистрации из адреса OData источника: отрезает часть /odata/ и добавляет /hs/recon/v1/{метод}, по умолчанию register.",
+    "module": "CommonModules/Consd_СверкаСервис",
+    "subsystem": "consolidation",
+    "topic": "http-api"
+  },
+  {
+    "_id": "service-exchange-nodes",
+    "chunk_text": "Consd_СверкаСервис.ПолучитьУзлыПланаОбмена возвращает массив узлов плана обмена Консолидация: Ref (UUID), Code, Description, ThisNode, SentNo, ReceivedNo. Используется HTTP-методом GET /hs/recon/v1/nodes.",
+    "module": "CommonModules/Consd_СверкаСервис",
+    "subsystem": "consolidation",
+    "topic": "exchange-plan"
+  },
+  {
+    "_id": "recon-fill-sources",
+    "chunk_text": "Consd_СверкаДанных.ЗаполнитьИсточникиИзРегистра загружает источники сверки из регистра сведений. ЗаполнитьСписокОбъектов и ЗаполнитьСписокОбъектовИзПравилКонвертации подготавливают табличную часть ОбъектыСверки для последующей сверки по OData.",
+    "module": "DataProcessors/Consd_СверкаДанных",
+    "subsystem": "consolidation",
+    "topic": "data-loading"
+  }
+]

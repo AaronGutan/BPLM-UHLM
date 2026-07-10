@@ -15,6 +15,12 @@
 			<ContextMenu name="АдресКонтекстноеМеню" id="5"/>
 			<ExtendedTooltip name="АдресРасширеннаяПодсказка" id="6"/>
 		</InputField>
+		<InputField name="Узел" id="13">
+			<DataPath>Запись.Узел</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="УзелКонтекстноеМеню" id="14"/>
+			<ExtendedTooltip name="УзелРасширеннаяПодсказка" id="15"/>
+		</InputField>
 		<InputField name="Пользователь" id="7">
 			<DataPath>1/0:5f3fdcac-753c-48a3-ad61-240cbb1125ff</DataPath>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>

@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+	</Events>
+	<ChildItems>
+		<CheckBoxField name="ПочиститьРС" id="21">
+			<DataPath>ПочиститьРС</DataPath>
+			<CheckBoxType>Auto</CheckBoxType>
+			<ContextMenu name="ПочиститьРСКонтекстноеМеню" id="22"/>
+			<ExtendedTooltip name="ПочиститьРСРасширеннаяПодсказка" id="23"/>
+		</CheckBoxField>
+		<CheckBoxField name="ВыбратьОбъектНеНайден" id="1">
+			<DataPath>ВыбратьОбъектНеНайден</DataPath>
+			<CheckBoxType>Auto</CheckBoxType>
+			<ContextMenu name="ВыбратьОбъектНеНайденКонтекстноеМеню" id="2"/>
+			<ExtendedTooltip name="ВыбратьОбъектНеНайденРасширеннаяПодсказка" id="3"/>
+		</CheckBoxField>
+		<InputField name="МетаданныеПроверяемогоСправочника" id="6">
+			<DataPath>МетаданныеПроверяемогоСправочника</DataPath>
+			<ContextMenu name="МетаданныеПроверяемогоСправочникаКонтекстноеМеню" id="7"/>
+			<ExtendedTooltip name="МетаданныеПроверяемогоСправочникаРасширеннаяПодсказка" id="8"/>
+		</InputField>
+		<CheckBoxField name="ТолькоВерхнийУровень" id="24">
+			<DataPath>ТолькоВерхнийУровень</DataPath>
+			<CheckBoxType>Auto</CheckBoxType>
+			<ContextMenu name="ТолькоВерхнийУровеньКонтекстноеМеню" id="25"/>
+			<ExtendedTooltip name="ТолькоВерхнийУровеньРасширеннаяПодсказка" id="26"/>
+		</CheckBoxField>
+		<InputField name="МетаданныеПроверяемогоРС" id="9">
+			<DataPath>МетаданныеПроверяемогоРС</DataPath>
+			<ContextMenu name="МетаданныеПроверяемогоРСКонтекстноеМеню" id="10"/>
+			<ExtendedTooltip name="МетаданныеПроверяемогоРСРасширеннаяПодсказка" id="11"/>
+		</InputField>
+		<InputField name="Период" id="12">
+			<DataPath>Период</DataPath>
+			<ContextMenu name="ПериодКонтекстноеМеню" id="13"/>
+			<ExtendedTooltip name="ПериодРасширеннаяПодсказка" id="14"/>
+		</InputField>
+		<InputField name="ОргИД" id="15">
+			<DataPath>ОргИД</DataPath>
+			<ContextMenu name="ОргИДКонтекстноеМеню" id="16"/>
+			<ExtendedTooltip name="ОргИДРасширеннаяПодсказка" id="17"/>
+		</InputField>
+		<RadioButtonField name="ЧтоПроверяем" id="18">
+			<DataPath>ВыборкаФункция</DataPath>
+			<RadioButtonType>Tumbler</RadioButtonType>
+			<ChoiceList>
+				<xr:Item>
+					<xr:Presentation/>
+					<xr:CheckState>0</xr:CheckState>
+					<xr:Value xsi:type="FormChoiceListDesTimeValue">
+						<Presentation>
+							<v8:item>
+								<v8:lang>ru</v8:lang>
+								<v8:content>Справочники</v8:content>
+							</v8:item>
+						</Presentation>
+						<Value xsi:type="xs:string">Справочники</Value>
+					</xr:Value>
+				</xr:Item>
+				<xr:Item>
+					<xr:Presentation/>
+					<xr:CheckState>0</xr:CheckState>
+					<xr:Value xsi:type="FormChoiceListDesTimeValue">
+						<Presentation>
+							<v8:item>
+								<v8:lang>ru</v8:lang>
+								<v8:content>Документы</v8:content>
+							</v8:item>
+						</Presentation>
+						<Value xsi:type="xs:string">Документы</Value>
+					</xr:Value>
+				</xr:Item>
+				<xr:Item>
+					<xr:Presentation/>
+					<xr:CheckState>0</xr:CheckState>
+					<xr:Value xsi:type="FormChoiceListDesTimeValue">
+						<Presentation>
+							<v8:item>
+								<v8:lang>ru</v8:lang>
+								<v8:content>Регистры сведений</v8:content>
+							</v8:item>
+						</Presentation>
+						<Value xsi:type="xs:string">РегистрыСведений</Value>
+					</xr:Value>
+				</xr:Item>
+				<xr:Item>
+					<xr:Presentation/>
+					<xr:CheckState>0</xr:CheckState>
+					<xr:Value xsi:type="FormChoiceListDesTimeValue">
+						<Presentation>
+							<v8:item>
+								<v8:lang>ru</v8:lang>
+								<v8:content>Обороты</v8:content>
+							</v8:item>
+						</Presentation>
+						<Value xsi:type="xs:string">Обороты</Value>
+					</xr:Value>
+				</xr:Item>
+				<xr:Item>
+					<xr:Presentation/>
+					<xr:CheckState>0</xr:CheckState>
+					<xr:Value xsi:type="FormChoiceListDesTimeValue">
+						<Presentation>
+							<v8:item>
+								<v8:lang>ru</v8:lang>
+								<v8:content>Иерархия</v8:content>
+							</v8:item>
+						</Presentation>
+						<Value xsi:type="xs:string">Иерархия</Value>
+					</xr:Value>
+				</xr:Item>
+				<xr:Item>
+					<xr:Presentation/>
+					<xr:CheckState>0</xr:CheckState>
+					<xr:Value xsi:type="FormChoiceListDesTimeValue">
+						<Presentation>
+							<v8:item>
+								<v8:lang>ru</v8:lang>
+								<v8:content>ДокументыБезПроводок</v8:content>
+							</v8:item>
+						</Presentation>
+						<Value xsi:type="xs:string">ДокументыБезПроводок</Value>
+					</xr:Value>
+				</xr:Item>
+			</ChoiceList>
+			<ContextMenu name="ЧтоПроверяемКонтекстноеМеню" id="19"/>
+			<ExtendedTooltip name="ЧтоПроверяемРасширеннаяПодсказка" id="20"/>
+		</RadioButtonField>
+		<Button name="ВыполнитьПоиск" id="4">
+			<Type>UsualButton</Type>
+			<CommandName>Form.Command.ВыполнитьПоиск</CommandName>
+			<ExtendedTooltip name="ВыполнитьПоискРасширеннаяПодсказка" id="5"/>
+		</Button>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="Объект" id="1">
+			<Type>
+				<v8:Type>cfg:DataProcessorObject.ПоискОбъектНеНайден</v8:Type>
+			</Type>
+			<MainAttribute>true</MainAttribute>
+		</Attribute>
+		<Attribute name="ВыбратьОбъектНеНайден" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Выбрать объект не найден</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:boolean</v8:Type>
+			</Type>
+		</Attribute>
+		<Attribute name="МетаданныеПроверяемогоСправочника" id="3">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Метаданные проверяемого справочника</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="МетаданныеПроверяемогоРС" id="4">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Метаданные проверяемого РС</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="Период" id="5">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Период</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>v8:StandardPeriod</v8:Type>
+			</Type>
+		</Attribute>
+		<Attribute name="ОргИД" id="6">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Орг ИД</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="ВыборкаФункция" id="7">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Выборка функция</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="ПочиститьРС" id="8">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Почистить РС</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:boolean</v8:Type>
+			</Type>
+		</Attribute>
+		<Attribute name="ТолькоВерхнийУровень" id="9">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Только верхний уровень</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:boolean</v8:Type>
+			</Type>
+		</Attribute>
+	</Attributes>
+	<Commands>
+		<Command name="ВыполнитьПоиск" id="1">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Выполнить поиск</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Выполнить поиск</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ВыполнитьПоиск</Action>
+		</Command>
+	</Commands>
+</Form>

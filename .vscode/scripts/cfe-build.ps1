@@ -113,7 +113,8 @@ function Get-NextExtensionVersion {
 
         if ($currentDate -eq $Today) {
             $buildNumber += 1
-        } else {
+        }
+        else {
             $buildNumber = 1
         }
     }
@@ -131,9 +132,11 @@ function Test-TcpPortOpen {
     try {
         $client.Connect($HostName, $Port)
         return $true
-    } catch {
+    }
+    catch {
         return $false
-    } finally {
+    }
+    finally {
         if ($client.Connected) {
             $client.Close()
         }
@@ -255,7 +258,8 @@ function Copy-BuildArtifact {
         $targetPath = Join-Path $TargetDirectory $fileName
         Copy-Item -LiteralPath $SourcePath -Destination $targetPath -Force
         Write-Host "Файл скопирован: $targetPath" -ForegroundColor Green
-    } catch {
+    }
+    catch {
         Write-Host "Не удалось скопировать файл в $TargetDirectory : $($_.Exception.Message)" -ForegroundColor Red
     }
 }
@@ -268,7 +272,8 @@ function ConvertTo-PlainText {
     $bstr = [Runtime.InteropServices.Marshal]::SecureStringToBSTR($SecureString)
     try {
         return [Runtime.InteropServices.Marshal]::PtrToStringAuto($bstr)
-    } finally {
+    }
+    finally {
         [Runtime.InteropServices.Marshal]::ZeroFreeBSTR($bstr)
     }
 }
@@ -414,7 +419,8 @@ function Read-AgentStreamText {
 
             return (New-Object string($State.Buffer, 0, $count))
         }
-    } catch {
+    }
+    catch {
         $State.Closed = $true
         return ""
     }
@@ -454,9 +460,9 @@ function Read-DesignerAgentOutput {
         $text = $builder.ToString()
 
         if ($text -match "Операция завершена успешно" `
-            -or $text -match "DesignerNotConnectedToInfoBase" `
-            -or $text -match "Ошибка Designer" `
-            -or $text -match "Ошибка [A-Za-zА-Яа-я]") {
+                -or $text -match "DesignerNotConnectedToInfoBase" `
+                -or $text -match "Ошибка Designer" `
+                -or $text -match "Ошибка [A-Za-zА-Яа-я]") {
             Start-Sleep -Milliseconds 200
             $tail = Read-AgentStreamText -State $StdoutState -TimeoutMs 100
             if ($tail) {
@@ -669,7 +675,8 @@ function Invoke-DesignerAgentCommands {
 
             if ($PauseBetweenCommands -and $commandIndex -gt 1) {
                 Read-Host "Enter — отправить команду"
-            } elseif ($PauseBetweenCommands) {
+            }
+            elseif ($PauseBetweenCommands) {
                 Read-Host "Enter — отправить первую команду"
             }
 
@@ -690,27 +697,28 @@ function Invoke-DesignerAgentCommands {
             # Удаление расширения перед пересозданием не критично: если расширения
             # ещё нет в базе, агент вернёт ошибку, которую следует игнорировать.
             if (-not $result.Success -and $command -match "extensions delete") {
-                Write-Host ("[{0}/{1}] <<< расширение не удалено (вероятно, отсутствует) — продолжаем" -f `
-                    $commandIndex, $commandTotal) -ForegroundColor DarkYellow
+                Write-Host ("[{0}/{1}] <<< расширение не удалено — продолжаем" -f `
+                        $commandIndex, $commandTotal) -ForegroundColor DarkYellow
                 $result = [PSCustomObject]@{ Success = $true; Message = "пропущено" }
             }
 
             $commandResults.Add([PSCustomObject]@{
-                Index    = $commandIndex
-                Command  = $command
-                Success  = $result.Success
-                Duration = $commandStopwatch.Elapsed
-                Output   = $commandOutput
-            })
+                    Index    = $commandIndex
+                    Command  = $command
+                    Success  = $result.Success
+                    Duration = $commandStopwatch.Elapsed
+                    Output   = $commandOutput
+                })
 
             if ($result.Success) {
                 Write-Host ("[{0}/{1}] <<< OK за {2}" -f `
-                    $commandIndex, $commandTotal, (Format-BuildDuration -Duration $commandStopwatch.Elapsed)) -ForegroundColor Green
-            } else {
+                        $commandIndex, $commandTotal, (Format-BuildDuration -Duration $commandStopwatch.Elapsed)) -ForegroundColor Green
+            }
+            else {
                 Write-Host ("[{0}/{1}] <<< ОШИБКА за {2}: {3}" -f `
-                    $commandIndex, $commandTotal, `
+                        $commandIndex, $commandTotal, `
                     (Format-BuildDuration -Duration $commandStopwatch.Elapsed), `
-                    $result.Message) -ForegroundColor Red
+                        $result.Message) -ForegroundColor Red
                 if ($DebugAgent) {
                     Write-Host "--- ответ агента ---" -ForegroundColor DarkGray
                     Write-Host $commandOutput
@@ -732,7 +740,8 @@ function Invoke-DesignerAgentCommands {
                             Write-Host "--- расширения в базе ---" -ForegroundColor DarkGray
                             Write-Host $diagOutput
                             Write-Host "-------------------------" -ForegroundColor DarkGray
-                        } catch {
+                        }
+                        catch {
                             Write-Host "Не удалось получить список расширений: $($_.Exception.Message)" -ForegroundColor DarkGray
                         }
                     }
@@ -749,7 +758,8 @@ function Invoke-DesignerAgentCommands {
         # код возврата ssh здесь не считаем ошибкой.
         try {
             $stdin.Close()
-        } catch {
+        }
+        catch {
             # Поток уже закрыт
         }
 
@@ -759,7 +769,8 @@ function Invoke-DesignerAgentCommands {
             }
             $process.Kill()
         }
-    } finally {
+    }
+    finally {
         Clear-SshAskPass
 
         if ($null -ne $process -and -not $process.HasExited) {
@@ -776,7 +787,7 @@ function Invoke-DesignerAgentCommands {
         $status = if ($item.Success) { "OK" } else { "ОШИБКА" }
         $color = if ($item.Success) { [ConsoleColor]::Green } else { [ConsoleColor]::Red }
         Write-Host ("  [{0}/{1}] {2,-8} {3}" -f `
-            $item.Index, $commandTotal, $status, (Format-BuildDuration -Duration $item.Duration)) -ForegroundColor $color
+                $item.Index, $commandTotal, $status, (Format-BuildDuration -Duration $item.Duration)) -ForegroundColor $color
         Write-Host ("           {0}" -f $item.Command) -ForegroundColor DarkGray
     }
     Write-Host ""
@@ -819,9 +830,11 @@ function Invoke-CfeAgentBuild {
         try {
             Set-SshAskPass -Password $Password
             & ssh -T -p $AgentPort -o StrictHostKeyChecking=accept-new -o BatchMode=no "`"${User}@127.0.0.1`"" "common shutdown" 2>$null | Out-Null
-        } catch {
+        }
+        catch {
             # Игнорируем ошибки при остановке зависшего агента
-        } finally {
+        }
+        finally {
             Clear-SshAskPass
         }
 
@@ -852,7 +865,8 @@ function Invoke-CfeAgentBuild {
         }
 
         Write-Host "Агент запущен для базы: $databaseConnection" -ForegroundColor Green
-    } else {
+    }
+    else {
         Write-Host "Агент уже слушает порт $AgentPort, используем существующий процесс." -ForegroundColor Yellow
         Write-Host "  Ожидаемая база: $databaseConnection" -ForegroundColor Cyan
         Write-Host "  Внимание: работающий агент подключён к базе, с которой был запущен ранее." -ForegroundColor Yellow
@@ -862,7 +876,8 @@ function Invoke-CfeAgentBuild {
     if ($AgentCommandsOverride -and $AgentCommandsOverride.Count -gt 0) {
         $agentCommands = $AgentCommandsOverride
         Write-Host "Режим отладки: выполняется заданный набор команд ($($agentCommands.Count))." -ForegroundColor Yellow
-    } else {
+    }
+    else {
         # Имена и пути передаются в шелл агента без кавычек: его парсер
         # не срезает двойные кавычки, из-за чего имя расширения "Консолидация"
         # воспринималось буквально с кавычками (ошибка UnknownError).
@@ -892,7 +907,8 @@ function Invoke-CfeAgentBuild {
 
         if (-not $KeepAgentConnected) {
             $agentCommands += "common disconnect-ib"
-        } else {
+        }
+        else {
             Write-Host "disconnect-ib пропущен — агент останется подключен к ИБ." -ForegroundColor DarkGray
         }
     }
@@ -963,7 +979,8 @@ function Invoke-CfeBuildCore {
                 -ExtensionPurpose $ExtensionPurpose `
                 -AgentCommandsOverride $AgentCommandsOverride `
                 -Visible:$Visible
-        } else {
+        }
+        else {
             Invoke-DesignerBatchBuild `
                 -V8Path $V8Path `
                 -Database $Database `
@@ -973,7 +990,8 @@ function Invoke-CfeBuildCore {
                 -OutputPath $OutputPath `
                 -ExtensionName $ExtensionName
         }
-    } finally {
+    }
+    finally {
         $stopwatch.Stop()
     }
 
@@ -1052,10 +1070,12 @@ if (-not $SkipVersionUpdate) {
 
         [System.IO.File]::WriteAllText($configurationXml, $newContent, $utf8Bom)
         Write-Host "Версия обновлена: $oldVersion -> $version" -ForegroundColor Yellow
-    } else {
+    }
+    else {
         $version = $oldVersion
     }
-} else {
+}
+else {
     $version = $versionNode.InnerText
 }
 
@@ -1079,15 +1099,17 @@ if (-not $database) {
 
 if (-not $v8Path) {
     $found = Get-ChildItem "C:\Program Files\1cv8\*\bin\1cv8.exe" -ErrorAction SilentlyContinue |
-        Sort-Object FullName -Descending |
-        Select-Object -First 1
+    Sort-Object FullName -Descending |
+    Select-Object -First 1
     if ($found) {
         $v8Path = $found.FullName
-    } else {
+    }
+    else {
         Write-Host "Ошибка: v8path не задан и 1cv8.exe не найден" -ForegroundColor Red
         exit 1
     }
-} elseif (Test-Path $v8Path -PathType Container) {
+}
+elseif (Test-Path $v8Path -PathType Container) {
     $v8Path = Join-Path $v8Path "1cv8.exe"
 }
 
@@ -1133,7 +1155,8 @@ if ($AgentCommand) {
     # чтобы диагностические команды (например, список расширений) работали.
     if ($AgentCommand -match "^\s*common connect-ib\s*$") {
         $agentCommandsOverride = @($AgentCommand)
-    } else {
+    }
+    else {
         $agentCommandsOverride = @(
             "common connect-ib",
             "options set --show-prompt=no --output-format=text",
@@ -1193,7 +1216,8 @@ Write-BuildModeHeader `
 
 try {
     $buildDuration = Invoke-CfeBuildCore -AgentMode:$UseAgentMode @buildParams
-} catch {
+}
+catch {
     Write-Host ""
     Write-Host "Ошибка сборки: $($_.Exception.Message)" -ForegroundColor Red
     exit 1
@@ -1203,7 +1227,8 @@ Write-Host ""
 if ($agentDebugOnly) {
     Write-Host "Отладка команды агента завершена." -ForegroundColor Green
     Write-Host "Время: $(Format-BuildDuration -Duration $buildDuration)" -ForegroundColor Cyan
-} else {
+}
+else {
     Write-Host "Сборка завершена: $outputFileFull" -ForegroundColor Green
     Write-Host "Время сборки: $(Format-BuildDuration -Duration $buildDuration)" -ForegroundColor Cyan
     Copy-BuildArtifact -SourcePath $outputFileFull -TargetDirectory $CopyToDir

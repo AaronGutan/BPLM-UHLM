@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor/>
-			<Version>26_07_09_v2</Version>
+			<Version>26_07_10_v7</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -64,7 +64,9 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<CommonModule>Consd_РегистрацияИзменений</CommonModule>
+			<CommonModule>Consd_СверкаСервис</CommonModule>
 			<ExchangePlan>Консолидация</ExchangePlan>
+			<HTTPService>Consd_Reconciliation</HTTPService>
 			<EventSubscription>Consd_ПодпискаНаСобытиеДокументОбъектПриЗаписи</EventSubscription>
 			<DataProcessor>Consd_СверкаДанных</DataProcessor>
 			<InformationRegister>Consd_Источники</InformationRegister>

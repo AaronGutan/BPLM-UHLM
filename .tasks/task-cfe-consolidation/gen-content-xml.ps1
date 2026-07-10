@@ -2,7 +2,7 @@
 $ErrorActionPreference = "Stop"
 
 $jsonFile = "e:\1C\AY\BPLM-UHLM-XML\.tasks\task-cfe-consolidation\object-list.json"
-$outFile = "e:\1C\AY\acclmcopy-cfe-consolidation\ExchangePlans\Консолидация\Ext\Content.xml"
+$outFile = "e:\1C\AY\BPLM-UHLM-XML\acclmcopy-cfe-consolidation\ExchangePlans\Консолидация\Ext\Content.xml"
 
 $data = Get-Content $jsonFile -Raw -Encoding UTF8 | ConvertFrom-Json
 
@@ -15,11 +15,13 @@ $metadataItems.Add("ChartOfCharacteristicTypes.ВидыСубконтоХозр�
 
 # Документы с движениями по регистру Хозрасчетный
 foreach ($doc in $data.documents) {
+    if ($doc -like "Удалить*") { continue }
     $metadataItems.Add("Document.$doc") | Out-Null
 }
 
 # Справочники-субконто и справочники-реквизиты документов
 foreach ($cat in $data.catalogs) {
+    if ($cat -like "Удалить*") { continue }
     $metadataItems.Add("Catalog.$cat") | Out-Null
 }
 
