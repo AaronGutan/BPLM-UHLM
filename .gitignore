@@ -17,6 +17,9 @@ Thumbs.db
 acclmcopy/
 ICORUHM/
 src/
+КонтурДиадокИнтеграция/
+diadoc_4_53_0/
+
 
 # Локальные настройки проекта (логин SSH и т.п.)
 .v8-project.local.json

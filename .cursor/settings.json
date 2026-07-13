@@ -1,7 +1,1 @@
-{
-  "plugins": {
-    "pinecone": {
-      "enabled": true
-    }
-  }
-}
+{}
