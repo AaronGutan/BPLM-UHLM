@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Catalog uuid="c6c9e8e9-d907-4f16-ac97-710da4a83776">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ВидыРемонтовОС" category="Object">
+				<xr:TypeId>9b8d0d34-883f-4e3d-b002-3abf37d1ebb3</xr:TypeId>
+				<xr:ValueId>9af8f46d-b816-4ce9-81f9-c7c7d5ca3940</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ВидыРемонтовОС" category="Ref">
+				<xr:TypeId>30eaca4d-7d1f-4749-b700-727696dc0437</xr:TypeId>
+				<xr:ValueId>1eff4e5b-e2e6-4726-bfb5-fdf4ded5429b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ВидыРемонтовОС" category="Selection">
+				<xr:TypeId>29bc4cab-0b72-4b6e-bfdd-e98dd78926df</xr:TypeId>
+				<xr:ValueId>dac02cb2-9d64-4d05-98fa-90d5486049f1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ВидыРемонтовОС" category="List">
+				<xr:TypeId>d8786c0b-aa29-49b4-99d3-9e2da7ad39ec</xr:TypeId>
+				<xr:ValueId>29372be6-c4c7-4289-b912-6d974458455c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ВидыРемонтовОС" category="Manager">
+				<xr:TypeId>10f7ae15-7d50-4cfe-a127-42c01ef731e9</xr:TypeId>
+				<xr:ValueId>5227e0c7-c5b8-492c-b8af-06def74923d0</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВидыРемонтовОС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>2ed2d9eb-5c20-4c4b-a166-e31622205185</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

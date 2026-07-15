@@ -31,7 +31,6 @@
 | [web-guide.md](web-guide.md) | Веб-публикация |
 | [web-spec.md](web-spec.md) | Спецификация веб-сервисов |
 | [web-test-guide.md](web-test-guide.md) | Тестирование через браузер |
-| [python-porting-guide.md](python-porting-guide.md) | Портирование скриптов Python → PowerShell |
 
 ---
 

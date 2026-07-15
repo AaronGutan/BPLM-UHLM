@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="57b5c42f-4705-48fc-a781-f0b8f7685b97">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПередачаЗадолженностиНаФакторинг" category="Object">
+				<xr:TypeId>f580899d-d7f5-42e4-a403-36042bfca022</xr:TypeId>
+				<xr:ValueId>6f52f6ef-7979-4a4a-ae86-e75f85009acf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПередачаЗадолженностиНаФакторинг" category="Ref">
+				<xr:TypeId>55f25af4-85df-4cf2-9dea-94ee3a10b6fd</xr:TypeId>
+				<xr:ValueId>54a5a893-12e8-4e34-910a-5213dde2456b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПередачаЗадолженностиНаФакторинг" category="Selection">
+				<xr:TypeId>11961417-7c04-4a94-841b-0962c8259dbb</xr:TypeId>
+				<xr:ValueId>3bb67db1-6414-4310-bf48-2780f661a8dd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПередачаЗадолженностиНаФакторинг" category="List">
+				<xr:TypeId>5d74ae47-e220-4e29-ba0e-c475d656cb9f</xr:TypeId>
+				<xr:ValueId>e10c5261-ecf7-4034-8d94-6acba9507eae</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПередачаЗадолженностиНаФакторинг" category="Manager">
+				<xr:TypeId>bbb54fb2-15c2-4816-8fe9-aae61fa50104</xr:TypeId>
+				<xr:ValueId>7d4870da-5f5d-44b4-9bca-0439594d4cc6</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПередачаЗадолженностиНаФакторинг</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>df0b11ff-8070-4c24-b0b7-8364493ff94e</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="94fc6fc7-50d6-4c24-bc63-0dc62179c80e">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОтражениеЗарплатыВБухучете" category="Object">
+				<xr:TypeId>44fedad8-0de9-4c1b-956e-49f1ad5d931a</xr:TypeId>
+				<xr:ValueId>ff497532-8a1e-484d-b256-eec32d0806ec</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОтражениеЗарплатыВБухучете" category="Ref">
+				<xr:TypeId>a48cb90a-fc3a-4175-aff9-efead1562c84</xr:TypeId>
+				<xr:ValueId>5f594ae8-afa6-4013-9b18-0cdac72638b4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОтражениеЗарплатыВБухучете" category="Selection">
+				<xr:TypeId>fd384ed7-186e-4d98-86b9-d73505127d7f</xr:TypeId>
+				<xr:ValueId>a1963d94-b47d-4cf5-bd80-2ba7f00a3a25</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОтражениеЗарплатыВБухучете" category="List">
+				<xr:TypeId>30136d1a-0b97-466c-b641-300745952584</xr:TypeId>
+				<xr:ValueId>5a8c3a7a-1762-477e-8996-33904cd6dbcd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОтражениеЗарплатыВБухучете" category="Manager">
+				<xr:TypeId>20602d69-8669-4918-8381-da25adf6a2d6</xr:TypeId>
+				<xr:ValueId>4ba87053-72c0-4f35-b0e1-5bd755d6bdcd</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтражениеЗарплатыВБухучете</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d27fea8b-73d0-4c0a-92d9-3480c7104618</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

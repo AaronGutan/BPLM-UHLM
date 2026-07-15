@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="6ec32da6-5e73-4195-85ef-b121b2695797">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СведенияОбУдержанномНДФЛ" category="Object">
+				<xr:TypeId>1e7b6617-543d-45b9-8f76-2925afc85262</xr:TypeId>
+				<xr:ValueId>6db2ded0-9dac-406e-bb38-54478e96d024</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СведенияОбУдержанномНДФЛ" category="Ref">
+				<xr:TypeId>91836b50-dd54-4716-8ce4-b1fc1678b1cd</xr:TypeId>
+				<xr:ValueId>0eb6134b-20d7-4ecf-88ea-3630e1d09e88</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СведенияОбУдержанномНДФЛ" category="Selection">
+				<xr:TypeId>087a993b-a70f-4ec9-9f63-ffd3e48a2c2b</xr:TypeId>
+				<xr:ValueId>4ec82f42-5dcb-4305-a699-003896440f50</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СведенияОбУдержанномНДФЛ" category="List">
+				<xr:TypeId>f3b079dd-780e-46e7-903f-94596221757f</xr:TypeId>
+				<xr:ValueId>fffe0e7c-9118-49ce-882a-d1a846de83b8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СведенияОбУдержанномНДФЛ" category="Manager">
+				<xr:TypeId>aa7c26bf-880d-4bee-bb26-30db243a6a6e</xr:TypeId>
+				<xr:ValueId>84dcf6a2-39a9-4f00-b4ee-7a1a30ee2dde</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СведенияОбУдержанномНДФЛ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f192c8a8-cd2c-4317-9714-65aeccbca8bc</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

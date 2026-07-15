@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="cf42779e-e8a2-4ca1-bc40-3068417c218e">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РаспределениеНДС" category="Object">
+				<xr:TypeId>7e508aaf-2e8c-4c35-b432-9dfaa6264f1c</xr:TypeId>
+				<xr:ValueId>6b9804db-0c91-4b77-9042-7de68c297151</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РаспределениеНДС" category="Ref">
+				<xr:TypeId>c8539560-cbeb-45d1-9051-00b4429885aa</xr:TypeId>
+				<xr:ValueId>75a2eb06-62c7-48cf-bbdd-93e3d9ef3619</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РаспределениеНДС" category="Selection">
+				<xr:TypeId>e8a08558-71fa-4d9e-a148-b2b93e5c9c42</xr:TypeId>
+				<xr:ValueId>7e635cc1-d013-44e4-92d1-65e533ed7da2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РаспределениеНДС" category="List">
+				<xr:TypeId>0a868813-9a3d-4db1-9a73-e291b0c6c41c</xr:TypeId>
+				<xr:ValueId>ccb6049b-f1fe-4a4e-bf62-6f10078eac58</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РаспределениеНДС" category="Manager">
+				<xr:TypeId>04f3a509-980a-42af-8d22-1c5e3f075956</xr:TypeId>
+				<xr:ValueId>d4427c5d-6fe6-429a-a12e-915e59997978</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РаспределениеНДС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>2eba1b34-17ee-4ab6-8f1d-49ab45bad6ad</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

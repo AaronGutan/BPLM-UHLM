@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="c867063a-b915-445c-8686-520d7d936031">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РеализацияОтгруженныхТоваров" category="Object">
+				<xr:TypeId>cbc221ec-ad68-4f75-943e-82301c9ad799</xr:TypeId>
+				<xr:ValueId>5b250653-66f0-4a39-9de1-646222f4b0bd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РеализацияОтгруженныхТоваров" category="Ref">
+				<xr:TypeId>170ada8c-880e-49c3-a804-b1fac0e2645f</xr:TypeId>
+				<xr:ValueId>0b60cb42-0848-4cff-b10d-8f0a313df6d0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РеализацияОтгруженныхТоваров" category="Selection">
+				<xr:TypeId>b896726e-21a8-4651-9b28-2de24d06b502</xr:TypeId>
+				<xr:ValueId>9f7c5e80-3df5-462d-a251-d4b123fe4bfd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РеализацияОтгруженныхТоваров" category="List">
+				<xr:TypeId>1f142ddf-e412-4d1b-baef-8b345d20e1e1</xr:TypeId>
+				<xr:ValueId>41775582-3020-4f33-83fa-36d98583f65a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РеализацияОтгруженныхТоваров" category="Manager">
+				<xr:TypeId>c76a6b07-b98e-40d4-9176-1bf408558e0c</xr:TypeId>
+				<xr:ValueId>1b6e5964-6516-4685-a89a-a783b1420703</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РеализацияОтгруженныхТоваров</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e00831f4-b3cf-42bf-abd4-4385527ca262</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

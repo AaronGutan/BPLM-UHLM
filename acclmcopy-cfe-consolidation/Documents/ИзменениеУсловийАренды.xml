@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="907d2578-3eef-4ad1-a8dd-8caec6be5b13">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ИзменениеУсловийАренды" category="Object">
+				<xr:TypeId>dd153669-fa66-4442-8106-89cefb8ac8ff</xr:TypeId>
+				<xr:ValueId>c2698f61-63bc-4505-93b1-2fb6aaba9fff</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ИзменениеУсловийАренды" category="Ref">
+				<xr:TypeId>9a8554d9-78c8-41e2-95fe-7c6cb4ec4854</xr:TypeId>
+				<xr:ValueId>45855c2e-d32e-4558-a218-1c895c012a80</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ИзменениеУсловийАренды" category="Selection">
+				<xr:TypeId>b2458f36-d794-47a3-8d27-b38c454bacdd</xr:TypeId>
+				<xr:ValueId>2ea30946-d79f-4829-b8cc-45168b7ef59e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ИзменениеУсловийАренды" category="List">
+				<xr:TypeId>6748297d-31d8-4d1e-ac62-7c386d1adf35</xr:TypeId>
+				<xr:ValueId>9cb3a059-5f1a-47a1-af94-ab87b1ca5a31</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ИзменениеУсловийАренды" category="Manager">
+				<xr:TypeId>712eb512-7f54-459c-a5f7-8787284e4dfc</xr:TypeId>
+				<xr:ValueId>70849f5f-b762-4fe4-a8ed-435158488e56</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ИзменениеУсловийАренды</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>68adf290-d986-4b0e-acda-6b84111334e3</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

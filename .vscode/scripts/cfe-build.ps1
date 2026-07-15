@@ -3,7 +3,7 @@ param(
     [string]$ConfigDir,
     [string]$Extension,
     [string]$OutputFile,
-    [string]$DatabaseId = "uh-lm",
+    [string]$DatabaseId,
     [string]$AgentPort = "1543",
     [string]$SshUser,
     [switch]$SkipVersionUpdate,
@@ -29,13 +29,43 @@ $projectFile = Join-Path $workspaceRoot ".v8-project.json"
 $agentBaseDir = Join-Path $workspaceRoot ".vscode/agent-base"
 $agentLinkName = "cfe-src"
 
+# Каталог расширения (относительно корня) → база сборки из .v8-project.json
+$extensionDatabaseMap = @{
+    "acclmcopy-cfe-consolidation"     = "bp-copy"
+    "ICORUHM/uh-cfe-consolidation"    = "uh-lm"
+    "ICORUHM\uh-cfe-consolidation"    = "uh-lm"
+    "EMS"                             = "uh-lm"
+}
+
 if (-not $ConfigDir) {
     $ConfigDir = Join-Path $workspaceRoot "acclmcopy-cfe-consolidation"
+}
+elseif (-not [System.IO.Path]::IsPathRooted($ConfigDir)) {
+    $ConfigDir = Join-Path $workspaceRoot $ConfigDir
 }
 
 if (-not (Test-Path $ConfigDir)) {
     Write-Host "Ошибка: каталог исходников расширения не найден: $ConfigDir" -ForegroundColor Red
     exit 1
+}
+
+$configDirFullForMap = (Resolve-Path $ConfigDir).Path
+$configDirRelative = $configDirFullForMap
+if ($configDirFullForMap.StartsWith($workspaceRoot, [System.StringComparison]::OrdinalIgnoreCase)) {
+    $configDirRelative = $configDirFullForMap.Substring($workspaceRoot.Length).TrimStart("\", "/")
+}
+
+if ([string]::IsNullOrWhiteSpace($DatabaseId)) {
+    $mappedDatabaseId = $extensionDatabaseMap[$configDirRelative]
+    if (-not $mappedDatabaseId) {
+        $mappedDatabaseId = $extensionDatabaseMap[($configDirRelative -replace "\\", "/")]
+    }
+    if (-not $mappedDatabaseId) {
+        $mappedDatabaseId = $extensionDatabaseMap[($configDirRelative -replace "/", "\")]
+    }
+
+    $DatabaseId = if ($mappedDatabaseId) { $mappedDatabaseId } else { "uh-lm" }
+    Write-Host "База сборки по каталогу расширения: $DatabaseId" -ForegroundColor DarkGray
 }
 
 $configurationXml = Join-Path $ConfigDir "Configuration.xml"
@@ -1060,7 +1090,8 @@ if (-not $SkipVersionUpdate) {
     if ($oldVersion -ne $version) {
         $utf8Bom = New-Object System.Text.UTF8Encoding $true
         $content = [System.IO.File]::ReadAllText($configurationXml, $utf8Bom)
-        $versionTagPattern = "<Version>[^<]*</Version>"
+        # Поддержка и <Version>текст</Version>, и пустого <Version/> после выгрузки из конфигуратора
+        $versionTagPattern = "<Version(?:\s*/>|[^<]*</Version>)"
         $newContent = [regex]::Replace($content, $versionTagPattern, "<Version>$version</Version>", 1)
 
         if ($newContent -eq $content) {

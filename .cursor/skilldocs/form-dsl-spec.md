@@ -455,7 +455,7 @@ Pages поддерживает `pagesRepresentation`: `None`, `TabsOnTop`, `Tabs
 
 ### Namespace
 
-Все 17 namespace-деклараций добавляются автоматически (version="2.17").
+Все 17 namespace-деклараций добавляются автоматически (version="2.20").
 
 ### Кодировка
 

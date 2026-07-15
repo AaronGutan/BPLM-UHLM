@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="4c2f9e68-c12a-4b0f-9631-6839a99b6918">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПодготовкаКПередачеОС" category="Object">
+				<xr:TypeId>d130bd27-b7ba-4298-9a38-6907fccd736c</xr:TypeId>
+				<xr:ValueId>9743b1ea-406c-40f9-9ce5-fc93d046c665</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПодготовкаКПередачеОС" category="Ref">
+				<xr:TypeId>7d4d5d26-c9d0-4e79-9b00-4af0a8a9cfc6</xr:TypeId>
+				<xr:ValueId>69822ead-2cc5-434d-bddc-5b9bb39eb936</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПодготовкаКПередачеОС" category="Selection">
+				<xr:TypeId>351b75cd-414e-4eba-bc31-cde941fe8f53</xr:TypeId>
+				<xr:ValueId>816c3728-dee8-42a1-87a0-4a1c9c97acca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПодготовкаКПередачеОС" category="List">
+				<xr:TypeId>a5bca3f1-90cd-4c8b-a19d-5ea58b34c317</xr:TypeId>
+				<xr:ValueId>c775104a-57b3-458e-9a76-2df5548a5b56</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПодготовкаКПередачеОС" category="Manager">
+				<xr:TypeId>6aa09d52-bc3f-4500-b9f5-cbc93dfc7f8c</xr:TypeId>
+				<xr:ValueId>f890f3b3-cbe3-4a23-9afa-9a177e1c076a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПодготовкаКПередачеОС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>386ef0f2-3498-4dda-af3a-c105272d9734</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

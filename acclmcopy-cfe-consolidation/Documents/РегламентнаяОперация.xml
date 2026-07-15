@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="2fef3d38-18c2-4a37-8c3c-a3ae618bb7b6">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РегламентнаяОперация" category="Object">
+				<xr:TypeId>14ad143c-5add-492a-a2fa-69d18858c010</xr:TypeId>
+				<xr:ValueId>d03e458a-fb78-4428-95cd-e2198cb8e5bd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РегламентнаяОперация" category="Ref">
+				<xr:TypeId>de41f393-7b45-482f-9510-a62776526ff9</xr:TypeId>
+				<xr:ValueId>a3b6fe8a-455a-4afe-93a3-6e4ff266ffec</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РегламентнаяОперация" category="Selection">
+				<xr:TypeId>736cbec3-3003-4f22-8d0f-577b534af324</xr:TypeId>
+				<xr:ValueId>be195255-9e80-401f-af82-aa22ca3c9dae</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РегламентнаяОперация" category="List">
+				<xr:TypeId>af88c8fb-424d-4666-bdb6-5b069ddd4430</xr:TypeId>
+				<xr:ValueId>18fe2116-a89d-4d46-8ba6-d0ddaa2503df</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РегламентнаяОперация" category="Manager">
+				<xr:TypeId>0892a593-0241-4128-8800-98cf96fe787d</xr:TypeId>
+				<xr:ValueId>e9bd2f35-5326-4b1c-a90f-31421bac3285</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РегламентнаяОперация</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>a80e63a0-368f-446d-bf11-5f30e99d5dd6</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

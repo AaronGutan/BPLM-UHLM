@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="71f1069e-8962-4f05-95fd-be2ce2e1783c">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РезервыПоОплатеТруда" category="Object">
+				<xr:TypeId>14289fc7-754d-4b8f-bbac-13b5c2cd66b1</xr:TypeId>
+				<xr:ValueId>5dcaad70-9cee-4168-bcfb-fc6f89533a93</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РезервыПоОплатеТруда" category="Ref">
+				<xr:TypeId>ab17839c-5786-40e4-a5b5-db3ed7bf0634</xr:TypeId>
+				<xr:ValueId>f6f9b8c6-ea45-46c8-b671-ccf05376357c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РезервыПоОплатеТруда" category="Selection">
+				<xr:TypeId>cfe9d3ae-dde9-478d-a65d-790cae22f282</xr:TypeId>
+				<xr:ValueId>51266535-ea46-4ab4-bff1-5db2483f462e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РезервыПоОплатеТруда" category="List">
+				<xr:TypeId>829a0c34-56fc-4fee-9b25-4e2e9087964d</xr:TypeId>
+				<xr:ValueId>f97f5d6b-7941-4920-8f4b-9163c4b70df6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РезервыПоОплатеТруда" category="Manager">
+				<xr:TypeId>47c53cd1-fe61-4012-84ea-21e4033a0bb7</xr:TypeId>
+				<xr:ValueId>d8358df6-6451-486e-a13a-fd82076c916e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РезервыПоОплатеТруда</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>57b6cf4e-6baf-485a-9dfa-5125f8e62383</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

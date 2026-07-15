@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="79e5fd26-4140-4307-ba4b-36329037f778">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.КорректировкаПоступления" category="Object">
+				<xr:TypeId>a89829b8-1e4b-49fe-a0cf-913d70670f6e</xr:TypeId>
+				<xr:ValueId>e6937c98-bbd2-43b0-bf13-fdcab21aef2e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.КорректировкаПоступления" category="Ref">
+				<xr:TypeId>abd2c67e-a916-4880-a364-73c39f8ce063</xr:TypeId>
+				<xr:ValueId>32b08904-c9c5-4f3b-905f-0aafe46b718d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.КорректировкаПоступления" category="Selection">
+				<xr:TypeId>ebf4079b-46dd-47d4-850e-0ed712313e3b</xr:TypeId>
+				<xr:ValueId>8e9b71c3-207d-47d5-a0ab-fd9769671148</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.КорректировкаПоступления" category="List">
+				<xr:TypeId>c6a1100e-640e-4f4c-adfd-a8355a889412</xr:TypeId>
+				<xr:ValueId>d8f83288-0e0f-4c8c-9047-a57a051974c2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.КорректировкаПоступления" category="Manager">
+				<xr:TypeId>74e4a32a-a544-4e31-8b6f-774592b91f8f</xr:TypeId>
+				<xr:ValueId>416f4eb9-5052-443a-8c2c-ce83daea0966</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КорректировкаПоступления</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>2cd28e00-eb8f-4f1e-b8a1-d62ff403f095</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

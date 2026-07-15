@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="3ffcbd52-7ba4-4aa6-981f-140af0843b7b">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ВыкупПредметовЛизинга" category="Object">
+				<xr:TypeId>edd8d6d3-a2ba-4ccb-9c22-85a3288f6615</xr:TypeId>
+				<xr:ValueId>b023ee99-fa59-49d9-9853-556c6c6e71d9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ВыкупПредметовЛизинга" category="Ref">
+				<xr:TypeId>36eef14c-20ff-4488-b195-86170e4c1214</xr:TypeId>
+				<xr:ValueId>4e4775fb-6c98-485f-989d-8504b08d1c89</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ВыкупПредметовЛизинга" category="Selection">
+				<xr:TypeId>636084f4-5c44-4446-b9f1-a3ec8921b2b0</xr:TypeId>
+				<xr:ValueId>9510e3b7-3150-46ae-b9c9-cd83667b08d3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ВыкупПредметовЛизинга" category="List">
+				<xr:TypeId>b82df99b-5a80-43bf-ad77-1369d23547b9</xr:TypeId>
+				<xr:ValueId>7a3023cd-ac4f-405b-a9d6-d36d8f6f1474</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ВыкупПредметовЛизинга" category="Manager">
+				<xr:TypeId>644fa2f9-e299-40df-9bf4-ee8378c62815</xr:TypeId>
+				<xr:ValueId>f11011e1-d414-4605-ac0e-2655e56aac96</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВыкупПредметовЛизинга</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>37bb4c65-6d99-400b-a24f-bfd424f40b40</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

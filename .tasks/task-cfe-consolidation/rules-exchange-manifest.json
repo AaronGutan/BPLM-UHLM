@@ -1,0 +1,2064 @@
+{
+    "sourceRules":  "e:\\1C\\AY\\BPLM-UHLM-XML\\BPLM-UHLM_light.xml",
+    "configPath":  "e:\\1C\\AY\\BPLM-UHLM-XML\\acclmcopy",
+    "generatedAt":  "2026-07-13T17:52:11",
+    "includeDisabledPvd":  true,
+    "note":  "All Document/Catalog from PVD including Отключить=true groups (needed for exchange plan composition)",
+    "totalInRules":  146,
+    "catalogsCount":  34,
+    "documentsCount":  112,
+    "missingCount":  0,
+    "missing":  [
+
+                ],
+    "catalogs":  [
+                     {
+                         "type":  "Catalog",
+                         "name":  "Банки",
+                         "metadata":  "Catalog.Банки",
+                         "odataName":  "Catalog_Банки",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "БанковскиеСчета",
+                         "metadata":  "Catalog.БанковскиеСчета",
+                         "odataName":  "Catalog_БанковскиеСчета",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "Валюты",
+                         "metadata":  "Catalog.Валюты",
+                         "odataName":  "Catalog_Валюты",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ВидыДокументовФизическихЛиц",
+                         "metadata":  "Catalog.ВидыДокументовФизическихЛиц",
+                         "odataName":  "Catalog_ВидыДокументовФизическихЛиц",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ВидыКонтактнойИнформации",
+                         "metadata":  "Catalog.ВидыКонтактнойИнформации",
+                         "odataName":  "Catalog_ВидыКонтактнойИнформации",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ВидыНалоговИПлатежейВБюджет",
+                         "metadata":  "Catalog.ВидыНалоговИПлатежейВБюджет",
+                         "odataName":  "Catalog_ВидыНалоговИПлатежейВБюджет",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ВидыНоменклатуры",
+                         "metadata":  "Catalog.ВидыНоменклатуры",
+                         "odataName":  "Catalog_ВидыНоменклатуры",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ВидыРемонтовОС",
+                         "metadata":  "Catalog.ВидыРемонтовОС",
+                         "odataName":  "Catalog_ВидыРемонтовОС",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ДенежныеДокументы",
+                         "metadata":  "Catalog.ДенежныеДокументы",
+                         "odataName":  "Catalog_ДенежныеДокументы",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ДоговорыКонтрагентов",
+                         "metadata":  "Catalog.ДоговорыКонтрагентов",
+                         "odataName":  "Catalog_ДоговорыКонтрагентов",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ДоходыБудущихПериодов",
+                         "metadata":  "Catalog.ДоходыБудущихПериодов",
+                         "odataName":  "Catalog_ДоходыБудущихПериодов",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "КлассификаторЕдиницИзмерения",
+                         "metadata":  "Catalog.КлассификаторЕдиницИзмерения",
+                         "odataName":  "Catalog_КлассификаторЕдиницИзмерения",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "Контрагенты",
+                         "metadata":  "Catalog.Контрагенты",
+                         "odataName":  "Catalog_Контрагенты",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "НаправленияИспользованияПрибыли",
+                         "metadata":  "Catalog.НаправленияИспользованияПрибыли",
+                         "odataName":  "Catalog_НаправленияИспользованияПрибыли",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "НематериальныеАктивы",
+                         "metadata":  "Catalog.НематериальныеАктивы",
+                         "odataName":  "Catalog_НематериальныеАктивы",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "Номенклатура",
+                         "metadata":  "Catalog.Номенклатура",
+                         "odataName":  "Catalog_Номенклатура",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "НоменклатурныеГруппы",
+                         "metadata":  "Catalog.НоменклатурныеГруппы",
+                         "odataName":  "Catalog_НоменклатурныеГруппы",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "НомераГТД",
+                         "metadata":  "Catalog.НомераГТД",
+                         "odataName":  "Catalog_НомераГТД",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ОбъектыСтроительства",
+                         "metadata":  "Catalog.ОбъектыСтроительства",
+                         "odataName":  "Catalog_ОбъектыСтроительства",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "Организации",
+                         "metadata":  "Catalog.Организации",
+                         "odataName":  "Catalog_Организации",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ОсновныеСредства",
+                         "metadata":  "Catalog.ОсновныеСредства",
+                         "odataName":  "Catalog_ОсновныеСредства",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ПодразделенияОрганизаций",
+                         "metadata":  "Catalog.ПодразделенияОрганизаций",
+                         "odataName":  "Catalog_ПодразделенияОрганизаций",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "Пользователи",
+                         "metadata":  "Catalog.Пользователи",
+                         "odataName":  "Catalog_Пользователи",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ПрочиеДоходыИРасходы",
+                         "metadata":  "Catalog.ПрочиеДоходыИРасходы",
+                         "odataName":  "Catalog_ПрочиеДоходыИРасходы",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "РасходыБудущихПериодов",
+                         "metadata":  "Catalog.РасходыБудущихПериодов",
+                         "odataName":  "Catalog_РасходыБудущихПериодов",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "РегистрацииВНалоговомОргане",
+                         "metadata":  "Catalog.РегистрацииВНалоговомОргане",
+                         "odataName":  "Catalog_РегистрацииВНалоговомОргане",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "Склады",
+                         "metadata":  "Catalog.Склады",
+                         "odataName":  "Catalog_Склады",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "СтатьиДвиженияДенежныхСредств",
+                         "metadata":  "Catalog.СтатьиДвиженияДенежныхСредств",
+                         "odataName":  "Catalog_СтатьиДвиженияДенежныхСредств",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "СтатьиЗатрат",
+                         "metadata":  "Catalog.СтатьиЗатрат",
+                         "odataName":  "Catalog_СтатьиЗатрат",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "СтраныМира",
+                         "metadata":  "Catalog.СтраныМира",
+                         "odataName":  "Catalog_СтраныМира",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "Субконто",
+                         "metadata":  "Catalog.Субконто",
+                         "odataName":  "Catalog_Субконто",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ТранспортныеСредства",
+                         "metadata":  "Catalog.ТранспортныеСредства",
+                         "odataName":  "Catalog_ТранспортныеСредства",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ФизическиеЛица",
+                         "metadata":  "Catalog.ФизическиеЛица",
+                         "odataName":  "Catalog_ФизическиеЛица",
+                         "existsInConfig":  true
+                     },
+                     {
+                         "type":  "Catalog",
+                         "name":  "ЦенныеБумаги",
+                         "metadata":  "Catalog.ЦенныеБумаги",
+                         "odataName":  "Catalog_ЦенныеБумаги",
+                         "existsInConfig":  true
+                     }
+                 ],
+    "documents":  [
+                      {
+                          "type":  "Document",
+                          "name":  "АвансовыйОтчет",
+                          "metadata":  "Document.АвансовыйОтчет",
+                          "odataName":  "Document_АвансовыйОтчет",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "АвизоМПЗВходящее",
+                          "metadata":  "Document.АвизоМПЗВходящее",
+                          "odataName":  "Document_АвизоМПЗВходящее",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "АвизоМПЗИсходящее",
+                          "metadata":  "Document.АвизоМПЗИсходящее",
+                          "odataName":  "Document_АвизоМПЗИсходящее",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "АвизоОСВходящее",
+                          "metadata":  "Document.АвизоОСВходящее",
+                          "odataName":  "Document_АвизоОСВходящее",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "АвизоОСИсходящее",
+                          "metadata":  "Document.АвизоОСИсходящее",
+                          "odataName":  "Document_АвизоОСИсходящее",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "АвизоПрочееВходящее",
+                          "metadata":  "Document.АвизоПрочееВходящее",
+                          "odataName":  "Document_АвизоПрочееВходящее",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "АвизоПрочееИсходящее",
+                          "metadata":  "Document.АвизоПрочееИсходящее",
+                          "odataName":  "Document_АвизоПрочееИсходящее",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "АвизоРасчетыВходящее",
+                          "metadata":  "Document.АвизоРасчетыВходящее",
+                          "odataName":  "Document_АвизоРасчетыВходящее",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "АвизоРасчетыИсходящее",
+                          "metadata":  "Document.АвизоРасчетыИсходящее",
+                          "odataName":  "Document_АвизоРасчетыИсходящее",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "АктОбОказанииПроизводственныхУслуг",
+                          "metadata":  "Document.АктОбОказанииПроизводственныхУслуг",
+                          "odataName":  "Document_АктОбОказанииПроизводственныхУслуг",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "АктПроверкиСтраховыхВзносов",
+                          "metadata":  "Document.АктПроверкиСтраховыхВзносов",
+                          "odataName":  "Document_АктПроверкиСтраховыхВзносов",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "БольничныйЛист",
+                          "metadata":  "Document.БольничныйЛист",
+                          "odataName":  "Document_БольничныйЛист",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ВводНачальныхОстатков",
+                          "metadata":  "Document.ВводНачальныхОстатков",
+                          "odataName":  "Document_ВводНачальныхОстатков",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ВозвратМатериаловИзЭксплуатации",
+                          "metadata":  "Document.ВозвратМатериаловИзЭксплуатации",
+                          "odataName":  "Document_ВозвратМатериаловИзЭксплуатации",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ВозвратОСОтАрендатора",
+                          "metadata":  "Document.ВозвратОСОтАрендатора",
+                          "odataName":  "Document_ВозвратОСОтАрендатора",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ВозвратТоваровОтПокупателя",
+                          "metadata":  "Document.ВозвратТоваровОтПокупателя",
+                          "odataName":  "Document_ВозвратТоваровОтПокупателя",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ВозвратТоваровПоставщику",
+                          "metadata":  "Document.ВозвратТоваровПоставщику",
+                          "odataName":  "Document_ВозвратТоваровПоставщику",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ВосстановлениеНДС",
+                          "metadata":  "Document.ВосстановлениеНДС",
+                          "odataName":  "Document_ВосстановлениеНДС",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ВосстановлениеНДСПоОбъектамНедвижимости",
+                          "metadata":  "Document.ВосстановлениеНДСПоОбъектамНедвижимости",
+                          "odataName":  "Document_ВосстановлениеНДСПоОбъектамНедвижимости",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ВыдачаДенежныхДокументов",
+                          "metadata":  "Document.ВыдачаДенежныхДокументов",
+                          "odataName":  "Document_ВыдачаДенежныхДокументов",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ВыкупПредметовЛизинга",
+                          "metadata":  "Document.ВыкупПредметовЛизинга",
+                          "odataName":  "Document_ВыкупПредметовЛизинга",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ВыплатыСамозанятым",
+                          "metadata":  "Document.ВыплатыСамозанятым",
+                          "odataName":  "Document_ВыплатыСамозанятым",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ГТДИмпорт",
+                          "metadata":  "Document.ГТДИмпорт",
+                          "odataName":  "Document_ГТДИмпорт",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ДепонированиеЗарплаты",
+                          "metadata":  "Document.ДепонированиеЗарплаты",
+                          "odataName":  "Document_ДепонированиеЗарплаты",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ЗавершениеРемонтаОС",
+                          "metadata":  "Document.ЗавершениеРемонтаОС",
+                          "odataName":  "Document_ЗавершениеРемонтаОС",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ЗаявлениеОВвозеТоваров",
+                          "metadata":  "Document.ЗаявлениеОВвозеТоваров",
+                          "odataName":  "Document_ЗаявлениеОВвозеТоваров",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ЗаявлениеОЗачетеВСчетПредстоящейОбязанности",
+                          "metadata":  "Document.ЗаявлениеОЗачетеВСчетПредстоящейОбязанности",
+                          "odataName":  "Document_ЗаявлениеОЗачетеВСчетПредстоящейОбязанности",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ИзменениеУсловийАренды",
+                          "metadata":  "Document.ИзменениеУсловийАренды",
+                          "odataName":  "Document_ИзменениеУсловийАренды",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "КомплектацияНоменклатуры",
+                          "metadata":  "Document.КомплектацияНоменклатуры",
+                          "odataName":  "Document_КомплектацияНоменклатуры",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "КорректировкаДолга",
+                          "metadata":  "Document.КорректировкаДолга",
+                          "odataName":  "Document_КорректировкаДолга",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "КорректировкаЕНС",
+                          "metadata":  "Document.КорректировкаЕНС",
+                          "odataName":  "Document_КорректировкаЕНС",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "КорректировкаПоступления",
+                          "metadata":  "Document.КорректировкаПоступления",
+                          "odataName":  "Document_КорректировкаПоступления",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "КорректировкаРеализации",
+                          "metadata":  "Document.КорректировкаРеализации",
+                          "odataName":  "Document_КорректировкаРеализации",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "МодернизацияОС",
+                          "metadata":  "Document.МодернизацияОС",
+                          "odataName":  "Document_МодернизацияОС",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "НачислениеДивидендов",
+                          "metadata":  "Document.НачислениеДивидендов",
+                          "odataName":  "Document_НачислениеДивидендов",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "НачислениеЗарплаты",
+                          "metadata":  "Document.НачислениеЗарплаты",
+                          "odataName":  "Document_НачислениеЗарплаты",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "НачислениеНДСпоСМРхозспособом",
+                          "metadata":  "Document.НачислениеНДСпоСМРхозспособом",
+                          "odataName":  "Document_НачислениеНДСпоСМРхозспособом",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "НачислениеОценочныхОбязательствПоОтпускам",
+                          "metadata":  "Document.НачислениеОценочныхОбязательствПоОтпускам",
+                          "odataName":  "Document_НачислениеОценочныхОбязательствПоОтпускам",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "НачислениеПеней",
+                          "metadata":  "Document.НачислениеПеней",
+                          "odataName":  "Document_НачислениеПеней",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОказаниеУслуг",
+                          "metadata":  "Document.ОказаниеУслуг",
+                          "odataName":  "Document_ОказаниеУслуг",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОперацияБух",
+                          "metadata":  "Document.ОперацияБух",
+                          "odataName":  "Document_ОперацияБух",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОперацияНалоговогоУчетаПоНДФЛ",
+                          "metadata":  "Document.ОперацияНалоговогоУчетаПоНДФЛ",
+                          "odataName":  "Document_ОперацияНалоговогоУчетаПоНДФЛ",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОперацияПоЕдиномуНалоговомуСчету",
+                          "metadata":  "Document.ОперацияПоЕдиномуНалоговомуСчету",
+                          "odataName":  "Document_ОперацияПоЕдиномуНалоговомуСчету",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОперацияСБилетом",
+                          "metadata":  "Document.ОперацияСБилетом",
+                          "odataName":  "Document_ОперацияСБилетом",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОперацияСПатентом",
+                          "metadata":  "Document.ОперацияСПатентом",
+                          "odataName":  "Document_ОперацияСПатентом",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОплатаПлатежнойКартой",
+                          "metadata":  "Document.ОплатаПлатежнойКартой",
+                          "odataName":  "Document_ОплатаПлатежнойКартой",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОприходованиеТоваров",
+                          "metadata":  "Document.ОприходованиеТоваров",
+                          "odataName":  "Document_ОприходованиеТоваров",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "Отпуск",
+                          "metadata":  "Document.Отпуск",
+                          "odataName":  "Document_Отпуск",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОтражениеЗарплатыВБухучете",
+                          "metadata":  "Document.ОтражениеЗарплатыВБухучете",
+                          "odataName":  "Document_ОтражениеЗарплатыВБухучете",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОтражениеЗарплатыВУчете",
+                          "metadata":  "Document.ОтражениеЗарплатыВУчете",
+                          "odataName":  "Document_ОтражениеЗарплатыВУчете",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОтражениеНачисленияНДС",
+                          "metadata":  "Document.ОтражениеНачисленияНДС",
+                          "odataName":  "Document_ОтражениеНачисленияНДС",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОтражениеНДСКВычету",
+                          "metadata":  "Document.ОтражениеНДСКВычету",
+                          "odataName":  "Document_ОтражениеНДСКВычету",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОтчетКомиссионераОПродажах",
+                          "metadata":  "Document.ОтчетКомиссионераОПродажах",
+                          "odataName":  "Document_ОтчетКомиссионераОПродажах",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОтчетКомитентуОПродажах",
+                          "metadata":  "Document.ОтчетКомитентуОПродажах",
+                          "odataName":  "Document_ОтчетКомитентуОПродажах",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОтчетОператораСистемыПлатон",
+                          "metadata":  "Document.ОтчетОператораСистемыПлатон",
+                          "odataName":  "Document_ОтчетОператораСистемыПлатон",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОтчетОРозничныхПродажах",
+                          "metadata":  "Document.ОтчетОРозничныхПродажах",
+                          "odataName":  "Document_ОтчетОРозничныхПродажах",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ОтчетПроизводстваЗаСмену",
+                          "metadata":  "Document.ОтчетПроизводстваЗаСмену",
+                          "odataName":  "Document_ОтчетПроизводстваЗаСмену",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПереводОСВМалоценноеОборудование",
+                          "metadata":  "Document.ПереводОСВМалоценноеОборудование",
+                          "odataName":  "Document_ПереводОСВМалоценноеОборудование",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПередачаЗадолженностиНаФакторинг",
+                          "metadata":  "Document.ПередачаЗадолженностиНаФакторинг",
+                          "odataName":  "Document_ПередачаЗадолженностиНаФакторинг",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПередачаМатериаловВЭксплуатацию",
+                          "metadata":  "Document.ПередачаМатериаловВЭксплуатацию",
+                          "odataName":  "Document_ПередачаМатериаловВЭксплуатацию",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПередачаНМА",
+                          "metadata":  "Document.ПередачаНМА",
+                          "odataName":  "Document_ПередачаНМА",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПередачаОборудованияВМонтаж",
+                          "metadata":  "Document.ПередачаОборудованияВМонтаж",
+                          "odataName":  "Document_ПередачаОборудованияВМонтаж",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПередачаОС",
+                          "metadata":  "Document.ПередачаОС",
+                          "odataName":  "Document_ПередачаОС",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПередачаОСВАренду",
+                          "metadata":  "Document.ПередачаОСВАренду",
+                          "odataName":  "Document_ПередачаОСВАренду",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПередачаТоваров",
+                          "metadata":  "Document.ПередачаТоваров",
+                          "odataName":  "Document_ПередачаТоваров",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПеремещениеОС",
+                          "metadata":  "Document.ПеремещениеОС",
+                          "odataName":  "Document_ПеремещениеОС",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПеремещениеТоваров",
+                          "metadata":  "Document.ПеремещениеТоваров",
+                          "odataName":  "Document_ПеремещениеТоваров",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПереоценкаТоваровВРознице",
+                          "metadata":  "Document.ПереоценкаТоваровВРознице",
+                          "odataName":  "Document_ПереоценкаТоваровВРознице",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПерерасчетНДФЛ",
+                          "metadata":  "Document.ПерерасчетНДФЛ",
+                          "odataName":  "Document_ПерерасчетНДФЛ",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПерерасчетСтраховыхВзносов",
+                          "metadata":  "Document.ПерерасчетСтраховыхВзносов",
+                          "odataName":  "Document_ПерерасчетСтраховыхВзносов",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПодготовкаКПередачеОС",
+                          "metadata":  "Document.ПодготовкаКПередачеОС",
+                          "odataName":  "Document_ПодготовкаКПередачеОС",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПодтверждениеНулевойСтавкиНДС",
+                          "metadata":  "Document.ПодтверждениеНулевойСтавкиНДС",
+                          "odataName":  "Document_ПодтверждениеНулевойСтавкиНДС",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПоступлениеВАренду",
+                          "metadata":  "Document.ПоступлениеВАренду",
+                          "odataName":  "Document_ПоступлениеВАренду",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПоступлениеДенежныхДокументов",
+                          "metadata":  "Document.ПоступлениеДенежныхДокументов",
+                          "odataName":  "Document_ПоступлениеДенежныхДокументов",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПоступлениеДопРасходов",
+                          "metadata":  "Document.ПоступлениеДопРасходов",
+                          "odataName":  "Document_ПоступлениеДопРасходов",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПоступлениеИзПереработки",
+                          "metadata":  "Document.ПоступлениеИзПереработки",
+                          "odataName":  "Document_ПоступлениеИзПереработки",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПоступлениеНаРасчетныйСчет",
+                          "metadata":  "Document.ПоступлениеНаРасчетныйСчет",
+                          "odataName":  "Document_ПоступлениеНаРасчетныйСчет",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПоступлениеНМА",
+                          "metadata":  "Document.ПоступлениеНМА",
+                          "odataName":  "Document_ПоступлениеНМА",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПоступлениеТоваровУслуг",
+                          "metadata":  "Document.ПоступлениеТоваровУслуг",
+                          "odataName":  "Document_ПоступлениеТоваровУслуг",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПрекращениеАренды",
+                          "metadata":  "Document.ПрекращениеАренды",
+                          "odataName":  "Document_ПрекращениеАренды",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПринятиеКУчетуНМА",
+                          "metadata":  "Document.ПринятиеКУчетуНМА",
+                          "odataName":  "Document_ПринятиеКУчетуНМА",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПринятиеКУчетуОС",
+                          "metadata":  "Document.ПринятиеКУчетуОС",
+                          "odataName":  "Document_ПринятиеКУчетуОС",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПриходныйКассовыйОрдер",
+                          "metadata":  "Document.ПриходныйКассовыйОрдер",
+                          "odataName":  "Document_ПриходныйКассовыйОрдер",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ПутевойЛист",
+                          "metadata":  "Document.ПутевойЛист",
+                          "odataName":  "Document_ПутевойЛист",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "РаспределениеНДС",
+                          "metadata":  "Document.РаспределениеНДС",
+                          "odataName":  "Document_РаспределениеНДС",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "РасходныйКассовыйОрдер",
+                          "metadata":  "Document.РасходныйКассовыйОрдер",
+                          "odataName":  "Document_РасходныйКассовыйОрдер",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "РасходыПредпринимателя",
+                          "metadata":  "Document.РасходыПредпринимателя",
+                          "odataName":  "Document_РасходыПредпринимателя",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "РеализацияОтгруженныхТоваров",
+                          "metadata":  "Document.РеализацияОтгруженныхТоваров",
+                          "odataName":  "Document_РеализацияОтгруженныхТоваров",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "РеализацияТоваровУслуг",
+                          "metadata":  "Document.РеализацияТоваровУслуг",
+                          "odataName":  "Document_РеализацияТоваровУслуг",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "РеализацияУслугПоПереработке",
+                          "metadata":  "Document.РеализацияУслугПоПереработке",
+                          "odataName":  "Document_РеализацияУслугПоПереработке",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "РегламентнаяОперация",
+                          "metadata":  "Document.РегламентнаяОперация",
+                          "odataName":  "Document_РегламентнаяОперация",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "РезервыПоОплатеТруда",
+                          "metadata":  "Document.РезервыПоОплатеТруда",
+                          "odataName":  "Document_РезервыПоОплатеТруда",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "СведенияОбУдержанномНДФЛ",
+                          "metadata":  "Document.СведенияОбУдержанномНДФЛ",
+                          "odataName":  "Document_СведенияОбУдержанномНДФЛ",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "СписаниеДепонированнойЗарплаты",
+                          "metadata":  "Document.СписаниеДепонированнойЗарплаты",
+                          "odataName":  "Document_СписаниеДепонированнойЗарплаты",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "СписаниеМатериаловИзЭксплуатации",
+                          "metadata":  "Document.СписаниеМатериаловИзЭксплуатации",
+                          "odataName":  "Document_СписаниеМатериаловИзЭксплуатации",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "СписаниеНДС",
+                          "metadata":  "Document.СписаниеНДС",
+                          "odataName":  "Document_СписаниеНДС",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "СписаниеНМА",
+                          "metadata":  "Document.СписаниеНМА",
+                          "odataName":  "Document_СписаниеНМА",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "СписаниеОС",
+                          "metadata":  "Document.СписаниеОС",
+                          "odataName":  "Document_СписаниеОС",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "СписаниеСРасчетногоСчета",
+                          "metadata":  "Document.СписаниеСРасчетногоСчета",
+                          "odataName":  "Document_СписаниеСРасчетногоСчета",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "СписаниеТоваров",
+                          "metadata":  "Document.СписаниеТоваров",
+                          "odataName":  "Document_СписаниеТоваров",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "СправкиНДФЛДляПередачиВНалоговыйОрган",
+                          "metadata":  "Document.СправкиНДФЛДляПередачиВНалоговыйОрган",
+                          "odataName":  "Document_СправкиНДФЛДляПередачиВНалоговыйОрган",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "СчетФактураВыданный",
+                          "metadata":  "Document.СчетФактураВыданный",
+                          "odataName":  "Document_СчетФактураВыданный",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "СчетФактураПолученный",
+                          "metadata":  "Document.СчетФактураПолученный",
+                          "odataName":  "Document_СчетФактураПолученный",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ТребованиеНакладная",
+                          "metadata":  "Document.ТребованиеНакладная",
+                          "odataName":  "Document_ТребованиеНакладная",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "УведомлениеОбИсчисленныхСуммахНалогов",
+                          "metadata":  "Document.УведомлениеОбИсчисленныхСуммахНалогов",
+                          "odataName":  "Document_УведомлениеОбИсчисленныхСуммахНалогов",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "УведомлениеОбОстаткахПрослеживаемыхТоваров",
+                          "metadata":  "Document.УведомлениеОбОстаткахПрослеживаемыхТоваров",
+                          "odataName":  "Document_УведомлениеОбОстаткахПрослеживаемыхТоваров",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "УведомлениеОбУменьшенииНалогаПоПатенту",
+                          "metadata":  "Document.УведомлениеОбУменьшенииНалогаПоПатенту",
+                          "odataName":  "Document_УведомлениеОбУменьшенииНалогаПоПатенту",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "Увольнение",
+                          "metadata":  "Document.Увольнение",
+                          "odataName":  "Document_Увольнение",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "УсловияОплатыПоступления",
+                          "metadata":  "Document.УсловияОплатыПоступления",
+                          "odataName":  "Document_УсловияОплатыПоступления",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ФормированиеЗаписейКнигиПокупок",
+                          "metadata":  "Document.ФормированиеЗаписейКнигиПокупок",
+                          "odataName":  "Document_ФормированиеЗаписейКнигиПокупок",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ФормированиеЗаписейКнигиПродаж",
+                          "metadata":  "Document.ФормированиеЗаписейКнигиПродаж",
+                          "odataName":  "Document_ФормированиеЗаписейКнигиПродаж",
+                          "existsInConfig":  true
+                      },
+                      {
+                          "type":  "Document",
+                          "name":  "ФормированиеУставногоКапитала",
+                          "metadata":  "Document.ФормированиеУставногоКапитала",
+                          "odataName":  "Document_ФормированиеУставногоКапитала",
+                          "existsInConfig":  true
+                      }
+                  ],
+    "objects":  [
+                    {
+                        "type":  "Catalog",
+                        "name":  "Банки",
+                        "metadata":  "Catalog.Банки",
+                        "odataName":  "Catalog_Банки",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "БанковскиеСчета",
+                        "metadata":  "Catalog.БанковскиеСчета",
+                        "odataName":  "Catalog_БанковскиеСчета",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "Валюты",
+                        "metadata":  "Catalog.Валюты",
+                        "odataName":  "Catalog_Валюты",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ВидыДокументовФизическихЛиц",
+                        "metadata":  "Catalog.ВидыДокументовФизическихЛиц",
+                        "odataName":  "Catalog_ВидыДокументовФизическихЛиц",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ВидыКонтактнойИнформации",
+                        "metadata":  "Catalog.ВидыКонтактнойИнформации",
+                        "odataName":  "Catalog_ВидыКонтактнойИнформации",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ВидыНалоговИПлатежейВБюджет",
+                        "metadata":  "Catalog.ВидыНалоговИПлатежейВБюджет",
+                        "odataName":  "Catalog_ВидыНалоговИПлатежейВБюджет",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ВидыНоменклатуры",
+                        "metadata":  "Catalog.ВидыНоменклатуры",
+                        "odataName":  "Catalog_ВидыНоменклатуры",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ВидыРемонтовОС",
+                        "metadata":  "Catalog.ВидыРемонтовОС",
+                        "odataName":  "Catalog_ВидыРемонтовОС",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ДенежныеДокументы",
+                        "metadata":  "Catalog.ДенежныеДокументы",
+                        "odataName":  "Catalog_ДенежныеДокументы",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ДоговорыКонтрагентов",
+                        "metadata":  "Catalog.ДоговорыКонтрагентов",
+                        "odataName":  "Catalog_ДоговорыКонтрагентов",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ДоходыБудущихПериодов",
+                        "metadata":  "Catalog.ДоходыБудущихПериодов",
+                        "odataName":  "Catalog_ДоходыБудущихПериодов",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "КлассификаторЕдиницИзмерения",
+                        "metadata":  "Catalog.КлассификаторЕдиницИзмерения",
+                        "odataName":  "Catalog_КлассификаторЕдиницИзмерения",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "Контрагенты",
+                        "metadata":  "Catalog.Контрагенты",
+                        "odataName":  "Catalog_Контрагенты",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "НаправленияИспользованияПрибыли",
+                        "metadata":  "Catalog.НаправленияИспользованияПрибыли",
+                        "odataName":  "Catalog_НаправленияИспользованияПрибыли",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "НематериальныеАктивы",
+                        "metadata":  "Catalog.НематериальныеАктивы",
+                        "odataName":  "Catalog_НематериальныеАктивы",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "Номенклатура",
+                        "metadata":  "Catalog.Номенклатура",
+                        "odataName":  "Catalog_Номенклатура",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "НоменклатурныеГруппы",
+                        "metadata":  "Catalog.НоменклатурныеГруппы",
+                        "odataName":  "Catalog_НоменклатурныеГруппы",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "НомераГТД",
+                        "metadata":  "Catalog.НомераГТД",
+                        "odataName":  "Catalog_НомераГТД",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ОбъектыСтроительства",
+                        "metadata":  "Catalog.ОбъектыСтроительства",
+                        "odataName":  "Catalog_ОбъектыСтроительства",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "Организации",
+                        "metadata":  "Catalog.Организации",
+                        "odataName":  "Catalog_Организации",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ОсновныеСредства",
+                        "metadata":  "Catalog.ОсновныеСредства",
+                        "odataName":  "Catalog_ОсновныеСредства",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ПодразделенияОрганизаций",
+                        "metadata":  "Catalog.ПодразделенияОрганизаций",
+                        "odataName":  "Catalog_ПодразделенияОрганизаций",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "Пользователи",
+                        "metadata":  "Catalog.Пользователи",
+                        "odataName":  "Catalog_Пользователи",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ПрочиеДоходыИРасходы",
+                        "metadata":  "Catalog.ПрочиеДоходыИРасходы",
+                        "odataName":  "Catalog_ПрочиеДоходыИРасходы",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "РасходыБудущихПериодов",
+                        "metadata":  "Catalog.РасходыБудущихПериодов",
+                        "odataName":  "Catalog_РасходыБудущихПериодов",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "РегистрацииВНалоговомОргане",
+                        "metadata":  "Catalog.РегистрацииВНалоговомОргане",
+                        "odataName":  "Catalog_РегистрацииВНалоговомОргане",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "Склады",
+                        "metadata":  "Catalog.Склады",
+                        "odataName":  "Catalog_Склады",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "СтатьиДвиженияДенежныхСредств",
+                        "metadata":  "Catalog.СтатьиДвиженияДенежныхСредств",
+                        "odataName":  "Catalog_СтатьиДвиженияДенежныхСредств",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "СтатьиЗатрат",
+                        "metadata":  "Catalog.СтатьиЗатрат",
+                        "odataName":  "Catalog_СтатьиЗатрат",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "СтраныМира",
+                        "metadata":  "Catalog.СтраныМира",
+                        "odataName":  "Catalog_СтраныМира",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "Субконто",
+                        "metadata":  "Catalog.Субконто",
+                        "odataName":  "Catalog_Субконто",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ТранспортныеСредства",
+                        "metadata":  "Catalog.ТранспортныеСредства",
+                        "odataName":  "Catalog_ТранспортныеСредства",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ФизическиеЛица",
+                        "metadata":  "Catalog.ФизическиеЛица",
+                        "odataName":  "Catalog_ФизическиеЛица",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Catalog",
+                        "name":  "ЦенныеБумаги",
+                        "metadata":  "Catalog.ЦенныеБумаги",
+                        "odataName":  "Catalog_ЦенныеБумаги",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "АвансовыйОтчет",
+                        "metadata":  "Document.АвансовыйОтчет",
+                        "odataName":  "Document_АвансовыйОтчет",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "АвизоМПЗВходящее",
+                        "metadata":  "Document.АвизоМПЗВходящее",
+                        "odataName":  "Document_АвизоМПЗВходящее",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "АвизоМПЗИсходящее",
+                        "metadata":  "Document.АвизоМПЗИсходящее",
+                        "odataName":  "Document_АвизоМПЗИсходящее",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "АвизоОСВходящее",
+                        "metadata":  "Document.АвизоОСВходящее",
+                        "odataName":  "Document_АвизоОСВходящее",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "АвизоОСИсходящее",
+                        "metadata":  "Document.АвизоОСИсходящее",
+                        "odataName":  "Document_АвизоОСИсходящее",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "АвизоПрочееВходящее",
+                        "metadata":  "Document.АвизоПрочееВходящее",
+                        "odataName":  "Document_АвизоПрочееВходящее",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "АвизоПрочееИсходящее",
+                        "metadata":  "Document.АвизоПрочееИсходящее",
+                        "odataName":  "Document_АвизоПрочееИсходящее",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "АвизоРасчетыВходящее",
+                        "metadata":  "Document.АвизоРасчетыВходящее",
+                        "odataName":  "Document_АвизоРасчетыВходящее",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "АвизоРасчетыИсходящее",
+                        "metadata":  "Document.АвизоРасчетыИсходящее",
+                        "odataName":  "Document_АвизоРасчетыИсходящее",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "АктОбОказанииПроизводственныхУслуг",
+                        "metadata":  "Document.АктОбОказанииПроизводственныхУслуг",
+                        "odataName":  "Document_АктОбОказанииПроизводственныхУслуг",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "АктПроверкиСтраховыхВзносов",
+                        "metadata":  "Document.АктПроверкиСтраховыхВзносов",
+                        "odataName":  "Document_АктПроверкиСтраховыхВзносов",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "БольничныйЛист",
+                        "metadata":  "Document.БольничныйЛист",
+                        "odataName":  "Document_БольничныйЛист",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ВводНачальныхОстатков",
+                        "metadata":  "Document.ВводНачальныхОстатков",
+                        "odataName":  "Document_ВводНачальныхОстатков",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ВозвратМатериаловИзЭксплуатации",
+                        "metadata":  "Document.ВозвратМатериаловИзЭксплуатации",
+                        "odataName":  "Document_ВозвратМатериаловИзЭксплуатации",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ВозвратОСОтАрендатора",
+                        "metadata":  "Document.ВозвратОСОтАрендатора",
+                        "odataName":  "Document_ВозвратОСОтАрендатора",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ВозвратТоваровОтПокупателя",
+                        "metadata":  "Document.ВозвратТоваровОтПокупателя",
+                        "odataName":  "Document_ВозвратТоваровОтПокупателя",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ВозвратТоваровПоставщику",
+                        "metadata":  "Document.ВозвратТоваровПоставщику",
+                        "odataName":  "Document_ВозвратТоваровПоставщику",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ВосстановлениеНДС",
+                        "metadata":  "Document.ВосстановлениеНДС",
+                        "odataName":  "Document_ВосстановлениеНДС",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ВосстановлениеНДСПоОбъектамНедвижимости",
+                        "metadata":  "Document.ВосстановлениеНДСПоОбъектамНедвижимости",
+                        "odataName":  "Document_ВосстановлениеНДСПоОбъектамНедвижимости",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ВыдачаДенежныхДокументов",
+                        "metadata":  "Document.ВыдачаДенежныхДокументов",
+                        "odataName":  "Document_ВыдачаДенежныхДокументов",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ВыкупПредметовЛизинга",
+                        "metadata":  "Document.ВыкупПредметовЛизинга",
+                        "odataName":  "Document_ВыкупПредметовЛизинга",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ВыплатыСамозанятым",
+                        "metadata":  "Document.ВыплатыСамозанятым",
+                        "odataName":  "Document_ВыплатыСамозанятым",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ГТДИмпорт",
+                        "metadata":  "Document.ГТДИмпорт",
+                        "odataName":  "Document_ГТДИмпорт",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ДепонированиеЗарплаты",
+                        "metadata":  "Document.ДепонированиеЗарплаты",
+                        "odataName":  "Document_ДепонированиеЗарплаты",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ЗавершениеРемонтаОС",
+                        "metadata":  "Document.ЗавершениеРемонтаОС",
+                        "odataName":  "Document_ЗавершениеРемонтаОС",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ЗаявлениеОВвозеТоваров",
+                        "metadata":  "Document.ЗаявлениеОВвозеТоваров",
+                        "odataName":  "Document_ЗаявлениеОВвозеТоваров",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ЗаявлениеОЗачетеВСчетПредстоящейОбязанности",
+                        "metadata":  "Document.ЗаявлениеОЗачетеВСчетПредстоящейОбязанности",
+                        "odataName":  "Document_ЗаявлениеОЗачетеВСчетПредстоящейОбязанности",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ИзменениеУсловийАренды",
+                        "metadata":  "Document.ИзменениеУсловийАренды",
+                        "odataName":  "Document_ИзменениеУсловийАренды",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "КомплектацияНоменклатуры",
+                        "metadata":  "Document.КомплектацияНоменклатуры",
+                        "odataName":  "Document_КомплектацияНоменклатуры",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "КорректировкаДолга",
+                        "metadata":  "Document.КорректировкаДолга",
+                        "odataName":  "Document_КорректировкаДолга",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "КорректировкаЕНС",
+                        "metadata":  "Document.КорректировкаЕНС",
+                        "odataName":  "Document_КорректировкаЕНС",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "КорректировкаПоступления",
+                        "metadata":  "Document.КорректировкаПоступления",
+                        "odataName":  "Document_КорректировкаПоступления",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "КорректировкаРеализации",
+                        "metadata":  "Document.КорректировкаРеализации",
+                        "odataName":  "Document_КорректировкаРеализации",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "МодернизацияОС",
+                        "metadata":  "Document.МодернизацияОС",
+                        "odataName":  "Document_МодернизацияОС",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "НачислениеДивидендов",
+                        "metadata":  "Document.НачислениеДивидендов",
+                        "odataName":  "Document_НачислениеДивидендов",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "НачислениеЗарплаты",
+                        "metadata":  "Document.НачислениеЗарплаты",
+                        "odataName":  "Document_НачислениеЗарплаты",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "НачислениеНДСпоСМРхозспособом",
+                        "metadata":  "Document.НачислениеНДСпоСМРхозспособом",
+                        "odataName":  "Document_НачислениеНДСпоСМРхозспособом",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "НачислениеОценочныхОбязательствПоОтпускам",
+                        "metadata":  "Document.НачислениеОценочныхОбязательствПоОтпускам",
+                        "odataName":  "Document_НачислениеОценочныхОбязательствПоОтпускам",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "НачислениеПеней",
+                        "metadata":  "Document.НачислениеПеней",
+                        "odataName":  "Document_НачислениеПеней",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОказаниеУслуг",
+                        "metadata":  "Document.ОказаниеУслуг",
+                        "odataName":  "Document_ОказаниеУслуг",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОперацияБух",
+                        "metadata":  "Document.ОперацияБух",
+                        "odataName":  "Document_ОперацияБух",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОперацияНалоговогоУчетаПоНДФЛ",
+                        "metadata":  "Document.ОперацияНалоговогоУчетаПоНДФЛ",
+                        "odataName":  "Document_ОперацияНалоговогоУчетаПоНДФЛ",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОперацияПоЕдиномуНалоговомуСчету",
+                        "metadata":  "Document.ОперацияПоЕдиномуНалоговомуСчету",
+                        "odataName":  "Document_ОперацияПоЕдиномуНалоговомуСчету",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОперацияСБилетом",
+                        "metadata":  "Document.ОперацияСБилетом",
+                        "odataName":  "Document_ОперацияСБилетом",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОперацияСПатентом",
+                        "metadata":  "Document.ОперацияСПатентом",
+                        "odataName":  "Document_ОперацияСПатентом",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОплатаПлатежнойКартой",
+                        "metadata":  "Document.ОплатаПлатежнойКартой",
+                        "odataName":  "Document_ОплатаПлатежнойКартой",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОприходованиеТоваров",
+                        "metadata":  "Document.ОприходованиеТоваров",
+                        "odataName":  "Document_ОприходованиеТоваров",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "Отпуск",
+                        "metadata":  "Document.Отпуск",
+                        "odataName":  "Document_Отпуск",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОтражениеЗарплатыВБухучете",
+                        "metadata":  "Document.ОтражениеЗарплатыВБухучете",
+                        "odataName":  "Document_ОтражениеЗарплатыВБухучете",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОтражениеЗарплатыВУчете",
+                        "metadata":  "Document.ОтражениеЗарплатыВУчете",
+                        "odataName":  "Document_ОтражениеЗарплатыВУчете",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОтражениеНачисленияНДС",
+                        "metadata":  "Document.ОтражениеНачисленияНДС",
+                        "odataName":  "Document_ОтражениеНачисленияНДС",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОтражениеНДСКВычету",
+                        "metadata":  "Document.ОтражениеНДСКВычету",
+                        "odataName":  "Document_ОтражениеНДСКВычету",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОтчетКомиссионераОПродажах",
+                        "metadata":  "Document.ОтчетКомиссионераОПродажах",
+                        "odataName":  "Document_ОтчетКомиссионераОПродажах",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОтчетКомитентуОПродажах",
+                        "metadata":  "Document.ОтчетКомитентуОПродажах",
+                        "odataName":  "Document_ОтчетКомитентуОПродажах",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОтчетОператораСистемыПлатон",
+                        "metadata":  "Document.ОтчетОператораСистемыПлатон",
+                        "odataName":  "Document_ОтчетОператораСистемыПлатон",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОтчетОРозничныхПродажах",
+                        "metadata":  "Document.ОтчетОРозничныхПродажах",
+                        "odataName":  "Document_ОтчетОРозничныхПродажах",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ОтчетПроизводстваЗаСмену",
+                        "metadata":  "Document.ОтчетПроизводстваЗаСмену",
+                        "odataName":  "Document_ОтчетПроизводстваЗаСмену",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПереводОСВМалоценноеОборудование",
+                        "metadata":  "Document.ПереводОСВМалоценноеОборудование",
+                        "odataName":  "Document_ПереводОСВМалоценноеОборудование",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПередачаЗадолженностиНаФакторинг",
+                        "metadata":  "Document.ПередачаЗадолженностиНаФакторинг",
+                        "odataName":  "Document_ПередачаЗадолженностиНаФакторинг",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПередачаМатериаловВЭксплуатацию",
+                        "metadata":  "Document.ПередачаМатериаловВЭксплуатацию",
+                        "odataName":  "Document_ПередачаМатериаловВЭксплуатацию",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПередачаНМА",
+                        "metadata":  "Document.ПередачаНМА",
+                        "odataName":  "Document_ПередачаНМА",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПередачаОборудованияВМонтаж",
+                        "metadata":  "Document.ПередачаОборудованияВМонтаж",
+                        "odataName":  "Document_ПередачаОборудованияВМонтаж",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПередачаОС",
+                        "metadata":  "Document.ПередачаОС",
+                        "odataName":  "Document_ПередачаОС",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПередачаОСВАренду",
+                        "metadata":  "Document.ПередачаОСВАренду",
+                        "odataName":  "Document_ПередачаОСВАренду",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПередачаТоваров",
+                        "metadata":  "Document.ПередачаТоваров",
+                        "odataName":  "Document_ПередачаТоваров",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПеремещениеОС",
+                        "metadata":  "Document.ПеремещениеОС",
+                        "odataName":  "Document_ПеремещениеОС",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПеремещениеТоваров",
+                        "metadata":  "Document.ПеремещениеТоваров",
+                        "odataName":  "Document_ПеремещениеТоваров",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПереоценкаТоваровВРознице",
+                        "metadata":  "Document.ПереоценкаТоваровВРознице",
+                        "odataName":  "Document_ПереоценкаТоваровВРознице",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПерерасчетНДФЛ",
+                        "metadata":  "Document.ПерерасчетНДФЛ",
+                        "odataName":  "Document_ПерерасчетНДФЛ",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПерерасчетСтраховыхВзносов",
+                        "metadata":  "Document.ПерерасчетСтраховыхВзносов",
+                        "odataName":  "Document_ПерерасчетСтраховыхВзносов",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПодготовкаКПередачеОС",
+                        "metadata":  "Document.ПодготовкаКПередачеОС",
+                        "odataName":  "Document_ПодготовкаКПередачеОС",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПодтверждениеНулевойСтавкиНДС",
+                        "metadata":  "Document.ПодтверждениеНулевойСтавкиНДС",
+                        "odataName":  "Document_ПодтверждениеНулевойСтавкиНДС",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПоступлениеВАренду",
+                        "metadata":  "Document.ПоступлениеВАренду",
+                        "odataName":  "Document_ПоступлениеВАренду",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПоступлениеДенежныхДокументов",
+                        "metadata":  "Document.ПоступлениеДенежныхДокументов",
+                        "odataName":  "Document_ПоступлениеДенежныхДокументов",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПоступлениеДопРасходов",
+                        "metadata":  "Document.ПоступлениеДопРасходов",
+                        "odataName":  "Document_ПоступлениеДопРасходов",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПоступлениеИзПереработки",
+                        "metadata":  "Document.ПоступлениеИзПереработки",
+                        "odataName":  "Document_ПоступлениеИзПереработки",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПоступлениеНаРасчетныйСчет",
+                        "metadata":  "Document.ПоступлениеНаРасчетныйСчет",
+                        "odataName":  "Document_ПоступлениеНаРасчетныйСчет",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПоступлениеНМА",
+                        "metadata":  "Document.ПоступлениеНМА",
+                        "odataName":  "Document_ПоступлениеНМА",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПоступлениеТоваровУслуг",
+                        "metadata":  "Document.ПоступлениеТоваровУслуг",
+                        "odataName":  "Document_ПоступлениеТоваровУслуг",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПрекращениеАренды",
+                        "metadata":  "Document.ПрекращениеАренды",
+                        "odataName":  "Document_ПрекращениеАренды",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПринятиеКУчетуНМА",
+                        "metadata":  "Document.ПринятиеКУчетуНМА",
+                        "odataName":  "Document_ПринятиеКУчетуНМА",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПринятиеКУчетуОС",
+                        "metadata":  "Document.ПринятиеКУчетуОС",
+                        "odataName":  "Document_ПринятиеКУчетуОС",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПриходныйКассовыйОрдер",
+                        "metadata":  "Document.ПриходныйКассовыйОрдер",
+                        "odataName":  "Document_ПриходныйКассовыйОрдер",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ПутевойЛист",
+                        "metadata":  "Document.ПутевойЛист",
+                        "odataName":  "Document_ПутевойЛист",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "РаспределениеНДС",
+                        "metadata":  "Document.РаспределениеНДС",
+                        "odataName":  "Document_РаспределениеНДС",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "РасходныйКассовыйОрдер",
+                        "metadata":  "Document.РасходныйКассовыйОрдер",
+                        "odataName":  "Document_РасходныйКассовыйОрдер",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "РасходыПредпринимателя",
+                        "metadata":  "Document.РасходыПредпринимателя",
+                        "odataName":  "Document_РасходыПредпринимателя",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "РеализацияОтгруженныхТоваров",
+                        "metadata":  "Document.РеализацияОтгруженныхТоваров",
+                        "odataName":  "Document_РеализацияОтгруженныхТоваров",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "РеализацияТоваровУслуг",
+                        "metadata":  "Document.РеализацияТоваровУслуг",
+                        "odataName":  "Document_РеализацияТоваровУслуг",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "РеализацияУслугПоПереработке",
+                        "metadata":  "Document.РеализацияУслугПоПереработке",
+                        "odataName":  "Document_РеализацияУслугПоПереработке",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "РегламентнаяОперация",
+                        "metadata":  "Document.РегламентнаяОперация",
+                        "odataName":  "Document_РегламентнаяОперация",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "РезервыПоОплатеТруда",
+                        "metadata":  "Document.РезервыПоОплатеТруда",
+                        "odataName":  "Document_РезервыПоОплатеТруда",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "СведенияОбУдержанномНДФЛ",
+                        "metadata":  "Document.СведенияОбУдержанномНДФЛ",
+                        "odataName":  "Document_СведенияОбУдержанномНДФЛ",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "СписаниеДепонированнойЗарплаты",
+                        "metadata":  "Document.СписаниеДепонированнойЗарплаты",
+                        "odataName":  "Document_СписаниеДепонированнойЗарплаты",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "СписаниеМатериаловИзЭксплуатации",
+                        "metadata":  "Document.СписаниеМатериаловИзЭксплуатации",
+                        "odataName":  "Document_СписаниеМатериаловИзЭксплуатации",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "СписаниеНДС",
+                        "metadata":  "Document.СписаниеНДС",
+                        "odataName":  "Document_СписаниеНДС",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "СписаниеНМА",
+                        "metadata":  "Document.СписаниеНМА",
+                        "odataName":  "Document_СписаниеНМА",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "СписаниеОС",
+                        "metadata":  "Document.СписаниеОС",
+                        "odataName":  "Document_СписаниеОС",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "СписаниеСРасчетногоСчета",
+                        "metadata":  "Document.СписаниеСРасчетногоСчета",
+                        "odataName":  "Document_СписаниеСРасчетногоСчета",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "СписаниеТоваров",
+                        "metadata":  "Document.СписаниеТоваров",
+                        "odataName":  "Document_СписаниеТоваров",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "СправкиНДФЛДляПередачиВНалоговыйОрган",
+                        "metadata":  "Document.СправкиНДФЛДляПередачиВНалоговыйОрган",
+                        "odataName":  "Document_СправкиНДФЛДляПередачиВНалоговыйОрган",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "СчетФактураВыданный",
+                        "metadata":  "Document.СчетФактураВыданный",
+                        "odataName":  "Document_СчетФактураВыданный",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "СчетФактураПолученный",
+                        "metadata":  "Document.СчетФактураПолученный",
+                        "odataName":  "Document_СчетФактураПолученный",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ТребованиеНакладная",
+                        "metadata":  "Document.ТребованиеНакладная",
+                        "odataName":  "Document_ТребованиеНакладная",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "УведомлениеОбИсчисленныхСуммахНалогов",
+                        "metadata":  "Document.УведомлениеОбИсчисленныхСуммахНалогов",
+                        "odataName":  "Document_УведомлениеОбИсчисленныхСуммахНалогов",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "УведомлениеОбОстаткахПрослеживаемыхТоваров",
+                        "metadata":  "Document.УведомлениеОбОстаткахПрослеживаемыхТоваров",
+                        "odataName":  "Document_УведомлениеОбОстаткахПрослеживаемыхТоваров",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "УведомлениеОбУменьшенииНалогаПоПатенту",
+                        "metadata":  "Document.УведомлениеОбУменьшенииНалогаПоПатенту",
+                        "odataName":  "Document_УведомлениеОбУменьшенииНалогаПоПатенту",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "Увольнение",
+                        "metadata":  "Document.Увольнение",
+                        "odataName":  "Document_Увольнение",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "УсловияОплатыПоступления",
+                        "metadata":  "Document.УсловияОплатыПоступления",
+                        "odataName":  "Document_УсловияОплатыПоступления",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ФормированиеЗаписейКнигиПокупок",
+                        "metadata":  "Document.ФормированиеЗаписейКнигиПокупок",
+                        "odataName":  "Document_ФормированиеЗаписейКнигиПокупок",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ФормированиеЗаписейКнигиПродаж",
+                        "metadata":  "Document.ФормированиеЗаписейКнигиПродаж",
+                        "odataName":  "Document_ФормированиеЗаписейКнигиПродаж",
+                        "existsInConfig":  true
+                    },
+                    {
+                        "type":  "Document",
+                        "name":  "ФормированиеУставногоКапитала",
+                        "metadata":  "Document.ФормированиеУставногоКапитала",
+                        "odataName":  "Document_ФормированиеУставногоКапитала",
+                        "existsInConfig":  true
+                    }
+                ]
+}

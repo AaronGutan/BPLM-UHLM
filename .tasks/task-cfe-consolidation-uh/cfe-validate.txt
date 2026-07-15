@@ -1,0 +1,14 @@
+﻿=== Validation: Extension.КонсолидацияУХ ===
+
+[OK]    1. Root structure: MetaDataObject/Configuration, version 2.17
+[OK]    2. InternalInfo: 7 ContainedObject, all ClassIds valid
+[OK]    3. Extension properties: Name="КонсолидацияУХ", Purpose=AddOn, Prefix=CncdUH_
+[OK]    4. Property values: 4 enum properties checked
+[WARN]  5. Type 'CommonCommand' is out of canonical order (after type at position 31)
+[OK]    5. ChildObjects: 10 types, 160 objects
+[OK]    6. DefaultLanguage "Language.Русский" found in ChildObjects
+[OK]    7. Language files: 1/1 exist
+[OK]    8. Object directories: 9 directories, all exist
+[OK]    9. Borrowed objects: 157/157 validated
+
+=== Result: 0 errors, 1 warnings ===

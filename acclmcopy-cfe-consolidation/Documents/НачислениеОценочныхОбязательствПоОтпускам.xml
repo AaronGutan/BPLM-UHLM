@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="a535f5cb-6103-4f4e-9003-2e23d30f1612">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.НачислениеОценочныхОбязательствПоОтпускам" category="Object">
+				<xr:TypeId>3a040191-3981-4ab2-b45c-f6a75bbce2e5</xr:TypeId>
+				<xr:ValueId>365743d3-8929-4698-b3c7-c9ba583d5d40</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.НачислениеОценочныхОбязательствПоОтпускам" category="Ref">
+				<xr:TypeId>5dccdad4-0ecf-4458-9a62-beeac3bb2e62</xr:TypeId>
+				<xr:ValueId>9a6e689f-a1eb-47dd-82da-1c9148aadc96</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.НачислениеОценочныхОбязательствПоОтпускам" category="Selection">
+				<xr:TypeId>0133252c-bf93-48f7-8025-82bfe49f22b7</xr:TypeId>
+				<xr:ValueId>4edebe3f-685e-43b8-99ca-b874554d941e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.НачислениеОценочныхОбязательствПоОтпускам" category="List">
+				<xr:TypeId>013d517b-870e-4b6a-a427-f71eb84cd410</xr:TypeId>
+				<xr:ValueId>60b6e7c4-a3a5-4a34-ba9c-3a10f45e6686</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.НачислениеОценочныхОбязательствПоОтпускам" category="Manager">
+				<xr:TypeId>e2950c7e-bcbc-447f-9e69-77c0cc22e967</xr:TypeId>
+				<xr:ValueId>6ff09b65-5085-4c5a-8444-452266a3cfef</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НачислениеОценочныхОбязательствПоОтпускам</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>59d9c6cd-c0ce-4d66-81d7-0f2ce83e24e5</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

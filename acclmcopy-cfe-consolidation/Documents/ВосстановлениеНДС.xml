@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="00da48db-091d-4c4b-b302-b2cf19a43544">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ВосстановлениеНДС" category="Object">
+				<xr:TypeId>b6fa7fe8-96fa-4152-a5a4-04dfe1069d9d</xr:TypeId>
+				<xr:ValueId>29ec2dc4-7c5d-430f-a535-7b3d617526ff</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ВосстановлениеНДС" category="Ref">
+				<xr:TypeId>6ae7a593-af72-42fa-8018-5f21caae3c7d</xr:TypeId>
+				<xr:ValueId>3c0e2848-c0e3-4c3f-bc1b-1cd3ed553c09</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ВосстановлениеНДС" category="Selection">
+				<xr:TypeId>39cd0dc9-6e6d-474f-9008-ea5849d1d549</xr:TypeId>
+				<xr:ValueId>5cd21267-3435-4e62-a7e5-96e70990e13f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ВосстановлениеНДС" category="List">
+				<xr:TypeId>0a441893-d21e-434d-a255-bc7c98c28db9</xr:TypeId>
+				<xr:ValueId>289ad8e1-1c95-4f18-9421-67bd5350a377</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ВосстановлениеНДС" category="Manager">
+				<xr:TypeId>5f2517dc-b5e3-4d50-a39f-728380098c2f</xr:TypeId>
+				<xr:ValueId>eb48eed2-4db3-4849-bd62-1bfa94258b4f</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВосстановлениеНДС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f8229d0e-6aca-468f-92a3-4d477d29a7e7</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

@@ -12,7 +12,9 @@
                 "-ExecutionPolicy",
                 "Bypass",
                 "-File",
-                "${workspaceFolder}/.vscode/scripts/cfe-build.ps1"
+                "${workspaceFolder}/.vscode/scripts/cfe-build.ps1",
+                "-ConfigDir",
+                "${workspaceFolder}/${input:cfeConfigDir}"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
@@ -36,6 +38,8 @@
                 "Bypass",
                 "-File",
                 "${workspaceFolder}/.vscode/scripts/cfe-build.ps1",
+                "-ConfigDir",
+                "${workspaceFolder}/${input:cfeConfigDir}",
                 "-UseAgentMode",
                 "-KeepAgentConnected",
                 "-RecreateExtension",
@@ -55,6 +59,28 @@
                 "clear": false
             },
             "problemMatcher": []
+        }
+    ],
+    "inputs": [
+        {
+            "id": "cfeConfigDir",
+            "type": "pickString",
+            "description": "Расширение для сборки",
+            "options": [
+                {
+                    "label": "Консолидация (БП)",
+                    "value": "acclmcopy-cfe-consolidation"
+                },
+                {
+                    "label": "КонсолидацияУХ (УХ)",
+                    "value": "ICORUHM/uh-cfe-consolidation"
+                },
+                {
+                    "label": "EMS",
+                    "value": "EMS"
+                }
+            ],
+            "default": "acclmcopy-cfe-consolidation"
         }
     ]
 }

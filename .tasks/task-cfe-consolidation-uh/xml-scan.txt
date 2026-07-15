@@ -1,0 +1,18 @@
+xml files=167
+versions: 2.17=153, 2.20=14
+load errors=0
+acclmcopy-cfe-consolidation/Configuration.xml rootVersion=1.0
+  compat=Version8_3_21
+  purpose=AddOn
+uh-cfe-consolidation/Configuration.xml rootVersion=1.0
+  compat=Version8_3_21
+  purpose=AddOn
+plan uuid count=25 non-kept-dups=0
+TPL 1311 E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\ExchangePlans\Консолидация\Templates\ПравилаОбмена.xml
+TPL 1368 E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\ExchangePlans\Консолидация\Templates\ПравилаОбменаКорреспондента.xml
+TPL 1315 E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\ExchangePlans\Консолидация\Templates\ПравилаРегистрации.xml
+TPL 28258349 E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\ExchangePlans\Консолидация\Templates\ПравилаОбмена\Ext\Template.txt
+TPL 1257 E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\ExchangePlans\Консолидация\Templates\ПравилаОбменаКорреспондента\Ext\Template.txt
+TPL 31589 E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\ExchangePlans\Консолидация\Templates\ПравилаРегистрации\Ext\Template.txt
+Form.xml len=7966 version=
+Form has BaseForm=False

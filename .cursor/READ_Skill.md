@@ -48,14 +48,7 @@
 
 ### Другие AI-платформы
 
-Навыки совместимы с Cursor, GitHub Copilot, Kiro, OpenAI Codex, Gemini CLI и OpenCode. Скрипт `switch.py` копирует навыки в нужный формат с перезаписью путей:
-
-```bash
-python scripts/switch.py                           # интерактивный режим (пошаговый диалог)
-python scripts/switch.py cursor                    # скопировать навыки для Cursor
-python scripts/switch.py cursor --runtime python   # Cursor + Python-рантайм
-python scripts/switch.py --undo cursor             # удалить копию
-```
+Навыки совместимы с Cursor, GitHub Copilot, Kiro, OpenAI Codex, Gemini CLI и OpenCode. Рантайм скриптов — **PowerShell** (Windows).
 
 Поддерживаемые платформы:
 
@@ -70,21 +63,6 @@ python scripts/switch.py --undo cursor             # удалить копию
 | OpenCode | `.opencode/skills/` | да | через skill tool |
 
 Автоактивация — основной режим: просто опишите задачу своими словами, ассистент сам подберёт нужный навык по `description` в SKILL.md. Слеш-команды — для точного контроля, когда нужно вызвать конкретный навык.
-
-### Переключение рантайма (PowerShell ↔ Python)
-
-На Windows рекомендуется PS1-рантайм (по умолчанию). Python-порты — для **Linux/Mac** или если PowerShell недоступен. PS1-скрипты — мастер-версия; Python-порты производные (см. [Python Porting Guide](docs/python-porting-guide.md)).
-
-```bash
-python scripts/switch.py --runtime python      # переключить на Python
-python scripts/switch.py --runtime powershell  # вернуть на PowerShell
-```
-
-Дополнительные зависимости Python-рантайма:
-- `lxml>=4.9.0` — для навыков, работающих с DOM (edit/validate/info)
-- `psutil>=5.9.0` — для web-навыков (управление Apache)
-
-Параметры скриптов идентичны для обоих рантаймов — переключение меняет только интерпретатор в вызовах. Подробнее: [Python Porting Guide](docs/python-porting-guide.md).
 
 ## Спецификации
 
@@ -179,9 +157,6 @@ python scripts/switch.py --runtime powershell  # вернуть на PowerShell
 ├── web-unpublish/       # Удаление публикации
 ├── web-test/            # Тестирование через веб-клиент 1С
 └── img-grid/            # Сетка для анализа изображений
-scripts/
-├── switch-to-python.py    # Переключение навыков на Python-рантайм
-└── switch-to-powershell.py # Возврат на PowerShell-рантайм
 docs/
 ├── epf-guide.md            # Гайд: внешние обработки и отчёты
 ├── mxl-guide.md            # Гайд: табличный документ
@@ -211,6 +186,5 @@ docs/
 ├── role-dsl-spec.md        # Спецификация Role DSL
 ├── 1c-extension-spec.md    # Спецификация расширений конфигурации (CFE)
 ├── 1c-subsystem-spec.md    # Спецификация подсистем и командного интерфейса
-├── web-spec.md             # Спецификация веб-публикации (VRD, httpd.conf, Apache)
-└── python-porting-guide.md # Руководство по Python-портам навыков
+└── web-spec.md             # Спецификация веб-публикации (VRD, httpd.conf, Apache)
 ```

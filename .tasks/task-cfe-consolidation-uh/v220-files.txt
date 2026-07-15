@@ -1,0 +1,14 @@
+﻿E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\CommandGroups\СинхронизацияДанных.xml
+E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\CommonCommands\ЗагрузитьКомплектПравил.xml
+E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\CommonCommands\НастройкиПодключения.xml
+E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\CommonCommands\ПолучитьНастройкиСинхронизацииДляДругойПрограммы.xml
+E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\CommonCommands\Синхронизировать.xml
+E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\CommonCommands\СинхронизироватьСДополнительнымиПараметрами.xml
+E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\CommonCommands\СценарииСинхронизации.xml
+E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\CommonCommands\УдалитьНастройкуСинхронизации.xml
+E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\ExchangePlans\Консолидация.xml
+E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\ExchangePlans\Консолидация\Ext\Content.xml
+E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\ExchangePlans\Консолидация\Forms\ФормаУзла.xml
+E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\ExchangePlans\Консолидация\Templates\ПравилаОбмена.xml
+E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\ExchangePlans\Консолидация\Templates\ПравилаОбменаКорреспондента.xml
+E:\1C\AY\BPLM-UHLM-XML\ICORUHM\uh-cfe-consolidation\ExchangePlans\Консолидация\Templates\ПравилаРегистрации.xml

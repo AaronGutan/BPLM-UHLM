@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="cfbab46b-283b-462f-ba70-0df44e1826df">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СписаниеОС" category="Object">
+				<xr:TypeId>e7db25e4-cc95-4a6c-886e-95a52cabdcda</xr:TypeId>
+				<xr:ValueId>aa52c9fb-40db-4c3b-9538-a979d9a67253</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СписаниеОС" category="Ref">
+				<xr:TypeId>2fff1fbf-281a-45d4-90d3-f0bccb54dfd5</xr:TypeId>
+				<xr:ValueId>c015b609-d418-41de-a0c4-578930113946</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СписаниеОС" category="Selection">
+				<xr:TypeId>3938d0f6-103a-46c0-b1d0-3eef1845a21b</xr:TypeId>
+				<xr:ValueId>b3132816-a3ea-43b6-9f18-7a9fa4ae3fe3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СписаниеОС" category="List">
+				<xr:TypeId>68a7633b-4ff6-437d-b384-c0490ec2b111</xr:TypeId>
+				<xr:ValueId>0eec2862-d4b5-45f4-bd07-c44f1f69b217</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СписаниеОС" category="Manager">
+				<xr:TypeId>ca52eeda-0389-479c-a2be-57db77db40f0</xr:TypeId>
+				<xr:ValueId>9fba30db-d018-423c-a914-f8bd388fe181</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СписаниеОС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ee26bc28-7f3b-4f8d-8cba-8da479971bd9</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="f9ad081f-3193-4c8a-92fb-d2bad0f7bb9f">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПрекращениеАренды" category="Object">
+				<xr:TypeId>188d0c99-b5d1-42c1-898a-6d95b3bb5e67</xr:TypeId>
+				<xr:ValueId>7541c453-0424-42b0-8ba9-09a911b6d99c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПрекращениеАренды" category="Ref">
+				<xr:TypeId>3f77abee-b365-4fbc-a934-95eb20e0aa83</xr:TypeId>
+				<xr:ValueId>c5fae276-0094-4a12-9f9a-450bf7fe880d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПрекращениеАренды" category="Selection">
+				<xr:TypeId>16241195-5707-4514-ae6b-8ce3303014e9</xr:TypeId>
+				<xr:ValueId>0f693878-61b1-456d-b300-40fb235b717a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПрекращениеАренды" category="List">
+				<xr:TypeId>84fab2b7-614d-4113-a882-5c9c6d05eb60</xr:TypeId>
+				<xr:ValueId>cd67b105-70d8-45f6-8b06-cbadd80fdf02</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПрекращениеАренды" category="Manager">
+				<xr:TypeId>abf6b706-a900-4dc9-a05b-f4c400665180</xr:TypeId>
+				<xr:ValueId>35d377f5-7eed-47d7-85d5-da436c0cf795</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПрекращениеАренды</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>a3926bec-65fb-4105-9745-443af4e3e917</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

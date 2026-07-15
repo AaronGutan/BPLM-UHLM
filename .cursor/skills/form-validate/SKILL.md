@@ -35,7 +35,7 @@ powershell.exe -NoProfile -File .cursor/skills/form-validate/scripts/form-valida
 
 | # | Проверка | Серьёзность |
 |---|---|---|
-| 1 | Корневой элемент `<Form>`, version="2.17" | ERROR / WARN |
+| 1 | Корневой элемент `<Form>`, version="2.20" | ERROR / WARN |
 | 2 | `<AutoCommandBar>` присутствует, id="-1" | ERROR |
 | 3 | Уникальность ID элементов (отдельный пул) | ERROR |
 | 4 | Уникальность ID реквизитов (отдельный пул) | ERROR |
@@ -56,7 +56,7 @@ powershell.exe -NoProfile -File .cursor/skills/form-validate/scripts/form-valida
 ```
 === Validation: ФормаДокумента ===
 
-[OK]    Root element: Form version=2.17
+[OK]    Root element: Form version=2.20
 [OK]    AutoCommandBar: name='ФормаКоманднаяПанель', id=-1
 [OK]    Unique element IDs: 96 elements
 [OK]    Unique attribute IDs: 38 entries

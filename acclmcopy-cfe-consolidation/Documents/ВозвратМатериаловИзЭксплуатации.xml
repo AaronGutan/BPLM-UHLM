@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="6b2b0e01-50c6-465b-8300-fbfad0c8a4cb">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ВозвратМатериаловИзЭксплуатации" category="Object">
+				<xr:TypeId>7cbb601d-6e7c-427c-a70c-33d51a876c74</xr:TypeId>
+				<xr:ValueId>5040ffec-8930-4952-a039-065f91475e46</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ВозвратМатериаловИзЭксплуатации" category="Ref">
+				<xr:TypeId>95a28682-4934-4600-893a-a0158dee1f13</xr:TypeId>
+				<xr:ValueId>44a4ea1d-a1d0-43ff-a1c6-ad33bcd49931</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ВозвратМатериаловИзЭксплуатации" category="Selection">
+				<xr:TypeId>808e98bf-68b5-4471-a661-9853c7dc5bd1</xr:TypeId>
+				<xr:ValueId>60a7eb13-4392-4935-addb-a483da0c1b34</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ВозвратМатериаловИзЭксплуатации" category="List">
+				<xr:TypeId>547a7a4d-a55e-4186-a851-d2ce11a8d87f</xr:TypeId>
+				<xr:ValueId>59d0f11e-f8f6-4b2d-87b4-8285884e52c3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ВозвратМатериаловИзЭксплуатации" category="Manager">
+				<xr:TypeId>b92e0bd1-aecf-4918-82e5-7a7a2ff951ad</xr:TypeId>
+				<xr:ValueId>4d7798b5-c9ec-4ad1-b2a1-ab5a4cfe43b8</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВозвратМатериаловИзЭксплуатации</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>11c771d6-8c85-4281-a846-1d0083a8fb66</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

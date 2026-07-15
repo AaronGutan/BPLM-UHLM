@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="e97ad46f-abdc-4f6c-827f-192b13f10ff1">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.АктОбОказанииПроизводственныхУслуг" category="Object">
+				<xr:TypeId>28f4ef6f-790d-4b73-95fa-1645f8ccc8ba</xr:TypeId>
+				<xr:ValueId>3256b304-3e73-4d47-87c2-fbfcf7b51b5c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.АктОбОказанииПроизводственныхУслуг" category="Ref">
+				<xr:TypeId>fb1b936b-26bf-4765-bd08-3ddd52a9e388</xr:TypeId>
+				<xr:ValueId>d5c79f82-e05a-4aa0-844a-5d1aa6d1e328</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.АктОбОказанииПроизводственныхУслуг" category="Selection">
+				<xr:TypeId>cd51f5c4-237b-4a23-8d4b-bd442c5918e6</xr:TypeId>
+				<xr:ValueId>2ab67d3f-0345-43fc-9f00-82c1fcca179f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.АктОбОказанииПроизводственныхУслуг" category="List">
+				<xr:TypeId>132f42b8-bdf0-402e-8d8f-7103ae41562b</xr:TypeId>
+				<xr:ValueId>bdf2d7de-178e-4b26-bdd9-3e158e110710</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.АктОбОказанииПроизводственныхУслуг" category="Manager">
+				<xr:TypeId>a60f7653-6338-4993-ba98-dd4838e759d6</xr:TypeId>
+				<xr:ValueId>cc7d6458-1a41-4ec0-a434-ee8c87af30d1</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>АктОбОказанииПроизводственныхУслуг</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>71ff2f00-0f42-47e8-ac4b-90c4046bc4ee</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

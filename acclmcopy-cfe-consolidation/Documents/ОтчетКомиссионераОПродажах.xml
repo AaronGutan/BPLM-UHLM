@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="13364c89-59e7-46a1-8bd5-42ecb14bef43">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОтчетКомиссионераОПродажах" category="Object">
+				<xr:TypeId>49b6ed8f-f976-4a08-bfaa-f577259c9fec</xr:TypeId>
+				<xr:ValueId>fb3ae552-b241-4b4f-9952-3000940610e0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОтчетКомиссионераОПродажах" category="Ref">
+				<xr:TypeId>e443a1a8-d140-4327-96fa-9a86719f0197</xr:TypeId>
+				<xr:ValueId>390fedc0-4d71-42e7-9065-7e2b83f24d26</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОтчетКомиссионераОПродажах" category="Selection">
+				<xr:TypeId>ac719042-8297-49f5-97ce-a1e00ff15e51</xr:TypeId>
+				<xr:ValueId>a6006193-fdea-4863-8b6f-9f7c1448c43b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОтчетКомиссионераОПродажах" category="List">
+				<xr:TypeId>3059e52a-9f46-462d-adb0-df97f7fa2df0</xr:TypeId>
+				<xr:ValueId>98859990-721e-4629-822b-dc50e59c84fa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОтчетКомиссионераОПродажах" category="Manager">
+				<xr:TypeId>8c530bd2-093a-467c-8706-b8c9ca6dcb14</xr:TypeId>
+				<xr:ValueId>fba70f42-5b93-4856-add9-f5550a3a3729</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтчетКомиссионераОПродажах</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>cf00de56-2f8f-4328-8058-803afff59319</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

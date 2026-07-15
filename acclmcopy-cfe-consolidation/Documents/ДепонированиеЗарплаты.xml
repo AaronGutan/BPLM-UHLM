@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="1b93786a-86d9-4061-a9c3-597835d3432f">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ДепонированиеЗарплаты" category="Object">
+				<xr:TypeId>13a9b0cf-e187-467b-b419-91a861f18c14</xr:TypeId>
+				<xr:ValueId>ad71012d-ca6a-4063-8182-e3fc7dd04915</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ДепонированиеЗарплаты" category="Ref">
+				<xr:TypeId>9ce5197f-9c62-445e-8d66-48644eec44c7</xr:TypeId>
+				<xr:ValueId>420f9701-e558-4179-a5f4-f5dcdff9aa06</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ДепонированиеЗарплаты" category="Selection">
+				<xr:TypeId>504c95a6-8b5b-45dd-a682-48e6bd7cc0e8</xr:TypeId>
+				<xr:ValueId>550496ff-986d-4c2f-90c3-dec5345b3e5f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ДепонированиеЗарплаты" category="List">
+				<xr:TypeId>333090f7-725d-4241-aec5-402136e76791</xr:TypeId>
+				<xr:ValueId>dff6acd5-b23c-4dd9-ac79-298c57a6fb01</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ДепонированиеЗарплаты" category="Manager">
+				<xr:TypeId>dbae7faa-9500-46a9-97f3-fae0a0396eb2</xr:TypeId>
+				<xr:ValueId>95a99d38-31c0-4fe9-a347-511e04053d74</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ДепонированиеЗарплаты</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>12fee7cf-e9d1-47a1-96b7-81b3ff83ed3d</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

@@ -85,10 +85,12 @@ if ($root.LocalName -ne "Form") {
 	Report-Error "Root element is '$($root.LocalName)', expected 'Form'"
 } else {
 	$version = $root.GetAttribute("version")
-	if ($version -eq "2.17") {
+	if ($version -eq "2.20") {
 		Report-OK "Root element: Form version=$version"
+	} elseif ($version -eq "2.17") {
+		Report-Warn "Form version='$version' (prefer 2.20 for platform 8.3.27+)"
 	} elseif ($version) {
-		Report-Warn "Form version='$version' (expected 2.17)"
+		Report-Warn "Form version='$version' (expected 2.20)"
 	} else {
 		Report-Warn "Form version attribute missing"
 	}

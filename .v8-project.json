@@ -3,11 +3,11 @@
   "databases": [
     {
       "id": "uh-lm",
-      "name": "УХ acc_lm_copy (приёмник конвертации)",
+      "name": "УХ ICORU_DEV (приёмник)",
       "type": "server",
       "server": "DNA-DEVAPPS-1S0",
-      "ref": "acc_lm_copy",
-      "aliases": ["ух", "uh", "acc_lm", "приемник", "приёмник", "uh-lm"]
+      "ref": "ICORU_DEV",
+      "aliases": ["ух", "uh", "icoru", "icoru_dev", "ICORU_DEV", "приемник", "приёмник", "uh-lm"]
     },
     {
       "id": "bp-copy",

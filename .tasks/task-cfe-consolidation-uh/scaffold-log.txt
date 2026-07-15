@@ -1,0 +1,37 @@
+﻿
+[19:17:34] START
+[19:17:34] cfe-init
+[19:17:35] copied plan
+[19:17:35] uuid rewrite + templates
+[19:17:35] content Deny + mapping register
+[19:17:35] copied CommonCommands
+[19:17:35] copied CommandGroups
+[19:17:35] configuration childobjects patched
+[19:17:35] borrow batch 1 count=12
+[19:17:36] WARN batch 1 exit=1
+[19:17:36] borrow batch 2 count=12
+[19:17:37] WARN batch 2 exit=1
+[19:17:37] borrow batch 3 count=12
+[19:17:38] WARN batch 3 exit=1
+[19:17:38] borrow batch 4 count=12
+[19:17:38] WARN batch 4 exit=1
+[19:17:38] borrow batch 5 count=12
+[19:17:39] WARN batch 5 exit=1
+[19:17:39] borrow batch 6 count=12
+[19:17:40] WARN batch 6 exit=1
+[19:17:40] borrow batch 7 count=12
+[19:17:41] WARN batch 7 exit=1
+[19:17:41] borrow batch 8 count=12
+[19:17:41] WARN batch 8 exit=1
+[19:17:41] borrow batch 9 count=12
+[19:17:42] WARN batch 9 exit=1
+[19:17:42] borrow batch 10 count=12
+[19:17:43] WARN batch 10 exit=1
+[19:17:43] borrow batch 11 count=12
+[19:17:43] WARN batch 11 exit=1
+[19:17:43] borrow batch 12 count=12
+[19:17:44] WARN batch 12 exit=1
+[19:17:44] borrow batch 13 count=5
+[19:17:45] WARN batch 13 exit=1
+[19:17:45] modules written
+[19:17:45] DONE

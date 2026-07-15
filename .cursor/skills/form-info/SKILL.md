@@ -175,7 +175,7 @@ Commands:
 
 Для заимствованных форм в конце выводится:
 ```
-BaseForm: present (version 2.17)
+BaseForm: present (version 2.20)
 ```
 
 ## Что пропускается

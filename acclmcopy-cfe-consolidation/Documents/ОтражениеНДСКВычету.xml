@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="fe92010d-ea0b-45d0-a940-2f7c7c6e7c61">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОтражениеНДСКВычету" category="Object">
+				<xr:TypeId>37182b7c-5b65-4022-b77d-8a93f12772b3</xr:TypeId>
+				<xr:ValueId>bc0c8f8c-6fab-4b75-85f3-876f52bcfb54</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОтражениеНДСКВычету" category="Ref">
+				<xr:TypeId>65621469-7cf3-4101-9ae2-cdc139d26634</xr:TypeId>
+				<xr:ValueId>fb0b69c6-ef83-4147-b005-e8a12bdb296e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОтражениеНДСКВычету" category="Selection">
+				<xr:TypeId>0c80e493-b456-4ff2-b159-cef9a2d11ef4</xr:TypeId>
+				<xr:ValueId>293be0a5-4b9e-4592-b53e-4be8a85b80c5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОтражениеНДСКВычету" category="List">
+				<xr:TypeId>c4ec75a1-b962-4d76-a8c4-bec76f5956e2</xr:TypeId>
+				<xr:ValueId>4140daa0-48ec-44c8-8bbf-320a2499d710</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОтражениеНДСКВычету" category="Manager">
+				<xr:TypeId>438734eb-fdbd-4888-9119-6f5b05e2adf3</xr:TypeId>
+				<xr:ValueId>8c07cf9a-d1d8-4d20-ae16-08c8ae672280</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтражениеНДСКВычету</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>93b48b52-b821-4930-9676-cabcad4adb12</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

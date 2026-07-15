@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="b760e568-db9e-4c6f-b659-c9e5c5cd2d51">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПерерасчетНДФЛ" category="Object">
+				<xr:TypeId>b299a7f9-4cfe-4b51-a912-3477639db591</xr:TypeId>
+				<xr:ValueId>fce1c2a7-1eb7-42ae-984a-d184273e8967</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПерерасчетНДФЛ" category="Ref">
+				<xr:TypeId>e885611d-d4e2-4571-87e8-794a4ae99d9c</xr:TypeId>
+				<xr:ValueId>0f1d89bd-6192-44ac-a76d-74020d06b196</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПерерасчетНДФЛ" category="Selection">
+				<xr:TypeId>22b2434e-19d4-42f4-aced-aec0c589cfdd</xr:TypeId>
+				<xr:ValueId>9ba0744d-7a52-4adc-9321-f501d8149979</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПерерасчетНДФЛ" category="List">
+				<xr:TypeId>290fccc7-1fab-4587-9b57-7331eb63566d</xr:TypeId>
+				<xr:ValueId>acdd756a-0a63-4b03-817d-a1c55f60d612</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПерерасчетНДФЛ" category="Manager">
+				<xr:TypeId>156b9f77-e501-4090-8d14-1ef82c52b571</xr:TypeId>
+				<xr:ValueId>6aab0e0e-fe8f-4e0b-806b-414030b02966</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПерерасчетНДФЛ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>67117829-fa04-4335-b314-1a4b60737356</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

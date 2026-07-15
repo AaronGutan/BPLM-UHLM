@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="1dd99af6-cdfe-4c04-8dc8-4d53017c5569">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.КомплектацияНоменклатуры" category="Object">
+				<xr:TypeId>8b9e6180-982f-4df8-9bf6-d5594b1dc780</xr:TypeId>
+				<xr:ValueId>37036984-dec0-48db-a689-32124a3095ce</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.КомплектацияНоменклатуры" category="Ref">
+				<xr:TypeId>91ff59a2-722d-48bd-bf88-201e19ab6872</xr:TypeId>
+				<xr:ValueId>adfb8d34-7b78-46d8-bd93-ac97d55c6f56</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.КомплектацияНоменклатуры" category="Selection">
+				<xr:TypeId>aac9f284-a760-4001-8766-45c0ab146c3f</xr:TypeId>
+				<xr:ValueId>58a67577-3894-4e69-aa63-73b8d1290edc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.КомплектацияНоменклатуры" category="List">
+				<xr:TypeId>ad82412e-4858-4e76-82dd-0d2f3531701d</xr:TypeId>
+				<xr:ValueId>1e29fb0d-88b4-4e48-a62e-15522620ab0b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.КомплектацияНоменклатуры" category="Manager">
+				<xr:TypeId>5716015c-503a-4620-b188-53c99eb9fdf8</xr:TypeId>
+				<xr:ValueId>600df972-e472-4a64-9b34-0e50bf4e38d6</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КомплектацияНоменклатуры</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>2e10e5eb-ff73-4f62-ab9d-d571bb26b587</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

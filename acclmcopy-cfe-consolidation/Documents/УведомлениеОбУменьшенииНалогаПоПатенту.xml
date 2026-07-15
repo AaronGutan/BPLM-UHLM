@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="efba7b5c-387e-402c-b89f-ac823d422137">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УведомлениеОбУменьшенииНалогаПоПатенту" category="Object">
+				<xr:TypeId>2242b0e3-0e29-4750-8a9b-ab52ff72b902</xr:TypeId>
+				<xr:ValueId>5548ba05-5b8b-4c22-8a75-682f3fd76568</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УведомлениеОбУменьшенииНалогаПоПатенту" category="Ref">
+				<xr:TypeId>27aa8bf8-e2df-4c62-a2bd-db8830c8cbc2</xr:TypeId>
+				<xr:ValueId>f7052389-5470-4d27-826f-c5f8961b2a23</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УведомлениеОбУменьшенииНалогаПоПатенту" category="Selection">
+				<xr:TypeId>3b17cb85-4667-40a1-980c-daa72e90640b</xr:TypeId>
+				<xr:ValueId>ddee6f44-e0ac-4ec1-8c50-45bce6144b27</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УведомлениеОбУменьшенииНалогаПоПатенту" category="List">
+				<xr:TypeId>11272771-b9db-4009-b41a-e2ddb9342b65</xr:TypeId>
+				<xr:ValueId>d7b1a2c9-a430-442a-867c-b528e22e81f4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УведомлениеОбУменьшенииНалогаПоПатенту" category="Manager">
+				<xr:TypeId>7488e939-677d-4c25-8085-d99f4d663197</xr:TypeId>
+				<xr:ValueId>1c6b437c-38ca-451a-9887-153a50697d43</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УведомлениеОбУменьшенииНалогаПоПатенту</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>bda670b5-6cdc-4fe3-93f8-e161f32fdaa7</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

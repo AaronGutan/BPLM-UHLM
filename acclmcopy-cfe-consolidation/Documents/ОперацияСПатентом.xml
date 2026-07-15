@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="f62c4644-8089-42c5-9a52-7d3a3cc760e8">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОперацияСПатентом" category="Object">
+				<xr:TypeId>b466fb05-35af-40cf-ab70-de5f88f115c2</xr:TypeId>
+				<xr:ValueId>1bf5ee82-a443-4b37-8f28-0f032c713660</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОперацияСПатентом" category="Ref">
+				<xr:TypeId>a749652e-fce4-459f-bb03-4d923495086d</xr:TypeId>
+				<xr:ValueId>2ebe1953-869e-431c-b645-f642c5ab53c2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОперацияСПатентом" category="Selection">
+				<xr:TypeId>4b298ff1-e686-46f3-a44b-9143f90fe8ed</xr:TypeId>
+				<xr:ValueId>0ead6f86-63ae-45ed-8f55-7da3d7b9065b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОперацияСПатентом" category="List">
+				<xr:TypeId>86cb8cb3-9d7e-484f-9555-e73b52f145e2</xr:TypeId>
+				<xr:ValueId>e1e41b64-7252-45c3-9165-b14b839d3aba</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОперацияСПатентом" category="Manager">
+				<xr:TypeId>8c6bee56-43ee-43a3-bb9d-35e486d1fe5b</xr:TypeId>
+				<xr:ValueId>ee0148d6-c1b2-499c-bc19-8fae354745b6</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОперацияСПатентом</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ebea9547-74f0-4d85-a5ce-875643354c85</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
