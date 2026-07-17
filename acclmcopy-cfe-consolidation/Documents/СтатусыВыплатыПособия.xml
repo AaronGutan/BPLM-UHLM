@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="295429fc-5a73-49df-b4ed-59b41e646e6a">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СтатусыВыплатыПособия" category="Object">
+				<xr:TypeId>f6392fea-e76f-4643-9000-38ec0d920cae</xr:TypeId>
+				<xr:ValueId>dff78bd3-ec6f-4922-8b82-483abfa84e30</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СтатусыВыплатыПособия" category="Ref">
+				<xr:TypeId>c91359d1-a565-4d1a-baca-acf7d0e010d5</xr:TypeId>
+				<xr:ValueId>487e3407-18a1-43a9-bf8c-d733671a1c2a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СтатусыВыплатыПособия" category="Selection">
+				<xr:TypeId>216760c9-051e-4d07-b648-eb998b7883a8</xr:TypeId>
+				<xr:ValueId>86bffdc7-45f8-4797-be86-a1cbfe66f2b7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СтатусыВыплатыПособия" category="List">
+				<xr:TypeId>f2797d29-6c7f-4238-a0fb-49f7b9db23c1</xr:TypeId>
+				<xr:ValueId>9144d381-2ceb-4b05-970e-ec0b23aa1932</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СтатусыВыплатыПособия" category="Manager">
+				<xr:TypeId>d53806fe-9254-4eeb-bbd5-1e46eac51d64</xr:TypeId>
+				<xr:ValueId>7e3835dd-30c6-488f-837d-71c92f110bf3</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СтатусыВыплатыПособия</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>b7d988aa-2b2e-4c14-8410-5c0277fa4f2d</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

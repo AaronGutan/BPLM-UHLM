@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="36aa9fe4-ec73-4713-a13c-afd7e59855d1">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НастройкиАвторизацииИнтернетСервисов" category="Object">
+				<xr:TypeId>d914679d-67d6-4424-8278-d64dc17fb2a3</xr:TypeId>
+				<xr:ValueId>1a6fea30-b670-4e0b-82aa-a58f403f7ef0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НастройкиАвторизацииИнтернетСервисов" category="Ref">
+				<xr:TypeId>e0bb4b9e-b7fa-411e-9a15-afc912d15431</xr:TypeId>
+				<xr:ValueId>653224c5-379f-404b-a2ca-dea875b6d08c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НастройкиАвторизацииИнтернетСервисов" category="Selection">
+				<xr:TypeId>a7da05aa-1bda-4d03-b368-1bf5b88c6292</xr:TypeId>
+				<xr:ValueId>ee5b4e34-5c79-460b-a9c9-9fc86820dca4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НастройкиАвторизацииИнтернетСервисов" category="List">
+				<xr:TypeId>f3b07270-e593-4871-a1d8-7e2a6abf1571</xr:TypeId>
+				<xr:ValueId>1554d7ff-f1ac-45de-a55a-50ab63545086</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НастройкиАвторизацииИнтернетСервисов" category="Manager">
+				<xr:TypeId>f6666609-e769-497f-b9eb-c0e58976bfac</xr:TypeId>
+				<xr:ValueId>5f852101-8064-4345-a792-d8244a280647</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НастройкиАвторизацииИнтернетСервисов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ffd14055-0847-48da-8807-0ba07decf6a5</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

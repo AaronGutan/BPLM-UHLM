@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="043f28ae-77da-4702-8c23-433e781abee7">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КодыВидовПодакцизныхТоваров" category="Object">
+				<xr:TypeId>aba94976-41a3-4c5e-bf1f-d3b63f7d5054</xr:TypeId>
+				<xr:ValueId>249a9f49-4ba2-41ad-99b3-7e19cefe4756</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КодыВидовПодакцизныхТоваров" category="Ref">
+				<xr:TypeId>6a4fd272-dca6-4e1b-8d70-1286dd414f20</xr:TypeId>
+				<xr:ValueId>bf35d3f3-de13-436a-8d84-17389cf236f1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КодыВидовПодакцизныхТоваров" category="Selection">
+				<xr:TypeId>76be0923-bfe2-4457-9d39-2fa3f070f489</xr:TypeId>
+				<xr:ValueId>b5cebbcf-d955-45ce-8564-7523c0c7b008</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КодыВидовПодакцизныхТоваров" category="List">
+				<xr:TypeId>c361b963-2940-4ed3-8994-7f4dadff84b4</xr:TypeId>
+				<xr:ValueId>2364d483-ddaf-4da0-8ec2-6b90d928157d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КодыВидовПодакцизныхТоваров" category="Manager">
+				<xr:TypeId>9d69c356-72dd-49f8-b8de-b2be534fea77</xr:TypeId>
+				<xr:ValueId>9c7e032e-0bd5-4fe3-a65a-83778a4f4977</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КодыВидовПодакцизныхТоваров</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>eac4437a-c883-4493-a6c0-37c352593700</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="69dd1b2a-a7b5-491b-8140-68ce736d8ec0">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЗапросАкцизныхМарокЕГАИС" category="Object">
+				<xr:TypeId>61f8e625-827d-46db-9978-88a1642bad29</xr:TypeId>
+				<xr:ValueId>534f0b28-c12c-449c-8b14-9b428070c8fa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЗапросАкцизныхМарокЕГАИС" category="Ref">
+				<xr:TypeId>6421d60e-caad-4a60-86c8-efd7d458501a</xr:TypeId>
+				<xr:ValueId>eb08a32e-c2b3-41ff-a9d6-38a3b0c11084</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЗапросАкцизныхМарокЕГАИС" category="Selection">
+				<xr:TypeId>ec3675a6-2adb-46d9-a64f-60665b0afa24</xr:TypeId>
+				<xr:ValueId>00c64214-e0d6-4039-9b91-127593d5d70b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЗапросАкцизныхМарокЕГАИС" category="List">
+				<xr:TypeId>225a7a52-c998-42f3-b2dd-ccd713869cb0</xr:TypeId>
+				<xr:ValueId>76155a21-8cd0-4a58-96a5-0912d0f2fec2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЗапросАкцизныхМарокЕГАИС" category="Manager">
+				<xr:TypeId>75135961-48a4-4764-9acc-251385c686ca</xr:TypeId>
+				<xr:ValueId>2a7514af-a7f0-487b-bc60-722994964902</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗапросАкцизныхМарокЕГАИС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ad811a7e-1330-467d-ab2e-d0b1c4ef5a29</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

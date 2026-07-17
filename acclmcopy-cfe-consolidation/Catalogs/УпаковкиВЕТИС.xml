@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="5a16b121-da75-4d72-8106-44b3235654e2">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УпаковкиВЕТИС" category="Object">
+				<xr:TypeId>96478d15-ffec-485d-a4ca-175fde8aa4b6</xr:TypeId>
+				<xr:ValueId>a5e82ebe-dc75-4b2e-b96b-0ab3e5fa85ce</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УпаковкиВЕТИС" category="Ref">
+				<xr:TypeId>8cb693ba-15fb-4ebe-b87d-2467b3f921e7</xr:TypeId>
+				<xr:ValueId>05d2b724-b688-4461-9a64-d5d1e2f61399</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УпаковкиВЕТИС" category="Selection">
+				<xr:TypeId>4fef9ea6-bde5-4c86-a886-2bc0e7f1e036</xr:TypeId>
+				<xr:ValueId>e8875acc-e3ff-40a4-9058-e4f66270f56a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УпаковкиВЕТИС" category="List">
+				<xr:TypeId>f52de59b-6a66-48bb-8900-3305c51d7cf7</xr:TypeId>
+				<xr:ValueId>ad6fad71-2bc0-4837-af3c-c045b537501b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УпаковкиВЕТИС" category="Manager">
+				<xr:TypeId>fabd0667-651a-40a2-a975-021ade32a670</xr:TypeId>
+				<xr:ValueId>35afecfc-0cf2-4992-9b75-a0adc2eef4ae</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УпаковкиВЕТИС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>49a4fdf9-5785-4d95-8e9a-ca2fce3af8b8</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

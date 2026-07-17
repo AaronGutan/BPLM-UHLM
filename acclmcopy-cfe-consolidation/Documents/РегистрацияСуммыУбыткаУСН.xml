@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="0e2fa972-80cd-468d-a249-cf75816bd07c">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РегистрацияСуммыУбыткаУСН" category="Object">
+				<xr:TypeId>77eb1306-ce11-4cd7-907b-9d002b3ed6eb</xr:TypeId>
+				<xr:ValueId>70c3cdcd-84d2-4024-95b6-52a6c42cf391</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РегистрацияСуммыУбыткаУСН" category="Ref">
+				<xr:TypeId>274afb62-3700-42e0-9dcd-3aedc45ad963</xr:TypeId>
+				<xr:ValueId>1febce4f-a102-474c-911f-7aa5674eadf1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РегистрацияСуммыУбыткаУСН" category="Selection">
+				<xr:TypeId>9a14da9d-2fc1-4a59-adca-4a48afa69fbd</xr:TypeId>
+				<xr:ValueId>17c11a25-ca38-4020-a0e7-7102edd841e2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РегистрацияСуммыУбыткаУСН" category="List">
+				<xr:TypeId>cdd1244c-f41a-48be-b014-4b3e5b0a66ab</xr:TypeId>
+				<xr:ValueId>44efaa66-3291-4c49-870f-1302202cf0c9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РегистрацияСуммыУбыткаУСН" category="Manager">
+				<xr:TypeId>bddd351d-1a8a-4099-94ec-77773758998c</xr:TypeId>
+				<xr:ValueId>dcaf823f-087c-4fb6-a187-4d4b1b8caa02</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РегистрацияСуммыУбыткаУСН</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>b1fd45f5-d398-4f0e-903e-1b02f172c545</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

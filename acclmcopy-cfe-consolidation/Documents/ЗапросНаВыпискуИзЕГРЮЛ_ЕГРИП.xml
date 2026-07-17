@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="467bc26a-0f37-43bd-8ecb-492e3394ac78">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЗапросНаВыпискуИзЕГРЮЛ_ЕГРИП" category="Object">
+				<xr:TypeId>1c9c43b6-e7ef-4d27-afea-3ac08c6ee180</xr:TypeId>
+				<xr:ValueId>202b259f-700a-4e5e-99c4-9b4e1f4d7c11</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЗапросНаВыпискуИзЕГРЮЛ_ЕГРИП" category="Ref">
+				<xr:TypeId>ab57aeff-250c-44dc-bded-5addec119224</xr:TypeId>
+				<xr:ValueId>1cc207d3-4d38-49a3-992e-cc605760dfcc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЗапросНаВыпискуИзЕГРЮЛ_ЕГРИП" category="Selection">
+				<xr:TypeId>5f4f65a5-0951-47ef-84ac-1f6e64863c3c</xr:TypeId>
+				<xr:ValueId>31354f8b-77d8-4f02-bbae-d067d761dc56</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЗапросНаВыпискуИзЕГРЮЛ_ЕГРИП" category="List">
+				<xr:TypeId>cec7f75c-eca2-4fda-8838-99e80c54b617</xr:TypeId>
+				<xr:ValueId>873856e6-b654-4807-9471-77ad095cd766</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЗапросНаВыпискуИзЕГРЮЛ_ЕГРИП" category="Manager">
+				<xr:TypeId>5ef8669b-67c0-4158-89fc-e60d02452d5e</xr:TypeId>
+				<xr:ValueId>c9d64d21-c4f0-40e9-b3f4-02ad93510c80</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗапросНаВыпискуИзЕГРЮЛ_ЕГРИП</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>fb9fd551-084f-481f-8395-8af944bbbbf5</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

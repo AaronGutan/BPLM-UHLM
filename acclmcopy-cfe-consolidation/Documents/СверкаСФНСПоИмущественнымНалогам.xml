@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="ab99bec6-8eba-42de-b61a-4f342e369fb8">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СверкаСФНСПоИмущественнымНалогам" category="Object">
+				<xr:TypeId>8029ef06-5d56-4f57-9e08-e71e700889fc</xr:TypeId>
+				<xr:ValueId>c8b034fe-cc6f-432c-93ae-67adae9c9c51</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СверкаСФНСПоИмущественнымНалогам" category="Ref">
+				<xr:TypeId>21c9f4e3-9fbd-4208-9c65-befa6a5659ab</xr:TypeId>
+				<xr:ValueId>86b14cc3-f72a-453e-9fb1-458e4c9c8c68</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СверкаСФНСПоИмущественнымНалогам" category="Selection">
+				<xr:TypeId>3be6aed8-c83d-4ec5-8560-5660ecc09466</xr:TypeId>
+				<xr:ValueId>efc5972b-ff0b-499f-bcfe-85b224a27807</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СверкаСФНСПоИмущественнымНалогам" category="List">
+				<xr:TypeId>99cc69f9-4f0c-4ca4-9193-1837972bc4eb</xr:TypeId>
+				<xr:ValueId>d172b467-7145-40ec-b442-625ff7ed07e6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СверкаСФНСПоИмущественнымНалогам" category="Manager">
+				<xr:TypeId>d3dbf5fd-721b-4548-852d-5d0512b7aca5</xr:TypeId>
+				<xr:ValueId>36075e94-1825-428d-859b-6ef3cd25af5a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СверкаСФНСПоИмущественнымНалогам</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f8acbd7b-ab1d-47b4-8046-c6b8256bc4a1</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

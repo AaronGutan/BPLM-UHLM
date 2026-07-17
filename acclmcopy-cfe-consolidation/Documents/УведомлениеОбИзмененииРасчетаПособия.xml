@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="1eacfb64-5b6b-412c-9d45-9ff0bd4f8e63">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УведомлениеОбИзмененииРасчетаПособия" category="Object">
+				<xr:TypeId>36438eba-9a3b-4660-999b-c8ac8c2dc934</xr:TypeId>
+				<xr:ValueId>5c7ac510-9ccd-4720-9278-9416a6f789c3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УведомлениеОбИзмененииРасчетаПособия" category="Ref">
+				<xr:TypeId>17ea68e8-2826-4993-af55-904c8add7f9d</xr:TypeId>
+				<xr:ValueId>d24abd58-0574-4f42-8444-5bad23cd52bc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УведомлениеОбИзмененииРасчетаПособия" category="Selection">
+				<xr:TypeId>d61608db-6963-4bd2-abdf-e2b1ae00e65e</xr:TypeId>
+				<xr:ValueId>1c66bd70-34c9-4f87-8f31-046d20c7fb18</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УведомлениеОбИзмененииРасчетаПособия" category="List">
+				<xr:TypeId>8c867b1e-251a-4d5b-88d4-9288493c7da4</xr:TypeId>
+				<xr:ValueId>ba2e8a7a-36da-4d60-ae15-f57f9be70582</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УведомлениеОбИзмененииРасчетаПособия" category="Manager">
+				<xr:TypeId>ead427cd-0095-47dc-862d-bd1fb3f92eb6</xr:TypeId>
+				<xr:ValueId>3c920947-7e96-42da-a281-0126a27e12a5</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УведомлениеОбИзмененииРасчетаПособия</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>9f9c5153-52f0-4e36-a39a-2b7434e206c6</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

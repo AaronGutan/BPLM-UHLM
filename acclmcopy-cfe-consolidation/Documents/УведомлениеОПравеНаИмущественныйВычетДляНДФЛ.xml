@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="fd2c8557-b152-414c-bc13-e434bfc541f0">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УведомлениеОПравеНаИмущественныйВычетДляНДФЛ" category="Object">
+				<xr:TypeId>4121373e-1cbb-448e-b2a6-27d29be83d1b</xr:TypeId>
+				<xr:ValueId>93eaf662-ac26-492c-96a6-edc55e36d146</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УведомлениеОПравеНаИмущественныйВычетДляНДФЛ" category="Ref">
+				<xr:TypeId>ba2a4f7a-6436-420c-83ce-1190bac4632e</xr:TypeId>
+				<xr:ValueId>93476789-02ad-4781-8d64-57ab77fe763f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УведомлениеОПравеНаИмущественныйВычетДляНДФЛ" category="Selection">
+				<xr:TypeId>af625f85-a1fd-414f-aa1a-54a67e6b3e29</xr:TypeId>
+				<xr:ValueId>d5f0f45d-7164-438e-8422-ee7072a84e16</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УведомлениеОПравеНаИмущественныйВычетДляНДФЛ" category="List">
+				<xr:TypeId>ae1bff4a-8f39-4150-9027-971cfbd3c778</xr:TypeId>
+				<xr:ValueId>1302141a-33bc-430a-9173-00af35318e6a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УведомлениеОПравеНаИмущественныйВычетДляНДФЛ" category="Manager">
+				<xr:TypeId>24f29efe-79fe-4c6a-a714-2f7159c4022d</xr:TypeId>
+				<xr:ValueId>1c0abc4d-95b8-4b64-93c4-2b4a28b07385</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УведомлениеОПравеНаИмущественныйВычетДляНДФЛ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>a2c14267-a56b-47d7-ba6c-8a1260a65663</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

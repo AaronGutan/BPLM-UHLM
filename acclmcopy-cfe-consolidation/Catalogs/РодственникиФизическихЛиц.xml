@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="bcf51d3f-236b-4f34-bfef-26ffb005024a">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.РодственникиФизическихЛиц" category="Object">
+				<xr:TypeId>edffce36-b45b-428e-8184-d832979e5370</xr:TypeId>
+				<xr:ValueId>a0cb898d-b1e0-4114-a4f6-dc4f4e8d7027</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.РодственникиФизическихЛиц" category="Ref">
+				<xr:TypeId>e7723934-44dd-4a43-aa9c-aee0e8d11cbb</xr:TypeId>
+				<xr:ValueId>1bfef10b-0449-4513-b083-4ef5ef855fd1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.РодственникиФизическихЛиц" category="Selection">
+				<xr:TypeId>2e6cf6c0-93cc-4496-87f8-1dee4fbbf858</xr:TypeId>
+				<xr:ValueId>ed98b8b2-9ce8-4e3f-8941-af875dba29aa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.РодственникиФизическихЛиц" category="List">
+				<xr:TypeId>4624ece0-a5ee-47be-81b3-1dda7a19a5c6</xr:TypeId>
+				<xr:ValueId>9928769e-e64e-454d-bb82-93a0073ec04c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.РодственникиФизическихЛиц" category="Manager">
+				<xr:TypeId>cdfe5495-1ab9-4b99-961f-57afd073cd6a</xr:TypeId>
+				<xr:ValueId>62143d8d-e6cb-4f9c-9139-85abc698c763</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РодственникиФизическихЛиц</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ce411905-e101-47be-8f77-c7062b2769a7</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="6c7db65a-247f-481c-b785-27edaa2758bd">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ОрганизацииОблачныхПриложений" category="Object">
+				<xr:TypeId>58821255-2c0a-4ae6-bd7c-3cf300b038b9</xr:TypeId>
+				<xr:ValueId>10c3a68e-336f-478f-8136-8998cb303a8b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ОрганизацииОблачныхПриложений" category="Ref">
+				<xr:TypeId>03b215ef-d9c2-40c1-a821-97d1ce1790da</xr:TypeId>
+				<xr:ValueId>f205b471-8545-40d8-89b4-161b26d88749</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ОрганизацииОблачныхПриложений" category="Selection">
+				<xr:TypeId>0890d6b4-6ccb-4431-ac91-b54d32e54e17</xr:TypeId>
+				<xr:ValueId>2108fd8f-c785-4663-a338-6cb32000804e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ОрганизацииОблачныхПриложений" category="List">
+				<xr:TypeId>97b5cdf6-a320-4730-8041-bb4f42a4b1e6</xr:TypeId>
+				<xr:ValueId>5ea343d0-6e4c-4a19-b396-6862ea7b513f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ОрганизацииОблачныхПриложений" category="Manager">
+				<xr:TypeId>0ca0cf1e-cfc8-4583-8fe0-e71f87109fd8</xr:TypeId>
+				<xr:ValueId>8ddf5d47-505f-4d18-8e2a-9e1562ffbefc</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОрганизацииОблачныхПриложений</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>b7ef27cd-3b63-44ca-a883-19e00d876b94</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

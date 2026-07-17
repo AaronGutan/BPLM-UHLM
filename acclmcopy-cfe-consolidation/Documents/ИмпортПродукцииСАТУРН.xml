@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="31aa026e-e2a8-417f-b7e5-87a790de4bbb">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ИмпортПродукцииСАТУРН" category="Object">
+				<xr:TypeId>19fa8773-a399-4764-8aa2-c4e8f4403fa5</xr:TypeId>
+				<xr:ValueId>d9dccea0-a971-42fa-b558-a7b31a69f288</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ИмпортПродукцииСАТУРН" category="Ref">
+				<xr:TypeId>6bb799f6-d296-45e5-ac7f-29b395719055</xr:TypeId>
+				<xr:ValueId>1328c0f2-3e72-4311-aba2-720a313e9a21</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ИмпортПродукцииСАТУРН" category="Selection">
+				<xr:TypeId>fd824165-12d9-437e-b15e-73988152de1b</xr:TypeId>
+				<xr:ValueId>e5bc6245-b2bc-46e2-b4d1-ce2533501424</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ИмпортПродукцииСАТУРН" category="List">
+				<xr:TypeId>b4ba5630-43a5-460b-b3d4-30675e00cb94</xr:TypeId>
+				<xr:ValueId>c0fa9f5b-4a5e-4928-833b-cbd32a45d054</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ИмпортПродукцииСАТУРН" category="Manager">
+				<xr:TypeId>e0d097e6-4e59-498a-8637-47240861fc45</xr:TypeId>
+				<xr:ValueId>d7fcb93f-e091-41dd-a896-87591a3437b7</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ИмпортПродукцииСАТУРН</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>cca02b23-7fe1-4579-ae52-f671d0212468</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

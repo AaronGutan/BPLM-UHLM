@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="f035567a-b467-4141-aa64-cabf76abdb30">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ДокументЭДОБЗК" category="Object">
+				<xr:TypeId>fb04e08e-d294-4fe3-a209-8c04b12d1cdf</xr:TypeId>
+				<xr:ValueId>1435653a-b08c-4a9c-b064-43cada598757</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ДокументЭДОБЗК" category="Ref">
+				<xr:TypeId>e4da3caf-6c55-4142-a608-5f082d5a1542</xr:TypeId>
+				<xr:ValueId>65224d36-3514-41a5-a6c0-03c07f5e1079</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ДокументЭДОБЗК" category="Selection">
+				<xr:TypeId>aead85be-59cd-4dce-af9d-7752ee14ecd7</xr:TypeId>
+				<xr:ValueId>c44fa988-d62c-4037-8bf0-bf8be4c3c68e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ДокументЭДОБЗК" category="List">
+				<xr:TypeId>97c31766-ad93-40c7-88ed-7dd28da8b08a</xr:TypeId>
+				<xr:ValueId>2e657d8c-51e1-43a6-bfb0-e2fe527b3d88</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ДокументЭДОБЗК" category="Manager">
+				<xr:TypeId>32425088-e99d-41be-985c-b3ad19515afa</xr:TypeId>
+				<xr:ValueId>e97d1fff-7ccd-4f70-a354-14661ae58353</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ДокументЭДОБЗК</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>dfcddd42-cd3a-4ae7-a445-6e8ba6eed6f0</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

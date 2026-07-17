@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="9892e871-4217-435e-9ab2-cfecc29b2ac6">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КлассификаторУпаковкиЭПД" category="Object">
+				<xr:TypeId>55d376ff-fe6d-4905-9578-d5e0c8f63758</xr:TypeId>
+				<xr:ValueId>99efa3de-f6cb-4f12-b1ca-41134e3c7640</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КлассификаторУпаковкиЭПД" category="Ref">
+				<xr:TypeId>2081ea2c-1911-4bef-a05c-c10598a9cec1</xr:TypeId>
+				<xr:ValueId>888e34a0-da79-48eb-b48b-64ed9d8c3659</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КлассификаторУпаковкиЭПД" category="Selection">
+				<xr:TypeId>95f707ad-02e5-4e9f-bf35-3a3aa03e1e3b</xr:TypeId>
+				<xr:ValueId>fb5cd89c-3aa8-47e9-82d5-08096c488207</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КлассификаторУпаковкиЭПД" category="List">
+				<xr:TypeId>c6a60304-e6af-4bb3-a99d-28715928e3ea</xr:TypeId>
+				<xr:ValueId>5e410ceb-24fe-4672-b32a-b50fa0317f65</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КлассификаторУпаковкиЭПД" category="Manager">
+				<xr:TypeId>61ac38e6-6716-4597-9937-f72662ecd545</xr:TypeId>
+				<xr:ValueId>0dcc87f3-bb23-4020-9bc7-c8c56266078f</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КлассификаторУпаковкиЭПД</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f6a741b7-97d1-44aa-8827-29be61126395</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

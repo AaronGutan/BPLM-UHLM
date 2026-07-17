@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="01b8326b-f99e-4b48-8653-ad7132fd04de">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СообщенияСистемы" category="Object">
+				<xr:TypeId>38b28b1b-661b-4869-b7c8-ad02661e919f</xr:TypeId>
+				<xr:ValueId>df57e6b5-99ba-4ced-8bec-b65d087b1972</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СообщенияСистемы" category="Ref">
+				<xr:TypeId>c4191c2a-dd36-405a-903e-6aaf2decf5c7</xr:TypeId>
+				<xr:ValueId>66500204-1158-452b-8d6b-9676e96c8a25</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СообщенияСистемы" category="Selection">
+				<xr:TypeId>aac54d17-e81e-40db-a756-87a92633e54b</xr:TypeId>
+				<xr:ValueId>c9b4ddac-d441-4230-ae46-afc3276ab3e6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СообщенияСистемы" category="List">
+				<xr:TypeId>f576686e-8e03-41e1-9745-89889b4b9458</xr:TypeId>
+				<xr:ValueId>7247ad63-0318-4140-b47a-cf4703a0fa92</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СообщенияСистемы" category="Manager">
+				<xr:TypeId>423f823d-5471-4ae4-a589-aba3c8218e2c</xr:TypeId>
+				<xr:ValueId>dea522a2-4904-44a4-9a13-c61fb1b3954e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СообщенияСистемы</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f81b51c5-57e4-41f8-9ad5-3d2717351b95</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

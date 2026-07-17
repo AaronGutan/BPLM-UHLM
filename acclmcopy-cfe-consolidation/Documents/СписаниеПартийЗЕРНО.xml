@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="f175e198-ce40-4640-a7ae-7604ce7206a0">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СписаниеПартийЗЕРНО" category="Object">
+				<xr:TypeId>2a1f9a3f-b5ee-452c-af82-9a9fe849194d</xr:TypeId>
+				<xr:ValueId>d60389fb-3ddb-4904-9597-a0c5f5b3a2b2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СписаниеПартийЗЕРНО" category="Ref">
+				<xr:TypeId>c739f8e8-218f-42c7-a3ca-f00c1e9c9c3d</xr:TypeId>
+				<xr:ValueId>27ea5222-0253-42e3-bb23-bb79589d3635</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СписаниеПартийЗЕРНО" category="Selection">
+				<xr:TypeId>6c25ab1b-fa2f-437d-b222-98d6db81c1af</xr:TypeId>
+				<xr:ValueId>7c2f1d85-9195-4f8f-a443-8087531e1b18</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СписаниеПартийЗЕРНО" category="List">
+				<xr:TypeId>c888b9d6-4db0-4540-8555-0fb7b7eb6423</xr:TypeId>
+				<xr:ValueId>cade8a02-d39b-44d0-8853-07a8dff51007</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СписаниеПартийЗЕРНО" category="Manager">
+				<xr:TypeId>dde165bc-d7b0-4bd2-a988-5610a757138a</xr:TypeId>
+				<xr:ValueId>468f488f-a113-4b41-9008-f4221d13931c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СписаниеПартийЗЕРНО</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ca29d1ad-1adc-49c9-a5ef-6005838f9572</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

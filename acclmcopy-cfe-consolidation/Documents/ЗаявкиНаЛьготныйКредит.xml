@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="5169941b-dc53-48c4-8134-fcccc8a09a25">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЗаявкиНаЛьготныйКредит" category="Object">
+				<xr:TypeId>31fae77b-f0de-463c-8313-2bc0efc0f941</xr:TypeId>
+				<xr:ValueId>caca1916-cdd7-4653-8ee6-2dbafea700ab</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЗаявкиНаЛьготныйКредит" category="Ref">
+				<xr:TypeId>08d1be40-b88d-4895-9431-1adddafedf8f</xr:TypeId>
+				<xr:ValueId>d315f769-aa60-46d6-a950-27b191e41ddd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЗаявкиНаЛьготныйКредит" category="Selection">
+				<xr:TypeId>2150ccfc-22da-4a1b-9cb2-09b7782a5f12</xr:TypeId>
+				<xr:ValueId>ddc472af-c4ff-493d-8f27-1d61ba84cc98</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЗаявкиНаЛьготныйКредит" category="List">
+				<xr:TypeId>81236cfb-0898-44b8-a549-a30dfb331508</xr:TypeId>
+				<xr:ValueId>1177d67d-10f5-47cc-a6ae-1a9a5590e692</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЗаявкиНаЛьготныйКредит" category="Manager">
+				<xr:TypeId>764e5fd1-e517-492c-970d-e2a8aa49f2d3</xr:TypeId>
+				<xr:ValueId>2ec1c9f9-f3ca-48f0-8a47-b1e0fbf1744d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗаявкиНаЛьготныйКредит</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>2633b0d5-2818-4fa0-abe9-6e801e63c9c7</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

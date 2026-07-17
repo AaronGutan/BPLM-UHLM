@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="99e102f1-56d6-4952-9f3d-0b491d9c3317">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.БанковскиеКартыКонтрагентов" category="Object">
+				<xr:TypeId>9d84744e-55e0-465f-a140-287bef6fa060</xr:TypeId>
+				<xr:ValueId>c773ea0e-d9fd-42ff-b04e-a8a65e916cc7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.БанковскиеКартыКонтрагентов" category="Ref">
+				<xr:TypeId>e94cec14-115a-4f71-9ed4-85d6c8dc1e4d</xr:TypeId>
+				<xr:ValueId>7e851781-2bb3-4b01-b26f-96116189a64f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.БанковскиеКартыКонтрагентов" category="Selection">
+				<xr:TypeId>63fe81b6-4124-4946-aea6-ccd8e77e2e9b</xr:TypeId>
+				<xr:ValueId>fbd5f760-94ef-4baf-a6c9-060285e17a53</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.БанковскиеКартыКонтрагентов" category="List">
+				<xr:TypeId>d51a0a28-08af-4a47-a8fd-1613e07f7db7</xr:TypeId>
+				<xr:ValueId>e4318eae-9fb9-4f9b-b6bc-5d49063a5241</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.БанковскиеКартыКонтрагентов" category="Manager">
+				<xr:TypeId>8ab4180d-24db-4479-a9fd-9f95c1fd013e</xr:TypeId>
+				<xr:ValueId>a5138778-7c98-496d-98c3-f12e19871abc</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>БанковскиеКартыКонтрагентов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>50e54b82-521d-43ea-aba3-cfae07be653e</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="5f9c28f3-e3d4-4db2-88b7-fa87c9ced945">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ВидыВложенийДляАктированияЕИС" category="Object">
+				<xr:TypeId>75c84c7c-4ad1-45ea-a09e-3e76e99c6c22</xr:TypeId>
+				<xr:ValueId>b0e88d79-1ba3-4c0f-939f-d5534dcdb3a3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ВидыВложенийДляАктированияЕИС" category="Ref">
+				<xr:TypeId>7a46fadf-fe8c-45df-8db0-37b627da66f7</xr:TypeId>
+				<xr:ValueId>48502f8f-7459-4961-81e0-4ed7f6c6a0d9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ВидыВложенийДляАктированияЕИС" category="Selection">
+				<xr:TypeId>d08ae211-1541-4203-923d-b33bcbf8fce9</xr:TypeId>
+				<xr:ValueId>c2c8e492-749d-4ee2-acd0-46eb9849506a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ВидыВложенийДляАктированияЕИС" category="List">
+				<xr:TypeId>49959b0e-1743-42af-a1ef-93531d3c989f</xr:TypeId>
+				<xr:ValueId>7bed4eb6-9e29-4162-b6fd-af9d8c35e735</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ВидыВложенийДляАктированияЕИС" category="Manager">
+				<xr:TypeId>19aa322c-6f1b-4772-8902-fc6f999ec90c</xr:TypeId>
+				<xr:ValueId>4a3dbc5d-f17c-43c4-b9c6-55c4269117ba</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВидыВложенийДляАктированияЕИС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>5d1fd6b9-00ed-4c0d-8130-ff60237aba6b</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="3ae4b077-dd3f-40c2-b6c7-bbefd85e9235">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КлючиРеквизитовПервичныхДокументовЗЕРНО" category="Object">
+				<xr:TypeId>03a6212e-f0fe-4865-abe8-d4a2ccabc815</xr:TypeId>
+				<xr:ValueId>ce4526b2-6e74-4e23-891d-965787805f06</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КлючиРеквизитовПервичныхДокументовЗЕРНО" category="Ref">
+				<xr:TypeId>5a05a7db-d2e0-44b9-88a2-1f23b5861eaa</xr:TypeId>
+				<xr:ValueId>ab34d5c8-f08e-40b5-a80e-a39b7139f95f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КлючиРеквизитовПервичныхДокументовЗЕРНО" category="Selection">
+				<xr:TypeId>af2cd1ac-995d-480f-a49a-5cb3ec59dbb6</xr:TypeId>
+				<xr:ValueId>ccfe4ab9-0fae-422c-bcd1-0b9b03a09b82</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КлючиРеквизитовПервичныхДокументовЗЕРНО" category="List">
+				<xr:TypeId>28065845-76ab-4cf4-adb1-f798fc50a1d2</xr:TypeId>
+				<xr:ValueId>e2bde260-b0b2-4afb-878b-e9b3bdca62a4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КлючиРеквизитовПервичныхДокументовЗЕРНО" category="Manager">
+				<xr:TypeId>f13f49fa-8e79-4319-a8b2-697300b70262</xr:TypeId>
+				<xr:ValueId>a7506123-5c86-4b7b-95e9-9156d763f079</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КлючиРеквизитовПервичныхДокументовЗЕРНО</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>54f8d345-7e46-4c73-a787-1108ef057740</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

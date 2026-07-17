@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="44e6bdae-4a9e-43e1-aa84-c709e49b7ddf">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КлассификаторВидовПредпринимательскойДеятельностиЕНВД" category="Object">
+				<xr:TypeId>4792c942-3be1-49fc-be52-2e60bb7bcc92</xr:TypeId>
+				<xr:ValueId>71728d96-4004-4daf-96da-cdbddd57d8b2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КлассификаторВидовПредпринимательскойДеятельностиЕНВД" category="Ref">
+				<xr:TypeId>7403b2e5-9610-4465-99b8-d612e361ae1a</xr:TypeId>
+				<xr:ValueId>01922dd9-1caa-4384-a7c4-91dca47cf6d7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КлассификаторВидовПредпринимательскойДеятельностиЕНВД" category="Selection">
+				<xr:TypeId>4cbfe2ff-e2c9-4f08-8a45-819ee579276f</xr:TypeId>
+				<xr:ValueId>49ce1052-158b-4641-b849-a46604406ba0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КлассификаторВидовПредпринимательскойДеятельностиЕНВД" category="List">
+				<xr:TypeId>3412b9c8-304e-47ba-a96c-5215854c01cc</xr:TypeId>
+				<xr:ValueId>d79429fd-9e71-4ccf-ac2a-55fef584db34</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КлассификаторВидовПредпринимательскойДеятельностиЕНВД" category="Manager">
+				<xr:TypeId>b64794b3-497f-4bf2-9e13-a09cf29f2d90</xr:TypeId>
+				<xr:ValueId>79835c2a-34d0-43f3-bb52-721385aa53be</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КлассификаторВидовПредпринимательскойДеятельностиЕНВД</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>5371c659-3b98-46a3-badc-d777db734a4c</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

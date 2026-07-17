@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="a096ba55-b1c8-4047-a49f-237dc628fe2d">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ПроверкиКонтролирующимиОрганами" category="Object">
+				<xr:TypeId>f751fe31-4549-4500-9383-40e0ec7152d3</xr:TypeId>
+				<xr:ValueId>6480bd03-47ab-4fe2-a90c-6bfd41e8b03f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ПроверкиКонтролирующимиОрганами" category="Ref">
+				<xr:TypeId>e891d331-893e-43d3-a5a5-f97a6acefc53</xr:TypeId>
+				<xr:ValueId>a4996fd7-0ebe-46b3-a06d-8320c58d5f17</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ПроверкиКонтролирующимиОрганами" category="Selection">
+				<xr:TypeId>b9813a2e-9040-4b7a-bc41-4fe1d94b5e26</xr:TypeId>
+				<xr:ValueId>28b04100-5ac8-4dad-b271-580c23e8cbd9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ПроверкиКонтролирующимиОрганами" category="List">
+				<xr:TypeId>c0e74f24-c918-48c5-9d09-096373e9107e</xr:TypeId>
+				<xr:ValueId>5ae599e3-e969-4954-bb99-c06d53f37bb1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ПроверкиКонтролирующимиОрганами" category="Manager">
+				<xr:TypeId>c2be2e28-76f4-415a-a2a4-7817805c9b6f</xr:TypeId>
+				<xr:ValueId>49e90b9d-a8cd-42ae-9279-b55f78d0f1ee</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПроверкиКонтролирующимиОрганами</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>1f6895f1-761e-42c6-8d78-ae0b960696f7</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

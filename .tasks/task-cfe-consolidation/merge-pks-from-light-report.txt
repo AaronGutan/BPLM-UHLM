@@ -1,0 +1,31 @@
+merge-pks-from-light 2026-07-22 18:42:44
+light: e:\1C\AY\BPLM-UHLM-XML\BPLM-UHLM_light.xml
+target: e:\1C\AY\BPLM-UHLM-XML\BPLM-UH33LM.xml
+backup: e:\1C\AY\BPLM-UHLM-XML\BPLM-UH33LM.xml.bak-before-pks-merge
+
+LightPko = 1041
+Matched = 1041
+MissingInUh33 = 0
+PropertiesReplaced = 1041
+SettingsChanged = 31
+HandlersChanged = 2
+SearchBefore = 730
+SearchAfter = 1212
+GlobalHandlersSet = 2
+
+Samples (search fields):
+  Валюты : search 0 -> 1
+  СтатьиЗатрат : search 0 -> 6
+  РасходыБудущихПериодов : search 2 -> 8
+  ВидыДокументовФизическихЛиц : search 0 -> 3
+  СтраныМира : search 0 -> 7
+  Банки : search 0 -> 6
+  Пользователи : search 0 -> 1
+  ВидыКонтактнойИнформации : search 0 -> 7
+  ФизическиеЛица : search 0 -> 14
+  СтатьиДвиженияДенежныхСредств : search 0 -> 6
+  Номенклатура : search 0 -> 8
+  КлассификаторЕдиницИзмерения : search 0 -> 2
+  НоменклатурныеГруппы : search 0 -> 5
+  ВидыНоменклатуры : search 0 -> 2
+  ПрочиеДоходыИРасходы : search 0 -> 6

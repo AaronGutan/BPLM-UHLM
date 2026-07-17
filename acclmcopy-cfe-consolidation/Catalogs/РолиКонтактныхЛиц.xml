@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="f7823470-b781-4cfb-8da9-f9062b3efd1c">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.РолиКонтактныхЛиц" category="Object">
+				<xr:TypeId>2a9b164d-20bc-448a-868a-f9c3a75b64e2</xr:TypeId>
+				<xr:ValueId>e4c1f82c-d23e-4a39-9306-d238eb942ebf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.РолиКонтактныхЛиц" category="Ref">
+				<xr:TypeId>80d144c9-baf1-4d82-8412-f30092f09266</xr:TypeId>
+				<xr:ValueId>55cd37ea-b2b8-40ae-bbd6-e5db1f1117e6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.РолиКонтактныхЛиц" category="Selection">
+				<xr:TypeId>2835beaf-fd41-47ef-80e9-cff5e2394e25</xr:TypeId>
+				<xr:ValueId>3ef2e591-5aa3-4cbf-96df-4d16d1c93e53</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.РолиКонтактныхЛиц" category="List">
+				<xr:TypeId>466248c8-ec23-41fb-a94b-359d258f169e</xr:TypeId>
+				<xr:ValueId>ce7bc9aa-cf58-4ee6-bdcf-1d27cebcb945</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.РолиКонтактныхЛиц" category="Manager">
+				<xr:TypeId>4614d1fb-2aa8-427c-833c-11f416ffda12</xr:TypeId>
+				<xr:ValueId>87252584-61a3-4b28-acfe-72259c7ab741</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РолиКонтактныхЛиц</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>82f554e2-86f6-4bf9-8c7d-d1499fc88bc4</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

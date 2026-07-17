@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="35e05a9c-fbff-4c32-8954-652d1f53734d">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЗапросСреднегоЗаработкаСЭДО" category="Object">
+				<xr:TypeId>d3e1a02b-e69e-42e5-8b98-61d058549ef8</xr:TypeId>
+				<xr:ValueId>51fef5db-3e0e-49b2-a97a-94c5a90b1b2d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЗапросСреднегоЗаработкаСЭДО" category="Ref">
+				<xr:TypeId>28922925-c2ef-4b86-ae64-a9281f3676c9</xr:TypeId>
+				<xr:ValueId>10091044-d52c-4d63-9740-821a9afad60e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЗапросСреднегоЗаработкаСЭДО" category="Selection">
+				<xr:TypeId>89296284-8def-4abf-b84b-37456b07cf29</xr:TypeId>
+				<xr:ValueId>a278b5d7-6630-4d3c-980c-2c2875ab5bc4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЗапросСреднегоЗаработкаСЭДО" category="List">
+				<xr:TypeId>e5b4c398-d8a8-40d2-8b93-233c3dff59bf</xr:TypeId>
+				<xr:ValueId>759c261f-b946-435d-bb8e-ffb4f77db442</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЗапросСреднегоЗаработкаСЭДО" category="Manager">
+				<xr:TypeId>dee72e29-961e-4736-9603-d70e7f7f12bb</xr:TypeId>
+				<xr:ValueId>b7ce9347-347b-4c51-9ba8-706f5831a930</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗапросСреднегоЗаработкаСЭДО</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>cc5b7f11-d66a-4314-87f5-6ff224daf540</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

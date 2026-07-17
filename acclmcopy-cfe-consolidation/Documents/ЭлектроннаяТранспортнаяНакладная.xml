@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="1666a9cd-595e-456e-b8b5-11b724bacaeb">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЭлектроннаяТранспортнаяНакладная" category="Object">
+				<xr:TypeId>b0428218-8bad-4a38-b53e-aa6ce55a75f4</xr:TypeId>
+				<xr:ValueId>09498464-7129-4d73-a89e-45eac31161b6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЭлектроннаяТранспортнаяНакладная" category="Ref">
+				<xr:TypeId>846c4d9e-99f7-41c1-80e7-05db406d6e1f</xr:TypeId>
+				<xr:ValueId>9ef3d559-7136-428d-a856-4bb2b63b793e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЭлектроннаяТранспортнаяНакладная" category="Selection">
+				<xr:TypeId>f09867a7-0fc1-4794-ab98-3aa60e1e04c9</xr:TypeId>
+				<xr:ValueId>8994d69f-1129-43bd-a4d9-56a623edb1ca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЭлектроннаяТранспортнаяНакладная" category="List">
+				<xr:TypeId>9766e8cd-5e34-4a4f-843b-e900027e0053</xr:TypeId>
+				<xr:ValueId>20511835-461d-4647-bb7a-919e604fc969</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЭлектроннаяТранспортнаяНакладная" category="Manager">
+				<xr:TypeId>c921e715-4657-47c9-b125-93a3f24a7b94</xr:TypeId>
+				<xr:ValueId>f71dd688-5efb-4dca-8240-f92c460e54d8</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЭлектроннаяТранспортнаяНакладная</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f775261c-05f7-49b6-ae94-1188d7e09359</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

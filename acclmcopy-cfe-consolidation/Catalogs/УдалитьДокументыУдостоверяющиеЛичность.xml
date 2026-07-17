@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="e48dc6e1-11d3-45f7-a233-fb3789ac79fc">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьДокументыУдостоверяющиеЛичность" category="Object">
+				<xr:TypeId>b24666bf-ad95-483b-9765-b3808e0790f0</xr:TypeId>
+				<xr:ValueId>18a5fa51-4ba7-424a-9823-fdeea538d627</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьДокументыУдостоверяющиеЛичность" category="Ref">
+				<xr:TypeId>7da27b54-d227-458f-8c08-7f4975556aac</xr:TypeId>
+				<xr:ValueId>5db3f58b-0924-42dc-8ee7-e707b2c234be</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьДокументыУдостоверяющиеЛичность" category="Selection">
+				<xr:TypeId>3b711650-250f-4541-a32c-d9b93b7a69ff</xr:TypeId>
+				<xr:ValueId>17e851d3-4347-4530-8216-be5c0cb414bc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьДокументыУдостоверяющиеЛичность" category="List">
+				<xr:TypeId>51726bd6-7e34-49d6-bc04-a924db2c80c9</xr:TypeId>
+				<xr:ValueId>67e1a5a8-b563-4f68-b2c0-5019e39ad2e9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьДокументыУдостоверяющиеЛичность" category="Manager">
+				<xr:TypeId>aeb69bd3-80d7-4a97-83bf-ff0a76c1e311</xr:TypeId>
+				<xr:ValueId>2c51294c-c4c2-497d-ac1b-c99489152e26</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьДокументыУдостоверяющиеЛичность</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8c3dccd5-07cb-4908-b73f-287366424f60</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

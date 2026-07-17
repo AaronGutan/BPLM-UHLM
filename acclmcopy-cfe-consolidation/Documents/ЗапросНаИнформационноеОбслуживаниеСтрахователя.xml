@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="9560ff29-295b-4ee3-a89a-4906046a92b2">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЗапросНаИнформационноеОбслуживаниеСтрахователя" category="Object">
+				<xr:TypeId>e7c512cc-a69a-438c-8abc-1e56060d2172</xr:TypeId>
+				<xr:ValueId>35e2205e-3db0-4f0e-a226-66f410dadf46</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЗапросНаИнформационноеОбслуживаниеСтрахователя" category="Ref">
+				<xr:TypeId>7489ff1e-5aa4-41cc-9e55-d46407793b98</xr:TypeId>
+				<xr:ValueId>1b453807-f0bc-4f4a-b4cb-90bbfdd5405d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЗапросНаИнформационноеОбслуживаниеСтрахователя" category="Selection">
+				<xr:TypeId>01206de7-c0b3-4836-8436-33af1d051fed</xr:TypeId>
+				<xr:ValueId>6069602d-4364-4021-a9a7-49e0e0058ef6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЗапросНаИнформационноеОбслуживаниеСтрахователя" category="List">
+				<xr:TypeId>5cb9c278-6846-4899-886f-16fa99668476</xr:TypeId>
+				<xr:ValueId>0ba95e99-3c8a-4a51-a208-335bc004697d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЗапросНаИнформационноеОбслуживаниеСтрахователя" category="Manager">
+				<xr:TypeId>59b63fce-90e4-4687-9a18-92fd8be2e456</xr:TypeId>
+				<xr:ValueId>89b74f35-1ae0-4799-b36a-7c7b4a2c5149</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗапросНаИнформационноеОбслуживаниеСтрахователя</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>5b48277b-c19b-43b1-a217-41b6213709b2</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

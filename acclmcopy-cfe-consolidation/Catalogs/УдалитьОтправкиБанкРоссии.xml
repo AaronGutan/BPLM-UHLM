@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="d5b7e7ee-fedd-49b3-8d38-c20c74c8e10a">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьОтправкиБанкРоссии" category="Object">
+				<xr:TypeId>2323c67b-48bd-42fb-9483-69fd75d9a1bf</xr:TypeId>
+				<xr:ValueId>36ef2e71-d391-4cea-808c-09bb02825d8a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьОтправкиБанкРоссии" category="Ref">
+				<xr:TypeId>4ab061cf-dac2-4a4f-8354-79dd08ba820b</xr:TypeId>
+				<xr:ValueId>565dc788-787b-40c9-8fd2-254201d4a4a1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьОтправкиБанкРоссии" category="Selection">
+				<xr:TypeId>f473db83-c31d-4a12-b09d-49691463cc2e</xr:TypeId>
+				<xr:ValueId>3e21c7b1-b505-4d1a-a2d9-1848b9b85565</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьОтправкиБанкРоссии" category="List">
+				<xr:TypeId>279249f6-1efe-4835-976b-39e834a369fb</xr:TypeId>
+				<xr:ValueId>16beb6dd-3dc0-45b6-9668-15cb5f0ed242</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьОтправкиБанкРоссии" category="Manager">
+				<xr:TypeId>c5113ba0-1121-49ab-82a9-735c6ca70b0e</xr:TypeId>
+				<xr:ValueId>f5f44788-7013-49f3-ab02-a7729b02733b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьОтправкиБанкРоссии</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>43652a4c-25b4-46f5-8e68-1a8d8c7c3841</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

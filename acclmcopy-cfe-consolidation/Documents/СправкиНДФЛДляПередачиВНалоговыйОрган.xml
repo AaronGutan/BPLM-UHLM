@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Document uuid="88e0a031-a937-4a66-92bc-fb973ed80068">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="8a8e5602-35e5-432b-9896-b9aa85b0788b">
 		<InternalInfo>
 			<xr:GeneratedType name="DocumentObject.СправкиНДФЛДляПередачиВНалоговыйОрган" category="Object">
-				<xr:TypeId>762171ff-24d7-46f9-9a24-31ada4fe4c89</xr:TypeId>
-				<xr:ValueId>930bb2ec-4105-4a9e-ab8c-43fb6c067bb0</xr:ValueId>
+				<xr:TypeId>5389017c-f6ff-422d-a65a-44beba4437f9</xr:TypeId>
+				<xr:ValueId>a7acaac7-fd34-4f1a-9124-a73ed605d20d</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentRef.СправкиНДФЛДляПередачиВНалоговыйОрган" category="Ref">
-				<xr:TypeId>e39f4bd6-78f1-48b4-a84e-5dcf0149ecca</xr:TypeId>
-				<xr:ValueId>0fa6323d-34a9-4ebb-93f5-204cc8b9022a</xr:ValueId>
+				<xr:TypeId>25228150-b13b-4c22-867e-d6f08dc322e3</xr:TypeId>
+				<xr:ValueId>f6894d95-1807-4e00-937e-7b2536acb5cd</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentSelection.СправкиНДФЛДляПередачиВНалоговыйОрган" category="Selection">
-				<xr:TypeId>007247fa-65e3-47e6-a39c-730851ce16b9</xr:TypeId>
-				<xr:ValueId>23161baf-1939-4b41-9554-d62cf2af2200</xr:ValueId>
+				<xr:TypeId>90807e2d-78d4-41a2-927e-95230fcd99e2</xr:TypeId>
+				<xr:ValueId>4ff1c2f6-4792-4683-a8ee-ea75f806f5b8</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentList.СправкиНДФЛДляПередачиВНалоговыйОрган" category="List">
-				<xr:TypeId>15fc2561-e415-4d1f-8dad-121b345b9db2</xr:TypeId>
-				<xr:ValueId>985f7716-8857-4eb2-8ae9-8afb9c8af6cf</xr:ValueId>
+				<xr:TypeId>b89754a5-60d8-4cde-951d-f12b922ced9e</xr:TypeId>
+				<xr:ValueId>6b92ad68-25a6-4b5a-82d6-88f6a7753119</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentManager.СправкиНДФЛДляПередачиВНалоговыйОрган" category="Manager">
-				<xr:TypeId>451616bf-f505-4ed2-a014-27ca33fc5f01</xr:TypeId>
-				<xr:ValueId>29875399-2b74-43b2-a792-5a3bc2a602b9</xr:ValueId>
+				<xr:TypeId>90d834d2-8f3c-4e34-a86b-9e3a51881e90</xr:TypeId>
+				<xr:ValueId>40ee0e85-35c1-4706-9cc2-9fcc3e5f37f7</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -28,7 +28,6 @@
 			<Name>СправкиНДФЛДляПередачиВНалоговыйОрган</Name>
 			<Comment/>
 			<ExtendedConfigurationObject>efb9bfae-bf69-48cf-aeeb-f1252bdf0eb6</ExtendedConfigurationObject>
-			<RegisterRecords/>
 		</Properties>
 		<ChildObjects/>
 	</Document>

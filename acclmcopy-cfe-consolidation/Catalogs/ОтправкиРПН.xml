@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="90874443-fef3-411a-8331-58a16c813371">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ОтправкиРПН" category="Object">
+				<xr:TypeId>900ec396-9867-434a-81d2-a920ec1c6292</xr:TypeId>
+				<xr:ValueId>3c581265-6068-49c5-99dc-c5e49cb69a21</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ОтправкиРПН" category="Ref">
+				<xr:TypeId>83775285-5b4d-4acd-806f-fa60504512f7</xr:TypeId>
+				<xr:ValueId>c6df2a68-77fb-4695-aacd-400ff78472da</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ОтправкиРПН" category="Selection">
+				<xr:TypeId>7e50e4dd-0bc2-4573-9d79-2681cbb0306e</xr:TypeId>
+				<xr:ValueId>8da437d3-7cd1-4217-8fa4-b5bc8065628d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ОтправкиРПН" category="List">
+				<xr:TypeId>2a46c814-c867-4ab8-967b-52bae88c957a</xr:TypeId>
+				<xr:ValueId>c82f2152-0571-4ff1-9f9f-887441a91515</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ОтправкиРПН" category="Manager">
+				<xr:TypeId>6aab35ad-9776-47cf-8de4-362918287219</xr:TypeId>
+				<xr:ValueId>fcf14df2-eb5a-4656-9a8e-f9928457f508</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтправкиРПН</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>0cbcae80-5270-4366-9e08-ed928e9eee0b</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

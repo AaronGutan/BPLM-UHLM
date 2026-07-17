@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="d848e0df-4791-4528-889b-1e9de7731983">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НастройкиЗагрузкиДанныхВнешнихСистем" category="Object">
+				<xr:TypeId>fdd38b8e-eeb2-4e39-bf5c-5342684ede4a</xr:TypeId>
+				<xr:ValueId>e89d399e-eff1-4296-b3a2-ff97f8529a36</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НастройкиЗагрузкиДанныхВнешнихСистем" category="Ref">
+				<xr:TypeId>859e5eb1-aab7-4071-87af-98a392dea318</xr:TypeId>
+				<xr:ValueId>a7a1d94f-a1cf-4fdd-83ea-0ed1aa04af86</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НастройкиЗагрузкиДанныхВнешнихСистем" category="Selection">
+				<xr:TypeId>e868ac3d-ab1a-429c-af16-fe8ead3739b7</xr:TypeId>
+				<xr:ValueId>86105a70-13ca-4ec7-9a35-1b242c2f892c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НастройкиЗагрузкиДанныхВнешнихСистем" category="List">
+				<xr:TypeId>884350b1-7c64-470b-96f6-a63c32ddd350</xr:TypeId>
+				<xr:ValueId>059c55b7-76ad-4f20-83fc-612b4bcbd2f4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НастройкиЗагрузкиДанныхВнешнихСистем" category="Manager">
+				<xr:TypeId>92d76aaa-83e7-4b69-894c-6f885891d452</xr:TypeId>
+				<xr:ValueId>fdaad80f-b7e5-436a-bc08-1508110a9ac4</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НастройкиЗагрузкиДанныхВнешнихСистем</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>4d3bb5e1-d3fe-4589-b7b6-02aad92dc549</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

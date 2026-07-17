@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="c4681610-0478-4132-8b92-1b4e75923d5d">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УведомлениеОПеремещенииПрослеживаемыхТоваров" category="Object">
+				<xr:TypeId>9d76472d-efd8-4ea7-808d-7d60a063fd15</xr:TypeId>
+				<xr:ValueId>0a65d82f-ee27-4b33-98db-5058e6b9045a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УведомлениеОПеремещенииПрослеживаемыхТоваров" category="Ref">
+				<xr:TypeId>5666f149-f1a3-4795-a02b-1cf442ccaa74</xr:TypeId>
+				<xr:ValueId>389a3ec6-5c07-4093-bdab-92531e98f0de</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УведомлениеОПеремещенииПрослеживаемыхТоваров" category="Selection">
+				<xr:TypeId>99106f42-01f3-4483-87fc-c774d418ecd9</xr:TypeId>
+				<xr:ValueId>11a9fa46-4390-45e4-8ea2-c9dc9af6c16e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УведомлениеОПеремещенииПрослеживаемыхТоваров" category="List">
+				<xr:TypeId>3b8c0baa-1786-4704-b252-489d91e839f0</xr:TypeId>
+				<xr:ValueId>cba5e075-80f8-4294-bcb5-b965876681ad</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УведомлениеОПеремещенииПрослеживаемыхТоваров" category="Manager">
+				<xr:TypeId>4cb77d3f-eb02-4ffc-822a-17f396a05e53</xr:TypeId>
+				<xr:ValueId>49ae93bc-34ab-4308-b38e-24be2b3b6de4</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УведомлениеОПеремещенииПрослеживаемыхТоваров</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ce8eae05-6641-488e-9c1e-1d6632bb6142</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

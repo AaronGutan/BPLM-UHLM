@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="f836f95b-77e7-4b2e-bdb7-7017b94db075">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ИзменениеОтраженияРасходовПоАренднымПлатежамОС" category="Object">
+				<xr:TypeId>db610401-a70f-4223-8ca4-7af5abb61222</xr:TypeId>
+				<xr:ValueId>a3e34ea4-3b0b-491d-a819-dbb953de0de0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ИзменениеОтраженияРасходовПоАренднымПлатежамОС" category="Ref">
+				<xr:TypeId>7c90b859-2969-4ab7-ae3d-2cebb36c366c</xr:TypeId>
+				<xr:ValueId>27306cc6-018c-4633-ab65-b4cdb81bf880</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ИзменениеОтраженияРасходовПоАренднымПлатежамОС" category="Selection">
+				<xr:TypeId>ddfcfd32-7dad-4f3d-b66a-e4730d611c03</xr:TypeId>
+				<xr:ValueId>03f6bae0-3c4e-42a5-b0c2-db19c63c3ddf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ИзменениеОтраженияРасходовПоАренднымПлатежамОС" category="List">
+				<xr:TypeId>efbc77d5-688c-4e74-b002-d4ff71af7c08</xr:TypeId>
+				<xr:ValueId>10621d6a-1795-410f-a04c-a4198754d9cd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ИзменениеОтраженияРасходовПоАренднымПлатежамОС" category="Manager">
+				<xr:TypeId>fabe434b-8c74-416d-b079-7a98c73adb96</xr:TypeId>
+				<xr:ValueId>7c9c86ad-6b7e-403b-ad9d-f2a955bce642</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ИзменениеОтраженияРасходовПоАренднымПлатежамОС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>76ac7969-8390-4b09-b7f5-6b1cfd8bc6b1</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

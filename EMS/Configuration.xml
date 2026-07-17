@@ -71,8 +71,13 @@
 			<CommonModule>ОбменДаннымиПереопределяемый</CommonModule>
 			<CommonModule>ЦТ_ОбщегоНазначенияНаСервере</CommonModule>
 			<CommonModule>EMS_ПроверкаСинхронизации</CommonModule>
+			<CommonModule>EMS_ИзмененияПланаОбмена</CommonModule>
+			<CommonModule>EMS_Express</CommonModule>
 			<HTTPService>ЦТ_HTTP_Сверка</HTTPService>
+			<HTTPService>Express</HTTPService>
+			<HTTPService>EMS_ExpressData</HTTPService>
 			<ScheduledJob>EMS_ПроверкаСинхронизации</ScheduledJob>
+			<ScheduledJob>EMS_АктуализацияДанныхПослеСинхронизации</ScheduledJob>
 			<Catalog>EMS_ПараметрыБаз</Catalog>
 			<DataProcessor>КонвертацияОбъектовИнформационныхБаз</DataProcessor>
 			<DataProcessor>СопоставлениеОбъектовОбмена</DataProcessor>

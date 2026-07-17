@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="bb824917-19b7-48fa-8cc7-fdbc4bd08095">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ТиповыеОтветыНаЗаявкиКабинетСотрудника" category="Object">
+				<xr:TypeId>190dfe9d-2bc4-4ad9-a551-159804d5d7df</xr:TypeId>
+				<xr:ValueId>1ba75b0f-a3a0-4f17-ba44-2be6ecfef41b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ТиповыеОтветыНаЗаявкиКабинетСотрудника" category="Ref">
+				<xr:TypeId>74a71955-a6c0-42be-b0e8-a6ab008a95e8</xr:TypeId>
+				<xr:ValueId>2eb49c2f-7a4f-44e1-b0f3-be63ebfa7668</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ТиповыеОтветыНаЗаявкиКабинетСотрудника" category="Selection">
+				<xr:TypeId>5925b16a-fa4d-4044-bdca-4a95753a5356</xr:TypeId>
+				<xr:ValueId>111ed77c-97b1-4558-ba95-c3a0bc51360a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ТиповыеОтветыНаЗаявкиКабинетСотрудника" category="List">
+				<xr:TypeId>4fb0e645-ed7f-427d-8015-a61db99c7e4d</xr:TypeId>
+				<xr:ValueId>d1b62148-6ba7-4d46-a303-ae55c7ea7038</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ТиповыеОтветыНаЗаявкиКабинетСотрудника" category="Manager">
+				<xr:TypeId>c9f7649b-8ecc-4556-a151-29f01cd2a4b5</xr:TypeId>
+				<xr:ValueId>08157738-b8f4-448f-bfbd-ae45b1429e53</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ТиповыеОтветыНаЗаявкиКабинетСотрудника</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>5e97117e-b114-4c09-b025-d0eaedf11060</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

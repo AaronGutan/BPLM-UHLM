@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="8fccd849-bd7e-45e0-85cf-a20cae55829b">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ЛентыНовостей" category="Object">
+				<xr:TypeId>1321de15-f86d-4b9c-bb0a-f023c46e87c5</xr:TypeId>
+				<xr:ValueId>14d9cc7b-2169-4ca1-b762-e5bdb58aa6c1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ЛентыНовостей" category="Ref">
+				<xr:TypeId>fc6ae0e0-065c-4c53-9f96-814ce52a1d9c</xr:TypeId>
+				<xr:ValueId>f6da369f-c04e-4c21-ae6a-c14790c60124</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ЛентыНовостей" category="Selection">
+				<xr:TypeId>bbecf601-1b48-47ce-a116-dad6d8274bd5</xr:TypeId>
+				<xr:ValueId>c7b584a7-1618-4249-9ece-29c7ea55e3d1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ЛентыНовостей" category="List">
+				<xr:TypeId>75a1ce73-ceb3-40c0-a1d8-2c1c728a659d</xr:TypeId>
+				<xr:ValueId>2eeb6f70-456d-45d8-9bcf-88eec24e7e56</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ЛентыНовостей" category="Manager">
+				<xr:TypeId>609bd714-0ff2-4ee8-9b70-b083e92bfa27</xr:TypeId>
+				<xr:ValueId>f6c73942-fe53-496a-b6c0-3a73be29c650</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЛентыНовостей</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>28eef48b-ac29-4e18-a658-49354524d41e</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

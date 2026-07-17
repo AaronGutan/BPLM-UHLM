@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="9b8fb428-3cce-4c24-8924-b6759a98181b">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьНДФЛПерерасчет" category="Object">
+				<xr:TypeId>1d85ccd4-25cc-4714-a2b3-97b91ffc98fc</xr:TypeId>
+				<xr:ValueId>0ff71f85-21a4-447c-a32e-9ef2f61322f2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьНДФЛПерерасчет" category="Ref">
+				<xr:TypeId>22d4fe64-0089-4fbb-8cb3-e9570c4a012f</xr:TypeId>
+				<xr:ValueId>971d043c-5e8d-498b-b3bd-83a4a371ee5b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьНДФЛПерерасчет" category="Selection">
+				<xr:TypeId>7727652d-0914-40a1-8251-1b0eb2b4ccb9</xr:TypeId>
+				<xr:ValueId>1716d11b-6339-4c0f-b2d1-a32e9a88a0ce</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьНДФЛПерерасчет" category="List">
+				<xr:TypeId>03a9aa66-3f43-49b6-8994-c883bac153df</xr:TypeId>
+				<xr:ValueId>8bb4ff8f-a7d1-4151-9eea-faf98e49f4a8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьНДФЛПерерасчет" category="Manager">
+				<xr:TypeId>549bcdcf-439d-4023-861b-6def703bfb7e</xr:TypeId>
+				<xr:ValueId>ec05efa2-f7d5-42ee-85b9-5f854725467e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьНДФЛПерерасчет</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d1821c67-66a6-4b00-a152-b18d61405c90</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

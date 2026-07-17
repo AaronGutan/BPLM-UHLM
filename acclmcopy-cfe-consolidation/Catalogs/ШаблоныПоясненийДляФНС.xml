@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="ab66b6d4-6a37-4bcb-8523-bdea06e7ee26">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ШаблоныПоясненийДляФНС" category="Object">
+				<xr:TypeId>2f80bdfd-e271-418e-ba0e-4123bd9918df</xr:TypeId>
+				<xr:ValueId>1d0a925e-a0f0-459a-b6d7-d8f2d86ab5e7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ШаблоныПоясненийДляФНС" category="Ref">
+				<xr:TypeId>e3410efc-e7ba-410e-8816-5d9c2ab0ed45</xr:TypeId>
+				<xr:ValueId>61b61b8b-88ae-4d86-b2d4-e742081bce73</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ШаблоныПоясненийДляФНС" category="Selection">
+				<xr:TypeId>c874b0be-c5ea-4168-b528-61f0ef1df5a9</xr:TypeId>
+				<xr:ValueId>1b15e67e-64b7-4d7c-ae13-b934b8d792d6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ШаблоныПоясненийДляФНС" category="List">
+				<xr:TypeId>fd690057-7a6a-4809-9480-5a656e0e0b6c</xr:TypeId>
+				<xr:ValueId>1411799f-c490-4ff8-8ab9-999c21ff6c7f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ШаблоныПоясненийДляФНС" category="Manager">
+				<xr:TypeId>61f2eec0-aa9c-4bee-b3c4-27a221e33872</xr:TypeId>
+				<xr:ValueId>947a3381-cb36-43b4-be7f-cfe7ba08d0c9</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ШаблоныПоясненийДляФНС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f0ce9d12-94e8-4c8d-8910-5d4705936118</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="95b9f331-d5a8-4277-96a0-a1447c4ae482">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РегистрацияСведенийОЗастрахованномЛицеФСС" category="Object">
+				<xr:TypeId>3a1fac79-b53e-42de-9660-69555141115a</xr:TypeId>
+				<xr:ValueId>43e6e784-85ab-4948-b1c8-1a9cf0eac153</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РегистрацияСведенийОЗастрахованномЛицеФСС" category="Ref">
+				<xr:TypeId>3dc43407-b8e9-4aef-a939-75271ca4f656</xr:TypeId>
+				<xr:ValueId>8946b727-25fd-4b28-8c64-19d8d62849bb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РегистрацияСведенийОЗастрахованномЛицеФСС" category="Selection">
+				<xr:TypeId>8d2426b5-3d48-43a0-95c0-ef64a491c9c9</xr:TypeId>
+				<xr:ValueId>182baa2d-1242-4ccd-9e04-f9d3e44c1383</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РегистрацияСведенийОЗастрахованномЛицеФСС" category="List">
+				<xr:TypeId>a1678a58-6563-4b3b-b4ce-c18e4b6b9763</xr:TypeId>
+				<xr:ValueId>0f56b81e-d0b6-4d41-9e8c-2af9ed4bea70</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РегистрацияСведенийОЗастрахованномЛицеФСС" category="Manager">
+				<xr:TypeId>359dd6ae-81ea-4ffe-9fb6-fe113d3e1d76</xr:TypeId>
+				<xr:ValueId>5e7c98b8-acf6-4e63-94b9-e48c27ecbd8c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РегистрацияСведенийОЗастрахованномЛицеФСС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ae6a4109-7020-42f4-85be-5d338dd62399</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

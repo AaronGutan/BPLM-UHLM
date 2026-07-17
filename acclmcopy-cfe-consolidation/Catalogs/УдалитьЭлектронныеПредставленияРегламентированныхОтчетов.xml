@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="b2480ded-7059-4882-9139-b5bfda196b68">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьЭлектронныеПредставленияРегламентированныхОтчетов" category="Object">
+				<xr:TypeId>fe24590b-b5e9-4b50-9a0d-a7061077748f</xr:TypeId>
+				<xr:ValueId>66a4acbc-90c9-4550-8b77-dcf64952c500</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьЭлектронныеПредставленияРегламентированныхОтчетов" category="Ref">
+				<xr:TypeId>b18852e7-de18-4a4e-9158-5ae9f7ab0e88</xr:TypeId>
+				<xr:ValueId>c3fbd6d9-51a2-442d-ba2e-48bd6100150e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьЭлектронныеПредставленияРегламентированныхОтчетов" category="Selection">
+				<xr:TypeId>fa408d8a-00fa-46c4-a2a9-2bb3f3e322bd</xr:TypeId>
+				<xr:ValueId>d7809c8d-2bad-4650-900a-e2d8e59d348a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьЭлектронныеПредставленияРегламентированныхОтчетов" category="List">
+				<xr:TypeId>0dd541bb-13d6-43b2-bb87-08dc6c4f5694</xr:TypeId>
+				<xr:ValueId>4673f5e4-3d70-4c9d-b6b9-866601374bf9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьЭлектронныеПредставленияРегламентированныхОтчетов" category="Manager">
+				<xr:TypeId>bc2c5e38-b147-4466-a887-d905ed2e21a3</xr:TypeId>
+				<xr:ValueId>31abee9b-8ae8-47cd-81aa-2b8d4fd889ad</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьЭлектронныеПредставленияРегламентированныхОтчетов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e708df6b-cd8a-434a-8891-fd3e99fec065</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

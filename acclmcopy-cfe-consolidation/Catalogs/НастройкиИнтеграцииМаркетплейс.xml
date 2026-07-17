@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="a98af784-3d11-4672-9f69-f85c40dae2c0">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НастройкиИнтеграцииМаркетплейс" category="Object">
+				<xr:TypeId>54c22e17-27db-4ea2-bbab-3d73bc54356f</xr:TypeId>
+				<xr:ValueId>cefed920-7dfa-41cf-85a2-7d99121dc5da</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НастройкиИнтеграцииМаркетплейс" category="Ref">
+				<xr:TypeId>f03636ab-995c-4f0d-880a-208dca562c48</xr:TypeId>
+				<xr:ValueId>88607636-5cf5-4b6e-915f-6faa78abac90</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НастройкиИнтеграцииМаркетплейс" category="Selection">
+				<xr:TypeId>f1eb6991-ef2c-4c7f-824b-a1f25e6951eb</xr:TypeId>
+				<xr:ValueId>d7ec792e-80eb-4fb6-9bb5-7da6db1f6b65</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НастройкиИнтеграцииМаркетплейс" category="List">
+				<xr:TypeId>51208532-4ae6-485f-91c1-6b9b19b2514f</xr:TypeId>
+				<xr:ValueId>08e82343-0f6d-4c4d-8701-0cc934f16c74</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НастройкиИнтеграцииМаркетплейс" category="Manager">
+				<xr:TypeId>4a22382e-1a9f-46c2-b12b-8049c296de2d</xr:TypeId>
+				<xr:ValueId>6d438365-fe86-4d0c-b6df-db08b1c300f3</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НастройкиИнтеграцииМаркетплейс</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>b75a8e7c-227f-4a5b-8f09-7495d925cb7d</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

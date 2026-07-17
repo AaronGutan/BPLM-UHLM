@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="0481f459-b176-4033-99c3-2c08fa550e6b">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НастройкиПодключенияКПлатежнымСистемам" category="Object">
+				<xr:TypeId>5f2035f3-cd92-4773-846a-6c8d43f32c94</xr:TypeId>
+				<xr:ValueId>7cb82132-f49f-4cd6-b663-21db02c41c52</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НастройкиПодключенияКПлатежнымСистемам" category="Ref">
+				<xr:TypeId>8afc67a8-ca2d-432c-9c72-c4f768e4579c</xr:TypeId>
+				<xr:ValueId>d26191d4-9532-47e4-bc15-8fabab74d666</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НастройкиПодключенияКПлатежнымСистемам" category="Selection">
+				<xr:TypeId>6b30c768-b2be-47ae-83c3-ac71e9b12f06</xr:TypeId>
+				<xr:ValueId>b468a3e2-af86-4e8a-a337-6d6e4273694f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НастройкиПодключенияКПлатежнымСистемам" category="List">
+				<xr:TypeId>5571d0a6-9cf9-4249-90fa-03654571d383</xr:TypeId>
+				<xr:ValueId>490b7123-f947-4156-a8d5-59d54c96e7cd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НастройкиПодключенияКПлатежнымСистемам" category="Manager">
+				<xr:TypeId>a2b51741-4f47-4453-b642-33ec64e796c9</xr:TypeId>
+				<xr:ValueId>ba982e43-dfad-4c90-98b8-56a2987f0c63</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НастройкиПодключенияКПлатежнымСистемам</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>a080d2ee-41fe-432b-99ed-0343c21bad07</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

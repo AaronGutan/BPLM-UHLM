@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="3d0be9fe-1229-4aa0-9eb7-4a7072b4c73e">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.РеестрЭлеваторовЗЕРНО" category="Object">
+				<xr:TypeId>0b3275da-1bfe-4aed-a217-c1821a17f768</xr:TypeId>
+				<xr:ValueId>8272493e-94de-4792-9733-429698859823</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.РеестрЭлеваторовЗЕРНО" category="Ref">
+				<xr:TypeId>e5eb71a3-34b3-4ed5-9d67-d31a145f9162</xr:TypeId>
+				<xr:ValueId>fa77ff9e-db38-419c-ab1e-9689bac8f4c6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.РеестрЭлеваторовЗЕРНО" category="Selection">
+				<xr:TypeId>7dc5650b-95cb-402f-9f0a-90cb36ace391</xr:TypeId>
+				<xr:ValueId>ed79cf61-7aa8-4905-82a8-e6c55dd82d38</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.РеестрЭлеваторовЗЕРНО" category="List">
+				<xr:TypeId>801d43b8-81f3-4047-88df-96b00f451089</xr:TypeId>
+				<xr:ValueId>18a2fb81-197a-4466-9a9f-0e646ed1cbc1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.РеестрЭлеваторовЗЕРНО" category="Manager">
+				<xr:TypeId>8f67d650-2435-48c7-8144-e2d900875304</xr:TypeId>
+				<xr:ValueId>a1920677-ec76-4ff4-91bc-665ba0611bc6</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РеестрЭлеваторовЗЕРНО</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>b49f2795-bc1b-43d8-88ce-9c5361d9af29</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

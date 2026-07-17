@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="09d3d681-ded2-4ec9-9d7f-7b87c1bef621">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.КоммерческоеПредложение" category="Object">
+				<xr:TypeId>a2da1b6a-55b9-400c-bb24-618ac59198b1</xr:TypeId>
+				<xr:ValueId>1c788233-5807-4213-9abe-0367c1a1e922</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.КоммерческоеПредложение" category="Ref">
+				<xr:TypeId>60f4d1cd-5ec4-442d-93b0-74a9d3d502b4</xr:TypeId>
+				<xr:ValueId>aa6d8ec2-8494-44b1-9ce7-9caca235117f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.КоммерческоеПредложение" category="Selection">
+				<xr:TypeId>76d5de92-a5e1-4ae4-a715-1178ebaa8422</xr:TypeId>
+				<xr:ValueId>74c504ea-9df2-4c2e-9e11-9a63890844b7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.КоммерческоеПредложение" category="List">
+				<xr:TypeId>73a221b5-039f-46e1-b903-24d7f680f1b0</xr:TypeId>
+				<xr:ValueId>3a944459-0b2c-472d-abe2-e082a4c74e5b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.КоммерческоеПредложение" category="Manager">
+				<xr:TypeId>979b3d96-fcc9-40ba-881b-a59a962ed55b</xr:TypeId>
+				<xr:ValueId>0515e85b-d6b5-4070-9756-b9848d62c042</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КоммерческоеПредложение</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>9dc917a6-f035-4f80-ad10-784589e382a2</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

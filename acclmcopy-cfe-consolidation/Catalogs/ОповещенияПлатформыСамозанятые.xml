@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="558f9d71-f326-447f-8d30-616478faad7d">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ОповещенияПлатформыСамозанятые" category="Object">
+				<xr:TypeId>e2aca3f9-3a46-417e-b960-45e35e473e5a</xr:TypeId>
+				<xr:ValueId>904ca12c-b8d7-43fa-b320-543ed84feaad</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ОповещенияПлатформыСамозанятые" category="Ref">
+				<xr:TypeId>07222f28-82ed-4303-92fe-e0494450527d</xr:TypeId>
+				<xr:ValueId>0d1d9569-73ea-4e32-a97c-b7869c270af2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ОповещенияПлатформыСамозанятые" category="Selection">
+				<xr:TypeId>424d0d5c-f881-4e7d-9042-26e84e86cfc1</xr:TypeId>
+				<xr:ValueId>3fe816e7-c045-4719-9f00-145a0f808af0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ОповещенияПлатформыСамозанятые" category="List">
+				<xr:TypeId>859650f0-76b5-421b-9ca6-b6e5aa7fc6a1</xr:TypeId>
+				<xr:ValueId>b97fbaba-f280-4765-9bcb-54df94828191</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ОповещенияПлатформыСамозанятые" category="Manager">
+				<xr:TypeId>87b02ccc-2138-42e7-a989-4770343a3aee</xr:TypeId>
+				<xr:ValueId>3f8a39dc-9463-4533-a683-2fe034e68b79</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОповещенияПлатформыСамозанятые</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>93d448bd-0007-44d8-8fc1-ca09248e47c2</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

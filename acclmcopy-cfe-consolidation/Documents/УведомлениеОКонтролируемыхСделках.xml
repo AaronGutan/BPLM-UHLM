@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="2cdc5266-e45b-4e5b-a6b1-84e2bfc7a798">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УведомлениеОКонтролируемыхСделках" category="Object">
+				<xr:TypeId>9ad8bd24-544d-4ea8-822b-5d0ed77ed3f7</xr:TypeId>
+				<xr:ValueId>f968605a-7a35-4e56-b12f-49284f225834</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УведомлениеОКонтролируемыхСделках" category="Ref">
+				<xr:TypeId>c7b56f5d-d930-4619-b7a6-9f3975c78198</xr:TypeId>
+				<xr:ValueId>bb05b82e-24c5-4fca-a49e-675e33d234c7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УведомлениеОКонтролируемыхСделках" category="Selection">
+				<xr:TypeId>ac738b80-aa9b-49ab-ae65-cec78c78ae31</xr:TypeId>
+				<xr:ValueId>a4803401-3269-4325-916e-10030da275c4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УведомлениеОКонтролируемыхСделках" category="List">
+				<xr:TypeId>17cb2d2f-bdc9-4b3a-9f77-7771c2d1448f</xr:TypeId>
+				<xr:ValueId>8c049b09-44a3-4477-9305-0c9f569809ca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УведомлениеОКонтролируемыхСделках" category="Manager">
+				<xr:TypeId>4e788add-dbfe-4d3d-97de-04f9b301b13d</xr:TypeId>
+				<xr:ValueId>ceec3c1c-9223-4d99-beb6-453b75162fd7</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УведомлениеОКонтролируемыхСделках</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>a541febb-db0b-4b21-be2c-677daebda537</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

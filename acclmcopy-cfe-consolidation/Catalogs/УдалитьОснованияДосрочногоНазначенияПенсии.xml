@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="26796c5e-62a2-472c-98ba-9f8a343e7a70">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьОснованияДосрочногоНазначенияПенсии" category="Object">
+				<xr:TypeId>5483242e-eaa1-43dc-96af-239fe43a0fc8</xr:TypeId>
+				<xr:ValueId>3a9981b0-7df3-455c-bc58-da6e9a228c94</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьОснованияДосрочногоНазначенияПенсии" category="Ref">
+				<xr:TypeId>271491ce-d9a1-45cd-8880-f6d392711c72</xr:TypeId>
+				<xr:ValueId>6a04400c-6fda-4d6d-86fa-21d36bb14f4a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьОснованияДосрочногоНазначенияПенсии" category="Selection">
+				<xr:TypeId>b0b51964-ad2d-4f18-a6ea-075cc935d4fc</xr:TypeId>
+				<xr:ValueId>bf96dc17-3283-4f6a-b316-2d4c5d4bd85a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьОснованияДосрочногоНазначенияПенсии" category="List">
+				<xr:TypeId>c87d643f-e8d7-469e-a8a5-df0ffb652347</xr:TypeId>
+				<xr:ValueId>1c3b612b-9782-47c4-8695-8a884640437a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьОснованияДосрочногоНазначенияПенсии" category="Manager">
+				<xr:TypeId>2c142a1e-e0a2-4561-85b2-7335d2e5b703</xr:TypeId>
+				<xr:ValueId>54400535-1037-411d-a6a8-1af04cbc4454</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьОснованияДосрочногоНазначенияПенсии</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>c87204ef-f7f0-48ba-b8f4-8e7df6751829</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

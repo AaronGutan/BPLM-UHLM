@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Document uuid="6ee98bec-e16f-41ac-86cf-4efb0ad4dcdd">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="41e351f6-0cdb-499a-9e7a-95b6fdc6ed3a">
 		<InternalInfo>
 			<xr:GeneratedType name="DocumentObject.ФормированиеЗаписейКнигиПокупок" category="Object">
-				<xr:TypeId>5e860fa5-dca2-4c8c-8658-ea3df7698bf9</xr:TypeId>
-				<xr:ValueId>d3125f89-e881-412f-bb49-91202553db53</xr:ValueId>
+				<xr:TypeId>44167976-9222-4d90-9b27-c3357c82547c</xr:TypeId>
+				<xr:ValueId>5a303f08-6188-4f84-a670-f10a8af8ad12</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentRef.ФормированиеЗаписейКнигиПокупок" category="Ref">
-				<xr:TypeId>52ff14e5-a2ec-4777-bd34-d96c22e414df</xr:TypeId>
-				<xr:ValueId>baf95f1b-0195-4cce-afd7-c614415a5e75</xr:ValueId>
+				<xr:TypeId>c089ef64-5c6c-46e6-81f0-9d9962fae71d</xr:TypeId>
+				<xr:ValueId>3dec510f-07b8-4901-939e-9136483524aa</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentSelection.ФормированиеЗаписейКнигиПокупок" category="Selection">
-				<xr:TypeId>eb08972a-55c1-4ef5-9648-532638ec9e5a</xr:TypeId>
-				<xr:ValueId>d95e29d2-6a2f-447d-874a-c2f213aced81</xr:ValueId>
+				<xr:TypeId>3b0835fa-3fa5-441a-8062-431f1205c0a2</xr:TypeId>
+				<xr:ValueId>076837d2-fb4f-411c-9cb6-4b5e15c663cf</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentList.ФормированиеЗаписейКнигиПокупок" category="List">
-				<xr:TypeId>4bae401d-f3b9-404e-a338-70538453e814</xr:TypeId>
-				<xr:ValueId>395236f6-38dd-4d45-9e09-1b85708da407</xr:ValueId>
+				<xr:TypeId>c6028f31-132e-4fd5-b7d2-2ff450f78963</xr:TypeId>
+				<xr:ValueId>6afeab3a-48d4-4e9e-bd73-c82779476db1</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentManager.ФормированиеЗаписейКнигиПокупок" category="Manager">
-				<xr:TypeId>c433d742-68ff-41f7-9d89-5d64ede58037</xr:TypeId>
-				<xr:ValueId>9de0b651-7d1b-4d9e-8f55-1fa5c105a0ac</xr:ValueId>
+				<xr:TypeId>dbf5b982-edf8-4c38-95f7-875f8441efba</xr:TypeId>
+				<xr:ValueId>f95b3653-6fb4-4db9-a1c3-e1d3cb64e552</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -28,7 +28,6 @@
 			<Name>ФормированиеЗаписейКнигиПокупок</Name>
 			<Comment/>
 			<ExtendedConfigurationObject>501046e2-387f-4db8-bd49-d3aa1c28f234</ExtendedConfigurationObject>
-			<RegisterRecords/>
 		</Properties>
 		<ChildObjects/>
 	</Document>

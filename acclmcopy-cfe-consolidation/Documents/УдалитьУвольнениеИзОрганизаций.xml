@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="377628b4-be08-45fb-820c-4937ba88c43c">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьУвольнениеИзОрганизаций" category="Object">
+				<xr:TypeId>3f02302f-c4f8-4696-bf6d-04cbc426ef79</xr:TypeId>
+				<xr:ValueId>05ea5591-7252-4a5b-b4e4-4912caad9e54</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьУвольнениеИзОрганизаций" category="Ref">
+				<xr:TypeId>295aee22-83be-4c8e-8ff0-5b9ccb9edfc4</xr:TypeId>
+				<xr:ValueId>6f97f901-0fcc-4983-808d-b9d06a4b2a71</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьУвольнениеИзОрганизаций" category="Selection">
+				<xr:TypeId>f40637c1-598c-4c59-b7f6-052cc977ece7</xr:TypeId>
+				<xr:ValueId>808ed205-6739-4426-b517-982f1fb4fd02</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьУвольнениеИзОрганизаций" category="List">
+				<xr:TypeId>66883888-54c7-48e1-a1a1-0122dc7b98da</xr:TypeId>
+				<xr:ValueId>7c25ab8a-e8a2-4af4-9aba-b9d31631df49</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьУвольнениеИзОрганизаций" category="Manager">
+				<xr:TypeId>0724a8d0-5571-4b28-97b3-a92e8effa636</xr:TypeId>
+				<xr:ValueId>438ebce2-4e7a-4b6c-8a4d-e5be7a94821d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьУвольнениеИзОрганизаций</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e51031ab-5cb5-449a-91ed-e21915aa17af</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

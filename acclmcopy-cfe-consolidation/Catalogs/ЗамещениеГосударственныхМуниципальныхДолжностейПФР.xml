@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="242a5220-f8e8-4d00-bb76-492d28984fd6">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ЗамещениеГосударственныхМуниципальныхДолжностейПФР" category="Object">
+				<xr:TypeId>fb4b8925-eaa5-45c6-81df-4d6e131cd8f2</xr:TypeId>
+				<xr:ValueId>b5e9ad45-9607-47f8-b48c-d24bcecae50d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ЗамещениеГосударственныхМуниципальныхДолжностейПФР" category="Ref">
+				<xr:TypeId>e853e625-3147-4abd-bb59-c775df359db6</xr:TypeId>
+				<xr:ValueId>1aa12e85-8398-4af1-958f-99a3ae01b913</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ЗамещениеГосударственныхМуниципальныхДолжностейПФР" category="Selection">
+				<xr:TypeId>36144447-1a5d-4150-aee3-643e7b7124e9</xr:TypeId>
+				<xr:ValueId>596f44c9-aff3-45fc-91d8-a5ac1f9827d0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ЗамещениеГосударственныхМуниципальныхДолжностейПФР" category="List">
+				<xr:TypeId>da8e1047-abaf-4272-9d0b-47adb549824f</xr:TypeId>
+				<xr:ValueId>ac3f1c9d-97c3-4a07-8ee6-548f8e3050cc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ЗамещениеГосударственныхМуниципальныхДолжностейПФР" category="Manager">
+				<xr:TypeId>777ff6e6-97a8-49ff-87ca-89a8c4ad8e02</xr:TypeId>
+				<xr:ValueId>064d66b4-0452-4ba3-8d73-17d85deca359</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗамещениеГосударственныхМуниципальныхДолжностейПФР</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8f32bb9c-82f3-4bbc-8188-c0188a253cdc</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

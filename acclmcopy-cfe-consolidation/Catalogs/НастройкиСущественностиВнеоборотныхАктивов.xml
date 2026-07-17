@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="99249b45-c851-4105-b090-bf40d9e01340">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НастройкиСущественностиВнеоборотныхАктивов" category="Object">
+				<xr:TypeId>c0c76218-5614-4766-8c67-b348d17ad4ab</xr:TypeId>
+				<xr:ValueId>7acaba16-bd27-49ac-93a4-9fe256fed337</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НастройкиСущественностиВнеоборотныхАктивов" category="Ref">
+				<xr:TypeId>f6101e27-b610-4e8c-bd6b-16dcd0a0b137</xr:TypeId>
+				<xr:ValueId>5e3b00cb-1eeb-4f67-b810-dc36fbea223e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НастройкиСущественностиВнеоборотныхАктивов" category="Selection">
+				<xr:TypeId>722c6905-785a-4bc5-8960-2b0a3c850631</xr:TypeId>
+				<xr:ValueId>06f577e4-1764-4d96-ac42-a381e129e2c9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НастройкиСущественностиВнеоборотныхАктивов" category="List">
+				<xr:TypeId>7d5560e9-73ea-4d9e-ba07-f8e5d5e37136</xr:TypeId>
+				<xr:ValueId>940954a3-c55c-47ad-a1ce-be51a58dc318</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НастройкиСущественностиВнеоборотныхАктивов" category="Manager">
+				<xr:TypeId>18d82326-e423-4a0e-a8e6-99ef87a8f994</xr:TypeId>
+				<xr:ValueId>00942de5-7650-4556-8def-a4c2e470b792</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НастройкиСущественностиВнеоборотныхАктивов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>854d651f-86b9-4356-a98f-65f1391c801f</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

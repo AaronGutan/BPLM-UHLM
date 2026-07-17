@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="f8ef351d-61c8-4d13-a928-86c09f396fdf">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СписокСтатейЗатратВключенныхВБазуРаспределенияКосвенныхРасходов" category="Object">
+				<xr:TypeId>7cd29d7d-5ff4-4968-9785-39d9b39045d9</xr:TypeId>
+				<xr:ValueId>769bdc9d-5b9f-4059-9b38-58e244b25056</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СписокСтатейЗатратВключенныхВБазуРаспределенияКосвенныхРасходов" category="Ref">
+				<xr:TypeId>d61b44ae-f9d7-49a1-9cc6-97fb1fb533b5</xr:TypeId>
+				<xr:ValueId>2affc017-cd1a-4573-b0d4-5e4255f3dcdf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СписокСтатейЗатратВключенныхВБазуРаспределенияКосвенныхРасходов" category="Selection">
+				<xr:TypeId>6094cc7a-7479-4862-9127-c50c3d1e8173</xr:TypeId>
+				<xr:ValueId>70ef5d91-2a7c-400e-a8fe-083e110ee151</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СписокСтатейЗатратВключенныхВБазуРаспределенияКосвенныхРасходов" category="List">
+				<xr:TypeId>5ecd015b-b158-4047-9bf4-769428ef63ef</xr:TypeId>
+				<xr:ValueId>0b89f26d-18e2-4dd4-9546-923171b33381</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СписокСтатейЗатратВключенныхВБазуРаспределенияКосвенныхРасходов" category="Manager">
+				<xr:TypeId>e701af64-2fec-47af-9eff-7dcd4581ce96</xr:TypeId>
+				<xr:ValueId>04b78791-d258-46ca-bc8d-78d515445523</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СписокСтатейЗатратВключенныхВБазуРаспределенияКосвенныхРасходов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>96143b4f-922d-4ea0-b055-8dc68b0e41d0</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

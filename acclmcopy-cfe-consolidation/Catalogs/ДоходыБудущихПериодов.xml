@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Catalog uuid="5861d3bc-9f2e-4655-9938-5e0bfb9fcffa">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="b5e001a4-4220-4479-a1cd-9c5c26c75bab">
 		<InternalInfo>
 			<xr:GeneratedType name="CatalogObject.ДоходыБудущихПериодов" category="Object">
-				<xr:TypeId>750e7505-1b31-4d9d-b710-fd1b1d484c7f</xr:TypeId>
-				<xr:ValueId>9ac5fcfb-dea2-4b1b-9668-4e93ec02fe15</xr:ValueId>
+				<xr:TypeId>5e05060e-aaeb-4f37-a0ec-eb6e2eb34187</xr:TypeId>
+				<xr:ValueId>2e1fad52-c9aa-4c11-a8ef-3fafae820d4c</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogRef.ДоходыБудущихПериодов" category="Ref">
-				<xr:TypeId>7a29724b-17b4-4f30-b0a7-d78fb0e9de05</xr:TypeId>
-				<xr:ValueId>d2a17382-0f7a-472f-b991-7223dc0b1537</xr:ValueId>
+				<xr:TypeId>fada4d91-8f66-4b4b-ae98-e7dd408d193e</xr:TypeId>
+				<xr:ValueId>1f33db1f-8153-4601-a69a-f3aa36847751</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogSelection.ДоходыБудущихПериодов" category="Selection">
-				<xr:TypeId>7afe740c-6ae0-458a-96e4-e38fccb1353d</xr:TypeId>
-				<xr:ValueId>6eac54c9-aefa-4aa6-9b51-76f455fc3a58</xr:ValueId>
+				<xr:TypeId>411ca998-74c8-4652-bf2e-25dc865dc2e3</xr:TypeId>
+				<xr:ValueId>535575a9-1e8c-43d6-8fe8-1c29249e72b8</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogList.ДоходыБудущихПериодов" category="List">
-				<xr:TypeId>a10f8f4a-0fac-4f9a-911a-c8bd96293454</xr:TypeId>
-				<xr:ValueId>a79f7cf8-a0d7-4c46-a034-c51ed2136baa</xr:ValueId>
+				<xr:TypeId>da0abc60-adad-403f-89b7-a0f23a7f3647</xr:TypeId>
+				<xr:ValueId>70880711-1fc8-448c-a2a8-7d022c0ae618</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogManager.ДоходыБудущихПериодов" category="Manager">
-				<xr:TypeId>be5127f6-d56d-4d19-8f9f-04fc37b4ba29</xr:TypeId>
-				<xr:ValueId>3cf992c2-134c-497d-89f5-03d06d035d6e</xr:ValueId>
+				<xr:TypeId>621271bb-9b43-4079-9153-6b6cfc7c6dca</xr:TypeId>
+				<xr:ValueId>2bdd1082-f519-4fc2-b336-b97743068333</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="97bae4a5-1904-43da-9884-6b6011306005">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НастройкиРегламентныхЗаданийЗЕРНО" category="Object">
+				<xr:TypeId>41ea412b-966e-4bb2-b3ce-f3525072a239</xr:TypeId>
+				<xr:ValueId>d86d2da9-badc-4786-a120-7cf2d6f9c0d3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НастройкиРегламентныхЗаданийЗЕРНО" category="Ref">
+				<xr:TypeId>0aaddd28-b019-45c9-a1ef-eb566204c4da</xr:TypeId>
+				<xr:ValueId>f2e2aba5-c4be-4415-8e17-ea1845ad4f09</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НастройкиРегламентныхЗаданийЗЕРНО" category="Selection">
+				<xr:TypeId>758a19fd-fe3b-4192-80f8-535755b4ffbb</xr:TypeId>
+				<xr:ValueId>dbe039b3-da81-44d3-a08f-3258b32f4a0f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НастройкиРегламентныхЗаданийЗЕРНО" category="List">
+				<xr:TypeId>353e3f09-87aa-4d1b-93eb-22b2cb896c99</xr:TypeId>
+				<xr:ValueId>97088862-82a8-4559-abb1-7db7279b86da</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НастройкиРегламентныхЗаданийЗЕРНО" category="Manager">
+				<xr:TypeId>9e9b9e9e-12e6-4ae7-8ff9-6b7bbe1a8943</xr:TypeId>
+				<xr:ValueId>b3917b91-f786-4d61-8e41-39c2bd5e0230</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НастройкиРегламентныхЗаданийЗЕРНО</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>4140706d-620d-45df-bedd-b9f89debd9a8</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

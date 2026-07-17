@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="d5059c49-0f10-4089-adbe-420f21666c4e">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ДанныеОКорректировкеСведенийЗастрахованныхЛицСЗВ_КОРР" category="Object">
+				<xr:TypeId>b1bd4c77-8a65-48af-a4b9-3c7af1d2fae4</xr:TypeId>
+				<xr:ValueId>5c66c611-e2c0-404d-9f88-15c896c3861a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ДанныеОКорректировкеСведенийЗастрахованныхЛицСЗВ_КОРР" category="Ref">
+				<xr:TypeId>bd503e21-53c9-4552-afca-1df691f4ee66</xr:TypeId>
+				<xr:ValueId>ff5aa164-4d9d-4039-816f-2726a5f85e4a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ДанныеОКорректировкеСведенийЗастрахованныхЛицСЗВ_КОРР" category="Selection">
+				<xr:TypeId>195971b7-f711-44ff-a327-04d297a34034</xr:TypeId>
+				<xr:ValueId>82d00a7b-4979-4e6a-b797-a65adcd7b5ff</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ДанныеОКорректировкеСведенийЗастрахованныхЛицСЗВ_КОРР" category="List">
+				<xr:TypeId>03d96e7a-dbd2-44ea-ad34-d10d19a5155c</xr:TypeId>
+				<xr:ValueId>e7940cd8-cd7c-4ff3-ab74-1a59e3615b32</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ДанныеОКорректировкеСведенийЗастрахованныхЛицСЗВ_КОРР" category="Manager">
+				<xr:TypeId>f24ee7c5-3f44-4ebd-8bd6-2c8df54c9ec0</xr:TypeId>
+				<xr:ValueId>31d63f84-068d-4597-bee5-0173c33d7ace</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ДанныеОКорректировкеСведенийЗастрахованныхЛицСЗВ_КОРР</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>7b5a01d6-dcd2-4a4a-80a2-fa0303bdddd3</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

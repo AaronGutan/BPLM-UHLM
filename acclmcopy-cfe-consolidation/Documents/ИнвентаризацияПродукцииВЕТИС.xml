@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="6b0c4af5-b571-4c04-80c3-ddfcd033d007">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ИнвентаризацияПродукцииВЕТИС" category="Object">
+				<xr:TypeId>d4104e03-736a-4cf4-bb68-c23e39a81a84</xr:TypeId>
+				<xr:ValueId>f2496a8a-77fc-4785-814f-5f430aa7be7b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ИнвентаризацияПродукцииВЕТИС" category="Ref">
+				<xr:TypeId>e849b44d-6adc-4ff7-9e5b-fa383e1e4658</xr:TypeId>
+				<xr:ValueId>be833dac-2ca9-4865-9441-4b4867e03dcd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ИнвентаризацияПродукцииВЕТИС" category="Selection">
+				<xr:TypeId>613bfa24-1e84-4892-bcd2-940fa533f5a4</xr:TypeId>
+				<xr:ValueId>a89833e0-1954-4674-ab4e-1353e7984f8e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ИнвентаризацияПродукцииВЕТИС" category="List">
+				<xr:TypeId>820123e0-3c26-4cdc-ab8e-bd9b96c48043</xr:TypeId>
+				<xr:ValueId>16002616-287c-444b-b444-547da5bd1569</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ИнвентаризацияПродукцииВЕТИС" category="Manager">
+				<xr:TypeId>afb617a9-7273-45f8-8fe7-2b659af66350</xr:TypeId>
+				<xr:ValueId>1d1433d5-f163-4a87-99fd-f20c7426c2a1</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ИнвентаризацияПродукцииВЕТИС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>9830a472-2e1a-4317-9ae4-551b2a704b1d</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

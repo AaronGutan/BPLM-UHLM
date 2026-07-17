@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="41b269a8-9183-4b58-8d8c-b846e1d320f1">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ВыгрузкаРегламентированныхОтчетов" category="Object">
+				<xr:TypeId>9dd850cd-492f-4985-a65d-81ffd8cdd080</xr:TypeId>
+				<xr:ValueId>1be1276d-c358-4afc-8ea1-097d621f3b52</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ВыгрузкаРегламентированныхОтчетов" category="Ref">
+				<xr:TypeId>254d888e-7782-4431-ad2b-daf7c8203795</xr:TypeId>
+				<xr:ValueId>8f6030e0-e1e7-48d5-9680-95e94877fb61</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ВыгрузкаРегламентированныхОтчетов" category="Selection">
+				<xr:TypeId>e139a753-76e7-4405-b574-fc36f32ef02b</xr:TypeId>
+				<xr:ValueId>55f2d59b-6ef8-427d-9c0d-b7c126f58faa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ВыгрузкаРегламентированныхОтчетов" category="List">
+				<xr:TypeId>1ecced1e-6cf0-49a1-9854-5c5f93c7e531</xr:TypeId>
+				<xr:ValueId>796076b6-c411-4b73-849f-f770bd7ad4ca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ВыгрузкаРегламентированныхОтчетов" category="Manager">
+				<xr:TypeId>e2e4b6df-6f44-425a-9669-0de4e760a7f4</xr:TypeId>
+				<xr:ValueId>f67a26aa-1341-450f-bf5d-cf0e4f3e588e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВыгрузкаРегламентированныхОтчетов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>3f0a06ac-621e-40e3-8240-6da387ed4b4b</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

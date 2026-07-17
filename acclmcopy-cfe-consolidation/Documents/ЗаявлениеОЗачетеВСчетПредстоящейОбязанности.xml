@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Document uuid="6eb3b2f3-35f2-455b-ad25-13a034322e9c">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="abc3af63-0fbe-4907-81c6-48f9529a239f">
 		<InternalInfo>
 			<xr:GeneratedType name="DocumentObject.ЗаявлениеОЗачетеВСчетПредстоящейОбязанности" category="Object">
-				<xr:TypeId>00a17d1b-44c4-4c46-8af4-fc9526d374fe</xr:TypeId>
-				<xr:ValueId>0209a0d3-5b90-4d9c-9fb2-f7422f7f7685</xr:ValueId>
+				<xr:TypeId>58e9ae3c-dea3-4aa8-ac1f-a660a02bca14</xr:TypeId>
+				<xr:ValueId>dc2db2f6-1fed-41ba-9590-a63f5717eee2</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentRef.ЗаявлениеОЗачетеВСчетПредстоящейОбязанности" category="Ref">
-				<xr:TypeId>0d151d5d-da22-4faf-9db3-be41f5dbf6f1</xr:TypeId>
-				<xr:ValueId>06e6a897-38eb-49fb-a97b-1478667b2e10</xr:ValueId>
+				<xr:TypeId>23aaf938-0490-4719-a11a-4cb9e5fd0e31</xr:TypeId>
+				<xr:ValueId>0b78a0bb-40f5-4250-9033-1328ea0d86df</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentSelection.ЗаявлениеОЗачетеВСчетПредстоящейОбязанности" category="Selection">
-				<xr:TypeId>ebadf37c-1ed6-4f88-9aa4-9feedd7eeb0c</xr:TypeId>
-				<xr:ValueId>f07523f0-273e-4d93-8ad4-a59074da825d</xr:ValueId>
+				<xr:TypeId>657bd96f-bb2a-4ad6-82ff-e76baa328497</xr:TypeId>
+				<xr:ValueId>ecfd9391-8258-4cb3-a858-993ef7e19a7c</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentList.ЗаявлениеОЗачетеВСчетПредстоящейОбязанности" category="List">
-				<xr:TypeId>a89ccecb-218c-401c-b569-4f95a09f3ae2</xr:TypeId>
-				<xr:ValueId>fd6678dc-e326-410b-bcd4-3641dafc79b2</xr:ValueId>
+				<xr:TypeId>b1c8c077-56db-42f7-9fae-38dadd19fdb7</xr:TypeId>
+				<xr:ValueId>997b3d42-4c05-4e82-abfb-c73d386e267f</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentManager.ЗаявлениеОЗачетеВСчетПредстоящейОбязанности" category="Manager">
-				<xr:TypeId>aa2a1901-e403-42c2-aa55-23c3f5da4b26</xr:TypeId>
-				<xr:ValueId>0af82231-9754-4b7b-8016-bd6dc666f118</xr:ValueId>
+				<xr:TypeId>1e2657be-d872-459b-9932-470d108dd53a</xr:TypeId>
+				<xr:ValueId>88f5770e-eb86-4b34-8b01-1e1d0cd9b1b9</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -28,7 +28,6 @@
 			<Name>ЗаявлениеОЗачетеВСчетПредстоящейОбязанности</Name>
 			<Comment/>
 			<ExtendedConfigurationObject>496dcfae-8e5e-4568-acbf-cd554b7b4797</ExtendedConfigurationObject>
-			<RegisterRecords/>
 		</Properties>
 		<ChildObjects/>
 	</Document>

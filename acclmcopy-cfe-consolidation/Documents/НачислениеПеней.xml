@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Document uuid="f85d51bf-6ec3-4a35-ad28-a0f1111edc98">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="6bddedc0-f7dc-4761-8832-312e7d89d8b8">
 		<InternalInfo>
 			<xr:GeneratedType name="DocumentObject.НачислениеПеней" category="Object">
-				<xr:TypeId>dfe1342f-4166-496e-9aca-87564b6b5804</xr:TypeId>
-				<xr:ValueId>c9c71327-eb8b-41a9-82c1-e1ce3d69049c</xr:ValueId>
+				<xr:TypeId>ec0890b9-d1bf-412c-8ac8-b701cf6c4104</xr:TypeId>
+				<xr:ValueId>1cfd7422-f437-422a-88e3-1a39d2870309</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentRef.НачислениеПеней" category="Ref">
-				<xr:TypeId>7002eed1-cb74-40ce-81da-290b38999ef8</xr:TypeId>
-				<xr:ValueId>621d9b6b-12b3-4a2a-a15f-4c5e807f70b4</xr:ValueId>
+				<xr:TypeId>67336eff-2446-493b-8e29-a2c294d4d956</xr:TypeId>
+				<xr:ValueId>9a7daba5-800f-4d5b-adfc-9731f3221acc</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentSelection.НачислениеПеней" category="Selection">
-				<xr:TypeId>c29a64ec-f5aa-4ff3-a48c-0041aa47a7ba</xr:TypeId>
-				<xr:ValueId>f858015e-ad1a-44a2-873d-803039f38ce5</xr:ValueId>
+				<xr:TypeId>5fda1e44-af53-4957-b77a-53f8d0a71efa</xr:TypeId>
+				<xr:ValueId>606ba36e-a3c9-493f-8663-074bf30aec2d</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentList.НачислениеПеней" category="List">
-				<xr:TypeId>7879462e-4643-4d0d-b0c6-967b387fd1fa</xr:TypeId>
-				<xr:ValueId>667e091a-13fb-4a8d-85b2-45836166e62b</xr:ValueId>
+				<xr:TypeId>c38edbca-8e62-46f2-8a14-1dfdde04b5f9</xr:TypeId>
+				<xr:ValueId>6bf4de92-044a-43b4-a703-86f9c7485dd1</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentManager.НачислениеПеней" category="Manager">
-				<xr:TypeId>9175b3f1-b588-419a-a72f-181563c3dff7</xr:TypeId>
-				<xr:ValueId>7138ef8a-fac8-4b71-916f-eb92722a569f</xr:ValueId>
+				<xr:TypeId>c4a8d409-35ce-42aa-990c-a86348c65488</xr:TypeId>
+				<xr:ValueId>60e362f9-eed0-4a2c-8d0b-24343246ac98</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -28,7 +28,6 @@
 			<Name>НачислениеПеней</Name>
 			<Comment/>
 			<ExtendedConfigurationObject>7f4680a8-3ddb-4a32-90c1-18b82dc5f4ac</ExtendedConfigurationObject>
-			<RegisterRecords/>
 		</Properties>
 		<ChildObjects/>
 	</Document>

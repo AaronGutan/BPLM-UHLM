@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="05f60e50-9827-46f4-95bf-4ec664323dea">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ПродукцияВЕТИС" category="Object">
+				<xr:TypeId>5983e809-88dd-40cd-85f9-610186b7e5e4</xr:TypeId>
+				<xr:ValueId>35c0379a-4850-4519-b7ba-391a8a6651ba</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ПродукцияВЕТИС" category="Ref">
+				<xr:TypeId>a3f9289b-d76f-4a64-9fd8-2a9f58e858c5</xr:TypeId>
+				<xr:ValueId>d4ca0558-e6a6-444f-8766-4f1fbdb5d8af</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ПродукцияВЕТИС" category="Selection">
+				<xr:TypeId>83ea890d-dd30-465e-ae74-9a5768f07c9a</xr:TypeId>
+				<xr:ValueId>392d6d62-72e5-4c5e-a2e2-507ca37c81c3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ПродукцияВЕТИС" category="List">
+				<xr:TypeId>fc961e14-b8fd-4e68-8b1d-3455acc5db9d</xr:TypeId>
+				<xr:ValueId>20e7f961-e1d5-4318-98d0-18bda585d3ad</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ПродукцияВЕТИС" category="Manager">
+				<xr:TypeId>81ea7639-3114-415a-bb18-6228bb4ea4a6</xr:TypeId>
+				<xr:ValueId>e218105f-802a-479c-98cf-98ecf177321f</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПродукцияВЕТИС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8d8d8638-e694-4e1c-9c25-3e129f0df70a</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

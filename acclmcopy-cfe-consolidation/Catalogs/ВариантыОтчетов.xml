@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="dc0cb62d-a46f-48d7-8f84-3447ea4423ed">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ВариантыОтчетов" category="Object">
+				<xr:TypeId>ea8bb58e-15c9-476b-85cb-2e79d517c0fb</xr:TypeId>
+				<xr:ValueId>abaadb64-cc3a-489f-8591-a8ffad49f89e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ВариантыОтчетов" category="Ref">
+				<xr:TypeId>18340998-0815-4706-957d-92d834eb627e</xr:TypeId>
+				<xr:ValueId>7d1175c6-8a00-46f8-83c8-128773807da8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ВариантыОтчетов" category="Selection">
+				<xr:TypeId>62fb1117-91d4-4956-830c-1ad4fe022ae8</xr:TypeId>
+				<xr:ValueId>fb177c0e-61a2-424e-a9a1-e1964f3bc62c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ВариантыОтчетов" category="List">
+				<xr:TypeId>26f35df4-e716-4003-908b-c106ad7e76fd</xr:TypeId>
+				<xr:ValueId>45054dee-9940-406e-b39d-5b9f784a4e90</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ВариантыОтчетов" category="Manager">
+				<xr:TypeId>80f73816-48e6-466d-b04d-38c6013ee6d7</xr:TypeId>
+				<xr:ValueId>aa9a87f0-1a41-4f64-9ddd-f3939c25a2ea</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВариантыОтчетов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>0adf02da-940a-4bfc-afa5-59605494a169</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

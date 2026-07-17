@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="41e8e5fa-7382-4180-b8ec-19f407038208">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ШаблоныДокументов" category="Object">
+				<xr:TypeId>76fbb983-2317-4f15-a216-f7e5bca9880d</xr:TypeId>
+				<xr:ValueId>94a87ca8-2930-4036-b721-1a19f3035198</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ШаблоныДокументов" category="Ref">
+				<xr:TypeId>ee24019b-7104-4f22-97b6-98bcc978226e</xr:TypeId>
+				<xr:ValueId>3cafe58f-f0e2-4160-831d-f36752f70cbc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ШаблоныДокументов" category="Selection">
+				<xr:TypeId>4bfecae8-5707-41d2-8496-ff07284f89ce</xr:TypeId>
+				<xr:ValueId>c56eb13d-a696-427e-b9e2-23e45b9a1936</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ШаблоныДокументов" category="List">
+				<xr:TypeId>8f2f1fc3-81fd-4823-8813-0af40d68343a</xr:TypeId>
+				<xr:ValueId>6cd8bc85-3965-4ebe-b881-615733925de2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ШаблоныДокументов" category="Manager">
+				<xr:TypeId>4d319dfc-6e88-4c08-8a78-13884d883710</xr:TypeId>
+				<xr:ValueId>8dbe56db-9678-4a5b-8cef-ba16573a0d1c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ШаблоныДокументов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d1fe638b-acc2-4436-95ce-6bd3d27f0a3b</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

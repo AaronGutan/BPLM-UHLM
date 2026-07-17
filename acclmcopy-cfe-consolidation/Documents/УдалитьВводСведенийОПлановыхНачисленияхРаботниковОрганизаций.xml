@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="f1a80594-6cc6-4cb3-af42-7fe6a8f88cb5">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьВводСведенийОПлановыхНачисленияхРаботниковОрганизаций" category="Object">
+				<xr:TypeId>e30a12e1-24cd-4d2f-903f-682c767bfe83</xr:TypeId>
+				<xr:ValueId>484758a1-1562-4396-8931-10b5b62fe785</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьВводСведенийОПлановыхНачисленияхРаботниковОрганизаций" category="Ref">
+				<xr:TypeId>8927c0f7-6af1-4006-b7e8-e085991351d3</xr:TypeId>
+				<xr:ValueId>8f4f42f9-dce6-4ee5-9462-35e546974bef</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьВводСведенийОПлановыхНачисленияхРаботниковОрганизаций" category="Selection">
+				<xr:TypeId>12c7f680-ee1b-4736-8a46-2d348eb3b857</xr:TypeId>
+				<xr:ValueId>0a6e5d05-677a-48bc-a9fe-325b29f267f5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьВводСведенийОПлановыхНачисленияхРаботниковОрганизаций" category="List">
+				<xr:TypeId>949395f9-afc9-4125-b865-5d458692e6a8</xr:TypeId>
+				<xr:ValueId>ccc06ab2-dbeb-4b40-827c-8107a4662001</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьВводСведенийОПлановыхНачисленияхРаботниковОрганизаций" category="Manager">
+				<xr:TypeId>15d5f4de-e812-4332-956d-3d160203061e</xr:TypeId>
+				<xr:ValueId>124794bd-c46d-46ba-978f-3202a3df4c63</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьВводСведенийОПлановыхНачисленияхРаботниковОрганизаций</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>410b6e88-470b-4dde-938a-3c549e6c938e</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

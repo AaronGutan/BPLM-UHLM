@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="a9e07c77-a675-4761-a901-03e60958732e">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьКадровоеПеремещениеОрганизаций" category="Object">
+				<xr:TypeId>7c8dded9-21a2-48e1-8dd7-45b7839f87e8</xr:TypeId>
+				<xr:ValueId>46bca8b4-d2fb-4f35-b1e7-3fb6dbb0a513</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьКадровоеПеремещениеОрганизаций" category="Ref">
+				<xr:TypeId>43e34137-74d6-4a33-aa44-0834fbcb62a8</xr:TypeId>
+				<xr:ValueId>69ca56e2-e9bf-4318-a1a2-f40fa12fdc92</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьКадровоеПеремещениеОрганизаций" category="Selection">
+				<xr:TypeId>49bb843a-78af-41be-9795-d8dbcf6c29cb</xr:TypeId>
+				<xr:ValueId>08289671-9f14-49fd-865b-57bb412c3ebf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьКадровоеПеремещениеОрганизаций" category="List">
+				<xr:TypeId>0bcab87c-fb27-4927-88b9-404616a14d5a</xr:TypeId>
+				<xr:ValueId>2e305310-71c5-4f11-b3a1-97cbfab6d045</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьКадровоеПеремещениеОрганизаций" category="Manager">
+				<xr:TypeId>a85a2be3-302f-44cb-b03b-07af7cbcfc95</xr:TypeId>
+				<xr:ValueId>7bd8d20c-2810-4fd0-a8a6-ddf37e85b589</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьКадровоеПеремещениеОрганизаций</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8056f162-6232-4449-a9f0-6939d233d6a0</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

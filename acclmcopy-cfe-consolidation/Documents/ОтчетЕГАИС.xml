@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="a1dc67b0-2b6d-4705-ab99-abcacfa77058">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОтчетЕГАИС" category="Object">
+				<xr:TypeId>b274fe81-b2ab-487b-9825-0fde0952d89d</xr:TypeId>
+				<xr:ValueId>ef6825d7-6598-45c8-8e37-72b99a6a64b4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОтчетЕГАИС" category="Ref">
+				<xr:TypeId>3e6aac62-acd1-4f9d-9f89-29bdd52dbae6</xr:TypeId>
+				<xr:ValueId>0e91fe8b-e250-40a5-8cb0-698b0a226e24</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОтчетЕГАИС" category="Selection">
+				<xr:TypeId>43bee0bd-0e54-4ddc-8cb4-8dc4946da7c9</xr:TypeId>
+				<xr:ValueId>0388c61d-8e6f-4c8c-801a-85d45be2e35c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОтчетЕГАИС" category="List">
+				<xr:TypeId>d1b29685-b4e7-41a0-9e0f-c54cef6587e4</xr:TypeId>
+				<xr:ValueId>3db36670-f141-4cd7-8217-ddc540fff5c7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОтчетЕГАИС" category="Manager">
+				<xr:TypeId>e02a7dbd-3fc4-42a7-95b2-942873a9eacd</xr:TypeId>
+				<xr:ValueId>b192461d-c9e4-423d-9ac5-816ff38cc49a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтчетЕГАИС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ca13e541-86af-4652-bb51-438248d65677</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

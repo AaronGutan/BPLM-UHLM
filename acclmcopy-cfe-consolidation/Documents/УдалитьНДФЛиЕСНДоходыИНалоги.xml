@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="af4b3d2e-92d1-4b94-a136-7b821a2a2750">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьНДФЛиЕСНДоходыИНалоги" category="Object">
+				<xr:TypeId>59a4adfe-a1c8-42e9-bcb0-bfcb56b1b5fe</xr:TypeId>
+				<xr:ValueId>fc91fd50-1302-478e-bc5f-7da6a2287138</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьНДФЛиЕСНДоходыИНалоги" category="Ref">
+				<xr:TypeId>36d5aa7f-2417-4558-af4d-016e5ecf0dde</xr:TypeId>
+				<xr:ValueId>a62eec3a-84e7-4b26-8fa1-57dd4211ea35</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьНДФЛиЕСНДоходыИНалоги" category="Selection">
+				<xr:TypeId>20cb821f-0117-4115-a2a3-22fd37da072d</xr:TypeId>
+				<xr:ValueId>73374508-475f-4bfc-ad06-5f6079842486</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьНДФЛиЕСНДоходыИНалоги" category="List">
+				<xr:TypeId>0e7281d3-13a3-4030-bf40-327a53bbf170</xr:TypeId>
+				<xr:ValueId>9d6874a6-c58a-43c0-9cb4-4add2b0a0409</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьНДФЛиЕСНДоходыИНалоги" category="Manager">
+				<xr:TypeId>f048a366-3395-4c2e-9355-75517adf7a90</xr:TypeId>
+				<xr:ValueId>ef093640-8301-42c3-8e4b-0219a5a46ef0</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьНДФЛиЕСНДоходыИНалоги</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d8c7e0f6-e03c-4331-9b2f-468a99101f81</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

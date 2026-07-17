@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="6ea55d74-e8c6-49f4-bb50-1bdb5971e33f">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ВидыДокументовЭДОБЗК" category="Object">
+				<xr:TypeId>994765fb-e898-4cb6-9f1d-96441f6793cf</xr:TypeId>
+				<xr:ValueId>6480257a-e1b9-481f-8e26-853a9c38c222</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ВидыДокументовЭДОБЗК" category="Ref">
+				<xr:TypeId>d85d8a66-0f90-4a8f-9822-74e8a140b7b2</xr:TypeId>
+				<xr:ValueId>d9213eb9-72c9-4d24-87f9-a0ab099a7f96</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ВидыДокументовЭДОБЗК" category="Selection">
+				<xr:TypeId>4b63e0b8-f5ad-4042-ab5a-6ceb222a3d03</xr:TypeId>
+				<xr:ValueId>54ac5e6c-78b8-4039-92ef-7d6aa98fa399</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ВидыДокументовЭДОБЗК" category="List">
+				<xr:TypeId>e97c7930-5631-4ee0-af2c-65be2260fdd6</xr:TypeId>
+				<xr:ValueId>0ec7118f-122a-44e8-83f4-0b0f9f1c4db2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ВидыДокументовЭДОБЗК" category="Manager">
+				<xr:TypeId>8dcbd7d9-dc86-41ef-a5a1-4071f9cee813</xr:TypeId>
+				<xr:ValueId>23140155-b0f1-4a8e-929e-7eb9ece51741</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВидыДокументовЭДОБЗК</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>16ed2731-e0a4-435f-aa08-2dc2a1ff5edf</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

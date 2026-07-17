@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="90f4cbae-d695-46de-aac4-6450a66a3d7a">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ОтправкиМинобороны" category="Object">
+				<xr:TypeId>82210581-e3d4-41d0-a50b-363bf6bcfb16</xr:TypeId>
+				<xr:ValueId>41518616-4f70-4e1f-80d3-0d83305681a0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ОтправкиМинобороны" category="Ref">
+				<xr:TypeId>8c159025-f89b-4a66-83ef-37799c67e982</xr:TypeId>
+				<xr:ValueId>7d5ec07c-4357-4e86-843f-578dfc1d4e75</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ОтправкиМинобороны" category="Selection">
+				<xr:TypeId>2eaf1f24-13cf-4119-85e6-056caa9b5405</xr:TypeId>
+				<xr:ValueId>be8c9c5d-8d13-4f35-8da0-e3e545961943</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ОтправкиМинобороны" category="List">
+				<xr:TypeId>5c4d786a-c5a7-41ca-b00a-013e654dc6ff</xr:TypeId>
+				<xr:ValueId>47e131ca-4e4b-47b8-a348-b0b74da72c60</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ОтправкиМинобороны" category="Manager">
+				<xr:TypeId>e426d297-0baf-42a4-bf62-e89118deeb57</xr:TypeId>
+				<xr:ValueId>5b79642a-014c-4e4a-8267-bcaa2acfab6d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтправкиМинобороны</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>19ac5c06-6e3e-4269-bf68-9928f2c63429</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

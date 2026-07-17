@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="f6961174-a377-413c-a6cd-e9f875091ea0">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ИзвещениеОПриемеИлиУвольненииДляВоенкомата" category="Object">
+				<xr:TypeId>fc826f60-fb26-41e8-980b-5407d244af9a</xr:TypeId>
+				<xr:ValueId>b702944d-2ea2-4433-89ca-36abd0b930cd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ИзвещениеОПриемеИлиУвольненииДляВоенкомата" category="Ref">
+				<xr:TypeId>5ca8ba9f-b414-4051-9f5b-f69058f5ad39</xr:TypeId>
+				<xr:ValueId>1eb1a3cc-0ad5-48aa-9769-2d8ea2859810</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ИзвещениеОПриемеИлиУвольненииДляВоенкомата" category="Selection">
+				<xr:TypeId>8a10406c-ab70-499a-9462-65a70cb9abb4</xr:TypeId>
+				<xr:ValueId>89fa2e26-47eb-40d2-8925-c22a06cdaaac</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ИзвещениеОПриемеИлиУвольненииДляВоенкомата" category="List">
+				<xr:TypeId>414e5ac3-a25b-4101-bad9-8c25612413fc</xr:TypeId>
+				<xr:ValueId>764b1f17-c3ae-4ba4-8ee0-747c4a9d0834</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ИзвещениеОПриемеИлиУвольненииДляВоенкомата" category="Manager">
+				<xr:TypeId>eee54d1b-b541-463c-965c-842728453db6</xr:TypeId>
+				<xr:ValueId>80da9a7b-94f5-4d62-9856-3120bd20c923</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ИзвещениеОПриемеИлиУвольненииДляВоенкомата</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>2d84998c-d507-4b6c-bcfd-779e6998b23f</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

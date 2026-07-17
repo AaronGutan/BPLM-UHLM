@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="30badb07-dec2-420e-9ffa-db6c68469f66">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ПредопределенныеВариантыОтчетов" category="Object">
+				<xr:TypeId>b7b38de8-8edc-42ca-8b28-b17c1fa9b3c4</xr:TypeId>
+				<xr:ValueId>3f6c34fa-0d9d-49ab-98e3-9c9ce8c90344</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ПредопределенныеВариантыОтчетов" category="Ref">
+				<xr:TypeId>80ceab39-96d4-4751-8709-169af33c0348</xr:TypeId>
+				<xr:ValueId>da0bacbe-bbce-43b0-879c-cde9e58d880c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ПредопределенныеВариантыОтчетов" category="Selection">
+				<xr:TypeId>5a9108c9-1054-454f-a3a1-082b4b61b727</xr:TypeId>
+				<xr:ValueId>207b94a2-8fb6-4ca9-8ddf-538f7ed7b4ae</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ПредопределенныеВариантыОтчетов" category="List">
+				<xr:TypeId>4f016eff-5e99-4942-b845-8c6fad8ac7d7</xr:TypeId>
+				<xr:ValueId>0924324c-781a-4173-9589-6c8e09a5e6da</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ПредопределенныеВариантыОтчетов" category="Manager">
+				<xr:TypeId>652d5714-c36c-458d-8c68-c1a7b2d569c1</xr:TypeId>
+				<xr:ValueId>8ff7a2a8-dc0e-4764-9c6b-b9d5153c42f0</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПредопределенныеВариантыОтчетов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>9ec6fc35-e84e-4f82-b616-5c02e945cc8f</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="7de1f6aa-a259-4281-ae4c-a266ad9c9054">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УведомлениеОПрекращенииОтпускаПоУходуЗаРебенком" category="Object">
+				<xr:TypeId>8300aa10-5bec-4fec-8ca1-b87f500f0b77</xr:TypeId>
+				<xr:ValueId>aa6155f3-3ce5-49dd-a8c0-5f1c7a0fccbd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УведомлениеОПрекращенииОтпускаПоУходуЗаРебенком" category="Ref">
+				<xr:TypeId>2f6a3ad5-6eff-457d-869e-c33b0914f0c5</xr:TypeId>
+				<xr:ValueId>aa890b99-b272-46dd-8d7c-a725ebdbc668</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УведомлениеОПрекращенииОтпускаПоУходуЗаРебенком" category="Selection">
+				<xr:TypeId>30645f75-3409-46bc-bf81-d4c37b7ff1ed</xr:TypeId>
+				<xr:ValueId>567e2ec0-3614-4cf0-a28a-7b935dc6237a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УведомлениеОПрекращенииОтпускаПоУходуЗаРебенком" category="List">
+				<xr:TypeId>016f8049-d3cd-423d-b3df-47fb6699a2c4</xr:TypeId>
+				<xr:ValueId>537d4cfc-9e80-43ee-b944-6e9276de8f2c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УведомлениеОПрекращенииОтпускаПоУходуЗаРебенком" category="Manager">
+				<xr:TypeId>a068247d-c16a-40d2-83a8-d3ee63b5de2d</xr:TypeId>
+				<xr:ValueId>431e6d5d-6c7b-41fc-8283-d5e2cff4b771</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УведомлениеОПрекращенииОтпускаПоУходуЗаРебенком</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>1dc4908e-8dbb-43f5-a971-7ca8393d584a</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

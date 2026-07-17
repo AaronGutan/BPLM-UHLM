@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="091b217f-ce62-4348-aa17-05b28aef070d">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьКлассификаторВалют" category="Object">
+				<xr:TypeId>ce8c706e-6ba1-4a26-b893-cd4bf13047b7</xr:TypeId>
+				<xr:ValueId>8c909587-fc1b-44a6-9bb9-045e51a5e63c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьКлассификаторВалют" category="Ref">
+				<xr:TypeId>65d06f9f-9f21-454d-9b1f-3cf25ba5ab6d</xr:TypeId>
+				<xr:ValueId>cf8ad3c9-816c-4504-9a99-96839496cf27</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьКлассификаторВалют" category="Selection">
+				<xr:TypeId>cb71925d-0804-4ade-9c48-c78f992716ab</xr:TypeId>
+				<xr:ValueId>0fb62b27-0eff-4c10-bdb1-177902a78bb7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьКлассификаторВалют" category="List">
+				<xr:TypeId>4f2d9567-3e6b-49c9-a071-d3f64398763b</xr:TypeId>
+				<xr:ValueId>c31b0b80-b781-4426-afb7-0d8dd79c80c8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьКлассификаторВалют" category="Manager">
+				<xr:TypeId>5dc99ec6-d079-49b6-a338-892598dcd1a8</xr:TypeId>
+				<xr:ValueId>c2d39526-6492-49c7-aa7d-47068f8a8775</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьКлассификаторВалют</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>9a388c1c-bf74-464e-be2d-bdb2e36232b5</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

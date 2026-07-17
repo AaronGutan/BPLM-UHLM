@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="615a9f37-d465-4c0a-a5d5-490da3f98c55">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ПолныеПутиКФормам" category="Object">
+				<xr:TypeId>63a53fd1-bfaf-482d-82e7-03e30d8403c7</xr:TypeId>
+				<xr:ValueId>60bb2324-d0db-405b-ac52-b3f8c8f1938c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ПолныеПутиКФормам" category="Ref">
+				<xr:TypeId>47d1318a-10d1-4932-8816-2ab1c0c087a6</xr:TypeId>
+				<xr:ValueId>b9cb7e6b-21a9-4fc6-9a0e-4c88beb282e8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ПолныеПутиКФормам" category="Selection">
+				<xr:TypeId>677ad6d1-e73e-4d12-93e3-89d070487f3f</xr:TypeId>
+				<xr:ValueId>c24bb778-f09c-4449-b084-dd034af80710</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ПолныеПутиКФормам" category="List">
+				<xr:TypeId>8617adee-597d-406c-ba09-b0ae5af2acaf</xr:TypeId>
+				<xr:ValueId>76a050f2-e6d1-4319-b435-9e415da3ab8d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ПолныеПутиКФормам" category="Manager">
+				<xr:TypeId>439195a5-72ac-4d2f-95c2-153a7a9131e2</xr:TypeId>
+				<xr:ValueId>2b89b813-a0ec-432a-89ea-76864ea5865e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПолныеПутиКФормам</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ead0a902-bd87-4ee5-bfee-1a131dd28bd6</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

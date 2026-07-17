@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="33a8307b-1dfe-44bd-b1b1-1b2c00ba3fc5">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ИнвентаризацияОбъектовУчета" category="Object">
+				<xr:TypeId>ac8ccc52-e062-48e7-b539-afe3f6f30a11</xr:TypeId>
+				<xr:ValueId>98c80ebb-5ed2-4d0d-9b05-e8969f9ff192</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ИнвентаризацияОбъектовУчета" category="Ref">
+				<xr:TypeId>e247ba68-1806-45e6-8207-6ffae6afe04e</xr:TypeId>
+				<xr:ValueId>1976262b-25a2-4ac1-81d8-4eb53bf36b45</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ИнвентаризацияОбъектовУчета" category="Selection">
+				<xr:TypeId>8335bb8d-344b-479e-aa31-4ac8c42d31fe</xr:TypeId>
+				<xr:ValueId>21e28366-481e-475b-a309-f9e601d276e6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ИнвентаризацияОбъектовУчета" category="List">
+				<xr:TypeId>1792dc18-5d95-47fb-87dc-e0d70386d960</xr:TypeId>
+				<xr:ValueId>6a52e18a-0f7d-45bf-959d-9a3808e597e5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ИнвентаризацияОбъектовУчета" category="Manager">
+				<xr:TypeId>4d279a6f-1b24-472a-a756-15be5a0c2164</xr:TypeId>
+				<xr:ValueId>43f22bf9-f00d-4dc8-a39a-6b526a3c9f76</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ИнвентаризацияОбъектовУчета</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>cce7b3b8-52ff-4214-8a22-9a54e63398b3</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

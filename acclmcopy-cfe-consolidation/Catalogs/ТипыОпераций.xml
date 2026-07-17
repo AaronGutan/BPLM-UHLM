@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="44590a80-4e8f-4f91-bfc8-eb2c7f32e28d">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ТипыОпераций" category="Object">
+				<xr:TypeId>4263162d-7cfc-4534-a926-ea4bd8b60bce</xr:TypeId>
+				<xr:ValueId>3405e7b1-1db2-404b-b2f8-1d0005185d25</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ТипыОпераций" category="Ref">
+				<xr:TypeId>6969c69e-d9e1-41c7-8dfa-4a651359eb15</xr:TypeId>
+				<xr:ValueId>649b6b01-eaca-4489-8e03-2ca4a42bddc3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ТипыОпераций" category="Selection">
+				<xr:TypeId>1f206d83-028c-4868-a09d-c7fcf67486f7</xr:TypeId>
+				<xr:ValueId>65d09499-5e3c-42a7-8148-d1c5bda413ba</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ТипыОпераций" category="List">
+				<xr:TypeId>987ff2a4-f15e-4bb0-a1e3-df418dc9602a</xr:TypeId>
+				<xr:ValueId>94e2c9f0-ba46-405f-994a-d74cfbf63eb6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ТипыОпераций" category="Manager">
+				<xr:TypeId>d256de0c-dcd0-4ecb-a8b8-7304e2f08e08</xr:TypeId>
+				<xr:ValueId>54fa1403-c7a4-454a-a207-d4ba1a16541e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ТипыОпераций</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>34745719-2874-4e29-a1b1-854213179f6f</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

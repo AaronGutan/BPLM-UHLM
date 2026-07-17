@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="99cd3bca-4402-432f-99fe-af2f50a500ff">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьПачкаДокументовСЗВ_6_4" category="Object">
+				<xr:TypeId>ef02a77e-98fa-471c-add3-de75f4fcdd53</xr:TypeId>
+				<xr:ValueId>82f1615f-8e2d-4679-8391-a2d99a416275</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьПачкаДокументовСЗВ_6_4" category="Ref">
+				<xr:TypeId>7dbbee20-bf82-4480-a3e0-4c6eb0993a1a</xr:TypeId>
+				<xr:ValueId>41e25956-715e-45af-bb10-525b10a38749</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьПачкаДокументовСЗВ_6_4" category="Selection">
+				<xr:TypeId>15d21c12-cb60-4497-a281-3f5a6bd4908b</xr:TypeId>
+				<xr:ValueId>daa17522-6298-4617-89c8-c9a82689b264</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьПачкаДокументовСЗВ_6_4" category="List">
+				<xr:TypeId>e2d16a53-1d44-4da4-8492-b03d125817fc</xr:TypeId>
+				<xr:ValueId>8bb497b0-615b-4d72-be5a-c9105a81e8a7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьПачкаДокументовСЗВ_6_4" category="Manager">
+				<xr:TypeId>c4bb4128-d4f8-4a18-b8ea-4d27e9777a7d</xr:TypeId>
+				<xr:ValueId>46b14f8a-c0a2-4e79-8308-1447cfc07f4c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьПачкаДокументовСЗВ_6_4</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>76ff1aac-58a2-4de8-abad-b9c750000df8</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

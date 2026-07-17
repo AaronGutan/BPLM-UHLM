@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="42041cff-3eb0-46fa-8dad-0d7399ce537c">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КодыДокументовКадровыхМероприятий" category="Object">
+				<xr:TypeId>8e44690a-62ff-40df-9f93-d75787aaeec3</xr:TypeId>
+				<xr:ValueId>3401b8ec-8204-4c6a-84f5-5dfa14b3a54a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КодыДокументовКадровыхМероприятий" category="Ref">
+				<xr:TypeId>c9b0b245-3e54-4325-bf15-4777ada22048</xr:TypeId>
+				<xr:ValueId>83042c24-9738-4f6c-9f9e-7a637fc36cbc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КодыДокументовКадровыхМероприятий" category="Selection">
+				<xr:TypeId>f67dffa8-29e6-4f58-8b09-6d805c5d22ed</xr:TypeId>
+				<xr:ValueId>621421d8-1c5f-40eb-b07d-0949527d3ceb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КодыДокументовКадровыхМероприятий" category="List">
+				<xr:TypeId>166f7c0e-9241-490a-878c-2f4beb89f6f6</xr:TypeId>
+				<xr:ValueId>765974e4-5394-4462-8c86-3de43361927c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КодыДокументовКадровыхМероприятий" category="Manager">
+				<xr:TypeId>af0447a2-c006-46b0-b31a-58f7bf0d02e2</xr:TypeId>
+				<xr:ValueId>3f435e0e-f5d5-4970-99b1-facc8e30e4ad</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КодыДокументовКадровыхМероприятий</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>4d0ffa2f-48ac-4505-9acb-36f63318c2b6</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

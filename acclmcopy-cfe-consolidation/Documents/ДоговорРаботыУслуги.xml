@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="0e8770f8-6c9d-4f74-88bf-003f84849e8f">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ДоговорРаботыУслуги" category="Object">
+				<xr:TypeId>02014c0c-9738-4b93-ae7b-b1a43bb9161a</xr:TypeId>
+				<xr:ValueId>ce0978b5-3ed7-4ac5-8cff-6c06b7e3d805</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ДоговорРаботыУслуги" category="Ref">
+				<xr:TypeId>53e70216-c440-4bc3-bb8e-ee16df706a7a</xr:TypeId>
+				<xr:ValueId>cff7b229-3fd5-4c97-8246-2b1e8b54e3ef</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ДоговорРаботыУслуги" category="Selection">
+				<xr:TypeId>57eb1486-e4cb-42b3-9a8f-fe339240027d</xr:TypeId>
+				<xr:ValueId>785eef10-a519-46a0-b630-b01e8d2b7b99</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ДоговорРаботыУслуги" category="List">
+				<xr:TypeId>2e0d4402-60b7-4f23-a4d5-24bd00d0c0d0</xr:TypeId>
+				<xr:ValueId>758a1353-7861-4110-9abf-66c9dd369ddc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ДоговорРаботыУслуги" category="Manager">
+				<xr:TypeId>7a6a0ff2-baff-4790-8f64-7f2e83024b44</xr:TypeId>
+				<xr:ValueId>e1c936e2-6cdf-4982-b8b3-3d5d0240b647</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ДоговорРаботыУслуги</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>fb1a7f45-b7d2-4d31-8f22-14961318e440</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Catalog uuid="df545f2a-5ac4-4fe2-9c85-21e6f87d2831">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="c4a87aec-967b-404a-a7ae-11af633d5ae6">
 		<InternalInfo>
 			<xr:GeneratedType name="CatalogObject.ВидыКонтактнойИнформации" category="Object">
-				<xr:TypeId>5a589483-2973-4bdb-b00c-1d22e729e4a8</xr:TypeId>
-				<xr:ValueId>f927110a-1c34-4f11-9886-9bd8320b5c55</xr:ValueId>
+				<xr:TypeId>f2265fc0-4264-4ccc-a177-543184e0e47b</xr:TypeId>
+				<xr:ValueId>5ca7daf5-7eb9-4e4c-9445-f99736446cbe</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogRef.ВидыКонтактнойИнформации" category="Ref">
-				<xr:TypeId>944e6a59-c231-45f6-a002-81c8d4845407</xr:TypeId>
-				<xr:ValueId>7ab199bb-15a4-4dd1-9128-48883e935286</xr:ValueId>
+				<xr:TypeId>fe1cd3a8-999f-48ef-9692-752e665d4052</xr:TypeId>
+				<xr:ValueId>9fa9c34d-caa5-4423-9dd6-0e4fb8c20d9d</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogSelection.ВидыКонтактнойИнформации" category="Selection">
-				<xr:TypeId>d2ecbffc-19c2-40f7-8772-04f82848f860</xr:TypeId>
-				<xr:ValueId>daa0cb40-5281-4d85-bf9b-75bec3e4aa73</xr:ValueId>
+				<xr:TypeId>353fbde4-79fb-4977-a76d-897b099b61ec</xr:TypeId>
+				<xr:ValueId>315a4189-a1d1-46ea-a30f-96ddff0a12db</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogList.ВидыКонтактнойИнформации" category="List">
-				<xr:TypeId>7d744d9b-e3d1-4ea4-a526-47fd204588a9</xr:TypeId>
-				<xr:ValueId>aa263537-5423-4e03-89af-939437575c35</xr:ValueId>
+				<xr:TypeId>1d8dafc3-43ad-4024-be5b-1f745e968964</xr:TypeId>
+				<xr:ValueId>8cc99426-17a3-4174-866f-e744897b95cd</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogManager.ВидыКонтактнойИнформации" category="Manager">
-				<xr:TypeId>5d21fa22-4afc-4884-8155-580a07427af2</xr:TypeId>
-				<xr:ValueId>1074b5a3-86a0-4d44-bdbd-2a46e100d2b2</xr:ValueId>
+				<xr:TypeId>91c3a805-9a04-4621-9ae2-bad6a25b3966</xr:TypeId>
+				<xr:ValueId>7b1a9a25-6e79-4a20-a83b-107032bbd96c</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="e62546d3-3803-4f33-a334-937477c4bb4b">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПакетОбменСБанками" category="Object">
+				<xr:TypeId>80c67190-7c53-4dbe-97d9-6d386d567f3f</xr:TypeId>
+				<xr:ValueId>ed75c173-863f-4415-b227-581df49546d9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПакетОбменСБанками" category="Ref">
+				<xr:TypeId>5c6b7b70-51fa-414d-a89f-9c3189a99d01</xr:TypeId>
+				<xr:ValueId>8f557e97-f07a-484a-81df-833bd6d6c980</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПакетОбменСБанками" category="Selection">
+				<xr:TypeId>90fdee35-0096-46d6-aa4f-963b4f45b91e</xr:TypeId>
+				<xr:ValueId>709681f4-e2b9-4ede-b5fe-b7fbcf6db4fe</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПакетОбменСБанками" category="List">
+				<xr:TypeId>7a68c137-e4a1-459d-a623-f6944b1f22db</xr:TypeId>
+				<xr:ValueId>92060b27-2669-46c3-8777-0c34a30bc42b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПакетОбменСБанками" category="Manager">
+				<xr:TypeId>999b0b73-bb94-4bf3-9d39-48b549037148</xr:TypeId>
+				<xr:ValueId>82392f89-e92f-4fa3-b31b-69abfe11d87c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПакетОбменСБанками</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8e9e7665-fa3a-4066-977c-d61996c36e5c</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

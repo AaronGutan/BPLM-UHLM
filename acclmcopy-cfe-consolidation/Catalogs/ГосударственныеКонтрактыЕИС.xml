@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="817014ca-7d9c-41fa-ad87-fe1d59ec1b78">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ГосударственныеКонтрактыЕИС" category="Object">
+				<xr:TypeId>d85af2f1-1a22-43ff-bc7a-9692c37d4b2c</xr:TypeId>
+				<xr:ValueId>8fc0e0a8-57e7-4577-98b5-8526d84c8b23</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ГосударственныеКонтрактыЕИС" category="Ref">
+				<xr:TypeId>6a73103c-a210-4153-a3b6-30729dada294</xr:TypeId>
+				<xr:ValueId>533be250-4866-4404-a3c5-7957f97c3645</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ГосударственныеКонтрактыЕИС" category="Selection">
+				<xr:TypeId>cf21f014-ebff-4d3b-9ec5-eccca8c2c18c</xr:TypeId>
+				<xr:ValueId>d34acca2-47ef-47b4-a6f7-aeb0932e9fd8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ГосударственныеКонтрактыЕИС" category="List">
+				<xr:TypeId>900149ea-5da0-4049-a7ab-b213ddef9501</xr:TypeId>
+				<xr:ValueId>35d181c5-7128-4388-958a-a227b45289d1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ГосударственныеКонтрактыЕИС" category="Manager">
+				<xr:TypeId>01e7dbfd-aa4e-4a38-9929-12a25a7f0a08</xr:TypeId>
+				<xr:ValueId>ff43903c-76c6-4310-b02f-9a97c86b5762</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ГосударственныеКонтрактыЕИС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>465a910d-7d6d-4d1f-8dcc-780b3b842d6c</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="7a29624f-68b6-4625-b2aa-5432e68eda1c">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ОтправкиРегистрацияЮЛ" category="Object">
+				<xr:TypeId>63cc1860-af32-42a3-bbcf-f6b70d1bc348</xr:TypeId>
+				<xr:ValueId>82fea725-0ba1-464e-9754-0f1b214513fe</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ОтправкиРегистрацияЮЛ" category="Ref">
+				<xr:TypeId>5d517668-1b5a-4b69-b3b3-3037915fc456</xr:TypeId>
+				<xr:ValueId>5577d4ae-fa3a-409f-a1f8-7e834cc44a51</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ОтправкиРегистрацияЮЛ" category="Selection">
+				<xr:TypeId>bf52b896-fec2-41aa-a4e6-b9cdb2dea70a</xr:TypeId>
+				<xr:ValueId>4ad886b2-650c-47bd-8114-f1db5f4373a1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ОтправкиРегистрацияЮЛ" category="List">
+				<xr:TypeId>df6a4dc0-6240-4551-b0d3-4c8159f55fb6</xr:TypeId>
+				<xr:ValueId>a5184e31-845f-4576-9d5d-b6acf9ca75ac</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ОтправкиРегистрацияЮЛ" category="Manager">
+				<xr:TypeId>398b11e3-302b-4f0d-8a9f-d57a29c6e4ef</xr:TypeId>
+				<xr:ValueId>b5665183-b583-445d-9920-c3512a2faf44</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтправкиРегистрацияЮЛ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>6bef2f60-d4b7-4acf-9167-3c3832dcf4c2</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

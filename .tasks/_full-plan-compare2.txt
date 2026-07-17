@@ -1,0 +1,87 @@
+Can-be-in-plan objects in config: 3413
+In Full content: 1881
+Missing: 1532 (44.9%)
+Coverage: 55.1%
+
+By type (config / in Full / missing):
+  Constant : 755 / 347 / 408
+  Catalog : 732 / 482 / 250
+  Document : 448 / 317 / 131
+  ChartOfCharacteristicTypes : 8 / 3 / 5
+  ChartOfAccounts : 1 / 1 / 0
+  ChartOfCalculationTypes : 3 / 2 / 1
+  InformationRegister : 1341 / 630 / 711
+  AccumulationRegister : 109 / 95 / 14
+  AccountingRegister : 1 / 1 / 0
+  BusinessProcess : 9 / 1 / 8
+  Task : 1 / 1 / 0
+  Sequence : 5 / 1 / 4
+
+Missing samples by type:
+--- InformationRegister (711) ---
+  InformationRegister.АбонентыЭДО
+  InformationRegister.АвторизацияВСервисе1СФреш
+  InformationRegister.АдминистративнаяИерархия
+  InformationRegister.АдресаДоставкиЭПД
+  InformationRegister.АдресаЗонОтветственностиВЕТИС
+  InformationRegister.АдресныеОбъекты
+  InformationRegister.АктивностьСеансовПользователей
+  InformationRegister.АкцизныеМаркиЕГАИС
+--- Constant (408) ---
+  Constant.АвтоматическиНастраиватьРазрешенияВПрофиляхБезопасности
+  Constant.АвтоматическиПодключатьФормыРОЧерезМеханизмОнлайнСервисовРО
+  Constant.АвтоматическиФормироватьСогласияНаПрисоединениеКЭДОБЗК
+  Constant.АдресДемобазы
+  Constant.АдресДляУведомленийЭДО
+  Constant.АдресКриптосервиса
+  Constant.АдресМенеджера1СПерсонал
+  Constant.АдресПровайдераАутентификации
+--- Catalog (250) ---
+  Catalog.АктыОтбораПробЗЕРНО
+  Catalog.ВерсииПоставляемыхРасширений
+  Catalog.ВерсииРасширений
+  Catalog.ВетеринарноСопроводительныйДокументВЕТИС
+  Catalog.ВЕТИСПрисоединенныеФайлы
+  Catalog.ВидыАлкогольнойПродукции
+  Catalog.ВидыДокументовЭДО
+  Catalog.ВидыДокументовЭДОБЗК
+--- Document (131) ---
+  Document.АктИнвентаризацииСАТУРН
+  Document.АктПостановкиНаБалансЕГАИС
+  Document.АктПримененияСАТУРН
+  Document.АктСписанияЕГАИС
+  Document.ВозвратИзРегистра2ЕГАИС
+  Document.ВходящаяТранспортнаяОперацияВЕТИС
+  Document.ВходящийДокументСЭДОФСС
+  Document.ДанныеДляОформленияНаРаботу
+--- AccumulationRegister (14) ---
+  AccumulationRegister.ОстаткиАлкогольнойПродукцииЕГАИС
+  AccumulationRegister.ОстаткиПартийСАТУРН
+  AccumulationRegister.УдалитьАвансовыеПлатежиИностранцевПоНДФЛ
+  AccumulationRegister.УдалитьВзаиморасчетыСДепонентамиОрганизаций
+  AccumulationRegister.УдалитьВзаиморасчетыСРаботникамиОрганизаций
+  AccumulationRegister.УдалитьНДФЛИмущественныеВычетыФизлиц
+  AccumulationRegister.УдалитьНДФЛКЗачету
+  AccumulationRegister.УдалитьНДФЛПредоставленныеСтандартныеВычетыФизЛиц
+--- BusinessProcess (8) ---
+  BusinessProcess.ЗаявкаСотрудникаИзменитьЛичныеДанные
+  BusinessProcess.ЗаявкаСотрудникаНалоговыйВычет
+  BusinessProcess.ЗаявкаСотрудникаОтпуск
+  BusinessProcess.ЗаявкаСотрудникаОтсутствиеПоБолезни
+  BusinessProcess.ЗаявкаСотрудникаСправка2НДФЛ
+  BusinessProcess.ИсполнениеЗаявкиСотрудника
+  BusinessProcess.ОбращениеСотрудника
+  BusinessProcess.УдалитьЗаявкаКабинетСотрудника
+--- ChartOfCharacteristicTypes (5) ---
+  ChartOfCharacteristicTypes.КатегорииНовостей
+  ChartOfCharacteristicTypes.РазделыДатЗапретаИзменения
+  ChartOfCharacteristicTypes.УдалитьНазначенияСвойствКатегорийОбъектов
+  ChartOfCharacteristicTypes.УдалитьНастройкиПользователей
+  ChartOfCharacteristicTypes.УдалитьСвойстваОбъектов
+--- Sequence (4) ---
+  Sequence.УдалитьВзаиморасчеты20
+  Sequence.УдалитьВзаиморасчеты30
+  Sequence.УдалитьОбщаяПоследовательность20
+  Sequence.УдалитьОбщаяПоследовательность30
+--- ChartOfCalculationTypes (1) ---
+  ChartOfCalculationTypes.УдалитьОсновныеНачисленияОрганизаций

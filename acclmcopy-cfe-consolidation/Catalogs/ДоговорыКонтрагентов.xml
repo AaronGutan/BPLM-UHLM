@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Catalog uuid="5f52eaad-7204-4db3-94d9-ed9e85e45a9d">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="2b79fb96-90f8-4e7e-8cad-1af6e0726c16">
 		<InternalInfo>
 			<xr:GeneratedType name="CatalogObject.ДоговорыКонтрагентов" category="Object">
-				<xr:TypeId>efaf1d8e-4b7b-466c-af40-c5320e2f7e5d</xr:TypeId>
-				<xr:ValueId>54aa21d9-8720-48e1-9c50-75b286d2b26d</xr:ValueId>
+				<xr:TypeId>660a9602-79b4-476f-97e6-94408628cf36</xr:TypeId>
+				<xr:ValueId>d58fd5fc-2aec-4659-af8f-ca5c543bef76</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogRef.ДоговорыКонтрагентов" category="Ref">
-				<xr:TypeId>f1f1f4a0-cb07-4ee8-a4ab-2d44a98bce55</xr:TypeId>
-				<xr:ValueId>4ea7f7b6-fcf2-4e3e-a137-2454510b66d2</xr:ValueId>
+				<xr:TypeId>9d9e0187-df6e-4588-95e7-f0852c2d41d0</xr:TypeId>
+				<xr:ValueId>a9694796-3f4b-4dbd-9735-38d2f431af6d</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogSelection.ДоговорыКонтрагентов" category="Selection">
-				<xr:TypeId>651f320d-31d0-4686-88d4-9c8d6e3daedd</xr:TypeId>
-				<xr:ValueId>54b3d102-9fe0-4082-8358-aa7dc2c8c18f</xr:ValueId>
+				<xr:TypeId>beb099b9-2977-4f69-b720-33e163a9a8f2</xr:TypeId>
+				<xr:ValueId>6c17be17-413d-4fb7-89d8-9d56486a5498</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogList.ДоговорыКонтрагентов" category="List">
-				<xr:TypeId>3f27813e-9255-453c-9021-e3c474f8832c</xr:TypeId>
-				<xr:ValueId>237689e9-9029-449f-a07a-56087c22e34c</xr:ValueId>
+				<xr:TypeId>56836997-6137-41e0-af71-1d75bb765c03</xr:TypeId>
+				<xr:ValueId>66f5ac17-6ffc-4598-9c9c-3645fd456c1e</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogManager.ДоговорыКонтрагентов" category="Manager">
-				<xr:TypeId>014f682e-d331-476f-8baf-600a33752c6f</xr:TypeId>
-				<xr:ValueId>3b505363-5000-4683-b4da-1ee5d545efa9</xr:ValueId>
+				<xr:TypeId>ef74e0b8-b625-4300-8d03-50cfa1adb4d1</xr:TypeId>
+				<xr:ValueId>7bde2aef-4848-4db4-850a-829b19949da7</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>

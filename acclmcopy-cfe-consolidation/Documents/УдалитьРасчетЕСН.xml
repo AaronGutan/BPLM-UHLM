@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="e9a171d5-7641-4495-9627-36680c367410">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьРасчетЕСН" category="Object">
+				<xr:TypeId>e491c019-6dc5-424c-a75c-f596082b714c</xr:TypeId>
+				<xr:ValueId>a4df7c24-114a-435b-8ff8-1e4aec518057</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьРасчетЕСН" category="Ref">
+				<xr:TypeId>6750a347-9116-45a6-b807-1e6c44113a2c</xr:TypeId>
+				<xr:ValueId>7dc79c9b-8479-46de-920f-11219a04170f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьРасчетЕСН" category="Selection">
+				<xr:TypeId>2c406191-8d20-4403-8645-385b2c94a5f6</xr:TypeId>
+				<xr:ValueId>1f7e30f1-4fdc-4e95-9a37-fb68105cdb7a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьРасчетЕСН" category="List">
+				<xr:TypeId>1e92105e-43d7-4048-8720-522a9a7a0c94</xr:TypeId>
+				<xr:ValueId>67de394b-c92c-4ec7-be66-7f60587970a4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьРасчетЕСН" category="Manager">
+				<xr:TypeId>b90ebcf1-8860-4d53-9af5-9fda31cdc0f4</xr:TypeId>
+				<xr:ValueId>705607c5-e4e1-4cc6-b20c-125a222d2fa5</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьРасчетЕСН</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>42730a40-fd36-435f-940b-42c54c0204dc</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

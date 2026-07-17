@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="15dc7f22-eaaf-451c-b6de-91464a7dfe5d">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СтроковыеЗначенияЭПД" category="Object">
+				<xr:TypeId>e176cb03-3f0f-48ac-a501-fa47a5e61f10</xr:TypeId>
+				<xr:ValueId>c1494721-a331-4ded-8da3-73fd9d66595e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СтроковыеЗначенияЭПД" category="Ref">
+				<xr:TypeId>77d378ec-6836-4079-90fd-a77c8f8498bd</xr:TypeId>
+				<xr:ValueId>7f6cc1ee-e44b-42d3-ba83-de38ba1b038f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СтроковыеЗначенияЭПД" category="Selection">
+				<xr:TypeId>e0a08385-92e9-46ee-a3ba-238e271d1cee</xr:TypeId>
+				<xr:ValueId>dfd41136-1100-4a23-9acc-b264227ef596</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СтроковыеЗначенияЭПД" category="List">
+				<xr:TypeId>bebd8750-20fa-4266-9d68-d69fa4a535de</xr:TypeId>
+				<xr:ValueId>9bca011e-ff98-4b72-913f-ac407afec740</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СтроковыеЗначенияЭПД" category="Manager">
+				<xr:TypeId>7ebc04c2-4f11-4b05-bf86-78117ec859da</xr:TypeId>
+				<xr:ValueId>829cbccd-a12a-472b-9fb5-6404dc82a89e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СтроковыеЗначенияЭПД</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>bbd1237f-dd07-424b-bc22-47955d88368a</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

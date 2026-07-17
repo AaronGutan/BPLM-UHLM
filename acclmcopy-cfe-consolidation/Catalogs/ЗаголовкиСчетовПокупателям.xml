@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="b15e3032-c38e-434c-be50-2e56e9be8db6">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ЗаголовкиСчетовПокупателям" category="Object">
+				<xr:TypeId>c46f01e8-16d7-46f9-a53a-8c74bf6a3a06</xr:TypeId>
+				<xr:ValueId>00679826-de8b-4e33-b9de-ccdbca5679f0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ЗаголовкиСчетовПокупателям" category="Ref">
+				<xr:TypeId>88031024-44c7-4fc1-95c8-e16b82beeb0b</xr:TypeId>
+				<xr:ValueId>b6a5d48b-cd5d-4ae4-b2e4-f6f31f90932b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ЗаголовкиСчетовПокупателям" category="Selection">
+				<xr:TypeId>7e551543-9daa-4c07-b0d2-821172859431</xr:TypeId>
+				<xr:ValueId>80178c0c-77c6-463b-9fa6-feaa84199d93</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ЗаголовкиСчетовПокупателям" category="List">
+				<xr:TypeId>6925c647-090e-428b-8839-9de016057d13</xr:TypeId>
+				<xr:ValueId>03e1274c-2c3e-40dd-8c0d-e434eec7bba2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ЗаголовкиСчетовПокупателям" category="Manager">
+				<xr:TypeId>e9be90af-e46d-4989-860a-8caed3ce63db</xr:TypeId>
+				<xr:ValueId>38107d84-1bb5-43c0-969d-c5ea8af3c59b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗаголовкиСчетовПокупателям</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ca2d064a-9e8b-4956-9b98-5b460e367a82</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

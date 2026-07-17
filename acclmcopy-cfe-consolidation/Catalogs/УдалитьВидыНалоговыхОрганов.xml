@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="afbf0b5f-8a5b-4d6b-9144-959c1eccfd47">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьВидыНалоговыхОрганов" category="Object">
+				<xr:TypeId>a20ca9dc-9ec8-4ce7-a344-a90455f73567</xr:TypeId>
+				<xr:ValueId>d88f39d2-bc50-4086-89e5-af16786ccc87</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьВидыНалоговыхОрганов" category="Ref">
+				<xr:TypeId>07c274a5-36ed-4da4-a77b-c5e57224d4b4</xr:TypeId>
+				<xr:ValueId>577ca8fb-b294-4e2a-a976-a08122d7270c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьВидыНалоговыхОрганов" category="Selection">
+				<xr:TypeId>7e93feb0-2d33-4e0d-bcc2-4ea7637d165c</xr:TypeId>
+				<xr:ValueId>a5874b2e-5bed-4bcd-ad3f-a17768c09eba</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьВидыНалоговыхОрганов" category="List">
+				<xr:TypeId>e8052c27-ec7c-410d-8f42-841d37a8608e</xr:TypeId>
+				<xr:ValueId>0335b776-dd08-4be7-8918-327f5705297c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьВидыНалоговыхОрганов" category="Manager">
+				<xr:TypeId>745b2cd0-dd44-4013-aa49-4ec59e4afb6f</xr:TypeId>
+				<xr:ValueId>a1f2d1b9-3b48-4e97-9c63-6d1bd50d4c3b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьВидыНалоговыхОрганов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>df2fe35a-8f7a-4e26-a27e-338135e8ae72</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

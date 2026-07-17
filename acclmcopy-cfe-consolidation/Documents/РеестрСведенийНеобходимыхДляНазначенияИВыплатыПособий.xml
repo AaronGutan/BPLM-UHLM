@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="427d1541-8de3-49be-bc9e-f5f0a800a685">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РеестрСведенийНеобходимыхДляНазначенияИВыплатыПособий" category="Object">
+				<xr:TypeId>800ae97e-f629-470d-bb13-09e7e2d79611</xr:TypeId>
+				<xr:ValueId>3ec197f1-b596-4607-a5f9-79599b1bed22</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РеестрСведенийНеобходимыхДляНазначенияИВыплатыПособий" category="Ref">
+				<xr:TypeId>e0206361-572f-4c64-b9c9-638eee3b9966</xr:TypeId>
+				<xr:ValueId>239ac277-fea4-462b-8e39-ef22b7a83007</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РеестрСведенийНеобходимыхДляНазначенияИВыплатыПособий" category="Selection">
+				<xr:TypeId>418bf564-b23f-4258-8eec-6b6b903a6501</xr:TypeId>
+				<xr:ValueId>a0c71086-049e-4931-b8fe-66e20000d8f8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РеестрСведенийНеобходимыхДляНазначенияИВыплатыПособий" category="List">
+				<xr:TypeId>cf0dfb44-2072-44a1-bb25-813183280950</xr:TypeId>
+				<xr:ValueId>0f7fcc3e-973d-4721-9411-086498b6d0b7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РеестрСведенийНеобходимыхДляНазначенияИВыплатыПособий" category="Manager">
+				<xr:TypeId>c886dd8d-6580-4865-adce-0aa77d9065f9</xr:TypeId>
+				<xr:ValueId>17a42e72-6500-44d5-9662-5117db1bdf77</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РеестрСведенийНеобходимыхДляНазначенияИВыплатыПособий</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f22a7b7f-50ed-4be2-bcb4-4bd757ab0578</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

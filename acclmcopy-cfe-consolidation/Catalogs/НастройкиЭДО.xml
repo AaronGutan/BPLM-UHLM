@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="e3c8750c-67fe-4d7e-8841-6138c694108c">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НастройкиЭДО" category="Object">
+				<xr:TypeId>56d27227-47a3-4717-a8a0-fb00821fe08d</xr:TypeId>
+				<xr:ValueId>34dbc91f-5bb3-49e7-8bb0-9ee475f5b820</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НастройкиЭДО" category="Ref">
+				<xr:TypeId>de6a05a5-7f40-4cf3-ad2f-3bbb87211062</xr:TypeId>
+				<xr:ValueId>193dfc03-2e06-4a83-9210-3e4e9a19fdc9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НастройкиЭДО" category="Selection">
+				<xr:TypeId>7bc8407b-881c-4732-95a0-8dbf8d2dbe98</xr:TypeId>
+				<xr:ValueId>51c9fc13-2c91-422e-8783-693d746a69ce</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НастройкиЭДО" category="List">
+				<xr:TypeId>a6b8fb70-3f65-420d-acae-b7df96463032</xr:TypeId>
+				<xr:ValueId>838d2a4b-0ef1-498f-9e26-088008ba1a10</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НастройкиЭДО" category="Manager">
+				<xr:TypeId>664ffd45-0d12-4c2d-8938-53887ce52900</xr:TypeId>
+				<xr:ValueId>ce26b2ef-ba86-4811-a513-ccbbe151755b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НастройкиЭДО</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>307e6f37-a6f2-4630-8a44-0b12dbb185c0</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

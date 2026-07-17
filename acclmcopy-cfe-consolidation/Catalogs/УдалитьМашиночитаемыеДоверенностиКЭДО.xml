@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="c91b69c9-b978-4141-be2f-670464355e1e">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьМашиночитаемыеДоверенностиКЭДО" category="Object">
+				<xr:TypeId>0b6a0269-e26d-4878-bf91-1f987f4a92f0</xr:TypeId>
+				<xr:ValueId>ad93054c-da52-4305-873e-2ee564ff1d05</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьМашиночитаемыеДоверенностиКЭДО" category="Ref">
+				<xr:TypeId>b7d6baeb-cd89-4b6a-b055-8f5ce0d2edad</xr:TypeId>
+				<xr:ValueId>a5752a0b-ef94-43ae-a639-594f0e69dce8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьМашиночитаемыеДоверенностиКЭДО" category="Selection">
+				<xr:TypeId>94c21864-05e4-41a8-8c75-53b50bea9863</xr:TypeId>
+				<xr:ValueId>dfd7d430-142b-4eaf-914a-fb5031d52e2a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьМашиночитаемыеДоверенностиКЭДО" category="List">
+				<xr:TypeId>f4f053c0-8631-43b3-9810-1231fc6950d3</xr:TypeId>
+				<xr:ValueId>2ed25a1e-6e5c-407b-9d60-f00f0341677f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьМашиночитаемыеДоверенностиКЭДО" category="Manager">
+				<xr:TypeId>70d626bc-7427-4818-b890-34b8db490414</xr:TypeId>
+				<xr:ValueId>ec6f6a41-2266-4cb0-81ba-25fa7b319ee5</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьМашиночитаемыеДоверенностиКЭДО</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>bcb8bbec-0976-48ea-942f-51946eea5695</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

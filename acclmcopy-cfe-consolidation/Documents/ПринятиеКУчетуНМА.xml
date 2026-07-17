@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Document uuid="ab5d1af4-93d6-4b74-86cc-f53b1c376c3b">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="9f04cbc8-dc9d-404c-bb12-aad4ad8d19a4">
 		<InternalInfo>
 			<xr:GeneratedType name="DocumentObject.ПринятиеКУчетуНМА" category="Object">
-				<xr:TypeId>6db568f4-b1ba-4a1b-8bbd-f3a16ac082f9</xr:TypeId>
-				<xr:ValueId>94969b5f-c4ce-47e1-9823-9722271e5260</xr:ValueId>
+				<xr:TypeId>6236a3f4-3894-40cc-a0f4-2f8732eafef7</xr:TypeId>
+				<xr:ValueId>231a47eb-d672-45a4-b22b-a72a83f9c659</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentRef.ПринятиеКУчетуНМА" category="Ref">
-				<xr:TypeId>e4c03241-7de0-4b11-9aef-e21f6a570d39</xr:TypeId>
-				<xr:ValueId>fea1424e-66e5-4640-a999-2da31b277e38</xr:ValueId>
+				<xr:TypeId>b4002db6-5ac6-46b1-83a1-fb114c082c9f</xr:TypeId>
+				<xr:ValueId>942e660b-1a90-4876-86ec-b73c5b115dff</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentSelection.ПринятиеКУчетуНМА" category="Selection">
-				<xr:TypeId>2fb96cc0-fa9f-4bf6-be09-1624765ef0f0</xr:TypeId>
-				<xr:ValueId>2824445d-fc27-4362-a121-8b523582e9dd</xr:ValueId>
+				<xr:TypeId>4e472885-83db-466c-9b5e-e73ba97686b2</xr:TypeId>
+				<xr:ValueId>8a323c4c-fc69-4219-b511-4279e7241cb6</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentList.ПринятиеКУчетуНМА" category="List">
-				<xr:TypeId>5d6810af-d687-423f-8d1d-7e5c4b3d2841</xr:TypeId>
-				<xr:ValueId>552616b9-df77-4c17-a4ba-c31e50de9ba7</xr:ValueId>
+				<xr:TypeId>312de275-d30f-477e-8992-9bc658087ccd</xr:TypeId>
+				<xr:ValueId>a346396e-1590-4458-9b80-af42934cf234</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentManager.ПринятиеКУчетуНМА" category="Manager">
-				<xr:TypeId>069de1f5-d972-49b6-b3ca-1e177e117182</xr:TypeId>
-				<xr:ValueId>645784aa-1b2b-4937-be52-29b327f769e6</xr:ValueId>
+				<xr:TypeId>914e342e-d419-4615-93f5-2ff6414dd205</xr:TypeId>
+				<xr:ValueId>acd78e30-3133-4ff9-b414-ad737d5a306c</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -28,7 +28,6 @@
 			<Name>ПринятиеКУчетуНМА</Name>
 			<Comment/>
 			<ExtendedConfigurationObject>c04915ab-f288-4856-af5b-8261af241c90</ExtendedConfigurationObject>
-			<RegisterRecords/>
 		</Properties>
 		<ChildObjects/>
 	</Document>

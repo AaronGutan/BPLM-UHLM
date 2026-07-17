@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="08dbac8b-cd92-4601-904f-b9446dabca7f">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ОтветственныеЗаАктуализациюТокеновАвторизацииИСМП" category="Object">
+				<xr:TypeId>a407f4d2-ebfe-4171-91b7-452c270853f9</xr:TypeId>
+				<xr:ValueId>ecd8e1d3-6ce6-43dc-be90-335dbf85350c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ОтветственныеЗаАктуализациюТокеновАвторизацииИСМП" category="Ref">
+				<xr:TypeId>55fe651c-f8d3-4493-afbc-05a40e9a580b</xr:TypeId>
+				<xr:ValueId>0c868d60-897c-48ae-99be-1b16a43d7351</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ОтветственныеЗаАктуализациюТокеновАвторизацииИСМП" category="Selection">
+				<xr:TypeId>9deec78c-5085-46af-96f0-eb79bf3dff8a</xr:TypeId>
+				<xr:ValueId>1c8a03a3-c2e7-4b6e-8fd2-3507c8d7b856</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ОтветственныеЗаАктуализациюТокеновАвторизацииИСМП" category="List">
+				<xr:TypeId>a642b219-0dd5-492f-9cfe-fec162cb5493</xr:TypeId>
+				<xr:ValueId>5eaadc2c-e616-4f6c-8888-d380fbb5260b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ОтветственныеЗаАктуализациюТокеновАвторизацииИСМП" category="Manager">
+				<xr:TypeId>e315e45a-9e05-423b-a08f-d4d1fb4f5ef7</xr:TypeId>
+				<xr:ValueId>1161e2b1-a712-4f90-8154-ba0a35c816f5</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтветственныеЗаАктуализациюТокеновАвторизацииИСМП</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>1d00e1d2-8d3b-43dd-b534-86795badea4c</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="d5a75385-7b5e-4e50-8963-47982eb60680">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЗапросНедостающихСведенийПособияСФР" category="Object">
+				<xr:TypeId>7b0cdb96-0a94-457c-8167-7e4de543727d</xr:TypeId>
+				<xr:ValueId>898dc5bd-9eed-4e7b-8ee6-e73bd53ae0c8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЗапросНедостающихСведенийПособияСФР" category="Ref">
+				<xr:TypeId>e2716180-3183-4bc0-84e1-fcf97446e020</xr:TypeId>
+				<xr:ValueId>8cf2c839-5078-4b5a-9710-9cd9484969a0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЗапросНедостающихСведенийПособияСФР" category="Selection">
+				<xr:TypeId>b0813aa8-52e5-4f8c-b56a-6147e84939e9</xr:TypeId>
+				<xr:ValueId>828a014e-1807-419d-9cf4-391a05e2a519</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЗапросНедостающихСведенийПособияСФР" category="List">
+				<xr:TypeId>5ad488be-dbc3-4c6e-8efa-fb26633aba35</xr:TypeId>
+				<xr:ValueId>153a38ef-bf1b-4d11-87fc-ad083c898db9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЗапросНедостающихСведенийПособияСФР" category="Manager">
+				<xr:TypeId>54bf8a02-f8e2-46a0-a537-24a5bada3f2c</xr:TypeId>
+				<xr:ValueId>11538f33-1670-40b2-b49f-ea83dacb0d08</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗапросНедостающихСведенийПособияСФР</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>b45fcd42-8b52-4801-947d-cf87d98ca89a</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

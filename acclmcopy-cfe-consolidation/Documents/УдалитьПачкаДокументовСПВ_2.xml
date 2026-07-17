@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="f1aed718-c442-4c29-8e83-5c71f0397c87">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьПачкаДокументовСПВ_2" category="Object">
+				<xr:TypeId>5412b498-619a-4f23-bd4f-2ba4ed169117</xr:TypeId>
+				<xr:ValueId>08d1ed3e-ff38-423a-8f4e-709bd9aaa574</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьПачкаДокументовСПВ_2" category="Ref">
+				<xr:TypeId>5c87d51e-0a05-4b90-a80c-301239a0d371</xr:TypeId>
+				<xr:ValueId>b404afbb-83c3-4c04-ae7f-916dd4fd79bf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьПачкаДокументовСПВ_2" category="Selection">
+				<xr:TypeId>5e17ac2c-d646-4455-845b-35d4f39838c7</xr:TypeId>
+				<xr:ValueId>e92a9a08-26d8-4b2c-9052-5220fbb8c508</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьПачкаДокументовСПВ_2" category="List">
+				<xr:TypeId>fbcbf29d-d759-42c2-b5fd-864936cff261</xr:TypeId>
+				<xr:ValueId>a7fe85cf-6e7d-4ba2-b8ca-a0ae43ccae41</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьПачкаДокументовСПВ_2" category="Manager">
+				<xr:TypeId>24ecc0ca-974d-43b9-83df-ca1caad711a0</xr:TypeId>
+				<xr:ValueId>237f8638-7520-4e54-9834-aa4532bce46e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьПачкаДокументовСПВ_2</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e8e5ddb6-95bb-4dd9-b5f1-7f7a3a4a08b0</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="39fe4f8d-e58f-4234-9591-0ecd9ae0dfba">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПередачаВРегистр2ЕГАИС" category="Object">
+				<xr:TypeId>e51dc024-914e-4e8b-9cd4-84f564a40480</xr:TypeId>
+				<xr:ValueId>498aba41-38f3-4d38-b459-56d061db8ad1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПередачаВРегистр2ЕГАИС" category="Ref">
+				<xr:TypeId>7691b2f5-832c-4d43-ab5d-49313acfcb61</xr:TypeId>
+				<xr:ValueId>bf70f702-0111-46a4-8f07-40d557c56ea1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПередачаВРегистр2ЕГАИС" category="Selection">
+				<xr:TypeId>7d2273ae-8043-434a-b0da-91e4eac40195</xr:TypeId>
+				<xr:ValueId>515071d6-9703-40d9-890f-02cd0925ffc0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПередачаВРегистр2ЕГАИС" category="List">
+				<xr:TypeId>8a21a7be-de57-4081-98d2-55aac43cb735</xr:TypeId>
+				<xr:ValueId>eb452e53-ca02-4d07-9e8a-ab6918d8e583</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПередачаВРегистр2ЕГАИС" category="Manager">
+				<xr:TypeId>ef5b4e1d-8243-40d6-a2a9-898d3c509438</xr:TypeId>
+				<xr:ValueId>00550a89-39c2-400e-8e98-ef8d3bc3d3eb</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПередачаВРегистр2ЕГАИС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ea6d379c-9ec8-44f3-a9a5-c9d0dd587291</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

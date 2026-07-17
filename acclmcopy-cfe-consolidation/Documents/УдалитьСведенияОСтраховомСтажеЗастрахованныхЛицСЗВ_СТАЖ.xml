@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="643a13cb-754c-41ff-89f9-79bc0379cbd9">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьСведенияОСтраховомСтажеЗастрахованныхЛицСЗВ_СТАЖ" category="Object">
+				<xr:TypeId>e8725411-4441-4343-ad1a-293f5206f269</xr:TypeId>
+				<xr:ValueId>0e49fe5b-186d-49ce-9f0d-82a83f590372</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьСведенияОСтраховомСтажеЗастрахованныхЛицСЗВ_СТАЖ" category="Ref">
+				<xr:TypeId>08dc6fa1-dddd-4f36-9346-a3fdce2a9fa0</xr:TypeId>
+				<xr:ValueId>ab981675-7d3a-4688-9b07-9d8dd292d37d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьСведенияОСтраховомСтажеЗастрахованныхЛицСЗВ_СТАЖ" category="Selection">
+				<xr:TypeId>ba5f3e3f-a739-43f9-9563-4c9a67c9d998</xr:TypeId>
+				<xr:ValueId>a0bdd982-b3ff-4ddf-8121-21eff2b4fc59</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьСведенияОСтраховомСтажеЗастрахованныхЛицСЗВ_СТАЖ" category="List">
+				<xr:TypeId>90284efd-072d-413b-b11e-64090c2f94e9</xr:TypeId>
+				<xr:ValueId>cab28be8-22b3-4061-babd-f51d0aad0f03</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьСведенияОСтраховомСтажеЗастрахованныхЛицСЗВ_СТАЖ" category="Manager">
+				<xr:TypeId>a85b9a16-1a90-44e1-baba-4fc523d6deaa</xr:TypeId>
+				<xr:ValueId>2cc10591-cb3b-4317-b67d-7f402db634cc</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьСведенияОСтраховомСтажеЗастрахованныхЛицСЗВ_СТАЖ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>06150729-8cab-48a8-946b-2d191c0f144e</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

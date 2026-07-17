@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="622cc0cd-0624-4607-afea-f2e7938b40d5">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.МедицинскиеОрганизации" category="Object">
+				<xr:TypeId>3ae56705-31f8-4d6b-85a4-c2f5e65eeb57</xr:TypeId>
+				<xr:ValueId>1211847f-4b19-4a5b-9d34-402da352fcbe</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.МедицинскиеОрганизации" category="Ref">
+				<xr:TypeId>1c0f99dc-0562-4010-a910-3cebf8af0bf6</xr:TypeId>
+				<xr:ValueId>2ddf5075-8a09-40c3-89a3-d2090a1f8c64</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.МедицинскиеОрганизации" category="Selection">
+				<xr:TypeId>bda6f9fb-178b-4954-8e62-44f9653edd81</xr:TypeId>
+				<xr:ValueId>9f535f26-c832-4e7a-90d7-d7095886fb59</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.МедицинскиеОрганизации" category="List">
+				<xr:TypeId>3ccaa5a3-6a51-48c3-9d6e-f048bb7eb829</xr:TypeId>
+				<xr:ValueId>056e58ef-b0a4-4e0c-9932-0a1c9f65c2da</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.МедицинскиеОрганизации" category="Manager">
+				<xr:TypeId>f72050b0-e148-4f75-9d90-43830f6e17c0</xr:TypeId>
+				<xr:ValueId>945d177d-9caf-4ae2-93bc-4fa42af65bff</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>МедицинскиеОрганизации</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>4b8b1887-30e6-4f1d-af8d-fa4bb0ad89ec</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

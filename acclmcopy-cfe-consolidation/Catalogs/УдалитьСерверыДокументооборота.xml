@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="b201f501-f061-4ad7-b0fc-09d575668d6d">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьСерверыДокументооборота" category="Object">
+				<xr:TypeId>48c47b63-6573-4288-b812-cdb48fcb2323</xr:TypeId>
+				<xr:ValueId>22ed6dc2-66d1-427f-a0a6-3397c2698150</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьСерверыДокументооборота" category="Ref">
+				<xr:TypeId>654d1687-7c11-4bd7-a668-6880b93cd216</xr:TypeId>
+				<xr:ValueId>7d51ed7f-d7a0-4357-94e7-98993456065e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьСерверыДокументооборота" category="Selection">
+				<xr:TypeId>5584c0ae-62ee-4412-87d4-f9a2a441eaf4</xr:TypeId>
+				<xr:ValueId>62440713-cc5b-48a7-a14e-cad397dee4a2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьСерверыДокументооборота" category="List">
+				<xr:TypeId>ceb8f9cf-0e39-4f89-ade6-df442ede6f43</xr:TypeId>
+				<xr:ValueId>ba270780-6d16-452b-ae85-5b8ce2e1e429</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьСерверыДокументооборота" category="Manager">
+				<xr:TypeId>7f558458-f6f1-454a-a7a7-bd88fc5fea06</xr:TypeId>
+				<xr:ValueId>eb2aba64-d838-44c8-b049-69e9517fcfad</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьСерверыДокументооборота</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>7282d65b-a61e-4068-895f-e90bc21b7b82</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

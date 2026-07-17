@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="964be811-45f6-41a7-a1b3-9df62ceca140">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НастройкиОбменСБанками" category="Object">
+				<xr:TypeId>82988631-2704-4c55-85bb-8f5a57d3ae1b</xr:TypeId>
+				<xr:ValueId>6edffb5d-45c2-4a0e-bfb5-5e13cf272d17</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НастройкиОбменСБанками" category="Ref">
+				<xr:TypeId>708b98d1-5149-46ce-9aef-252d07851002</xr:TypeId>
+				<xr:ValueId>bd89210c-8b89-485f-a694-c7acd29340e6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НастройкиОбменСБанками" category="Selection">
+				<xr:TypeId>bb956fda-a249-48f0-a9b8-7699805b1d21</xr:TypeId>
+				<xr:ValueId>4f02087d-80da-4537-98ed-6bb19aa6ff79</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НастройкиОбменСБанками" category="List">
+				<xr:TypeId>e13f05aa-75e3-4f89-86a1-39f77380ad04</xr:TypeId>
+				<xr:ValueId>c325a569-f396-46ec-833a-c2a9ea9cf853</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НастройкиОбменСБанками" category="Manager">
+				<xr:TypeId>a4b60ae5-8ce1-4fed-a62b-d7437c408344</xr:TypeId>
+				<xr:ValueId>d7783208-509f-41ec-af7b-0db76c9ee4c7</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НастройкиОбменСБанками</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e600a1c9-980e-4eb7-99bb-8867e184f2a3</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

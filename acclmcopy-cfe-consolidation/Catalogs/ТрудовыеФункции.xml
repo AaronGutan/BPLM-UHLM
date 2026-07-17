@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="68996fb4-6d98-4dbe-9dec-e1254c1b09db">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ТрудовыеФункции" category="Object">
+				<xr:TypeId>e2c1328e-d54e-4950-88ca-587548f60bb1</xr:TypeId>
+				<xr:ValueId>4ff438f7-449d-4a38-897c-7150c49b7665</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ТрудовыеФункции" category="Ref">
+				<xr:TypeId>28ecde09-a2c1-4fe2-8557-d14b4a8714f3</xr:TypeId>
+				<xr:ValueId>afaacd89-7122-4d5e-a34e-bb4b24d55dfd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ТрудовыеФункции" category="Selection">
+				<xr:TypeId>099a298f-2fca-4437-844e-10b626081837</xr:TypeId>
+				<xr:ValueId>f11d35e0-2b6d-4634-bd0d-052221b7acba</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ТрудовыеФункции" category="List">
+				<xr:TypeId>727d34ef-b45d-489b-a05f-f5f72d4ad979</xr:TypeId>
+				<xr:ValueId>1e108765-192a-4bf3-8ba7-02a50334534c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ТрудовыеФункции" category="Manager">
+				<xr:TypeId>c1549faf-f535-4529-a8fd-49ddf0022c21</xr:TypeId>
+				<xr:ValueId>857be0d3-ea74-4e45-9a57-4a93aba43046</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ТрудовыеФункции</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ff3b4793-500f-4b25-bb98-8a8c35445027</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

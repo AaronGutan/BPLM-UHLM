@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="c48e5dcb-d6de-47a5-8e18-94012ce22b75">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.Билеты" category="Object">
+				<xr:TypeId>c9bc1180-b7ef-48d8-a268-4860336a5a5a</xr:TypeId>
+				<xr:ValueId>e0019863-7365-4fb5-9e75-c55714f6137f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.Билеты" category="Ref">
+				<xr:TypeId>beca38d0-5788-4c26-8f17-dde76838f9bc</xr:TypeId>
+				<xr:ValueId>81d8dc58-dba0-4e71-806d-afd01d5efafe</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.Билеты" category="Selection">
+				<xr:TypeId>e3daae1b-5639-414d-8b4f-d4dfcdcc0e26</xr:TypeId>
+				<xr:ValueId>9476efaf-529d-4cc2-9e32-e3ea9000290b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.Билеты" category="List">
+				<xr:TypeId>dad457e2-f708-4a51-b47e-e3b05f442852</xr:TypeId>
+				<xr:ValueId>4d677aa8-2539-431b-912b-e31a201ff5e6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.Билеты" category="Manager">
+				<xr:TypeId>73c79f6b-597d-41dc-9ada-b65d4f901876</xr:TypeId>
+				<xr:ValueId>57ad6fa3-708c-4e73-9317-81b2ede48bb0</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>Билеты</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8616c877-1676-45b3-9c5d-47c510562d30</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

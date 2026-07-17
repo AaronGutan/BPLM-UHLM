@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Catalog uuid="a64b0f41-b43d-4038-a364-bf69398fc2d6">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="0718947f-02ae-4c43-b55e-5c8721ec5915">
 		<InternalInfo>
 			<xr:GeneratedType name="CatalogObject.ЦенныеБумаги" category="Object">
-				<xr:TypeId>ea0b38a6-8910-45cb-a87b-2804019a16e0</xr:TypeId>
-				<xr:ValueId>c73de430-1a12-4fa5-8e97-73f7014208ba</xr:ValueId>
+				<xr:TypeId>02900ab5-9ea9-4067-9942-6267d4587261</xr:TypeId>
+				<xr:ValueId>1f3170cb-063b-49e0-8ecc-2e2e2732b4c1</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogRef.ЦенныеБумаги" category="Ref">
-				<xr:TypeId>bdb6ad8c-ffb1-4a48-b552-10ccb6c62b59</xr:TypeId>
-				<xr:ValueId>1020baa4-d20b-4968-891b-c6bcccc16fcc</xr:ValueId>
+				<xr:TypeId>7e64fd25-fc85-4180-8c6f-ab17b47bca3a</xr:TypeId>
+				<xr:ValueId>28dbc2c2-7707-488a-931f-496b959f70cd</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogSelection.ЦенныеБумаги" category="Selection">
-				<xr:TypeId>81bb7911-e70e-4b43-af24-3fb114b55f85</xr:TypeId>
-				<xr:ValueId>1546c2b5-c072-486e-8256-4ee53bf3f0a0</xr:ValueId>
+				<xr:TypeId>31227eb9-20b0-4ad3-8363-9fb35b98433d</xr:TypeId>
+				<xr:ValueId>004f6fa4-4014-477c-83d8-b899fa78abbf</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogList.ЦенныеБумаги" category="List">
-				<xr:TypeId>69135a11-ae1f-47ac-86c9-cd70651e81e3</xr:TypeId>
-				<xr:ValueId>2d2406d8-2fbf-4d33-b44d-f74d13d1326f</xr:ValueId>
+				<xr:TypeId>7a8bb10c-fe20-4a7d-baab-e9ab0a860746</xr:TypeId>
+				<xr:ValueId>d83f1877-e49f-437a-afbc-e93a25470a19</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogManager.ЦенныеБумаги" category="Manager">
-				<xr:TypeId>ff126209-7f1d-4dda-948a-ff88f53acc62</xr:TypeId>
-				<xr:ValueId>7e9fdd75-1283-43b1-b893-56a7dfedd8b5</xr:ValueId>
+				<xr:TypeId>ac6cdda1-1a73-4ebf-b6c1-0a63009a66bb</xr:TypeId>
+				<xr:ValueId>a5ea56c0-848d-433a-9fad-45395888889e</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>

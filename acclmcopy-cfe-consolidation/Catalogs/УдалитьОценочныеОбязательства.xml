@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="1d6d3d55-463a-4f0f-bc04-28c9bc368856">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьОценочныеОбязательства" category="Object">
+				<xr:TypeId>8b7abef9-fbb3-4816-962f-a2247f23ba4a</xr:TypeId>
+				<xr:ValueId>1c12383e-fb67-458a-ac14-0ef57e057dfa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьОценочныеОбязательства" category="Ref">
+				<xr:TypeId>bed4e4f7-779d-4ee9-ac3b-afc4c3dbfb55</xr:TypeId>
+				<xr:ValueId>f19142c6-91fa-48da-b71f-577dc3a64a54</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьОценочныеОбязательства" category="Selection">
+				<xr:TypeId>d506c6d3-0607-440a-b5b7-8d779bcf9ff5</xr:TypeId>
+				<xr:ValueId>37e7e925-7ccb-4ea1-81cd-fab0685a65db</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьОценочныеОбязательства" category="List">
+				<xr:TypeId>83d566d9-af82-4451-9171-9c6d2080b3c6</xr:TypeId>
+				<xr:ValueId>031595e7-1ab0-4956-a22c-538c62914ec0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьОценочныеОбязательства" category="Manager">
+				<xr:TypeId>f9448c60-c353-400b-b22f-a7ad5c80c5f7</xr:TypeId>
+				<xr:ValueId>e7a3735b-087d-4191-ada6-c37406b22440</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьОценочныеОбязательства</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>90e947da-25da-4f18-8704-d0feaad25fb9</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="cae0c1e8-b7df-4b9b-be04-ab3ab439aeee">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РоялтиКонтролируемойСделки" category="Object">
+				<xr:TypeId>5ee0b171-9365-4b78-b8b9-adae4cf6cc4b</xr:TypeId>
+				<xr:ValueId>dca0660d-ba6e-44b8-8320-4d9a2e2321b7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РоялтиКонтролируемойСделки" category="Ref">
+				<xr:TypeId>db4aee5e-20a9-4b45-9cab-fa42a1947b71</xr:TypeId>
+				<xr:ValueId>9b9f2509-1f4b-4c1f-812d-73336b03bad7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РоялтиКонтролируемойСделки" category="Selection">
+				<xr:TypeId>8765c9d5-2085-45ca-8453-b2db58d34341</xr:TypeId>
+				<xr:ValueId>360d2180-fcd6-4eff-8bb3-8e6e7f09da0c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РоялтиКонтролируемойСделки" category="List">
+				<xr:TypeId>5d78d9d3-e0d5-4415-ad6f-539ae96d6229</xr:TypeId>
+				<xr:ValueId>60abf64d-865c-402c-8b95-e75d40ce7988</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РоялтиКонтролируемойСделки" category="Manager">
+				<xr:TypeId>f0d4b6fe-5dd6-424f-b598-ac2498f39e62</xr:TypeId>
+				<xr:ValueId>90944920-2420-4bf9-b6ac-81ae2490ea1d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РоялтиКонтролируемойСделки</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>3772367d-ee3a-4c7c-ac0d-beaa6a98dcda</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

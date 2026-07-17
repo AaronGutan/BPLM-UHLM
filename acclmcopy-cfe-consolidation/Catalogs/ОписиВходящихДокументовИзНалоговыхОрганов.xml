@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="8a552e1e-0a9c-40ba-8a74-44205b60cafb">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ОписиВходящихДокументовИзНалоговыхОрганов" category="Object">
+				<xr:TypeId>c47687f2-c082-4e20-b76b-e5c67f250c01</xr:TypeId>
+				<xr:ValueId>0e37b7cd-e1e0-4c63-ad3d-4ce1b9ea0689</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ОписиВходящихДокументовИзНалоговыхОрганов" category="Ref">
+				<xr:TypeId>ef9a75f8-f49a-41e8-b224-4382632007a8</xr:TypeId>
+				<xr:ValueId>4a25ef8f-6318-4f69-a143-c31680123494</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ОписиВходящихДокументовИзНалоговыхОрганов" category="Selection">
+				<xr:TypeId>6105c6f3-f74e-460d-b037-c0d23fa3c9e7</xr:TypeId>
+				<xr:ValueId>9e81a37c-5c77-4977-bb27-aea3c0baf966</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ОписиВходящихДокументовИзНалоговыхОрганов" category="List">
+				<xr:TypeId>e79372ff-7f11-45f2-96c1-c68b42020bd6</xr:TypeId>
+				<xr:ValueId>9f312151-f4b9-4747-b9c6-a73642fa56df</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ОписиВходящихДокументовИзНалоговыхОрганов" category="Manager">
+				<xr:TypeId>930dfad7-c8b6-4837-b90c-9bdba813cac7</xr:TypeId>
+				<xr:ValueId>dd1aaef9-dbe5-472c-ab83-26ce3bf54d3f</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОписиВходящихДокументовИзНалоговыхОрганов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>72b36390-316f-4338-9805-ce7ba5568015</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

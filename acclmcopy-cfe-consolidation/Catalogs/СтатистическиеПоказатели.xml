@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="89a3f45d-9e3e-4db1-b687-88f7e0a03876">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СтатистическиеПоказатели" category="Object">
+				<xr:TypeId>fc26aa04-07ed-4e0d-b9d5-044a0d770c2c</xr:TypeId>
+				<xr:ValueId>6a77ac42-4b54-4199-b1f5-ab34044e276f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СтатистическиеПоказатели" category="Ref">
+				<xr:TypeId>46395d70-2512-41e4-b53f-b2a88eb62601</xr:TypeId>
+				<xr:ValueId>8b239ed4-a33b-4660-836a-37fd7dbde7f2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СтатистическиеПоказатели" category="Selection">
+				<xr:TypeId>1ed235bb-08ce-46d0-b416-ed53ca615e14</xr:TypeId>
+				<xr:ValueId>779b5016-11c0-433e-a4d6-755cc615f4b9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СтатистическиеПоказатели" category="List">
+				<xr:TypeId>ec9b7186-1ea1-4d3f-8944-a0cf5869c3e3</xr:TypeId>
+				<xr:ValueId>607de5fb-07a6-4f8b-9bb8-c51c48d45539</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СтатистическиеПоказатели" category="Manager">
+				<xr:TypeId>36b658ed-fcc7-456b-8afa-03b69ffb11c1</xr:TypeId>
+				<xr:ValueId>46059159-d2fb-4333-9828-4824260b1630</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СтатистическиеПоказатели</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>561713df-401b-4380-ab2b-98fd3a68821a</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

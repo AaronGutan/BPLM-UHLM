@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="12ae8422-6ff5-47f2-b235-2a2cbf4a37a5">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НастройкиПодключенияКИнтернетЭквайрингу" category="Object">
+				<xr:TypeId>a4ab5f78-e013-47e7-998b-49825c52cef1</xr:TypeId>
+				<xr:ValueId>8622c570-0150-4502-9f71-34e592076cec</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НастройкиПодключенияКИнтернетЭквайрингу" category="Ref">
+				<xr:TypeId>154a628a-b0b0-4583-8e75-0f92a517b7d9</xr:TypeId>
+				<xr:ValueId>c92ac5d4-b12a-4a10-a396-d5c7b3f10272</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НастройкиПодключенияКИнтернетЭквайрингу" category="Selection">
+				<xr:TypeId>697a186e-922e-4ecd-aa95-d72bc397dbe8</xr:TypeId>
+				<xr:ValueId>c2105b65-1841-4535-8ff6-f6643749c84f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НастройкиПодключенияКИнтернетЭквайрингу" category="List">
+				<xr:TypeId>c9d8fef9-604c-484c-a145-4cba8780e15b</xr:TypeId>
+				<xr:ValueId>d265e407-6c87-430c-af1e-f734b6b4bd67</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НастройкиПодключенияКИнтернетЭквайрингу" category="Manager">
+				<xr:TypeId>5204e5b0-f068-4f59-844c-4fac6a6e8ae0</xr:TypeId>
+				<xr:ValueId>b3a62ac3-deb0-4729-8dae-4aaaa1742530</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НастройкиПодключенияКИнтернетЭквайрингу</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>7bcedc5b-ca6a-4382-91b1-0bccc0dbe05c</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

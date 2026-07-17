@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="b45471a8-247d-4839-b41a-0ed4348ce1c7">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СеансыСвязиСКонтролирующимиОрганами" category="Object">
+				<xr:TypeId>129a557f-cfab-4e15-8ce1-5bd6aa9fcad1</xr:TypeId>
+				<xr:ValueId>0d78227a-adbd-4184-9413-8a8ef99716b5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СеансыСвязиСКонтролирующимиОрганами" category="Ref">
+				<xr:TypeId>308de695-9357-45a6-bbde-ba59931be7a6</xr:TypeId>
+				<xr:ValueId>6005023f-60bf-4872-affd-7da819c285fe</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СеансыСвязиСКонтролирующимиОрганами" category="Selection">
+				<xr:TypeId>41cab9f8-b9ec-414d-be41-8e2d60faa456</xr:TypeId>
+				<xr:ValueId>2c568a30-f96e-45e5-9dd4-4754d4f3c2fe</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СеансыСвязиСКонтролирующимиОрганами" category="List">
+				<xr:TypeId>e3b71293-81e4-436c-8ab1-991d2f4e1696</xr:TypeId>
+				<xr:ValueId>e51344f1-6497-43f8-bc61-4af5d6296b8b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СеансыСвязиСКонтролирующимиОрганами" category="Manager">
+				<xr:TypeId>a7899071-3cf2-4778-bd5a-d64ef2460abb</xr:TypeId>
+				<xr:ValueId>59465354-0de1-46d8-b657-3e5d0f6b01b9</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СеансыСвязиСКонтролирующимиОрганами</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>6749fe78-5052-4ef7-b704-e7a26204b3ea</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

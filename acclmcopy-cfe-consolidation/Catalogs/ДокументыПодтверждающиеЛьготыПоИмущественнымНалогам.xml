@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="587c0876-b7e5-4e64-8d81-9b44f5ee6dc0">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ДокументыПодтверждающиеЛьготыПоИмущественнымНалогам" category="Object">
+				<xr:TypeId>6efaca3e-757f-4608-96b0-e41ae0e5a858</xr:TypeId>
+				<xr:ValueId>1a90c0c0-7c56-4901-8bf2-9d75cee2e297</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ДокументыПодтверждающиеЛьготыПоИмущественнымНалогам" category="Ref">
+				<xr:TypeId>9ef99c06-33c1-4ced-8289-a2c2fc213316</xr:TypeId>
+				<xr:ValueId>81298ea0-cd79-44fb-ac46-1d60db3bd0c9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ДокументыПодтверждающиеЛьготыПоИмущественнымНалогам" category="Selection">
+				<xr:TypeId>d17ab365-9ad8-4bdb-a457-d30c26cf1ddb</xr:TypeId>
+				<xr:ValueId>73d1ab47-baa7-4cf8-a801-fc09879b393d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ДокументыПодтверждающиеЛьготыПоИмущественнымНалогам" category="List">
+				<xr:TypeId>f5950e43-fc2f-4dac-8681-49d3a3691bc5</xr:TypeId>
+				<xr:ValueId>c8d71597-19d0-464d-a33d-8ba244c3eab0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ДокументыПодтверждающиеЛьготыПоИмущественнымНалогам" category="Manager">
+				<xr:TypeId>8d91a296-bc26-4642-be13-93fca3f7e61e</xr:TypeId>
+				<xr:ValueId>bb3fd981-53cc-4719-a9e3-de2353c972d8</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ДокументыПодтверждающиеЛьготыПоИмущественнымНалогам</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e80ffcda-7087-40f0-bc67-ffd963ef98a7</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

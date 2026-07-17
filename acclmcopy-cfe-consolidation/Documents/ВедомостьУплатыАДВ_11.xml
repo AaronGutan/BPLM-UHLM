@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="a68800b1-d050-45d2-8339-812dfda93dc7">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ВедомостьУплатыАДВ_11" category="Object">
+				<xr:TypeId>13b6cb39-c38a-469d-a611-aa01bb8bbb5e</xr:TypeId>
+				<xr:ValueId>33806b1b-780a-477b-8494-a3d20e5bc173</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ВедомостьУплатыАДВ_11" category="Ref">
+				<xr:TypeId>5384aa36-4431-4224-be57-1a04e4dbed9a</xr:TypeId>
+				<xr:ValueId>14ea5236-d925-4a87-a32a-583cd33f88df</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ВедомостьУплатыАДВ_11" category="Selection">
+				<xr:TypeId>3620306d-479f-4f69-a36a-2cccdddce33e</xr:TypeId>
+				<xr:ValueId>3093ad23-7adb-4fa0-88ee-8ed3078628b8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ВедомостьУплатыАДВ_11" category="List">
+				<xr:TypeId>cb4a373d-df7e-48a1-9511-cdc02447001c</xr:TypeId>
+				<xr:ValueId>5b7585c0-5ed9-4ffc-ad3d-56853390eea5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ВедомостьУплатыАДВ_11" category="Manager">
+				<xr:TypeId>2ecb493b-ec93-44f9-bb76-26491f8e7ce4</xr:TypeId>
+				<xr:ValueId>3a25f3e4-a9a8-47b4-85a9-691921d3f065</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВедомостьУплатыАДВ_11</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>281c1ef5-5487-4fee-b9cc-723a81da3d91</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Catalog uuid="2dc28186-ee18-4a5f-9de0-0d4ef47a1972">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="3db15afb-329b-40e2-8e7a-cea2b09cd126">
 		<InternalInfo>
 			<xr:GeneratedType name="CatalogObject.СтраныМира" category="Object">
-				<xr:TypeId>d9868e89-7767-4c14-aae0-f5aafe8deb24</xr:TypeId>
-				<xr:ValueId>f47dc8ed-b680-4b31-9dd9-a0cadd696244</xr:ValueId>
+				<xr:TypeId>79da9840-37e7-4486-a34b-2c49366624bc</xr:TypeId>
+				<xr:ValueId>e3f26427-376e-42b7-8880-b0aac212694c</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogRef.СтраныМира" category="Ref">
-				<xr:TypeId>a10f875d-11b8-43fb-b7fe-d7d62a8832ac</xr:TypeId>
-				<xr:ValueId>6e106dc6-85e1-4842-8a44-5b7e47f407bc</xr:ValueId>
+				<xr:TypeId>26854d8f-3384-476a-b06b-1c84dd91066a</xr:TypeId>
+				<xr:ValueId>5e478aee-7eea-4c7f-b1fd-b6886b134c80</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogSelection.СтраныМира" category="Selection">
-				<xr:TypeId>4c62f862-4bf0-4204-8505-ab161a4e7cfa</xr:TypeId>
-				<xr:ValueId>fbc4fdd4-44e2-4d8a-9357-10e302c272e2</xr:ValueId>
+				<xr:TypeId>1f35e235-2453-4d43-b5fa-68f59a52aa4c</xr:TypeId>
+				<xr:ValueId>76a57e0e-b76f-41dc-a883-eda10ef52dc6</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogList.СтраныМира" category="List">
-				<xr:TypeId>9fc64711-a8f4-45b1-89b1-b5449a81362e</xr:TypeId>
-				<xr:ValueId>85f37acc-4c5d-4384-bb06-a0118528780c</xr:ValueId>
+				<xr:TypeId>d6441517-c34b-40b0-a412-6414bc192839</xr:TypeId>
+				<xr:ValueId>4cc48d6b-f035-4eea-a335-928516f50cdd</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogManager.СтраныМира" category="Manager">
-				<xr:TypeId>33fa1564-8171-4567-9734-3f3aa57eb1a9</xr:TypeId>
-				<xr:ValueId>71e822cc-874c-49a2-8c76-03f22f4014aa</xr:ValueId>
+				<xr:TypeId>6606909f-dc83-4008-bf91-1b518db38ef1</xr:TypeId>
+				<xr:ValueId>5e990221-4659-490d-b68c-27dda62a3356</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<Name>СтраныМира</Name>
 			<Comment/>
-			<ExtendedConfigurationObject>794f5fb5-3b8f-4f45-9250-7a3b9d1db383</ExtendedConfigurationObject>
+			<ExtendedConfigurationObject>5b2a2ccb-a948-4628-b145-1ce5696fdfe0</ExtendedConfigurationObject>
 		</Properties>
 		<ChildObjects/>
 	</Catalog>

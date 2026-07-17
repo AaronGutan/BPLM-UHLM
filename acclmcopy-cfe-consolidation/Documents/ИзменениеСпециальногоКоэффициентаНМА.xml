@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="99e8f74e-82f6-46cf-9bb2-b842da3e16a3">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ИзменениеСпециальногоКоэффициентаНМА" category="Object">
+				<xr:TypeId>4ef6f699-0dd4-4153-8243-f8d2965c9676</xr:TypeId>
+				<xr:ValueId>14846e4e-92f9-4ee4-a100-d4792acbad83</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ИзменениеСпециальногоКоэффициентаНМА" category="Ref">
+				<xr:TypeId>3b625b4f-df57-4da4-a709-7210f73eba5b</xr:TypeId>
+				<xr:ValueId>29f65fb8-0150-46eb-8276-56eea290aec3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ИзменениеСпециальногоКоэффициентаНМА" category="Selection">
+				<xr:TypeId>2991dc19-ebe2-4b5d-b0d9-be4b13d881b5</xr:TypeId>
+				<xr:ValueId>ea910451-c795-4eea-9e90-a2178c7d9655</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ИзменениеСпециальногоКоэффициентаНМА" category="List">
+				<xr:TypeId>967f230d-f92b-4965-b89b-2bad7f1d6cf0</xr:TypeId>
+				<xr:ValueId>b634f9ee-91ff-453f-a778-679096914d50</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ИзменениеСпециальногоКоэффициентаНМА" category="Manager">
+				<xr:TypeId>c4344a26-dabc-4be3-b856-e02aa6019458</xr:TypeId>
+				<xr:ValueId>fc34e366-97df-4c5d-9248-cfacf1d71447</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ИзменениеСпециальногоКоэффициентаНМА</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>cc9f962f-a4fe-4a9a-bb3b-6479d699e372</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

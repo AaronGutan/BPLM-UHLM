@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Document uuid="1e704c7f-1868-4861-973b-caeed44f3c8d">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="140e1fdf-591e-4681-858e-3b395f1dc6d0">
 		<InternalInfo>
 			<xr:GeneratedType name="DocumentObject.ОплатаПлатежнойКартой" category="Object">
-				<xr:TypeId>1ac50adc-061d-49c3-a703-bf2fb9ee86bc</xr:TypeId>
-				<xr:ValueId>6e38e5b4-7a80-4ece-8925-77c2025fb406</xr:ValueId>
+				<xr:TypeId>71f32bda-44d7-4cdf-a68f-5b3f5ce9cceb</xr:TypeId>
+				<xr:ValueId>da018a4f-655c-4a58-8180-aa83ef3a76c1</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentRef.ОплатаПлатежнойКартой" category="Ref">
-				<xr:TypeId>3ca83382-a77e-4ef0-b90f-e389480d1678</xr:TypeId>
-				<xr:ValueId>3360a3b4-587a-4724-8da1-b76c0c833f6c</xr:ValueId>
+				<xr:TypeId>3bf2f3d7-8d85-4275-b49e-c9ea30dc39da</xr:TypeId>
+				<xr:ValueId>d5c5ce06-9cac-4f0c-b640-4c245290fd92</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentSelection.ОплатаПлатежнойКартой" category="Selection">
-				<xr:TypeId>27d0ca1e-3df8-481e-bea7-579124ca8338</xr:TypeId>
-				<xr:ValueId>59654cd8-7ff7-4c69-85c4-b085cde3a3c8</xr:ValueId>
+				<xr:TypeId>05b03a28-69fe-4850-86cd-f117ac6fb3f1</xr:TypeId>
+				<xr:ValueId>6601a643-a98e-4825-86e0-714f428c5119</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentList.ОплатаПлатежнойКартой" category="List">
-				<xr:TypeId>6c13d45e-8ae5-4a6b-ada5-998752ba5e66</xr:TypeId>
-				<xr:ValueId>273296bc-6cfa-423d-a7a6-d2872cc5a7d7</xr:ValueId>
+				<xr:TypeId>0acc41d4-edcc-44b4-a0df-6ca0bb4be4a1</xr:TypeId>
+				<xr:ValueId>cd8520d3-3f65-473a-93b8-3176e3eb9c12</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentManager.ОплатаПлатежнойКартой" category="Manager">
-				<xr:TypeId>ee3dda60-6a89-400b-9860-62c26d76fe5b</xr:TypeId>
-				<xr:ValueId>ee0ab1b3-fa81-48dd-a305-49f0318c453d</xr:ValueId>
+				<xr:TypeId>9f2509bb-1a63-4711-b4ce-52855a6d5d09</xr:TypeId>
+				<xr:ValueId>b15c3d82-0e51-493a-ae61-851411fe9c38</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -28,7 +28,6 @@
 			<Name>ОплатаПлатежнойКартой</Name>
 			<Comment/>
 			<ExtendedConfigurationObject>1352de94-dc0a-4c63-96a3-dd70738f850e</ExtendedConfigurationObject>
-			<RegisterRecords/>
 		</Properties>
 		<ChildObjects/>
 	</Document>

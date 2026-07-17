@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="63362031-cdac-4520-a5da-e1e43da51e24">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ЗванияГражданскогоВоинскогоУчета" category="Object">
+				<xr:TypeId>be14d1bb-4e12-49c1-8952-9736919ce0ba</xr:TypeId>
+				<xr:ValueId>2c0b24dc-545e-4b0a-9570-ec4fac1a03d8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ЗванияГражданскогоВоинскогоУчета" category="Ref">
+				<xr:TypeId>2255f74e-7e48-4b96-9645-07f25495335a</xr:TypeId>
+				<xr:ValueId>8347eb07-79b9-42e9-b0f0-fd95d5321b49</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ЗванияГражданскогоВоинскогоУчета" category="Selection">
+				<xr:TypeId>ab63a4a3-5ab7-4b74-966a-897e7a905218</xr:TypeId>
+				<xr:ValueId>bbd88252-41ad-4b90-96ce-7c461fd8f09c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ЗванияГражданскогоВоинскогоУчета" category="List">
+				<xr:TypeId>cb9f73cc-0601-44b6-a99d-54c3c5cb18ec</xr:TypeId>
+				<xr:ValueId>b0eb53c0-943e-440f-931f-88fccec6859b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ЗванияГражданскогоВоинскогоУчета" category="Manager">
+				<xr:TypeId>c38e8844-eb98-4241-9483-2972de4279c4</xr:TypeId>
+				<xr:ValueId>29d39c0a-a8bb-4066-9669-1864b8504024</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗванияГражданскогоВоинскогоУчета</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>bad09ebe-aa50-4793-b322-6eb17d421390</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

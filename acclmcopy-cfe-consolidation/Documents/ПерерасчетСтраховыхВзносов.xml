@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Document uuid="61b58b93-e48a-4104-b7d2-cfb84b1b13d2">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="0b0faffb-b53f-4799-88c7-d882e14ee71a">
 		<InternalInfo>
 			<xr:GeneratedType name="DocumentObject.ПерерасчетСтраховыхВзносов" category="Object">
-				<xr:TypeId>69acc368-d4a3-4677-9fd1-c732924e7b24</xr:TypeId>
-				<xr:ValueId>abe988f1-c169-49b2-8b6e-a0aa439fc8fc</xr:ValueId>
+				<xr:TypeId>6ca4e366-87b5-4a75-a578-c42386b12d09</xr:TypeId>
+				<xr:ValueId>dc357850-00a5-4fc4-bd47-a5dcc983f019</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentRef.ПерерасчетСтраховыхВзносов" category="Ref">
-				<xr:TypeId>59eb66f0-8f40-45fb-af54-4e4d5d2b9df5</xr:TypeId>
-				<xr:ValueId>85b96179-502b-4360-a5f0-144e522a735b</xr:ValueId>
+				<xr:TypeId>20ae38c3-5911-4c47-9c07-718e872317df</xr:TypeId>
+				<xr:ValueId>99d15986-e0ca-4003-b02d-3e29eada8f9d</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentSelection.ПерерасчетСтраховыхВзносов" category="Selection">
-				<xr:TypeId>6b8fa695-d758-4b8a-939c-c0787500fda8</xr:TypeId>
-				<xr:ValueId>225b8e3a-ffd2-45fc-ba08-7f00c38091f3</xr:ValueId>
+				<xr:TypeId>02faa651-ea8a-435e-b4dc-b42142a6eeb9</xr:TypeId>
+				<xr:ValueId>456e8d01-e193-4ff5-9d9c-a6b4a244d573</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentList.ПерерасчетСтраховыхВзносов" category="List">
-				<xr:TypeId>772816a3-7633-47fe-a6bf-24d24f7b8315</xr:TypeId>
-				<xr:ValueId>ed5f6e79-4817-4134-bae3-c55ab2b68ddb</xr:ValueId>
+				<xr:TypeId>b050e399-cfb3-455a-83ec-366ce5d6f0be</xr:TypeId>
+				<xr:ValueId>d92a2dc4-1ba9-4fcc-9cb6-8a8ee7891297</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentManager.ПерерасчетСтраховыхВзносов" category="Manager">
-				<xr:TypeId>4a7f6e36-9ab2-4e0d-a151-778347224543</xr:TypeId>
-				<xr:ValueId>f4a18eda-82fc-490f-bae8-b5f1f9db02dd</xr:ValueId>
+				<xr:TypeId>bb236b56-d833-481c-b9e1-521e220af8db</xr:TypeId>
+				<xr:ValueId>1e083d08-234a-49eb-a3bb-d9868180ffdd</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -28,7 +28,6 @@
 			<Name>ПерерасчетСтраховыхВзносов</Name>
 			<Comment/>
 			<ExtendedConfigurationObject>6797aca7-119b-4938-823a-c4a103078739</ExtendedConfigurationObject>
-			<RegisterRecords/>
 		</Properties>
 		<ChildObjects/>
 	</Document>

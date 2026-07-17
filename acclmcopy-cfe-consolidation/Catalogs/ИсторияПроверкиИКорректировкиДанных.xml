@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="e6697238-cef7-4179-828d-b79802c196d4">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ИсторияПроверкиИКорректировкиДанных" category="Object">
+				<xr:TypeId>73603735-ca22-4c74-8cf6-451734408244</xr:TypeId>
+				<xr:ValueId>40118303-d919-401d-a2d0-d57aac21d559</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ИсторияПроверкиИКорректировкиДанных" category="Ref">
+				<xr:TypeId>fbfd8f61-f980-49d7-b1fa-6ce89fd085a0</xr:TypeId>
+				<xr:ValueId>7ebb4c02-ce96-4045-ad1d-ad822b64847b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ИсторияПроверкиИКорректировкиДанных" category="Selection">
+				<xr:TypeId>e6ee93ac-cb2c-4d81-a8ad-28e96dec66aa</xr:TypeId>
+				<xr:ValueId>948a50c1-b995-4c75-8804-48e98e45e19a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ИсторияПроверкиИКорректировкиДанных" category="List">
+				<xr:TypeId>c23f129a-329e-479c-8e66-5af4a98cac67</xr:TypeId>
+				<xr:ValueId>ba578206-93e8-4782-836a-47d9caf0b3fb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ИсторияПроверкиИКорректировкиДанных" category="Manager">
+				<xr:TypeId>4825244f-8e8c-476d-bcd6-f6b3833eea0c</xr:TypeId>
+				<xr:ValueId>15ae56af-3659-4725-9ab4-f179d839821e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ИсторияПроверкиИКорректировкиДанных</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>de61ec56-3112-4767-89db-d687b6655df7</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

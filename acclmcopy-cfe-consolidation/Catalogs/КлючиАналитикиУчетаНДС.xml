@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="5c22ac52-5b15-438d-81e5-fde328039a5c">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КлючиАналитикиУчетаНДС" category="Object">
+				<xr:TypeId>f55acc2c-236f-4505-ac50-f2f8d55f63ae</xr:TypeId>
+				<xr:ValueId>557c07cd-df93-49ff-ba02-35969fdebd2e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КлючиАналитикиУчетаНДС" category="Ref">
+				<xr:TypeId>29255946-73b3-41b4-b332-5abd45c74646</xr:TypeId>
+				<xr:ValueId>d89c685b-2079-4c2e-937d-00053e19343b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КлючиАналитикиУчетаНДС" category="Selection">
+				<xr:TypeId>53f36a0e-bb3a-4339-a504-4b2f8ae19544</xr:TypeId>
+				<xr:ValueId>52458a73-9ffc-4eef-99a8-cecc2ee1ad80</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КлючиАналитикиУчетаНДС" category="List">
+				<xr:TypeId>0a318a34-a22e-407a-b36d-5daf2b465dd5</xr:TypeId>
+				<xr:ValueId>5c53ff62-9dcc-4e48-babc-cf2be14ff691</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КлючиАналитикиУчетаНДС" category="Manager">
+				<xr:TypeId>ac7beaf3-461b-42ef-a549-ce818957af65</xr:TypeId>
+				<xr:ValueId>1cc6e479-051c-4a39-811a-ba2a662d5971</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КлючиАналитикиУчетаНДС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>c12b0e84-76bc-4d15-901f-710305fb1de7</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

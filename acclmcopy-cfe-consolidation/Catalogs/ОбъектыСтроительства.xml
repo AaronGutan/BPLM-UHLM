@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Catalog uuid="00c80f46-f408-4526-a14d-cf58b4d769fa">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="469724e2-2131-4699-ac9f-afe81c5ebcd2">
 		<InternalInfo>
 			<xr:GeneratedType name="CatalogObject.ОбъектыСтроительства" category="Object">
-				<xr:TypeId>cfc6ab44-579c-412d-b841-8710255968cd</xr:TypeId>
-				<xr:ValueId>cece92cc-a80c-4627-a91d-16da3814c118</xr:ValueId>
+				<xr:TypeId>f1c239da-c420-4aca-af85-e585e30a3e15</xr:TypeId>
+				<xr:ValueId>621de3b7-0103-4ae4-ac36-99368fc623fc</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogRef.ОбъектыСтроительства" category="Ref">
-				<xr:TypeId>a47a4b87-279e-4f73-a41e-ef8079079c28</xr:TypeId>
-				<xr:ValueId>d1bad6db-a008-4827-bc06-5f237c9b99fc</xr:ValueId>
+				<xr:TypeId>f41b3783-917a-4b7f-aaeb-eb4b180ad960</xr:TypeId>
+				<xr:ValueId>b2ed919e-98a0-4cf8-9bc2-2557d9fe74e9</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogSelection.ОбъектыСтроительства" category="Selection">
-				<xr:TypeId>1dc8cf82-2258-4a6a-b7af-b95b8923b55c</xr:TypeId>
-				<xr:ValueId>cb114209-41b4-4b70-8b4f-8860cc1fc889</xr:ValueId>
+				<xr:TypeId>35d62629-28f2-4a93-9680-0b0d9c6fc865</xr:TypeId>
+				<xr:ValueId>9b3fd5bc-5d73-44d4-b59a-5e1a43179422</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogList.ОбъектыСтроительства" category="List">
-				<xr:TypeId>ce30e4df-9e9f-4c81-81cf-e6130b0cb4b7</xr:TypeId>
-				<xr:ValueId>47cd1179-9a59-471f-9b9a-ee095d724b6c</xr:ValueId>
+				<xr:TypeId>e95c7f72-a347-4b12-a8e0-206b4ea4f299</xr:TypeId>
+				<xr:ValueId>2319bf2a-bf48-4b47-91e1-ac436e3f957a</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogManager.ОбъектыСтроительства" category="Manager">
-				<xr:TypeId>d8f38039-6e03-41ca-b42a-62aa4fbd851c</xr:TypeId>
-				<xr:ValueId>249c0830-883e-4491-bc1a-1fba72e3230c</xr:ValueId>
+				<xr:TypeId>d0c4845f-a99b-496f-a486-f39620f1336f</xr:TypeId>
+				<xr:ValueId>8bd67cb3-e7df-4e76-9624-529ffb2e4ce8</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>

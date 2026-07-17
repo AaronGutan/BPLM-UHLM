@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="9e74c336-e614-4668-99c6-04d502ad5980">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НастройкиРегламентныхЗаданийВЕТИС" category="Object">
+				<xr:TypeId>9813f338-007b-4e86-8a92-a69cdfece45c</xr:TypeId>
+				<xr:ValueId>4ff68a45-d65e-4ebf-a707-9de9bc04b9a7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НастройкиРегламентныхЗаданийВЕТИС" category="Ref">
+				<xr:TypeId>db0724f3-8b8f-4766-8516-a9a05b80d166</xr:TypeId>
+				<xr:ValueId>d6f999b9-72c0-4995-9766-7b7592647622</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НастройкиРегламентныхЗаданийВЕТИС" category="Selection">
+				<xr:TypeId>a8c9d1fb-70ed-4013-8d4f-9dbd83330271</xr:TypeId>
+				<xr:ValueId>defb13d0-fde4-4393-b940-ae50f0aea891</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НастройкиРегламентныхЗаданийВЕТИС" category="List">
+				<xr:TypeId>4f92e6c0-d3cd-4c05-b4df-5ad8b480319f</xr:TypeId>
+				<xr:ValueId>5ffbf583-c197-4c52-ac67-400c4628bdef</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НастройкиРегламентныхЗаданийВЕТИС" category="Manager">
+				<xr:TypeId>52164e1f-7847-49f0-a531-59d9e5a194f8</xr:TypeId>
+				<xr:ValueId>133c0c11-d3be-475a-8c72-c5801328cbdd</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НастройкиРегламентныхЗаданийВЕТИС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d6df5e5a-adeb-4e8d-98fc-25940591ad43</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

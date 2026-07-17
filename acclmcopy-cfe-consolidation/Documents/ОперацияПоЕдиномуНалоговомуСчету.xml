@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Document uuid="08fa5bb1-0443-48dd-b6f8-eba293ea241a">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="d7188097-e417-4971-a638-1daeba05f745">
 		<InternalInfo>
 			<xr:GeneratedType name="DocumentObject.ОперацияПоЕдиномуНалоговомуСчету" category="Object">
-				<xr:TypeId>4f466c70-eba9-4fb6-bb96-50dec8f67dc6</xr:TypeId>
-				<xr:ValueId>c9a967e6-a638-4d19-801d-5e257f7a1b89</xr:ValueId>
+				<xr:TypeId>35d46dc7-f859-47c3-a1d7-94305e1578b4</xr:TypeId>
+				<xr:ValueId>210acd25-e671-4e15-b265-aa94cc860e70</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentRef.ОперацияПоЕдиномуНалоговомуСчету" category="Ref">
-				<xr:TypeId>68306079-2ebc-42f2-bfa7-5f033df43b0d</xr:TypeId>
-				<xr:ValueId>b78710ec-8af2-4f6f-9f24-786155bf17eb</xr:ValueId>
+				<xr:TypeId>cbdf7a3d-0e2c-42da-a047-0b458ee9cd00</xr:TypeId>
+				<xr:ValueId>7566bfa9-5701-4bd2-bc16-b648a19d138f</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentSelection.ОперацияПоЕдиномуНалоговомуСчету" category="Selection">
-				<xr:TypeId>9352d9c2-0914-42a7-8848-03277d077ddd</xr:TypeId>
-				<xr:ValueId>5dc2788e-55fb-4e69-84fc-88b511643534</xr:ValueId>
+				<xr:TypeId>69031114-2ac2-436d-b980-17fbee699073</xr:TypeId>
+				<xr:ValueId>4c5653cc-175c-470b-827c-0e08ac629e28</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentList.ОперацияПоЕдиномуНалоговомуСчету" category="List">
-				<xr:TypeId>625956ff-a8a3-46b7-b387-3b215f35afa1</xr:TypeId>
-				<xr:ValueId>98fff1b6-3b36-4759-9834-9e6c936f4575</xr:ValueId>
+				<xr:TypeId>756cf386-f7a1-4ff0-89b2-33959ac9432c</xr:TypeId>
+				<xr:ValueId>f54d79b4-c67c-441f-845f-2f1862d5b5a6</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentManager.ОперацияПоЕдиномуНалоговомуСчету" category="Manager">
-				<xr:TypeId>40a5e8f2-4614-4a49-9042-2a5ca33ba95f</xr:TypeId>
-				<xr:ValueId>61e19343-525f-43c3-a68f-3c2172bdc5a5</xr:ValueId>
+				<xr:TypeId>c84ad971-5bc8-4c2f-b569-445f45a555cf</xr:TypeId>
+				<xr:ValueId>45796616-79ef-4784-9a95-2fbc38b8ef32</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -28,7 +28,6 @@
 			<Name>ОперацияПоЕдиномуНалоговомуСчету</Name>
 			<Comment/>
 			<ExtendedConfigurationObject>421e5cd2-7d12-44f0-9f63-b98d07e2e371</ExtendedConfigurationObject>
-			<RegisterRecords/>
 		</Properties>
 		<ChildObjects/>
 	</Document>

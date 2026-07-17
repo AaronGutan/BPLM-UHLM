@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="9e7846ad-b1e9-412a-9057-38bcc1250690">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ТранспортноеСообщение" category="Object">
+				<xr:TypeId>3bebb404-3753-43b4-8675-3103090da655</xr:TypeId>
+				<xr:ValueId>7f71a15a-829e-420b-9333-ead1e025e5cf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ТранспортноеСообщение" category="Ref">
+				<xr:TypeId>524a13c9-3a43-4aa2-95d4-78a7d637d1c3</xr:TypeId>
+				<xr:ValueId>96249119-9ec9-42bd-ab38-7a9b107ab2e0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ТранспортноеСообщение" category="Selection">
+				<xr:TypeId>c4a65007-914d-4526-a8cf-80b3a7116ac3</xr:TypeId>
+				<xr:ValueId>d0182c7c-880f-475c-857f-75abb598b7d5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ТранспортноеСообщение" category="List">
+				<xr:TypeId>58d696a6-7d9d-4779-a5d7-0b6d251f30c3</xr:TypeId>
+				<xr:ValueId>f30d2977-887c-4c60-a208-c9a5bf80e029</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ТранспортноеСообщение" category="Manager">
+				<xr:TypeId>22438358-5f5e-4136-bd8c-c32fa21a2e31</xr:TypeId>
+				<xr:ValueId>2c26486c-5068-443a-b632-2265f7abd1f8</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ТранспортноеСообщение</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>44892cee-4461-4ca5-85f0-b63765c634f4</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

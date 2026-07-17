@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="31861915-ea76-4e6d-b8e9-612283feb8d1">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ВыводИзОборотаИСМП" category="Object">
+				<xr:TypeId>699034d2-548c-4f9d-a608-06811c01189f</xr:TypeId>
+				<xr:ValueId>13f3ce78-67c7-4a40-aa1c-adf4947f27eb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ВыводИзОборотаИСМП" category="Ref">
+				<xr:TypeId>41b4848d-4470-4059-9b3b-b05d3f93edd5</xr:TypeId>
+				<xr:ValueId>49d33071-817f-45ec-a4d5-affea3445613</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ВыводИзОборотаИСМП" category="Selection">
+				<xr:TypeId>7a9e87c9-d307-46d5-9825-647e5533a3b3</xr:TypeId>
+				<xr:ValueId>06f6f83d-632a-4e47-b383-0f17c20d2087</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ВыводИзОборотаИСМП" category="List">
+				<xr:TypeId>fb311626-ea24-4b66-b0af-56d88d5bb404</xr:TypeId>
+				<xr:ValueId>78473bcf-3d5b-4224-96cd-e6b164b82dce</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ВыводИзОборотаИСМП" category="Manager">
+				<xr:TypeId>c6fb4b4e-cc70-4765-b3b6-d949661a0717</xr:TypeId>
+				<xr:ValueId>67107259-fafa-48c8-bc08-6e79668163ec</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВыводИзОборотаИСМП</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>09df1983-6b98-4c03-92c9-79f8c54278d4</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

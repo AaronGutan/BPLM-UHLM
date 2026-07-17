@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="9ce751b3-986e-4e64-af13-4379b3418531">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ПравилаРегулярныхПлатежей" category="Object">
+				<xr:TypeId>d5c4eb7a-98f4-410f-a647-b5fccadd2951</xr:TypeId>
+				<xr:ValueId>5157594c-6184-4f4f-b550-0ab5498fe894</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ПравилаРегулярныхПлатежей" category="Ref">
+				<xr:TypeId>1c957965-1858-4922-8550-4f76316d7200</xr:TypeId>
+				<xr:ValueId>af634fff-0fb9-44ef-8f28-63200465da93</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ПравилаРегулярныхПлатежей" category="Selection">
+				<xr:TypeId>b571d291-7141-4ad6-82b6-4aa46eab456e</xr:TypeId>
+				<xr:ValueId>86b4eee4-4a72-4f70-9a7f-6a8e20a5cbb6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ПравилаРегулярныхПлатежей" category="List">
+				<xr:TypeId>5c6281e9-db30-4b53-a4df-49883fb0957c</xr:TypeId>
+				<xr:ValueId>bf9b445a-1266-440b-a41e-fcaa28c5459c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ПравилаРегулярныхПлатежей" category="Manager">
+				<xr:TypeId>98928212-9ff6-418d-a2ca-744c0e12c7c4</xr:TypeId>
+				<xr:ValueId>f0c5bcd5-50a1-4c95-bc05-381c00ce0c63</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПравилаРегулярныхПлатежей</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e86073bc-9a4c-4887-bb7f-b7b7cb9f335d</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

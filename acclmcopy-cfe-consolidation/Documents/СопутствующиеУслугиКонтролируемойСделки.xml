@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="5676b80f-3bf5-4a1b-a6e2-e9ed1c0cb1c1">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СопутствующиеУслугиКонтролируемойСделки" category="Object">
+				<xr:TypeId>2fa35a5f-924b-4c2f-858c-5bcc65b2ef92</xr:TypeId>
+				<xr:ValueId>46dfe9b0-8cdd-45d4-bc2a-f821a80f5223</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СопутствующиеУслугиКонтролируемойСделки" category="Ref">
+				<xr:TypeId>6934b724-4e74-4b6c-af04-e428a6b3fd63</xr:TypeId>
+				<xr:ValueId>4ac45f12-b573-4710-ab7e-c5c3ba8ae6e7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СопутствующиеУслугиКонтролируемойСделки" category="Selection">
+				<xr:TypeId>3f797884-82a8-42cd-ba2e-7e3c82f3b662</xr:TypeId>
+				<xr:ValueId>febedf0a-790e-40ef-9029-70ae5d0030dc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СопутствующиеУслугиКонтролируемойСделки" category="List">
+				<xr:TypeId>00259de5-08de-41ab-9a80-4acd8038dd3f</xr:TypeId>
+				<xr:ValueId>477e68b5-f34e-4fff-a286-a870928958ed</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СопутствующиеУслугиКонтролируемойСделки" category="Manager">
+				<xr:TypeId>f02a07d2-74c8-4925-96a9-d586bbbb4c4f</xr:TypeId>
+				<xr:ValueId>a309d1d0-20ed-43bb-8859-e1ebabd3cfd3</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СопутствующиеУслугиКонтролируемойСделки</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>136496fa-d9ae-482c-9eeb-ac437c366350</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="990fa416-5af8-4514-aa64-40f39e5cdaf4">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ВидыНалоговыхОрганов" category="Object">
+				<xr:TypeId>a15d444d-36dd-46c2-9ca0-a5843a75f188</xr:TypeId>
+				<xr:ValueId>7057b9d0-adb8-4b57-8e20-412457de360a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ВидыНалоговыхОрганов" category="Ref">
+				<xr:TypeId>40439e3c-a96d-43b6-9e29-8d1f7a03f7c1</xr:TypeId>
+				<xr:ValueId>3d3b5501-af20-4a43-bc61-32708dd9306d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ВидыНалоговыхОрганов" category="Selection">
+				<xr:TypeId>68113126-7cf3-4df7-8e8a-9f60592cf60e</xr:TypeId>
+				<xr:ValueId>a0a97e19-aeb4-455a-9272-ed1c701e4698</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ВидыНалоговыхОрганов" category="List">
+				<xr:TypeId>c12bf394-b9e0-45f7-afbf-cf3ea019448a</xr:TypeId>
+				<xr:ValueId>8aad4014-242e-4fa1-976c-efe1bd5a9760</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ВидыНалоговыхОрганов" category="Manager">
+				<xr:TypeId>7a016519-db3f-4843-a299-af52fee3492f</xr:TypeId>
+				<xr:ValueId>5db9f0a4-f04e-4698-9025-cd7243c8e8a1</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВидыНалоговыхОрганов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8321d69b-1813-453f-ac0f-b5b0b950de21</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

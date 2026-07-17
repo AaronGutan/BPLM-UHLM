@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="96775d1a-a324-497f-833b-9434e49cbd7a">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ОрганыПФР" category="Object">
+				<xr:TypeId>b3f5e1fc-5938-473e-9b9a-979865f0c1fe</xr:TypeId>
+				<xr:ValueId>1843c6e1-5e87-411b-a038-bad930f9b244</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ОрганыПФР" category="Ref">
+				<xr:TypeId>91e373a2-e2ed-4666-b1a4-fae0be202990</xr:TypeId>
+				<xr:ValueId>976f1446-6c1e-4da3-8fb8-276120c36807</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ОрганыПФР" category="Selection">
+				<xr:TypeId>04b52be6-cee3-4001-b103-7ef733319d92</xr:TypeId>
+				<xr:ValueId>0fe9ea91-c776-4074-9d96-6bbe3760122c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ОрганыПФР" category="List">
+				<xr:TypeId>e1963c2c-8175-43b7-9100-3e9c1854cfcc</xr:TypeId>
+				<xr:ValueId>8f0850ec-b8d7-470c-bd9c-e2eac84f7aa3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ОрганыПФР" category="Manager">
+				<xr:TypeId>faa1349b-ad53-4708-b7b9-c883e42c6d2c</xr:TypeId>
+				<xr:ValueId>de883473-00ee-4e4d-ab63-c0be8a0784a0</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОрганыПФР</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>2aa3d43c-2948-4752-9716-09046be6fc55</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

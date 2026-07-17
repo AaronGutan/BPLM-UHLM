@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="42fa07c7-c626-4aa8-be46-1e1fc750c222">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СправкиПоНДФЛДляРасчетаПоНалогуНаПрибыль" category="Object">
+				<xr:TypeId>a29a3991-d09a-4d06-a758-390babd10cfb</xr:TypeId>
+				<xr:ValueId>b5adc477-e774-48bb-96c5-0e7f53f7f383</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СправкиПоНДФЛДляРасчетаПоНалогуНаПрибыль" category="Ref">
+				<xr:TypeId>2b99b891-4fb5-4235-8100-0d800a5fa9cc</xr:TypeId>
+				<xr:ValueId>1831c3d0-909e-4f86-9a17-4e5c38411145</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СправкиПоНДФЛДляРасчетаПоНалогуНаПрибыль" category="Selection">
+				<xr:TypeId>2f072736-bb80-4582-8eed-8a749a10f70c</xr:TypeId>
+				<xr:ValueId>720ad629-0cfb-45a7-8d47-763babbb44ef</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СправкиПоНДФЛДляРасчетаПоНалогуНаПрибыль" category="List">
+				<xr:TypeId>e83527f3-2555-4797-98f8-d1eba446228c</xr:TypeId>
+				<xr:ValueId>221bf42c-52ba-44b6-b3e2-0b9d41c10feb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СправкиПоНДФЛДляРасчетаПоНалогуНаПрибыль" category="Manager">
+				<xr:TypeId>ecb7b396-02df-458e-b5f6-6896d106e90d</xr:TypeId>
+				<xr:ValueId>910d0cfa-d7be-48cb-9c71-06b7a0cdbc98</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СправкиПоНДФЛДляРасчетаПоНалогуНаПрибыль</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>a0dfd97a-542c-4a56-91e4-b82e71edfa9e</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

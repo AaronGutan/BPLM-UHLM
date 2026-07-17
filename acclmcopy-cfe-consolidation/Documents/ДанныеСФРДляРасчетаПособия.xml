@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="eb6b13e3-0032-40e0-8d99-94222df1cb76">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ДанныеСФРДляРасчетаПособия" category="Object">
+				<xr:TypeId>db7aa974-4b6c-4385-8595-d1168b7a8460</xr:TypeId>
+				<xr:ValueId>51189645-03ba-46a5-a9bc-79385a3faf2b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ДанныеСФРДляРасчетаПособия" category="Ref">
+				<xr:TypeId>a3e90788-53c0-4f57-9baf-676aaf61884e</xr:TypeId>
+				<xr:ValueId>b84ccfd6-ba7c-412a-bf00-440751a37324</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ДанныеСФРДляРасчетаПособия" category="Selection">
+				<xr:TypeId>d339f357-5e59-4772-82f1-d88dcd77ca61</xr:TypeId>
+				<xr:ValueId>ff402c60-9d24-4194-b176-3ecc0615a07a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ДанныеСФРДляРасчетаПособия" category="List">
+				<xr:TypeId>3be359ff-134a-4469-97c9-6973c0705004</xr:TypeId>
+				<xr:ValueId>5953b0d0-38be-4b40-be32-61930e040f6f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ДанныеСФРДляРасчетаПособия" category="Manager">
+				<xr:TypeId>e5201c96-9cde-434b-aeb0-64f1c1630d04</xr:TypeId>
+				<xr:ValueId>3e029ea1-3ede-44ad-aeb3-2508667faec1</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ДанныеСФРДляРасчетаПособия</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8258d07d-b582-49ed-9684-78e01d1e9818</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Document uuid="a3724121-fb64-48c7-8b2a-5edcfbe81394">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="0cc55671-3ef5-41e0-84da-ecdd39e1c66b">
 		<InternalInfo>
 			<xr:GeneratedType name="DocumentObject.ВозвратТоваровОтПокупателя" category="Object">
-				<xr:TypeId>1afeb266-7f5c-4085-a43b-4f1b3d5bb3fe</xr:TypeId>
-				<xr:ValueId>6a362b9f-ed7d-4411-9953-12fdb75ebdf4</xr:ValueId>
+				<xr:TypeId>df94a2b8-4f6b-4ecd-9137-07514df7518b</xr:TypeId>
+				<xr:ValueId>1695c42e-a7a2-47cd-a020-79a955d119c3</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentRef.ВозвратТоваровОтПокупателя" category="Ref">
-				<xr:TypeId>2ed259a1-8a21-4fa1-b983-2240cc2cf3b1</xr:TypeId>
-				<xr:ValueId>2d5f0089-b272-44b5-8d11-a713c0625e5c</xr:ValueId>
+				<xr:TypeId>32083ade-4505-47a9-90ce-bf7b78a3d8df</xr:TypeId>
+				<xr:ValueId>711d9e18-5935-4714-aca9-5da2f2c1e66e</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentSelection.ВозвратТоваровОтПокупателя" category="Selection">
-				<xr:TypeId>d4f18250-0a12-41d2-8666-d13e5e1f5a46</xr:TypeId>
-				<xr:ValueId>9af6fe7e-74c7-4dd4-8e15-ade90008ac41</xr:ValueId>
+				<xr:TypeId>c73fc87f-9970-47da-8c5f-dec7201121fd</xr:TypeId>
+				<xr:ValueId>84441ecf-a2c7-4d01-84b6-5b239d846747</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentList.ВозвратТоваровОтПокупателя" category="List">
-				<xr:TypeId>701428ed-c23e-48d2-b54e-2e511d9306b2</xr:TypeId>
-				<xr:ValueId>3b36b04e-b33f-43a9-9b19-f988ee17625a</xr:ValueId>
+				<xr:TypeId>94ee0049-e5d9-4dec-84e1-5818fe657b4a</xr:TypeId>
+				<xr:ValueId>a9218c84-b2c4-486c-9b5b-c5a2ebcb3ad4</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentManager.ВозвратТоваровОтПокупателя" category="Manager">
-				<xr:TypeId>a0185c27-c227-4c62-af9f-7ec3e44abc6a</xr:TypeId>
-				<xr:ValueId>2917163e-ec3f-489b-a72b-b43da7126402</xr:ValueId>
+				<xr:TypeId>8165b862-1c2a-4c58-93e9-4dfc7aa068d0</xr:TypeId>
+				<xr:ValueId>ab8433d1-994a-4a6d-aa09-d45a2fed46b7</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -28,7 +28,6 @@
 			<Name>ВозвратТоваровОтПокупателя</Name>
 			<Comment/>
 			<ExtendedConfigurationObject>5729ae80-1ddd-49ea-8c23-070af930ce08</ExtendedConfigurationObject>
-			<RegisterRecords/>
 		</Properties>
 		<ChildObjects/>
 	</Document>

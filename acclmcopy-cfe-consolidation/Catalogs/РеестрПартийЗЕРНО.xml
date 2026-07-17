@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="96a52fec-85b1-4824-bef5-e1427130f5b7">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.РеестрПартийЗЕРНО" category="Object">
+				<xr:TypeId>18c5e4de-c785-417d-9d70-77b730e3f7c2</xr:TypeId>
+				<xr:ValueId>63e3020e-38e9-4b63-820c-1b8a88f53353</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.РеестрПартийЗЕРНО" category="Ref">
+				<xr:TypeId>51f22571-c84e-4edb-816a-045ab419a7af</xr:TypeId>
+				<xr:ValueId>20087fdd-5c27-4ffd-b55b-bec7b44f3984</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.РеестрПартийЗЕРНО" category="Selection">
+				<xr:TypeId>e5f44ec9-434b-424d-85d9-f9fab446dfd2</xr:TypeId>
+				<xr:ValueId>0e9f4e60-a51a-4fc7-891c-c5e5fdb50194</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.РеестрПартийЗЕРНО" category="List">
+				<xr:TypeId>9db5d8bc-e8f0-405c-b559-2df4f0b695cf</xr:TypeId>
+				<xr:ValueId>25de8136-440f-4f0f-8d84-09a9f1a608b5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.РеестрПартийЗЕРНО" category="Manager">
+				<xr:TypeId>740da164-8165-4552-9def-1e784214ca27</xr:TypeId>
+				<xr:ValueId>9d71cc6d-de21-4cc1-850b-7129721d670a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РеестрПартийЗЕРНО</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>5cc52e89-6b4d-4996-823e-42e0b1544368</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

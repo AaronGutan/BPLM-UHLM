@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="ddb9d508-7f31-4abc-8a1f-08e16c3e9ce9">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.МашиночитаемыеДоверенностиРаспределенныйРеестр" category="Object">
+				<xr:TypeId>220478ae-81b3-4f61-a73d-a8286a31c0de</xr:TypeId>
+				<xr:ValueId>4322768a-03ad-41b5-bc08-7639f9400bc9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.МашиночитаемыеДоверенностиРаспределенныйРеестр" category="Ref">
+				<xr:TypeId>6d2715d3-c0b4-46ca-9ce8-bb2486f63e62</xr:TypeId>
+				<xr:ValueId>52ae2a6c-8619-47a2-868f-15934090e80c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.МашиночитаемыеДоверенностиРаспределенныйРеестр" category="Selection">
+				<xr:TypeId>c8be05a8-3693-4e5c-a67c-1d14a3d26685</xr:TypeId>
+				<xr:ValueId>23dd1820-3a6b-460b-a57e-b83ad765a3af</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.МашиночитаемыеДоверенностиРаспределенныйРеестр" category="List">
+				<xr:TypeId>f8c308a3-52c8-4153-9340-a3af15e044f7</xr:TypeId>
+				<xr:ValueId>ad8092a8-58a0-4a3a-811b-e6f91eae94a7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.МашиночитаемыеДоверенностиРаспределенныйРеестр" category="Manager">
+				<xr:TypeId>b404c772-5f46-42bb-b215-1ee06ed48e40</xr:TypeId>
+				<xr:ValueId>a378ba97-df47-479e-bb53-35ae8076a20e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>МашиночитаемыеДоверенностиРаспределенныйРеестр</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>2d7567dd-90d1-41b9-af38-df43e675568e</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

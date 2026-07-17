@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="b9e1d604-c7ef-4002-a21c-5e97ad6f092b">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьДоходыПоСтраховымВзносам" category="Object">
+				<xr:TypeId>41b541de-211c-4b50-abe3-1cf6ecd99212</xr:TypeId>
+				<xr:ValueId>b71955e2-9f58-4620-bc86-15671392c2a5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьДоходыПоСтраховымВзносам" category="Ref">
+				<xr:TypeId>da4e077e-74ca-4138-b1ad-05f9b3f92ff2</xr:TypeId>
+				<xr:ValueId>259e17de-6784-4770-9139-987417883bda</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьДоходыПоСтраховымВзносам" category="Selection">
+				<xr:TypeId>d8ce596f-2a78-49b0-b8e1-eca99d2d08c9</xr:TypeId>
+				<xr:ValueId>338373ba-29f0-4335-9f21-337ba5325d7e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьДоходыПоСтраховымВзносам" category="List">
+				<xr:TypeId>2b1ca38c-d023-44cd-b83b-a4195ff1258c</xr:TypeId>
+				<xr:ValueId>4ae81863-ff1a-49bd-ad58-cd941003ea29</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьДоходыПоСтраховымВзносам" category="Manager">
+				<xr:TypeId>05e1e23b-8b29-4703-96b7-8b180a4b6a87</xr:TypeId>
+				<xr:ValueId>bfb46d90-d131-45c5-b03f-11196bb24be0</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьДоходыПоСтраховымВзносам</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d5daca42-8ad7-4deb-8653-740c8eb50684</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

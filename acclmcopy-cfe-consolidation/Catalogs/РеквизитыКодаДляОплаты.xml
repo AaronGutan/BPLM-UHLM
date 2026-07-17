@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="76850ef2-e308-481f-8f31-3f5b818cbc06">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.РеквизитыКодаДляОплаты" category="Object">
+				<xr:TypeId>739d7b98-2ee1-417f-b2c4-c59a142e3d8e</xr:TypeId>
+				<xr:ValueId>3dcf4158-8ec4-491d-a823-03c4ff4a0600</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.РеквизитыКодаДляОплаты" category="Ref">
+				<xr:TypeId>81dd35b6-b392-4882-aeb8-bfd6fb4f28b6</xr:TypeId>
+				<xr:ValueId>1ff26c9f-c662-4265-8306-e6f2fe33eff2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.РеквизитыКодаДляОплаты" category="Selection">
+				<xr:TypeId>bc72d31e-6bb4-4e76-9d7c-2ed2fad803a4</xr:TypeId>
+				<xr:ValueId>5f572bb8-ecae-4318-9a88-d8cf95b12c84</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.РеквизитыКодаДляОплаты" category="List">
+				<xr:TypeId>57a0dcb6-a0c4-4d87-a7c3-955d3e46bec9</xr:TypeId>
+				<xr:ValueId>278271a2-cd8d-45e9-9c35-4f383f68295d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.РеквизитыКодаДляОплаты" category="Manager">
+				<xr:TypeId>44000e83-1f36-4706-9a1d-0861d4c8fc95</xr:TypeId>
+				<xr:ValueId>3ab756bd-22fc-485b-9b4a-d4e10bf6431f</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РеквизитыКодаДляОплаты</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8144d497-1039-4315-9ea3-a212ade9c66f</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

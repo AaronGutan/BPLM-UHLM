@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="abe90c1e-3fdd-4499-8130-9a338f202ff5">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.РеестрМестФормированияПартийЗЕРНО" category="Object">
+				<xr:TypeId>a82cad6f-8165-45fc-85a1-b60aeccef945</xr:TypeId>
+				<xr:ValueId>0770b998-40a1-4d84-9729-054bf766ef3e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.РеестрМестФормированияПартийЗЕРНО" category="Ref">
+				<xr:TypeId>0530895f-5116-468b-9d26-bf7f06928faf</xr:TypeId>
+				<xr:ValueId>4a6015e4-a8e0-490f-b027-a93431d53197</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.РеестрМестФормированияПартийЗЕРНО" category="Selection">
+				<xr:TypeId>a786b4b3-c005-42d4-a9ff-3d3a66739e97</xr:TypeId>
+				<xr:ValueId>3d7cc199-52bb-47cc-8965-792b0b0b144b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.РеестрМестФормированияПартийЗЕРНО" category="List">
+				<xr:TypeId>f268d899-7fe9-4ba4-9d14-adf2aab0a751</xr:TypeId>
+				<xr:ValueId>4e6d90c4-1bf0-4fd3-95cf-abff14e1d0c9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.РеестрМестФормированияПартийЗЕРНО" category="Manager">
+				<xr:TypeId>2afa099c-c280-48ef-9376-137a5cc5f0b5</xr:TypeId>
+				<xr:ValueId>e20c1ac2-d151-4241-858d-a5d0636c0ad6</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РеестрМестФормированияПартийЗЕРНО</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>0c1ec275-927f-4abb-9886-3694cc79cadd</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

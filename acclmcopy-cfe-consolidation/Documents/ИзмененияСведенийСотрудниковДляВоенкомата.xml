@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="e1448cca-f4e6-413a-bbfa-6c8645deb68f">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ИзмененияСведенийСотрудниковДляВоенкомата" category="Object">
+				<xr:TypeId>8af48709-1637-4552-b906-c191ac9d0a84</xr:TypeId>
+				<xr:ValueId>2fe53dd8-647c-43dd-8089-01bed86b1195</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ИзмененияСведенийСотрудниковДляВоенкомата" category="Ref">
+				<xr:TypeId>5ded3a08-5882-484f-bf70-2eac1821e88b</xr:TypeId>
+				<xr:ValueId>0dd2f884-73ce-473f-bcc2-9f62ebde8933</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ИзмененияСведенийСотрудниковДляВоенкомата" category="Selection">
+				<xr:TypeId>51e9f3ff-9ed0-4476-a447-d616fb436606</xr:TypeId>
+				<xr:ValueId>89ee44d7-b382-4ce3-a880-4c27f895b8f1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ИзмененияСведенийСотрудниковДляВоенкомата" category="List">
+				<xr:TypeId>b8489abe-8f7a-4958-9591-be9c2eaf0f12</xr:TypeId>
+				<xr:ValueId>bf6d6945-02e4-413e-a5c9-55f0bff0e32f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ИзмененияСведенийСотрудниковДляВоенкомата" category="Manager">
+				<xr:TypeId>9ebbd10e-5ebb-4f8d-96bc-2790a196d7d0</xr:TypeId>
+				<xr:ValueId>86dc7215-1db4-40ed-92fa-9df96572faae</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ИзмененияСведенийСотрудниковДляВоенкомата</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d0fc11db-9ab4-4bad-9b52-2e1eb16258b6</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

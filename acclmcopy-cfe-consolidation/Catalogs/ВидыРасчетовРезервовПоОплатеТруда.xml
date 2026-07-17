@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="544eff42-f238-43b6-9b68-f5d3dd66f8d0">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ВидыРасчетовРезервовПоОплатеТруда" category="Object">
+				<xr:TypeId>85041990-651f-4b91-b7db-7fcb3ecebd46</xr:TypeId>
+				<xr:ValueId>525d9e7e-7a09-41c1-ac57-b6b20c560ccc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ВидыРасчетовРезервовПоОплатеТруда" category="Ref">
+				<xr:TypeId>835b3057-812f-46de-a3da-33b5d42c3d24</xr:TypeId>
+				<xr:ValueId>1171b560-900b-4b31-963e-942ada2e6a02</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ВидыРасчетовРезервовПоОплатеТруда" category="Selection">
+				<xr:TypeId>4a02165a-ef5c-43ab-a226-3bf40535fb49</xr:TypeId>
+				<xr:ValueId>5cd1dd44-cd98-4745-87ff-4aa8418b172f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ВидыРасчетовРезервовПоОплатеТруда" category="List">
+				<xr:TypeId>b1ec36ea-cba0-4db3-b970-a2d46559e9c9</xr:TypeId>
+				<xr:ValueId>1e30c151-524a-4b0f-8c1b-dacb6cc61bd2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ВидыРасчетовРезервовПоОплатеТруда" category="Manager">
+				<xr:TypeId>249370d3-1c72-4520-b478-507151d8aa9c</xr:TypeId>
+				<xr:ValueId>ce700818-4dbe-4ac9-a791-13bf9c7e0076</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВидыРасчетовРезервовПоОплатеТруда</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d97aee5b-6af1-4460-8f49-54c716c3199d</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

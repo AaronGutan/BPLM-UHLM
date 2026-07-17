@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="08084f16-ed5c-4b66-8870-3a9036d1e867">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КлассификаторПолномочийМЧД003" category="Object">
+				<xr:TypeId>183f6295-943b-4363-a7d9-9ccd722f55e4</xr:TypeId>
+				<xr:ValueId>776ad85f-9625-4811-947d-0f33c81d51bc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КлассификаторПолномочийМЧД003" category="Ref">
+				<xr:TypeId>3ccc08d5-65e5-4bba-928f-715414133ee2</xr:TypeId>
+				<xr:ValueId>59e17086-594d-4ebf-963f-8be84d080fa9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КлассификаторПолномочийМЧД003" category="Selection">
+				<xr:TypeId>c9c4dd4f-6d30-4b0b-bb74-8ae469d49699</xr:TypeId>
+				<xr:ValueId>b7d5d5f7-b463-4c4e-999f-2fc39aacf250</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КлассификаторПолномочийМЧД003" category="List">
+				<xr:TypeId>5bb671bc-8f08-411f-be81-003458bde4cd</xr:TypeId>
+				<xr:ValueId>43b0a9be-2bda-4a23-b11a-9c1e28298fc8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КлассификаторПолномочийМЧД003" category="Manager">
+				<xr:TypeId>06452a6d-de19-4042-a642-e6f355a9e20e</xr:TypeId>
+				<xr:ValueId>4e50159b-ec91-459d-91ff-871fe27a269b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КлассификаторПолномочийМЧД003</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>479f7b6c-de22-408e-84e0-0a86bb8ed60d</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

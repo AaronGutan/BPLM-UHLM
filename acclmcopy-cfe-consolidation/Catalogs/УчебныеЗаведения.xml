@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="5918f00b-a4c6-476b-ade0-f9e30d759815">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УчебныеЗаведения" category="Object">
+				<xr:TypeId>e009ca03-3488-4063-a0ea-5c42fa57ece4</xr:TypeId>
+				<xr:ValueId>17498a08-7b23-456a-b8ba-80e9a98de7e2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УчебныеЗаведения" category="Ref">
+				<xr:TypeId>4ce3c256-46f5-4727-9789-8b99382a1d9c</xr:TypeId>
+				<xr:ValueId>be90f4ed-643d-4005-a210-b5017bd25882</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УчебныеЗаведения" category="Selection">
+				<xr:TypeId>e1ad30c2-bf81-4f1f-b7b0-1eecfee6dd8b</xr:TypeId>
+				<xr:ValueId>ca7aaf4c-c42d-446a-9e18-98bb9d1ea8de</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УчебныеЗаведения" category="List">
+				<xr:TypeId>6755b258-713a-4c4c-98b1-75a6094909e2</xr:TypeId>
+				<xr:ValueId>05991f9f-1ab7-4237-8faf-c25b6d8d7eed</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УчебныеЗаведения" category="Manager">
+				<xr:TypeId>671f1c6c-edf0-41a2-93bc-da506d965a5d</xr:TypeId>
+				<xr:ValueId>e4f92078-dcf8-4e55-91d3-7fbdea52c5ed</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УчебныеЗаведения</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>4d23ffa7-78f0-4033-81fa-2836fc1b7398</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

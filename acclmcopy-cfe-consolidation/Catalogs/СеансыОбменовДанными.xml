@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="e51c993d-7d83-4f99-82c4-7d5ee17631aa">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СеансыОбменовДанными" category="Object">
+				<xr:TypeId>c1e6610d-6e31-4a0c-994d-8a780942f2dd</xr:TypeId>
+				<xr:ValueId>ae2f86d0-5e3d-4e62-863b-fcb5a4aaaf03</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СеансыОбменовДанными" category="Ref">
+				<xr:TypeId>e51d3879-0946-4924-afb7-1a22c3369b08</xr:TypeId>
+				<xr:ValueId>9434128f-436d-41f5-8fe2-95d0cb6d23d5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СеансыОбменовДанными" category="Selection">
+				<xr:TypeId>8c8911d0-bf07-436f-ada5-330ef334b23c</xr:TypeId>
+				<xr:ValueId>f36c059b-83f6-4d14-949a-d555cb743f29</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СеансыОбменовДанными" category="List">
+				<xr:TypeId>27b75607-cd95-400b-8548-99569ad75cc3</xr:TypeId>
+				<xr:ValueId>6ef90b16-6bec-4bb9-87c0-587794211ab0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СеансыОбменовДанными" category="Manager">
+				<xr:TypeId>58dab9cb-625e-42f2-9114-73de0eaf4be4</xr:TypeId>
+				<xr:ValueId>83f5a6ef-58a0-4298-9aac-15e4f81373a8</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СеансыОбменовДанными</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>4b8fdb79-a9a0-4a53-9a95-82b8f64b1aa2</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

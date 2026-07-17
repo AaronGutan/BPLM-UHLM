@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="3ae50e8d-dd8f-4dcf-83c8-fe49ae812f46">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СерверыДокументооборота" category="Object">
+				<xr:TypeId>71311f85-63ed-4a2e-82f5-230f6aa2cf15</xr:TypeId>
+				<xr:ValueId>1039a6f7-430a-486a-9abc-155898efaafc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СерверыДокументооборота" category="Ref">
+				<xr:TypeId>16a78011-cbda-4ea8-9893-163e17c777de</xr:TypeId>
+				<xr:ValueId>fdc76976-1bcd-4309-9fff-f3ad8920a5d1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СерверыДокументооборота" category="Selection">
+				<xr:TypeId>da60d551-402d-4744-9886-331e31419880</xr:TypeId>
+				<xr:ValueId>d2adb97d-7322-408a-acbb-6bfd373fc2c3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СерверыДокументооборота" category="List">
+				<xr:TypeId>cd81105b-f413-40da-9b07-0f8a8c047c91</xr:TypeId>
+				<xr:ValueId>16116033-ed8f-4387-a307-e2dacae01cc3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СерверыДокументооборота" category="Manager">
+				<xr:TypeId>91d5a6a7-1580-4a69-9544-d4f9ed4c3104</xr:TypeId>
+				<xr:ValueId>23e41084-7f23-4b28-b839-858f240a862e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СерверыДокументооборота</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ab31c678-d202-4ed8-8aa5-508c9668382e</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="366933fc-5604-473c-aa8b-ca301026c8d9">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьСведенияОТрудовомСтажеИЗаработкеСЗВ4" category="Object">
+				<xr:TypeId>84697847-fe1c-4ab6-bb1a-31f1604a41dc</xr:TypeId>
+				<xr:ValueId>2070ef08-8151-4ebc-9bd3-183ddf5f7efa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьСведенияОТрудовомСтажеИЗаработкеСЗВ4" category="Ref">
+				<xr:TypeId>babbd203-5216-453e-9089-bc1fa25edc6e</xr:TypeId>
+				<xr:ValueId>84e98d53-5d8c-457d-b5ee-8fe04dbf7b99</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьСведенияОТрудовомСтажеИЗаработкеСЗВ4" category="Selection">
+				<xr:TypeId>417d3d01-9553-45b8-a017-51f634b7dd87</xr:TypeId>
+				<xr:ValueId>4d5c76de-4de9-4d66-be3e-fedd23ccdd3a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьСведенияОТрудовомСтажеИЗаработкеСЗВ4" category="List">
+				<xr:TypeId>4299e89c-d2dd-44e0-af26-9912634ab5ec</xr:TypeId>
+				<xr:ValueId>d98dac06-cc5f-4844-9d99-3828598c4cf2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьСведенияОТрудовомСтажеИЗаработкеСЗВ4" category="Manager">
+				<xr:TypeId>d28361a2-3cae-4f1a-a37f-84e49deea8ac</xr:TypeId>
+				<xr:ValueId>d2ef0e69-f880-42ea-9171-c91dca1cbf5f</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьСведенияОТрудовомСтажеИЗаработкеСЗВ4</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>0c611a24-1b6f-4de1-b893-edcd6eb4b843</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

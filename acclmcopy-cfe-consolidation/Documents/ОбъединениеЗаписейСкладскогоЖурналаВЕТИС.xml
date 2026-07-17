@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="428d01b8-8832-4800-a4d6-081eaf84f730">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОбъединениеЗаписейСкладскогоЖурналаВЕТИС" category="Object">
+				<xr:TypeId>30d6fbd0-64b0-4817-a048-54e7e5d190bf</xr:TypeId>
+				<xr:ValueId>4050975d-8d82-4254-bc4f-1e244805c378</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОбъединениеЗаписейСкладскогоЖурналаВЕТИС" category="Ref">
+				<xr:TypeId>1d9edca0-805d-4a89-a5c9-a166723b65fb</xr:TypeId>
+				<xr:ValueId>5ef39b7d-95f6-4449-a8a0-85d9e7861937</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОбъединениеЗаписейСкладскогоЖурналаВЕТИС" category="Selection">
+				<xr:TypeId>70153787-ab88-4286-9e0f-66706dcfb5d5</xr:TypeId>
+				<xr:ValueId>f45dd3e6-ea70-4354-bfea-c78a8360b9fd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОбъединениеЗаписейСкладскогоЖурналаВЕТИС" category="List">
+				<xr:TypeId>c09d6c91-9d01-4c6f-94e6-0ff57e90f559</xr:TypeId>
+				<xr:ValueId>307e9ecd-9e63-4515-b44d-cc8a3d4296cc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОбъединениеЗаписейСкладскогоЖурналаВЕТИС" category="Manager">
+				<xr:TypeId>6507585e-323c-4749-a4d5-cc91b7b124ad</xr:TypeId>
+				<xr:ValueId>f8a75b96-6b60-4c00-9351-f50fb74910c7</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОбъединениеЗаписейСкладскогоЖурналаВЕТИС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d92a5ef4-e6b3-4494-a289-a697e286b40b</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

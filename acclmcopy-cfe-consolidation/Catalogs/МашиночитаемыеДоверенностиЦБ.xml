@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="ad0f5fb2-bb0c-4aed-bdcf-9c526daa1206">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.МашиночитаемыеДоверенностиЦБ" category="Object">
+				<xr:TypeId>049f75d8-02be-4291-9077-56cad9775442</xr:TypeId>
+				<xr:ValueId>96fc3464-6463-4bc3-a479-40f156f6f5a4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.МашиночитаемыеДоверенностиЦБ" category="Ref">
+				<xr:TypeId>b21b4abb-b0be-4e2f-9b11-874c153dcb84</xr:TypeId>
+				<xr:ValueId>47e612c5-b0a6-4e33-9340-6aaddc7d35ca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.МашиночитаемыеДоверенностиЦБ" category="Selection">
+				<xr:TypeId>f8c6a846-4cc0-4f03-b195-0d9416c37e5f</xr:TypeId>
+				<xr:ValueId>1af30128-431e-4b66-9527-c325af084906</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.МашиночитаемыеДоверенностиЦБ" category="List">
+				<xr:TypeId>0966a02d-d457-4941-801c-9d8d0ad346e4</xr:TypeId>
+				<xr:ValueId>712377af-6121-4f0c-956e-5c24f5329ab8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.МашиночитаемыеДоверенностиЦБ" category="Manager">
+				<xr:TypeId>d9ebc3dd-b679-4c51-a758-c1c8f47598ca</xr:TypeId>
+				<xr:ValueId>f3cfbaab-880d-46e1-86aa-4dee15627c00</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>МашиночитаемыеДоверенностиЦБ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>fef207e0-1970-4f98-891f-aead549293ac</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

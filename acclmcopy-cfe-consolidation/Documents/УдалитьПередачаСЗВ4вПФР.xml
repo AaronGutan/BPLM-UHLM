@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="f5dddd3c-f5d2-47ca-babb-1c9e64d93036">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьПередачаСЗВ4вПФР" category="Object">
+				<xr:TypeId>8778b98b-15eb-4210-8493-792fffc16af1</xr:TypeId>
+				<xr:ValueId>78b53e13-7fec-41f9-ad17-eb6077f1e0d0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьПередачаСЗВ4вПФР" category="Ref">
+				<xr:TypeId>c8a9a00d-2906-476e-96a9-db728be37df5</xr:TypeId>
+				<xr:ValueId>ff5c078d-120d-4ffb-a3e2-9d4311b6261e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьПередачаСЗВ4вПФР" category="Selection">
+				<xr:TypeId>21c20edf-01d9-4498-b171-93776c1123e2</xr:TypeId>
+				<xr:ValueId>0ab7803b-ff7e-4984-b2fb-dc4f055df7e5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьПередачаСЗВ4вПФР" category="List">
+				<xr:TypeId>98a30517-0c01-47d2-aec7-7e1ac35e9598</xr:TypeId>
+				<xr:ValueId>910ed644-124b-40a1-8a2a-70921f3c00ce</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьПередачаСЗВ4вПФР" category="Manager">
+				<xr:TypeId>9c91ea13-1a91-4e15-8796-7bb380569b80</xr:TypeId>
+				<xr:ValueId>127e43b9-55c4-4570-9528-815312775dc1</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьПередачаСЗВ4вПФР</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>51829141-15cd-41bd-a888-e60cc4a32d77</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

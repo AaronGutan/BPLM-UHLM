@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="7d324810-8464-4712-89df-3275cb29b665">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЛистокСообщенияДляВоенкомата" category="Object">
+				<xr:TypeId>cf5ec0ed-9b35-44ff-9579-2f87ee1363dc</xr:TypeId>
+				<xr:ValueId>f6e301ac-b978-46e7-bacd-55842e86a44f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЛистокСообщенияДляВоенкомата" category="Ref">
+				<xr:TypeId>42064dca-412b-41af-8387-c85959f01974</xr:TypeId>
+				<xr:ValueId>717ad79f-63c9-40b9-9cb4-d5d0ff9544c5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЛистокСообщенияДляВоенкомата" category="Selection">
+				<xr:TypeId>82dfeb6d-c5dd-41a6-abc1-2aaa696bc331</xr:TypeId>
+				<xr:ValueId>3956a05a-4f64-429e-bc07-e1a517c5ee8e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЛистокСообщенияДляВоенкомата" category="List">
+				<xr:TypeId>1c348342-c912-4b8d-8c37-8d2d49fde4ea</xr:TypeId>
+				<xr:ValueId>15c257a5-65ff-4e8f-b18e-3747a83e0088</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЛистокСообщенияДляВоенкомата" category="Manager">
+				<xr:TypeId>23d59094-e86f-4bde-90d8-b88eea44f6fd</xr:TypeId>
+				<xr:ValueId>1f401bc7-e1a1-41d1-8092-6835c8f34f3d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЛистокСообщенияДляВоенкомата</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>dbdf5c8b-9202-4842-93e0-dae05790f509</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="5522e88c-6689-44fc-b486-fea7484a492f">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьСведенияОНачисленномЗаработкеСЗВ63" category="Object">
+				<xr:TypeId>6f82e143-5ae8-4bda-aa06-3c8e9d834da1</xr:TypeId>
+				<xr:ValueId>498643cf-6145-4311-a8fb-1e192b821467</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьСведенияОНачисленномЗаработкеСЗВ63" category="Ref">
+				<xr:TypeId>5f989904-a0d1-4c4d-a2d9-fa5eccfa3388</xr:TypeId>
+				<xr:ValueId>f91aba37-2e1a-43ec-8dfb-7ab3c697f1c8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьСведенияОНачисленномЗаработкеСЗВ63" category="Selection">
+				<xr:TypeId>83e8d7e7-3bbd-456c-9049-b378f05b1c28</xr:TypeId>
+				<xr:ValueId>c909dd20-f740-4879-9fab-f9ed5653ffe3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьСведенияОНачисленномЗаработкеСЗВ63" category="List">
+				<xr:TypeId>f45f0d47-a81d-46fb-9a5a-654fcc0e4ac9</xr:TypeId>
+				<xr:ValueId>69faeec3-0510-4609-a0a0-79b4205e5fef</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьСведенияОНачисленномЗаработкеСЗВ63" category="Manager">
+				<xr:TypeId>c8825e27-6594-4925-8436-396cde6fa965</xr:TypeId>
+				<xr:ValueId>a1cc34bb-e0c7-4713-861e-1d791359a0d8</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьСведенияОНачисленномЗаработкеСЗВ63</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>60787a42-2782-45e7-9b3a-7259d07739db</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

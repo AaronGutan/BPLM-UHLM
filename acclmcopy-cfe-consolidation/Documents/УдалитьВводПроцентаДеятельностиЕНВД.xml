@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="fa430e7f-4776-45e4-98ab-20125e9867ea">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьВводПроцентаДеятельностиЕНВД" category="Object">
+				<xr:TypeId>32abf87e-d010-43bb-b160-93e66d612dbf</xr:TypeId>
+				<xr:ValueId>c5949473-31e3-4929-aff3-5537c28ec015</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьВводПроцентаДеятельностиЕНВД" category="Ref">
+				<xr:TypeId>7ed82764-9246-4a23-a243-17d79ee1ac7c</xr:TypeId>
+				<xr:ValueId>a0f922b9-2dfd-4744-890c-ca5becdf6ba2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьВводПроцентаДеятельностиЕНВД" category="Selection">
+				<xr:TypeId>bb10a3e9-50c4-4d26-a03c-e5d1cc31874a</xr:TypeId>
+				<xr:ValueId>e92e149d-92ed-4fd3-8a1a-7e851792c876</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьВводПроцентаДеятельностиЕНВД" category="List">
+				<xr:TypeId>a1ace4e6-aa8c-4913-8b6f-165977cc1bcf</xr:TypeId>
+				<xr:ValueId>ed57e624-f0a1-4c4f-ad66-aa38e1fc527a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьВводПроцентаДеятельностиЕНВД" category="Manager">
+				<xr:TypeId>8890f09c-c4aa-4b4a-9c03-5d87d652c480</xr:TypeId>
+				<xr:ValueId>426982aa-2cea-496c-a0ed-411a232bddde</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьВводПроцентаДеятельностиЕНВД</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>24675117-6bc5-4998-a83e-9ecbac67eaee</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

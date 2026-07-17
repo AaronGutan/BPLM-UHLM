@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="39929aa6-c992-4f2e-9b39-ba5c326d8765">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ВерсииПоставляемыхРасширений" category="Object">
+				<xr:TypeId>386546ec-53c1-415f-9fb9-6c8d1ee504b0</xr:TypeId>
+				<xr:ValueId>2eacbe6e-88b0-4e43-afbf-16bd3e8d3d70</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ВерсииПоставляемыхРасширений" category="Ref">
+				<xr:TypeId>7a4af3bf-b2b5-448f-8995-6d4b4f311b76</xr:TypeId>
+				<xr:ValueId>acd35215-06ce-4f63-b151-6fe95311ede9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ВерсииПоставляемыхРасширений" category="Selection">
+				<xr:TypeId>c4237d66-614e-4d39-8944-30d3c605ab9b</xr:TypeId>
+				<xr:ValueId>f2b71f35-8ee4-4375-9ae5-ebf005384650</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ВерсииПоставляемыхРасширений" category="List">
+				<xr:TypeId>a2bcc169-222c-4895-9c81-3acdd1b22407</xr:TypeId>
+				<xr:ValueId>ff929fab-7e1e-4940-b837-97cde2eff970</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ВерсииПоставляемыхРасширений" category="Manager">
+				<xr:TypeId>2b61e357-7956-450b-b8e5-5cea242b8118</xr:TypeId>
+				<xr:ValueId>fc2c6968-51f9-4607-b852-4813b4c3825e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВерсииПоставляемыхРасширений</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>c7f4957a-1217-4bb6-8f1a-4051521b0e36</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

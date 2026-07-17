@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="05c0e5cd-8c56-407c-acb1-219cc1a96cf4">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КлючиАдресовЗЕРНО" category="Object">
+				<xr:TypeId>f08bd5cf-e420-4f7e-b01c-09614cfcb2a3</xr:TypeId>
+				<xr:ValueId>f87ca46e-ae4e-4e82-bb11-6f1dca1a5e56</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КлючиАдресовЗЕРНО" category="Ref">
+				<xr:TypeId>0bb863ae-fd19-4e81-b470-afe3882e2e70</xr:TypeId>
+				<xr:ValueId>393bb5e1-560d-4b29-affc-8d84838dc66e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КлючиАдресовЗЕРНО" category="Selection">
+				<xr:TypeId>33422229-7223-40ac-bc4d-18bc8b843f4f</xr:TypeId>
+				<xr:ValueId>fd4f1db0-d6d7-4370-a26e-b115c16eb442</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КлючиАдресовЗЕРНО" category="List">
+				<xr:TypeId>ed5dcb81-0fa0-4e53-bfd6-f042c196305c</xr:TypeId>
+				<xr:ValueId>240db9b5-40ba-4d9a-a3c8-a62e31afa42c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КлючиАдресовЗЕРНО" category="Manager">
+				<xr:TypeId>7bdbc727-5f9f-4b09-9afd-d7b580b58c53</xr:TypeId>
+				<xr:ValueId>62c8ad94-6255-4549-a721-5f93156570e8</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КлючиАдресовЗЕРНО</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d18d7c03-c896-47c0-912d-807f841528f0</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

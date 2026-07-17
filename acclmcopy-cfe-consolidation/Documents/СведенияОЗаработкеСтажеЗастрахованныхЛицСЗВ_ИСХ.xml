@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="2e8c8e5d-965c-4a68-b3f5-645c5874dc6b">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СведенияОЗаработкеСтажеЗастрахованныхЛицСЗВ_ИСХ" category="Object">
+				<xr:TypeId>a6b8522c-77ce-4a9f-a588-1284bc5b5c6d</xr:TypeId>
+				<xr:ValueId>43b7ec1a-88f1-4b88-a1e0-87a0e82e5994</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СведенияОЗаработкеСтажеЗастрахованныхЛицСЗВ_ИСХ" category="Ref">
+				<xr:TypeId>fafb8df0-ec6f-4d90-8f12-450b502cacce</xr:TypeId>
+				<xr:ValueId>a188468b-b6e7-461c-8e95-c11d47a7f064</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СведенияОЗаработкеСтажеЗастрахованныхЛицСЗВ_ИСХ" category="Selection">
+				<xr:TypeId>6c475581-e9da-4fc7-9641-a7289bbcb0f2</xr:TypeId>
+				<xr:ValueId>2cb76701-a6d1-4a1d-b2fc-82d86d598a87</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СведенияОЗаработкеСтажеЗастрахованныхЛицСЗВ_ИСХ" category="List">
+				<xr:TypeId>dc35678c-c376-44d2-9433-01fb268fdee1</xr:TypeId>
+				<xr:ValueId>b3ae2c90-0f7e-4c60-9c6b-b6655d1507c8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СведенияОЗаработкеСтажеЗастрахованныхЛицСЗВ_ИСХ" category="Manager">
+				<xr:TypeId>4417ec88-edd5-43f5-ae08-fd6749f80c7d</xr:TypeId>
+				<xr:ValueId>06ed2d5f-4490-4851-9de5-139665b0ef06</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СведенияОЗаработкеСтажеЗастрахованныхЛицСЗВ_ИСХ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d6bdbeb4-4a38-4970-952d-edff0937551d</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

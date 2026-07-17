@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="18b0b772-b025-4fdb-9f70-9a9ea9d65035">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьВидыВычетовНДФЛ" category="Object">
+				<xr:TypeId>d79d0462-4de4-41ee-b723-44891253d391</xr:TypeId>
+				<xr:ValueId>500273ce-bf2b-4fe9-beca-984e558fc6aa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьВидыВычетовНДФЛ" category="Ref">
+				<xr:TypeId>93eb0822-a10a-454c-8397-f91ef20f624e</xr:TypeId>
+				<xr:ValueId>2559ce99-cc41-4fc9-889c-3623f66494ac</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьВидыВычетовНДФЛ" category="Selection">
+				<xr:TypeId>4cc0c24f-1176-448c-9420-f085378f45f2</xr:TypeId>
+				<xr:ValueId>626aee91-b4ae-46a5-a8c3-3d47b3939d3c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьВидыВычетовНДФЛ" category="List">
+				<xr:TypeId>7d11a6c3-ad42-41b8-ba68-c0797bf607d1</xr:TypeId>
+				<xr:ValueId>097d64b7-2292-4ef9-9d17-05019a8e3ecf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьВидыВычетовНДФЛ" category="Manager">
+				<xr:TypeId>b26e5b28-1cd9-43aa-a068-aba6c3ecfbe6</xr:TypeId>
+				<xr:ValueId>49f0451e-36fd-4c53-9504-9ae769bc0d0c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьВидыВычетовНДФЛ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>02ae6159-bb22-41ee-b600-e125c785a7de</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

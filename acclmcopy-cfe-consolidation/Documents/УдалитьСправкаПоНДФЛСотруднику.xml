@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="76264c50-cab9-4ddb-9af4-5eaef36f8a2e">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьСправкаПоНДФЛСотруднику" category="Object">
+				<xr:TypeId>7ce5887c-a322-4803-bb4f-92cbb8c33b07</xr:TypeId>
+				<xr:ValueId>eef0d3fd-0cff-4c1a-929f-69ccaeb1aa6a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьСправкаПоНДФЛСотруднику" category="Ref">
+				<xr:TypeId>c4e4ef67-8412-4130-9d8e-62685c75b8c5</xr:TypeId>
+				<xr:ValueId>e4524fa2-1f74-4897-a08e-09688555d702</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьСправкаПоНДФЛСотруднику" category="Selection">
+				<xr:TypeId>8f0b11c2-889b-4b59-b334-1b2a7d5f884f</xr:TypeId>
+				<xr:ValueId>233b9689-c721-4dae-8e69-578c4bf23060</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьСправкаПоНДФЛСотруднику" category="List">
+				<xr:TypeId>a416af00-7d0c-40a6-a83a-a02b357682f5</xr:TypeId>
+				<xr:ValueId>e685aec8-db18-4825-a04d-24060dd09833</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьСправкаПоНДФЛСотруднику" category="Manager">
+				<xr:TypeId>7b445f31-256b-42e6-84f8-2dfb2a6ed7a0</xr:TypeId>
+				<xr:ValueId>b32ee5e3-d233-4dab-8381-5108d495a120</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьСправкаПоНДФЛСотруднику</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>514472ac-e042-40e8-a5c1-312f1fde4980</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

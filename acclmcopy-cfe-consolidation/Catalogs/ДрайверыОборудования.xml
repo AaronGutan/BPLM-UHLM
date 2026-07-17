@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="cd6de458-0bee-4430-bf33-abd1a7e3193a">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ДрайверыОборудования" category="Object">
+				<xr:TypeId>26d9063d-ff11-4dc5-a5ef-5ccdd428cf79</xr:TypeId>
+				<xr:ValueId>d0177979-4dad-4ff4-9e52-25f3791ea017</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ДрайверыОборудования" category="Ref">
+				<xr:TypeId>dc54848d-454b-4439-9246-ab00741d7d98</xr:TypeId>
+				<xr:ValueId>fdb4ca66-460f-4e73-b5bf-5eb5c87ffcb8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ДрайверыОборудования" category="Selection">
+				<xr:TypeId>1663fd0e-eb6e-4af8-80fa-4e81e92f5584</xr:TypeId>
+				<xr:ValueId>a83262bd-8615-4ca9-b92b-133ae71e4642</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ДрайверыОборудования" category="List">
+				<xr:TypeId>cfb97bd3-487e-4b9c-8590-b3fb8b5b71f2</xr:TypeId>
+				<xr:ValueId>3e9d0fe1-9c3b-44d4-8c5b-f929cc9b2227</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ДрайверыОборудования" category="Manager">
+				<xr:TypeId>c48e3baa-1c8e-4c09-94a7-1cd8130127e6</xr:TypeId>
+				<xr:ValueId>7cff9c63-0f3d-4bf4-b331-c4762ac29305</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ДрайверыОборудования</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>dff8b4a3-f85f-41e3-8891-8105e9274b0a</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

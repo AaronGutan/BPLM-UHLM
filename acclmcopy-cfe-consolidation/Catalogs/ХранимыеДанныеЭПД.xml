@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="5899d6b5-7a10-4178-ab6f-172b18e0ed34">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ХранимыеДанныеЭПД" category="Object">
+				<xr:TypeId>b6f3dce0-44d5-4691-86d6-e28ef96f36b2</xr:TypeId>
+				<xr:ValueId>4d59449d-ebf0-4714-9948-6b852aece6a3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ХранимыеДанныеЭПД" category="Ref">
+				<xr:TypeId>651e7955-afbe-43e4-bb46-eb7a0ee264bf</xr:TypeId>
+				<xr:ValueId>bef53e9d-1533-442c-8766-24e8e1740df8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ХранимыеДанныеЭПД" category="Selection">
+				<xr:TypeId>df119a0c-91f8-4f56-9c94-21b9b8b470cc</xr:TypeId>
+				<xr:ValueId>f0c6d470-227a-41c1-888f-35a24d31808d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ХранимыеДанныеЭПД" category="List">
+				<xr:TypeId>7b0a6bf8-6898-485d-9c60-278cba4934fc</xr:TypeId>
+				<xr:ValueId>60517df5-c1e1-4c6a-8a44-a65d29c59459</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ХранимыеДанныеЭПД" category="Manager">
+				<xr:TypeId>b281b60e-e3dd-4caa-b514-0b2bb6354f27</xr:TypeId>
+				<xr:ValueId>58121639-6210-4415-977c-b3cca0af2014</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ХранимыеДанныеЭПД</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ed55a985-6b0f-4a07-b015-883bdae7ed7d</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

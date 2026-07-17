@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="79d779d8-6dd0-401b-9592-10768a9ed6f9">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьОснованияВыслугиЛет" category="Object">
+				<xr:TypeId>807e9674-fe73-4524-a0e0-e237194873c4</xr:TypeId>
+				<xr:ValueId>f3ff6c72-38db-4107-9016-1a2a77649ad9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьОснованияВыслугиЛет" category="Ref">
+				<xr:TypeId>4016c5e8-81f1-4d13-aa9d-7c692a26054a</xr:TypeId>
+				<xr:ValueId>5708fb68-ba72-4d22-bb4b-2f965764df69</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьОснованияВыслугиЛет" category="Selection">
+				<xr:TypeId>0a26d3a9-8cab-4ec5-b6a4-5f471c9061de</xr:TypeId>
+				<xr:ValueId>da504ede-f68c-4f93-abc1-8459e58ded14</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьОснованияВыслугиЛет" category="List">
+				<xr:TypeId>b034b027-687c-45f4-868c-7707155919b6</xr:TypeId>
+				<xr:ValueId>5ce4e6d2-6288-405d-b961-ec912297c33b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьОснованияВыслугиЛет" category="Manager">
+				<xr:TypeId>0bee667b-92c6-4954-946d-35c80f973db3</xr:TypeId>
+				<xr:ValueId>919397b3-bfe9-46ef-b6a3-9da458d84448</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьОснованияВыслугиЛет</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e56e5b66-98f1-477f-a842-6ab70d6b76f9</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

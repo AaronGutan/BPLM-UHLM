@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="7168c053-9804-46b7-9425-112755a18375">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ГосКонтракты" category="Object">
+				<xr:TypeId>d3b8c532-622a-4669-a9a0-300c53d2a413</xr:TypeId>
+				<xr:ValueId>db7a6c2d-9703-4c2b-b5eb-729a365e9d3c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ГосКонтракты" category="Ref">
+				<xr:TypeId>0ae4df71-a679-4c73-abf7-3eae5ad76a03</xr:TypeId>
+				<xr:ValueId>72642d11-ac8d-42d7-9861-8d66573d2555</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ГосКонтракты" category="Selection">
+				<xr:TypeId>ebfa44ea-aef9-43b7-a2a5-d688818b5f15</xr:TypeId>
+				<xr:ValueId>ff653fd0-c91c-4b3b-aa02-4e2a026971f9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ГосКонтракты" category="List">
+				<xr:TypeId>5adb919d-d647-45db-b08b-7869939b872e</xr:TypeId>
+				<xr:ValueId>384c95c0-0043-4e90-b9be-74c3cb22285e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ГосКонтракты" category="Manager">
+				<xr:TypeId>24dfb1cb-670a-4afa-a866-642c1f577e35</xr:TypeId>
+				<xr:ValueId>73b62819-ce00-4ce4-9f38-507bea217ce4</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ГосКонтракты</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>cfe75612-b796-4316-856a-c9ff8f3443b5</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

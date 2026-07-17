@@ -44,19 +44,8 @@
 							<v8:content>Группа источники</v8:content>
 						</v8:item>
 					</ToolTip>
-					<TitleDataPath>Объект.ИсточникиСверки.RowsCount</TitleDataPath>
 					<ExtendedTooltip name="ГруппаИсточникиРасширеннаяПодсказка" id="193"/>
 					<ChildItems>
-						<InputField name="ПутьПравилаКонвертации" id="229">
-							<DataPath>Объект.ПутьПравилаКонвертации</DataPath>
-							<ChoiceButton>true</ChoiceButton>
-							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-							<ContextMenu name="ПутьПравилаКонвертацииКонтекстноеМеню" id="230"/>
-							<ExtendedTooltip name="ПутьПравилаКонвертацииРасширеннаяПодсказка" id="231"/>
-							<Events>
-								<Event name="StartChoice">ПутьПравилаКонвертацииНачалоВыбора</Event>
-							</Events>
-						</InputField>
 						<InputField name="ИмяПользователяOData1" id="109">
 							<DataPath>Объект.ИмяПользователяOData</DataPath>
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
@@ -76,9 +65,7 @@
 							</Events>
 						</InputField>
 						<Table name="ИсточникиСверки" id="71">
-							<MaxHeight>3</MaxHeight>
-							<HeightInTableRows>3</HeightInTableRows>
-							<HeightControlVariant>UseContentHeight</HeightControlVariant>
+							<HeightInTableRows>4</HeightInTableRows>
 							<DataPath>Объект.ИсточникиСверки</DataPath>
 							<Title>
 								<v8:item>
@@ -115,19 +102,6 @@
 								<ExtendedTooltip name="ИсточникиСверкиУправлениеПоискомРасширеннаяПодсказка" id="101"/>
 							</SearchControlAddition>
 							<ChildItems>
-								<CheckBoxField name="ИсточникиСверкиВыбран" id="247">
-									<DataPath>Объект.ИсточникиСверки.Выбран</DataPath>
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>V</v8:content>
-										</v8:item>
-									</Title>
-									<EditMode>EnterOnInput</EditMode>
-									<CheckBoxType>Auto</CheckBoxType>
-									<ContextMenu name="ИсточникиСверкиВыбранКонтекстноеМеню" id="248"/>
-									<ExtendedTooltip name="ИсточникиСверкиВыбранРасширеннаяПодсказка" id="249"/>
-								</CheckBoxField>
 								<InputField name="URLСервераOData" id="77">
 									<DataPath>Объект.ИсточникиСверки.URLСервераOData</DataPath>
 									<Title>
@@ -216,17 +190,6 @@
 									</Title>
 									<ExtendedTooltip name="ПроверитьПодключенияРасширеннаяПодсказка" id="92"/>
 								</Button>
-								<Button name="ПроверитьСервисРегистрацииИзменений" id="250">
-									<Type>UsualButton</Type>
-									<CommandName>Form.Command.ПроверитьСервисРегистрацииИзменений</CommandName>
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Проверить сервис регистрации изменений</v8:content>
-										</v8:item>
-									</Title>
-									<ExtendedTooltip name="ПроверитьСервисРегистрацииИзмененийРасширеннаяПодсказка" id="251"/>
-								</Button>
 							</ChildItems>
 						</UsualGroup>
 					</ChildItems>
@@ -244,7 +207,6 @@
 							<v8:content>Группа объекты cверки</v8:content>
 						</v8:item>
 					</ToolTip>
-					<TitleDataPath>Объект.ОбъектыСверки.RowsCount</TitleDataPath>
 					<ExtendedTooltip name="ГруппаОбъектыCверкиРасширеннаяПодсказка" id="106"/>
 					<ChildItems>
 						<Table name="ОбъектыСверки" id="31">
@@ -286,11 +248,6 @@
 											</v8:item>
 										</Title>
 										<ExtendedTooltip name="ОбъектыСверкиСнятьВыборРасширеннаяПодсказка" id="98"/>
-									</Button>
-									<Button name="ОбъектыСверкиСкрытьБезРасхождений" id="236">
-										<Type>CommandBarButton</Type>
-										<CommandName>Form.Command.СкрытьБезРасхожденийОбъектыСверки</CommandName>
-										<ExtendedTooltip name="ОбъектыСверкиСкрытьБезРасхожденийРасширеннаяПодсказка" id="237"/>
 									</Button>
 									<Button name="ВыполнитьСверку" id="60">
 										<Type>CommandBarButton</Type>
@@ -344,13 +301,9 @@
 							<ChildItems>
 								<CheckBoxField name="ОбъектыСверкиВыбран" id="37">
 									<DataPath>Объект.ОбъектыСверки.Выбран</DataPath>
-									<EditMode>Directly</EditMode>
 									<CheckBoxType>Auto</CheckBoxType>
 									<ContextMenu name="ОбъектыСверкиВыбранКонтекстноеМеню" id="38"/>
 									<ExtendedTooltip name="ОбъектыСверкиВыбранРасширеннаяПодсказка" id="39"/>
-									<Events>
-										<Event name="OnChange">ОбъектыСверкиВыбранПриИзменении</Event>
-									</Events>
 								</CheckBoxField>
 								<InputField name="ОбъектыСверкиИмяОбъекта" id="40">
 									<DataPath>Объект.ОбъектыСверки.ИмяОбъекта</DataPath>
@@ -365,27 +318,13 @@
 									<ContextMenu name="ОбъектыСверкиИмяОбъектаКонтекстноеМеню" id="41"/>
 									<ExtendedTooltip name="ОбъектыСверкиИмяОбъектаРасширеннаяПодсказка" id="42"/>
 								</InputField>
-								<InputField name="ОбъектыСверкиСводкаПоИсточникам" id="232">
-									<DataPath>Объект.ОбъектыСверки.СводкаПоИсточникам</DataPath>
-									<ReadOnly>true</ReadOnly>
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Источники сверки</v8:content>
-										</v8:item>
-									</Title>
-									<Width>40</Width>
-									<MultiLine>true</MultiLine>
-									<ContextMenu name="ОбъектыСверкиСводкаПоИсточникамКонтекстноеМеню" id="233"/>
-									<ExtendedTooltip name="ОбъектыСверкиСводкаПоИсточникамРасширеннаяПодсказка" id="234"/>
-								</InputField>
 								<InputField name="ОбъектыСверкиКоличествоИсточник" id="43">
 									<DataPath>Объект.ОбъектыСверки.КоличествоИсточник</DataPath>
 									<ReadOnly>true</ReadOnly>
 									<Title>
 										<v8:item>
 											<v8:lang>ru</v8:lang>
-											<v8:content>В источнике</v8:content>
+											<v8:content>Источник</v8:content>
 										</v8:item>
 									</Title>
 									<Width>10</Width>
@@ -398,7 +337,7 @@
 									<Title>
 										<v8:item>
 											<v8:lang>ru</v8:lang>
-											<v8:content>В приемнике</v8:content>
+											<v8:content>Приемник</v8:content>
 										</v8:item>
 									</Title>
 									<Width>10</Width>
@@ -451,69 +390,14 @@
 							<ReadOnly>true</ReadOnly>
 							<HeightInTableRows>6</HeightInTableRows>
 							<DataPath>РасхожденияGUID</DataPath>
-							<CommandSet>
-								<ExcludedCommand>Add</ExcludedCommand>
-								<ExcludedCommand>Change</ExcludedCommand>
-								<ExcludedCommand>Copy</ExcludedCommand>
-								<ExcludedCommand>Delete</ExcludedCommand>
-								<ExcludedCommand>EndEdit</ExcludedCommand>
-								<ExcludedCommand>MoveDown</ExcludedCommand>
-								<ExcludedCommand>MoveUp</ExcludedCommand>
-								<ExcludedCommand>ShowRowRearrangement</ExcludedCommand>
-							</CommandSet>
 							<RowFilter xsi:nil="true"/>
 							<ContextMenu name="ТаблицаРасхожденияGUIDКонтекстноеМеню" id="200"/>
 							<AutoCommandBar name="ТаблицаРасхожденияGUIDКоманднаяПанель" id="201">
 								<ChildItems>
-									<Button name="ТаблицаРасхожденияGUIDУстановитьПометки" id="243">
-										<Type>CommandBarButton</Type>
-										<Representation>Picture</Representation>
-										<CommandName>Form.Command.УстановитьПометкиРасхожденийGUID</CommandName>
-										<Picture>
-											<xr:Ref>StdPicture.CheckAll</xr:Ref>
-											<xr:LoadTransparent>true</xr:LoadTransparent>
-										</Picture>
-										<Title>
-											<v8:item>
-												<v8:lang>ru</v8:lang>
-												<v8:content>Установить пометки</v8:content>
-											</v8:item>
-											<v8:item>
-												<v8:lang>en</v8:lang>
-												<v8:content>Select all</v8:content>
-											</v8:item>
-										</Title>
-										<ExtendedTooltip name="ТаблицаРасхожденияGUIDУстановитьПометкиРасширеннаяПодсказка" id="244"/>
-									</Button>
-									<Button name="ТаблицаРасхожденияGUIDСнятьПометки" id="245">
-										<Type>CommandBarButton</Type>
-										<Representation>Picture</Representation>
-										<CommandName>Form.Command.СнятьПометкиРасхожденийGUID</CommandName>
-										<Picture>
-											<xr:Ref>StdPicture.UncheckAll</xr:Ref>
-											<xr:LoadTransparent>true</xr:LoadTransparent>
-										</Picture>
-										<Title>
-											<v8:item>
-												<v8:lang>ru</v8:lang>
-												<v8:content>Снять пометки</v8:content>
-											</v8:item>
-											<v8:item>
-												<v8:lang>en</v8:lang>
-												<v8:content>Clear all</v8:content>
-											</v8:item>
-										</Title>
-										<ExtendedTooltip name="ТаблицаРасхожденияGUIDСнятьПометкиРасширеннаяПодсказка" id="246"/>
-									</Button>
 									<Button name="ТаблицаРасхожденияGUIDЗарегистрироватьКОбмену" id="227">
 										<Type>CommandBarButton</Type>
 										<CommandName>Form.Command.ЗарегистрироватьКОбмену</CommandName>
 										<ExtendedTooltip name="ТаблицаРасхожденияGUIDЗарегистрироватьКОбменуРасширеннаяПодсказка" id="228"/>
-									</Button>
-									<Button name="ТаблицаРасхожденияGUIDПометитьНаУдаление" id="241">
-										<Type>CommandBarButton</Type>
-										<CommandName>Form.Command.ПометитьНаУдалениеРасхождения</CommandName>
-										<ExtendedTooltip name="ТаблицаРасхожденияGUIDПометитьНаУдалениеРасширеннаяПодсказка" id="242"/>
 									</Button>
 								</ChildItems>
 							</AutoCommandBar>
@@ -542,26 +426,7 @@
 								<ContextMenu name="ТаблицаРасхожденияGUIDУправлениеПоискомКонтекстноеМеню" id="210"/>
 								<ExtendedTooltip name="ТаблицаРасхожденияGUIDУправлениеПоискомРасширеннаяПодсказка" id="211"/>
 							</SearchControlAddition>
-							<Events>
-								<Event name="Selection">ТаблицаРасхожденияGUIDВыбор</Event>
-							</Events>
 							<ChildItems>
-								<CheckBoxField name="ТаблицаРасхожденияGUIDВыбран" id="238">
-									<DataPath>РасхожденияGUID.Выбран</DataPath>
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Выбран</v8:content>
-										</v8:item>
-										<v8:item>
-											<v8:lang>en</v8:lang>
-											<v8:content>Selected</v8:content>
-										</v8:item>
-									</Title>
-									<CheckBoxType>Auto</CheckBoxType>
-									<ContextMenu name="ТаблицаРасхожденияGUIDВыбранКонтекстноеМеню" id="239"/>
-									<ExtendedTooltip name="ТаблицаРасхожденияGUIDВыбранРасширеннаяПодсказка" id="240"/>
-								</CheckBoxField>
 								<InputField name="ТаблицаРасхожденияGUIDИсточник" id="212">
 									<DataPath>РасхожденияGUID.Источник</DataPath>
 									<ContextMenu name="ТаблицаРасхожденияGUIDИсточникКонтекстноеМеню" id="213"/>
@@ -1204,21 +1069,6 @@
 				<v8:Type>xs:boolean</v8:Type>
 			</Type>
 		</Attribute>
-		<Attribute name="ТолькоРасхожденияОбъектыСверки" id="235">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Только расхождения объектов сверки</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>en</v8:lang>
-					<v8:content>Reconciliation objects discrepancies only</v8:content>
-				</v8:item>
-			</Title>
-			<Type>
-				<v8:Type>xs:boolean</v8:Type>
-			</Type>
-		</Attribute>
 		<Attribute name="РасхожденияGUID" id="224">
 			<Title>
 				<v8:item>
@@ -1305,33 +1155,6 @@
 						</v8:StringQualifiers>
 					</Type>
 				</Column>
-				<Column name="Выбран" id="6">
-					<Title>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Выбран</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Selected</v8:content>
-						</v8:item>
-					</Title>
-					<Type>
-						<v8:Type>xs:boolean</v8:Type>
-					</Type>
-				</Column>
-				<Column name="Ссылка" id="7">
-					<Title>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Ссылка</v8:content>
-						</v8:item>
-					</Title>
-					<Type>
-						<v8:TypeSet>cfg:DocumentRef</v8:TypeSet>
-						<v8:TypeSet>cfg:CatalogRef</v8:TypeSet>
-					</Type>
-				</Column>
 			</Columns>
 		</Attribute>
 	</Attributes>
@@ -1359,15 +1182,6 @@
 		</Command>
 		<Command name="ПроверитьПодключения" id="70">
 			<Action>ПроверитьПодключенияВыполнить</Action>
-		</Command>
-		<Command name="ПроверитьСервисРегистрацииИзменений" id="110">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Проверить сервис регистрации изменений</v8:content>
-				</v8:item>
-			</Title>
-			<Action>ПроверитьСервисРегистрацииИзмененийВыполнить</Action>
 		</Command>
 		<Command name="ЗагрузитьИсточникиИзРегистра" id="104">
 			<Action>ЗагрузитьИсточникиИзРегистраВыполнить</Action>
@@ -1412,19 +1226,6 @@
 			</Title>
 			<Action>СкрытьБезРасхожденийВыполнить</Action>
 		</Command>
-		<Command name="СкрытьБезРасхожденийОбъектыСверки" id="107">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Скрыть без расхождений</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>en</v8:lang>
-					<v8:content>Hide rows without discrepancies</v8:content>
-				</v8:item>
-			</Title>
-			<Action>СкрытьБезРасхожденийОбъектыСверкиВыполнить</Action>
-		</Command>
 		<Command name="ЗарегистрироватьКОбмену" id="1">
 			<Title>
 				<v8:item>
@@ -1439,47 +1240,6 @@
 				</v8:item>
 			</ToolTip>
 			<Action>ЗарегистрироватьКОбмену</Action>
-		</Command>
-		<Command name="ПометитьНаУдалениеРасхождения" id="2">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Пометить на удаление</v8:content>
-				</v8:item>
-			</Title>
-			<ToolTip>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Пометить на удаление</v8:content>
-				</v8:item>
-			</ToolTip>
-			<Action>ПометитьНаУдалениеРасхождения</Action>
-		</Command>
-		<Command name="УстановитьПометкиРасхожденийGUID" id="108">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Установить пометки</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>en</v8:lang>
-					<v8:content>Select all</v8:content>
-				</v8:item>
-			</Title>
-			<Action>УстановитьПометкиРасхожденийGUIDВыполнить</Action>
-		</Command>
-		<Command name="СнятьПометкиРасхожденийGUID" id="109">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Снять пометки</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>en</v8:lang>
-					<v8:content>Clear all</v8:content>
-				</v8:item>
-			</Title>
-			<Action>СнятьПометкиРасхожденийGUIDВыполнить</Action>
 		</Command>
 	</Commands>
 </Form>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="2a91f27e-5cc2-444d-9cb7-c3e504175763">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЭлектроннаяСопроводительнаяВедомость" category="Object">
+				<xr:TypeId>435eb35d-b576-4d37-a978-ebaf6b5a164f</xr:TypeId>
+				<xr:ValueId>63a6039d-b174-489f-9a8b-ef4153e8b981</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЭлектроннаяСопроводительнаяВедомость" category="Ref">
+				<xr:TypeId>c543ef01-5d70-47e8-b019-d014c16a8cae</xr:TypeId>
+				<xr:ValueId>c508f86e-731a-4d2a-8949-a854a5841589</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЭлектроннаяСопроводительнаяВедомость" category="Selection">
+				<xr:TypeId>8da6f1d5-c276-4447-9f8c-d775176b2578</xr:TypeId>
+				<xr:ValueId>44e9a9a4-94c2-49d6-97c8-f86a8279bd7b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЭлектроннаяСопроводительнаяВедомость" category="List">
+				<xr:TypeId>0e30f018-1dcb-47e6-a8f1-b01dbff5b353</xr:TypeId>
+				<xr:ValueId>f1d2601a-f6e0-4e18-b21f-720cbb1de858</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЭлектроннаяСопроводительнаяВедомость" category="Manager">
+				<xr:TypeId>fe4b4c9d-43db-43df-9e15-3d1bc712f292</xr:TypeId>
+				<xr:ValueId>cf5950a1-c628-4ce6-8b7d-99c79e2ca846</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЭлектроннаяСопроводительнаяВедомость</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8332648b-c2a7-44e6-a9e4-53bf16b183cf</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

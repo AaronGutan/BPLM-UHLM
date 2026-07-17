@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="dc049fac-bceb-4065-9e04-434f6191eb45">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.МакетыПечатныхФорм" category="Object">
+				<xr:TypeId>69c74dba-5c58-4705-926e-0a4c28cd39ed</xr:TypeId>
+				<xr:ValueId>9a37866e-3b2a-4f08-bd65-e45375c93f57</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.МакетыПечатныхФорм" category="Ref">
+				<xr:TypeId>7f711714-fe44-4e11-bba3-2d6805b4717c</xr:TypeId>
+				<xr:ValueId>a8c2ad39-c747-4c2e-8a2b-34c70f0f149a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.МакетыПечатныхФорм" category="Selection">
+				<xr:TypeId>aca02caf-ec4d-428f-8815-54d0f54dd4ff</xr:TypeId>
+				<xr:ValueId>e477a510-d5b8-4e09-b144-e25ee8710d13</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.МакетыПечатныхФорм" category="List">
+				<xr:TypeId>542f8ee2-efc7-4907-a755-8b83b69f37e1</xr:TypeId>
+				<xr:ValueId>20aec456-71e0-447a-a770-daedbf41b240</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.МакетыПечатныхФорм" category="Manager">
+				<xr:TypeId>7128e3cd-7a83-4608-95e3-8b562ddcd307</xr:TypeId>
+				<xr:ValueId>d34fa376-9639-4d3c-bb5b-f7a72e2dc6e5</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>МакетыПечатныхФорм</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>de258ab8-2d16-4c69-9490-5819b7ae3d08</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

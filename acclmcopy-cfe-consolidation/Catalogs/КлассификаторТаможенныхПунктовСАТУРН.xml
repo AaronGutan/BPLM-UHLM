@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="f24e5f8f-3e93-44d1-9d59-0aff0b833262">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КлассификаторТаможенныхПунктовСАТУРН" category="Object">
+				<xr:TypeId>4152b9fb-0444-4582-adb0-0aef2c62bbf2</xr:TypeId>
+				<xr:ValueId>275e71ee-b40e-4a5f-b97c-218bbf1835ba</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КлассификаторТаможенныхПунктовСАТУРН" category="Ref">
+				<xr:TypeId>f4bacd2a-9b60-4427-a38d-97c8c2915e3f</xr:TypeId>
+				<xr:ValueId>5042dc25-3fe4-4382-90f1-e342b9448ee7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КлассификаторТаможенныхПунктовСАТУРН" category="Selection">
+				<xr:TypeId>2b19e4ab-0d3b-40c1-b74b-ebd796a1477c</xr:TypeId>
+				<xr:ValueId>39afb3d1-865c-4c85-843b-aa825905e692</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КлассификаторТаможенныхПунктовСАТУРН" category="List">
+				<xr:TypeId>46480c0e-5ffe-4af0-a6a1-02054a823499</xr:TypeId>
+				<xr:ValueId>1c589905-8554-4370-9971-3709bfee96ed</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КлассификаторТаможенныхПунктовСАТУРН" category="Manager">
+				<xr:TypeId>88929f74-d908-4c54-ae28-776223edd092</xr:TypeId>
+				<xr:ValueId>ac819c79-ba16-46de-bfc7-23e997154dde</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КлассификаторТаможенныхПунктовСАТУРН</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>6a55050d-5bc4-40ae-b8e6-1d6a7faa5114</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

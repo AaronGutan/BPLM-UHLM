@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Document uuid="0cf41367-390d-448b-a01a-b72d0c48d6a8">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="1406e049-4079-40bc-a631-42470b03375f">
 		<InternalInfo>
 			<xr:GeneratedType name="DocumentObject.ПереводОСВМалоценноеОборудование" category="Object">
-				<xr:TypeId>8b26d574-ff5c-4664-817b-e1b2a802de20</xr:TypeId>
-				<xr:ValueId>6cebba04-677e-42f0-9a71-49b8f08ccfce</xr:ValueId>
+				<xr:TypeId>512eadee-2a8c-4993-a74b-83b42daa8c56</xr:TypeId>
+				<xr:ValueId>35d30e62-eb94-4066-9113-60424dd23bf2</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentRef.ПереводОСВМалоценноеОборудование" category="Ref">
-				<xr:TypeId>8093676b-3791-4975-8626-07a03e3f5edf</xr:TypeId>
-				<xr:ValueId>398f64cd-529c-42f6-b2aa-b3b86a4398bd</xr:ValueId>
+				<xr:TypeId>f288d9a0-e40b-4753-b8e9-bc4a66305567</xr:TypeId>
+				<xr:ValueId>d1638dfd-47b3-4e33-907b-45c1fe300be9</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentSelection.ПереводОСВМалоценноеОборудование" category="Selection">
-				<xr:TypeId>30011e44-f228-49fd-b726-383ed5905ef1</xr:TypeId>
-				<xr:ValueId>e5b110da-e7ce-43f9-89ad-a7ca630af576</xr:ValueId>
+				<xr:TypeId>9657631e-50fa-4a07-9e44-97e59f1c826a</xr:TypeId>
+				<xr:ValueId>fde7b6e1-ac93-4aa3-8da0-0d61b9e47713</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentList.ПереводОСВМалоценноеОборудование" category="List">
-				<xr:TypeId>6c840140-82a2-4b04-b659-8133c686fcd4</xr:TypeId>
-				<xr:ValueId>5d736151-9797-4ca3-bb78-404b2db6ad63</xr:ValueId>
+				<xr:TypeId>1099bd63-c6e4-4f62-bc44-191cc11db303</xr:TypeId>
+				<xr:ValueId>9c97f5cd-2efb-435a-8fb3-cd401e829b5b</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentManager.ПереводОСВМалоценноеОборудование" category="Manager">
-				<xr:TypeId>e51ddabf-8f50-4437-908a-6520145fe4d9</xr:TypeId>
-				<xr:ValueId>19f3b505-5276-4880-9c6d-be59ee1a780e</xr:ValueId>
+				<xr:TypeId>1dde845a-a078-440e-aafe-9fee1b3c38c1</xr:TypeId>
+				<xr:ValueId>c83721ef-df1b-4010-9c6b-d7a03926acf0</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -28,7 +28,6 @@
 			<Name>ПереводОСВМалоценноеОборудование</Name>
 			<Comment/>
 			<ExtendedConfigurationObject>841b892f-b7dc-47f6-80fa-667b62319acc</ExtendedConfigurationObject>
-			<RegisterRecords/>
 		</Properties>
 		<ChildObjects/>
 	</Document>

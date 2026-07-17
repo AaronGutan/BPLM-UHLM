@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="75431829-c12d-47f0-81c2-25dd1e915e1a">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.КнигаПокупокДляПередачиВЭлектронномВиде" category="Object">
+				<xr:TypeId>b361dda8-497e-441a-9f41-cbc11e8154da</xr:TypeId>
+				<xr:ValueId>8d833c54-27a4-46c1-8552-99773cb023d1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.КнигаПокупокДляПередачиВЭлектронномВиде" category="Ref">
+				<xr:TypeId>e3a97785-e81d-4db3-a391-956bae932279</xr:TypeId>
+				<xr:ValueId>bb0cafdb-20d2-4baa-841b-789f9e1bc6bb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.КнигаПокупокДляПередачиВЭлектронномВиде" category="Selection">
+				<xr:TypeId>32af1a0b-7b40-4b79-bfde-6f50846c3be0</xr:TypeId>
+				<xr:ValueId>81f238a7-8547-4cc8-ba22-df19e1a4ef9d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.КнигаПокупокДляПередачиВЭлектронномВиде" category="List">
+				<xr:TypeId>d4bbef4c-2b36-4308-bd62-0416517a3866</xr:TypeId>
+				<xr:ValueId>559709ae-aa47-4fef-8c1f-062a8f4ee596</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.КнигаПокупокДляПередачиВЭлектронномВиде" category="Manager">
+				<xr:TypeId>e39fa0b4-4197-426a-89c1-ae4ae62bacb7</xr:TypeId>
+				<xr:ValueId>40eda3fa-7cd6-4949-a65f-194dd0ec622a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КнигаПокупокДляПередачиВЭлектронномВиде</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>5e240027-8d25-4771-9796-998dc772995f</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

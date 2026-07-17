@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="bbba156b-ed0b-4ef0-9aa5-90b5b17b7359">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СтатусыНалогоплательщиков" category="Object">
+				<xr:TypeId>24704438-0c5f-4721-9190-98408435b440</xr:TypeId>
+				<xr:ValueId>b146c187-0125-4d31-9dc8-bed65a976762</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СтатусыНалогоплательщиков" category="Ref">
+				<xr:TypeId>6bd573d9-c06b-4047-87d1-ef3a6a6beec0</xr:TypeId>
+				<xr:ValueId>9bff818e-ba1d-43c6-a383-77091e966c13</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СтатусыНалогоплательщиков" category="Selection">
+				<xr:TypeId>0d6ebe88-d3e4-4d09-be7d-ca4e906da404</xr:TypeId>
+				<xr:ValueId>cfcba6aa-244a-43ae-976d-168492b59d68</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СтатусыНалогоплательщиков" category="List">
+				<xr:TypeId>0989b654-c96e-40bc-bb68-071125e4c014</xr:TypeId>
+				<xr:ValueId>05384ba8-c258-4730-b744-7d0ed01ac89e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СтатусыНалогоплательщиков" category="Manager">
+				<xr:TypeId>11397a24-404c-4d72-846e-d4f4e2653202</xr:TypeId>
+				<xr:ValueId>2ce51c25-7fb9-454b-b467-037762700b6d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СтатусыНалогоплательщиков</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>7d90e4d1-9b15-4a44-99de-74254f727182</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

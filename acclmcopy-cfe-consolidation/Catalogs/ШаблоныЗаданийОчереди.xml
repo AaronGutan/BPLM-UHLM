@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="8a4b49fd-7a6e-40af-8c74-f524b29eba17">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ШаблоныЗаданийОчереди" category="Object">
+				<xr:TypeId>f03c0107-832d-4218-a4db-802ceb3baede</xr:TypeId>
+				<xr:ValueId>7ad11659-4c95-4024-9831-d409f9123fc7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ШаблоныЗаданийОчереди" category="Ref">
+				<xr:TypeId>f7ccd1df-c301-46bc-83e9-7832ea3a32ca</xr:TypeId>
+				<xr:ValueId>0da98151-a8d6-443b-87b2-86ecfb21e822</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ШаблоныЗаданийОчереди" category="Selection">
+				<xr:TypeId>c3c9f6b3-1559-45e6-b147-1bbb64dc7b2e</xr:TypeId>
+				<xr:ValueId>751a131c-be11-41c1-b30a-0e09cd53e14a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ШаблоныЗаданийОчереди" category="List">
+				<xr:TypeId>d735ea58-c688-4224-9216-c50308b6993d</xr:TypeId>
+				<xr:ValueId>234c2b2b-8167-4154-bef7-0f0cfa95d31d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ШаблоныЗаданийОчереди" category="Manager">
+				<xr:TypeId>a1b8e5c6-8462-4157-953f-1b3df1b34a3a</xr:TypeId>
+				<xr:ValueId>ae950bfc-7ccd-4b48-8edb-4dc715a5bc68</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ШаблоныЗаданийОчереди</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>5422610d-b92c-4213-a58c-8db067d93b66</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

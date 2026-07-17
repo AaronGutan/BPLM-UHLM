@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="0fd5b64d-e110-4bf9-8d47-9c7ba37efac2">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПачкаРазделов6РасчетаРСВ_1" category="Object">
+				<xr:TypeId>f68a0b6a-34c8-4bde-acac-42934a49ee32</xr:TypeId>
+				<xr:ValueId>482e8eba-b4a8-423c-bde6-b2536c290a13</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПачкаРазделов6РасчетаРСВ_1" category="Ref">
+				<xr:TypeId>acd6fe81-4b09-4086-a2ab-ac9742227103</xr:TypeId>
+				<xr:ValueId>583fde73-8473-4bad-a98e-7ded0e33449b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПачкаРазделов6РасчетаРСВ_1" category="Selection">
+				<xr:TypeId>21997d11-a175-4c00-9be3-87cf8724bd23</xr:TypeId>
+				<xr:ValueId>26cfb34e-8f68-4116-b0e2-ff3007cf756a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПачкаРазделов6РасчетаРСВ_1" category="List">
+				<xr:TypeId>d237bb53-5add-4783-b390-939d1b35d357</xr:TypeId>
+				<xr:ValueId>617b36b8-313a-4223-b48a-5e534e94ba55</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПачкаРазделов6РасчетаРСВ_1" category="Manager">
+				<xr:TypeId>5b1db546-88a6-430e-b188-afaaa7df8cc7</xr:TypeId>
+				<xr:ValueId>56455611-d285-4690-8d07-a38084f3d1ea</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПачкаРазделов6РасчетаРСВ_1</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>b3a037c2-3b94-4805-a545-282dc3b30d48</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

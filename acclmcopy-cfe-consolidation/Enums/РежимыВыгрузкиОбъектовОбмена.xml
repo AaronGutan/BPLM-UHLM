@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Enum uuid="8e9811af-1f63-4376-b212-4509e9f6f5a6">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.РежимыВыгрузкиОбъектовОбмена" category="Ref">
+				<xr:TypeId>d5e7f2dd-4a97-4055-950a-dbada8da596c</xr:TypeId>
+				<xr:ValueId>f14815d5-ce9b-4fc4-9249-cb87d9690d36</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.РежимыВыгрузкиОбъектовОбмена" category="Manager">
+				<xr:TypeId>ffdb45e0-e979-4ffd-9f08-11a0e17106be</xr:TypeId>
+				<xr:ValueId>86c41da4-2323-468c-809f-72744528a9d8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.РежимыВыгрузкиОбъектовОбмена" category="List">
+				<xr:TypeId>5bec4720-1f60-44a3-8ef2-b5f8f6ca807b</xr:TypeId>
+				<xr:ValueId>cc96007a-64a3-4f8d-bc48-f4946a31b9ee</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РежимыВыгрузкиОбъектовОбмена</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>efefebea-2032-4006-b9ca-50a23b7da1ef</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="d40220a6-78e4-4382-8311-c151560d7940">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ВыгружатьВсегда</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>4c794d37-3352-4acb-a939-5e90fb682db8</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="d73c418d-9457-4709-b0f4-8f858189a477">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ВыгружатьПоУсловию</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>5f3fea83-6ca8-481b-9e2b-789a6fd01e2e</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="7b4f9d73-9119-4487-a2f8-602d5ace5b5e">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ВыгружатьПриНеобходимости</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>008f5068-da9c-4dac-9c0a-a50366d27cbb</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="6f2f2de6-5935-4811-b648-dbb24ffcf05c">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ВыгружатьВручную</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>950b3ee3-070f-4946-8b9b-0aa2058de986</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="7c184edb-d205-44ff-9465-f1c34ee16bc8">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>НеВыгружать</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>bd04a870-0943-4bdb-9e30-50a69daa8a13</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

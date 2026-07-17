@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Catalog uuid="bdbc9d0d-e33d-4bd2-8ed7-79d681203638">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="00bc5cb5-38ff-4dd8-8476-68e8c076a26c">
 		<InternalInfo>
 			<xr:GeneratedType name="CatalogObject.Номенклатура" category="Object">
-				<xr:TypeId>68aaa8a2-0764-4d2e-ae9b-53a48674f191</xr:TypeId>
-				<xr:ValueId>04229463-95b6-48d5-bc1b-4885ed67becb</xr:ValueId>
+				<xr:TypeId>59c79bfa-8d63-40ff-9553-16f02a42ef01</xr:TypeId>
+				<xr:ValueId>bd8d7548-7c5c-41b4-aeaa-3c0bcb8e847a</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogRef.Номенклатура" category="Ref">
-				<xr:TypeId>245c509f-d037-4a3e-807e-1a67b3f95ca8</xr:TypeId>
-				<xr:ValueId>4cf10368-33ed-4436-8a8a-7f0039643ef1</xr:ValueId>
+				<xr:TypeId>158dcb3c-8ef9-4923-8f1c-2c5e59aa5f10</xr:TypeId>
+				<xr:ValueId>2cf2ac2e-aa5d-4f0a-bde4-6d4ad6abbb01</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogSelection.Номенклатура" category="Selection">
-				<xr:TypeId>5a68decd-2f78-40c7-8bad-f98b33e73d7a</xr:TypeId>
-				<xr:ValueId>b7fbaca4-1d15-423b-b572-74b790f620ac</xr:ValueId>
+				<xr:TypeId>358bb6a1-1338-487e-b2d1-49bb67ff976e</xr:TypeId>
+				<xr:ValueId>a267f449-4090-4b3b-846b-15b872907e39</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogList.Номенклатура" category="List">
-				<xr:TypeId>0b635ea6-a29a-4c8c-ac35-965d334c1333</xr:TypeId>
-				<xr:ValueId>4d0c6477-2141-49f0-a9bb-c19e2088beb6</xr:ValueId>
+				<xr:TypeId>baae9ed8-5295-442a-ba44-29fe3f74d2bf</xr:TypeId>
+				<xr:ValueId>1f5c43c0-6f40-4f54-b3b1-4191f383f9c4</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogManager.Номенклатура" category="Manager">
-				<xr:TypeId>c14e7f6b-67af-4662-8420-1d04c89e122d</xr:TypeId>
-				<xr:ValueId>a0f56d27-092c-41e9-8c54-4bf992280ec0</xr:ValueId>
+				<xr:TypeId>7d9bd5ec-1e8f-45f7-a790-8069e1a10a5e</xr:TypeId>
+				<xr:ValueId>6d03a122-8bf3-46c6-ad88-78ee0cd5ee32</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
 			<ObjectBelonging>Adopted</ObjectBelonging>
 			<Name>Номенклатура</Name>
 			<Comment/>
-			<ExtendedConfigurationObject>3ed84213-2ba0-43ac-8929-167009673163</ExtendedConfigurationObject>
+			<ExtendedConfigurationObject>5f197938-cf2f-4e57-be65-dc23d91ea059</ExtendedConfigurationObject>
 		</Properties>
 		<ChildObjects/>
 	</Catalog>

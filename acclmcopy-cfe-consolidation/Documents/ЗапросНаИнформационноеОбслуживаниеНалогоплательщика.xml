@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="ff5e7bc5-0f14-4471-aa7e-b83eb9d5d525">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЗапросНаИнформационноеОбслуживаниеНалогоплательщика" category="Object">
+				<xr:TypeId>03092e66-49c5-4f18-953f-1819cbe72d0e</xr:TypeId>
+				<xr:ValueId>3e56b351-d563-4995-8f75-2dbe2dd593f1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЗапросНаИнформационноеОбслуживаниеНалогоплательщика" category="Ref">
+				<xr:TypeId>647a9ffb-5cd9-4d8e-af8c-45fb1574de5f</xr:TypeId>
+				<xr:ValueId>cd8a5a41-bf62-4a04-bc99-f3b2a1706458</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЗапросНаИнформационноеОбслуживаниеНалогоплательщика" category="Selection">
+				<xr:TypeId>ecbfb7fc-c27a-47dd-8ae7-a45f1effd20a</xr:TypeId>
+				<xr:ValueId>1561e474-cc90-4be9-8e21-ab01a2d6ff7f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЗапросНаИнформационноеОбслуживаниеНалогоплательщика" category="List">
+				<xr:TypeId>0af191fa-656d-4f46-a558-bccbb26a47d2</xr:TypeId>
+				<xr:ValueId>3d888f82-9ed4-4087-8de3-944649672156</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЗапросНаИнформационноеОбслуживаниеНалогоплательщика" category="Manager">
+				<xr:TypeId>e7f0c2df-ea6a-4460-856c-31f9d460487a</xr:TypeId>
+				<xr:ValueId>a2b4cc35-0146-455c-b29a-f6b59c3e3c10</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗапросНаИнформационноеОбслуживаниеНалогоплательщика</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>36d19f5c-4708-4173-ae66-add8e3b0ae8e</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

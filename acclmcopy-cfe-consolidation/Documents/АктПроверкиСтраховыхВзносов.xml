@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Document uuid="18e9435c-c846-4f9d-85f4-429607e8f507">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="a1ae2126-76a1-4959-9272-dd4644d34a5d">
 		<InternalInfo>
 			<xr:GeneratedType name="DocumentObject.АктПроверкиСтраховыхВзносов" category="Object">
-				<xr:TypeId>6293a21d-2c17-4088-9033-95ba5678fa50</xr:TypeId>
-				<xr:ValueId>8b6df4cd-3192-4141-8e66-4d4bd24628c5</xr:ValueId>
+				<xr:TypeId>056d550e-5523-4ccc-b3da-7c55b1824895</xr:TypeId>
+				<xr:ValueId>61d07be5-9037-478e-9a5a-ddcd52da89a9</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentRef.АктПроверкиСтраховыхВзносов" category="Ref">
-				<xr:TypeId>f295bd48-2710-4ae2-8259-202295bab637</xr:TypeId>
-				<xr:ValueId>3b7f8196-a07f-4171-bb99-3c5b8279349f</xr:ValueId>
+				<xr:TypeId>d0f551c0-cc93-4f47-897a-78ab6544b588</xr:TypeId>
+				<xr:ValueId>3c0dcfa3-9116-4c07-87f5-c6104bbdf951</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentSelection.АктПроверкиСтраховыхВзносов" category="Selection">
-				<xr:TypeId>bc96be87-f142-43be-b45b-dc47bd8ff805</xr:TypeId>
-				<xr:ValueId>c4104dc1-ab86-4f84-9871-7eb0e43bc8e1</xr:ValueId>
+				<xr:TypeId>29a30fe7-1248-4245-bcd5-5c93460941ad</xr:TypeId>
+				<xr:ValueId>65f20b4f-caf9-4078-b993-2dfa5c24369b</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentList.АктПроверкиСтраховыхВзносов" category="List">
-				<xr:TypeId>44f4a8ff-c668-4514-8caf-41437f37b4ce</xr:TypeId>
-				<xr:ValueId>bba1eaf9-5cc6-40ed-9aa6-55fc11fe5a82</xr:ValueId>
+				<xr:TypeId>ba385f5a-a48c-45a5-9c6d-da029c0a82f2</xr:TypeId>
+				<xr:ValueId>ce57fe90-26f7-4d2e-8c12-5ebae3d5d7d2</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentManager.АктПроверкиСтраховыхВзносов" category="Manager">
-				<xr:TypeId>54093600-4f17-4dab-9ac6-999aaee733e5</xr:TypeId>
-				<xr:ValueId>0faf66e0-f735-4427-9697-1e9bef2fe64e</xr:ValueId>
+				<xr:TypeId>eec66425-8854-4a9d-8121-4a69e269ec51</xr:TypeId>
+				<xr:ValueId>eb1903e5-f3b5-45ee-b3d7-85ecedb4c26c</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -28,7 +28,6 @@
 			<Name>АктПроверкиСтраховыхВзносов</Name>
 			<Comment/>
 			<ExtendedConfigurationObject>25f9e0d6-a49b-44c2-8fd1-7552e7f32a21</ExtendedConfigurationObject>
-			<RegisterRecords/>
 		</Properties>
 		<ChildObjects/>
 	</Document>

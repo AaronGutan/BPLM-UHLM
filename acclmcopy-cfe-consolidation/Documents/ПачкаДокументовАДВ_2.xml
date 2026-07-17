@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="e084d5ad-2618-49df-94a8-c22657087aaa">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПачкаДокументовАДВ_2" category="Object">
+				<xr:TypeId>bfe91df7-cb87-4ac6-8645-a9559e6665b8</xr:TypeId>
+				<xr:ValueId>ed27433e-4c4b-4ebc-8633-bed98df22a74</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПачкаДокументовАДВ_2" category="Ref">
+				<xr:TypeId>62fc090c-53fc-4f49-ac12-64c3087e3455</xr:TypeId>
+				<xr:ValueId>b0deacb4-f6de-468d-ac4c-76fce3dda2c1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПачкаДокументовАДВ_2" category="Selection">
+				<xr:TypeId>7d7a6f9a-bff2-4dd2-b29b-d0e66a19a16d</xr:TypeId>
+				<xr:ValueId>96c9be39-b5a5-4c29-9841-86db953774c6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПачкаДокументовАДВ_2" category="List">
+				<xr:TypeId>115899b2-c7a4-4405-a495-934d28845d3b</xr:TypeId>
+				<xr:ValueId>e42d77c0-c8a7-4a70-b403-956fbc8aca23</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПачкаДокументовАДВ_2" category="Manager">
+				<xr:TypeId>1ccc3923-bfb5-4ad9-80cd-2b7a237d93e7</xr:TypeId>
+				<xr:ValueId>1c88bb1c-5d3b-4f23-8d8a-fcafee4a4543</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПачкаДокументовАДВ_2</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>448bcbc6-7af4-4c5b-a655-906e25e8d322</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

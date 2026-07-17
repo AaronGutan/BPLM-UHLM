@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="445b9077-d4f2-4f82-8d95-aec239593aad">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ПерепискаСКонтролирующимиОрганами" category="Object">
+				<xr:TypeId>703fa7ca-2b9b-497b-8abd-27ba8db55dad</xr:TypeId>
+				<xr:ValueId>b16d2ff7-50be-4e71-b76a-a6b6542c3c49</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ПерепискаСКонтролирующимиОрганами" category="Ref">
+				<xr:TypeId>cb284964-6870-4ed7-b788-68dadfa32d43</xr:TypeId>
+				<xr:ValueId>8835d37d-8489-4cd2-8c78-b21746c53cb4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ПерепискаСКонтролирующимиОрганами" category="Selection">
+				<xr:TypeId>c58f1e12-dc68-4945-9ad9-b2e9703c1af6</xr:TypeId>
+				<xr:ValueId>4a5f77ab-420c-4136-82d6-7f54624c99f7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ПерепискаСКонтролирующимиОрганами" category="List">
+				<xr:TypeId>08ec4f71-c620-4be6-8657-e1226b4a3c12</xr:TypeId>
+				<xr:ValueId>de1c6fc1-0745-4f91-9701-6bd309a4c34a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ПерепискаСКонтролирующимиОрганами" category="Manager">
+				<xr:TypeId>b400a22f-9ba1-49a9-8cc5-8362d01e361b</xr:TypeId>
+				<xr:ValueId>b9bc5634-6692-4241-849f-a2d1fa0c81a6</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПерепискаСКонтролирующимиОрганами</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>76d5e82f-8748-4e45-ac18-21682c78d1cb</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

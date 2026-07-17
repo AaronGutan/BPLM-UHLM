@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="70dfea7d-a21b-45a2-b646-17a43d96e80c">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ТранзакцииОбменаСБанками" category="Object">
+				<xr:TypeId>cf5a304f-3a04-4a3e-bc3f-38142dcccdd7</xr:TypeId>
+				<xr:ValueId>5c525030-7fc9-4748-8a03-3fe4ad2517ac</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ТранзакцииОбменаСБанками" category="Ref">
+				<xr:TypeId>e6a75f59-998b-4fa6-bcb2-4fef32590dec</xr:TypeId>
+				<xr:ValueId>9d510ce1-cd19-42e4-940e-c54bbdf8cef5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ТранзакцииОбменаСБанками" category="Selection">
+				<xr:TypeId>a9151cc7-5042-478f-b101-aea7dbfd6169</xr:TypeId>
+				<xr:ValueId>92279a86-162d-4be3-a2bd-c113111b3f84</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ТранзакцииОбменаСБанками" category="List">
+				<xr:TypeId>2d94467a-2f07-486c-a0ee-9b9228f69164</xr:TypeId>
+				<xr:ValueId>31696a92-50a1-4cf9-bb60-3d95a9d5b44a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ТранзакцииОбменаСБанками" category="Manager">
+				<xr:TypeId>9e11accc-7561-4027-b86d-79eb715f321f</xr:TypeId>
+				<xr:ValueId>35d46502-7e20-496d-b213-49125e33f9bf</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ТранзакцииОбменаСБанками</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>b807fa2f-6dd2-42bd-bc25-a9a09f7997bc</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

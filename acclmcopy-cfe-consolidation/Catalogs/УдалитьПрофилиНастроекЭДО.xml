@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="c0573f40-021b-4f8a-bdbb-6a97d609751d">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьПрофилиНастроекЭДО" category="Object">
+				<xr:TypeId>109074bb-b1df-4f88-a1e2-ea7d7a77664f</xr:TypeId>
+				<xr:ValueId>7501cf03-c260-4a77-8f65-d19946d3ce48</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьПрофилиНастроекЭДО" category="Ref">
+				<xr:TypeId>00237f42-84dd-4b57-8dea-84d6a56facef</xr:TypeId>
+				<xr:ValueId>511c031f-d521-4348-b87e-5aab028d4988</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьПрофилиНастроекЭДО" category="Selection">
+				<xr:TypeId>3710c1e4-9e00-434c-8416-bd65cbbf3425</xr:TypeId>
+				<xr:ValueId>6e554259-8d84-46e2-8f5d-9de296e4fb42</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьПрофилиНастроекЭДО" category="List">
+				<xr:TypeId>91c0767a-9694-4fe6-b0fd-f70dbdb6dcb2</xr:TypeId>
+				<xr:ValueId>0f13f94a-1adf-40dc-9bb5-d81fe8b967ac</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьПрофилиНастроекЭДО" category="Manager">
+				<xr:TypeId>86da82b1-ce3c-466d-8469-93e53402f96c</xr:TypeId>
+				<xr:ValueId>701f6ca7-11db-42bd-96b5-5e9763617256</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьПрофилиНастроекЭДО</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>beb734ea-d76c-4463-8713-ebcb81d1ceca</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

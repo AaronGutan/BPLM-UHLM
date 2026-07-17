@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="02192da3-5000-4081-96d9-878c1bd3db76">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьПачкаРазделов6РасчетаРСВ_1" category="Object">
+				<xr:TypeId>c39c627a-6976-4720-8956-861c2275416f</xr:TypeId>
+				<xr:ValueId>67cb235d-73ed-4363-9be1-8042aad43d3f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьПачкаРазделов6РасчетаРСВ_1" category="Ref">
+				<xr:TypeId>55f0b708-dd27-40e7-afdb-420d6313d51f</xr:TypeId>
+				<xr:ValueId>50e04611-95e6-453a-aef2-61972c14b36f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьПачкаРазделов6РасчетаРСВ_1" category="Selection">
+				<xr:TypeId>002fa6ff-b88a-4601-b9a5-1e9c24947406</xr:TypeId>
+				<xr:ValueId>4fe1c536-b2af-4379-954b-fcf2e4c05f76</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьПачкаРазделов6РасчетаРСВ_1" category="List">
+				<xr:TypeId>dc092946-fe22-4ea1-8b60-892555c91003</xr:TypeId>
+				<xr:ValueId>4e3daa68-5f5c-4250-adca-c7b2540fc9cb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьПачкаРазделов6РасчетаРСВ_1" category="Manager">
+				<xr:TypeId>a038168e-fb6b-42f5-838d-6a7bfa9aed17</xr:TypeId>
+				<xr:ValueId>aae52fc5-4e42-4a91-9515-b98df974aa6c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьПачкаРазделов6РасчетаРСВ_1</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>fe16fa10-b5e6-4a45-b9af-b3b73c637508</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

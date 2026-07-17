@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="f650597d-9f3e-4ad3-9347-f8bba351fc47">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ВозмещениеБольничныхВЧастиФБ" category="Object">
+				<xr:TypeId>888e6438-3cd3-46cb-859d-f19f8ca92b7a</xr:TypeId>
+				<xr:ValueId>c052ffd1-4df0-4665-9c4b-29a28e504f65</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ВозмещениеБольничныхВЧастиФБ" category="Ref">
+				<xr:TypeId>cb1e13f0-f778-4407-8d8a-08ecda0f3dbc</xr:TypeId>
+				<xr:ValueId>8c77e7cf-b253-4761-9187-ef3ac2acd793</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ВозмещениеБольничныхВЧастиФБ" category="Selection">
+				<xr:TypeId>2d604c18-febc-47fc-b1b8-2d4426032558</xr:TypeId>
+				<xr:ValueId>58c4f479-70dc-4e97-9510-dac4fbad0efa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ВозмещениеБольничныхВЧастиФБ" category="List">
+				<xr:TypeId>7f50ff73-b28a-4dfa-b81c-14ee85926f84</xr:TypeId>
+				<xr:ValueId>adfae556-e7b4-48ff-a15b-97fcce9cb8fa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ВозмещениеБольничныхВЧастиФБ" category="Manager">
+				<xr:TypeId>8e8beec3-1942-48bf-85ab-6c3e03260501</xr:TypeId>
+				<xr:ValueId>22f9eac2-b153-41a8-b6b7-b09bae730212</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВозмещениеБольничныхВЧастиФБ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>0c417f0f-9836-4260-8664-a7e412023686</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

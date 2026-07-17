@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="bd0f25c6-b712-48b5-97c5-af248d8e3c40">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ОтправкиФСРАР" category="Object">
+				<xr:TypeId>c5033231-5659-43e9-9aa9-7a77609805cd</xr:TypeId>
+				<xr:ValueId>a637b3c8-f1e4-4f20-a875-2fe71f63c942</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ОтправкиФСРАР" category="Ref">
+				<xr:TypeId>f1aa7d21-d581-4438-8517-dc8b706aefcd</xr:TypeId>
+				<xr:ValueId>6f1e75af-4384-40fb-b1be-448151f74d79</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ОтправкиФСРАР" category="Selection">
+				<xr:TypeId>670e40a4-3c69-4edf-9999-2e3378128669</xr:TypeId>
+				<xr:ValueId>e2c2c969-1356-49d4-b7f4-d65953bc7b00</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ОтправкиФСРАР" category="List">
+				<xr:TypeId>d40e3373-f444-4eb8-9437-323ecd7cde25</xr:TypeId>
+				<xr:ValueId>29c303fa-3c0c-461c-ab85-34622af86e58</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ОтправкиФСРАР" category="Manager">
+				<xr:TypeId>f9d17d9c-e485-4f4b-a34a-104de107e144</xr:TypeId>
+				<xr:ValueId>7f967fc6-ebd0-4155-bb95-490fe8cec347</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтправкиФСРАР</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>25faaa14-afc1-4f68-965f-61dc9854c2ad</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

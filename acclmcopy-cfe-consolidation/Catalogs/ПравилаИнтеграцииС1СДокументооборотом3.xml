@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="7a0500b5-ecce-4d14-8833-efa537943379">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ПравилаИнтеграцииС1СДокументооборотом3" category="Object">
+				<xr:TypeId>26f99c23-7b83-4610-a5d8-fd32e38f3b86</xr:TypeId>
+				<xr:ValueId>af14e2e8-eb3e-4e26-b046-39a530da3a8d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ПравилаИнтеграцииС1СДокументооборотом3" category="Ref">
+				<xr:TypeId>a4499e61-3da1-40b5-9fc7-d93217940797</xr:TypeId>
+				<xr:ValueId>3d66d408-bf10-4acb-b19d-26d25a4913a7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ПравилаИнтеграцииС1СДокументооборотом3" category="Selection">
+				<xr:TypeId>62866151-94a5-4d1a-ad32-aba54bc48dd7</xr:TypeId>
+				<xr:ValueId>7ec28718-7eb1-4d29-bbf3-42edda6937f6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ПравилаИнтеграцииС1СДокументооборотом3" category="List">
+				<xr:TypeId>3158cda8-d0cf-4854-bea9-f0a8bf69fa47</xr:TypeId>
+				<xr:ValueId>8cbf3139-d000-43b0-91c0-6a34a06eaf05</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ПравилаИнтеграцииС1СДокументооборотом3" category="Manager">
+				<xr:TypeId>411c3957-a2b2-4867-a14a-219426724295</xr:TypeId>
+				<xr:ValueId>c801b696-b116-42b4-bdfe-2819d62074f4</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПравилаИнтеграцииС1СДокументооборотом3</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>5b1477a3-2be9-4f71-90bf-58775552ee37</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

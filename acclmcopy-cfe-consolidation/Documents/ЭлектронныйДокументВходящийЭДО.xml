@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="fe65a9f7-f106-4614-93ce-22cf9a68bf55">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЭлектронныйДокументВходящийЭДО" category="Object">
+				<xr:TypeId>6b61896a-f154-40db-b0d7-a71bc291910e</xr:TypeId>
+				<xr:ValueId>f03afc51-9d23-4a92-8bd9-afbd8c10d542</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЭлектронныйДокументВходящийЭДО" category="Ref">
+				<xr:TypeId>3c8973a9-539b-4279-88c1-3f2e75445c94</xr:TypeId>
+				<xr:ValueId>dbd892f5-7fb1-412f-8ce9-5e0e61dd39ba</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЭлектронныйДокументВходящийЭДО" category="Selection">
+				<xr:TypeId>1209bd09-79a8-4215-b975-4fc8261bffce</xr:TypeId>
+				<xr:ValueId>79813347-e639-4b7d-b0e5-3279e4bbac97</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЭлектронныйДокументВходящийЭДО" category="List">
+				<xr:TypeId>3284fb71-8c8b-423a-9fba-d36ff14ad363</xr:TypeId>
+				<xr:ValueId>806361c1-d9c1-4be4-93f8-9c8dfcf22223</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЭлектронныйДокументВходящийЭДО" category="Manager">
+				<xr:TypeId>57f14a90-7899-4698-a8bd-e7db6d887b3c</xr:TypeId>
+				<xr:ValueId>d7f4d224-0ddb-42e9-a2d4-efd1d00b44a3</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЭлектронныйДокументВходящийЭДО</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>616e00aa-77c1-4a20-9465-9248f8075e52</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

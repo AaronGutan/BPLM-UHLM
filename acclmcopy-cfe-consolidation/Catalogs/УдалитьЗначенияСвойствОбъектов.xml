@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="6aa22a8b-b252-4dab-8a12-033104401824">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьЗначенияСвойствОбъектов" category="Object">
+				<xr:TypeId>13ba4a39-b70b-48f7-8e66-b6d38fa16459</xr:TypeId>
+				<xr:ValueId>29df7ff6-f159-42fe-ada4-5b5d5dc25876</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьЗначенияСвойствОбъектов" category="Ref">
+				<xr:TypeId>e6717f0e-7ffe-4c02-b20e-94f8f06fbf68</xr:TypeId>
+				<xr:ValueId>685ecfb7-cd23-4c60-ad65-205fd6bc783c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьЗначенияСвойствОбъектов" category="Selection">
+				<xr:TypeId>d2fde440-16ea-4bbd-93d8-3dd93042b90f</xr:TypeId>
+				<xr:ValueId>b4d720ac-b42e-4107-bbb2-590e5b72f60a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьЗначенияСвойствОбъектов" category="List">
+				<xr:TypeId>eb9ac3ef-835e-4363-a9ce-b4b212bf98a7</xr:TypeId>
+				<xr:ValueId>23bdca34-e0e0-4122-9b3b-9e9daa3cb1ec</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьЗначенияСвойствОбъектов" category="Manager">
+				<xr:TypeId>6f6087dc-a915-49c0-a71c-8303a0475c48</xr:TypeId>
+				<xr:ValueId>7a666ef9-0937-40bf-b4a9-cbe5eece7264</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьЗначенияСвойствОбъектов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>940770a2-2f01-4f29-9c3d-425d0f853ef4</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

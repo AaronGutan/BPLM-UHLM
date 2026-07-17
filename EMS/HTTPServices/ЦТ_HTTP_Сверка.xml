@@ -44,6 +44,64 @@
 					</Method>
 				</ChildObjects>
 			</URLTemplate>
+			<URLTemplate uuid="27248aec-9762-4aec-9ca8-a47a37e8360d">
+				<Properties>
+					<Name>Изменения</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Изменения</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Template>/V1/register-changes</Template>
+				</Properties>
+				<ChildObjects>
+					<Method uuid="f72fba94-c8c8-4839-af4c-e9a40bd9c30f">
+						<Properties>
+							<Name>Зарегистрировать</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Зарегистрировать</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<HTTPMethod>POST</HTTPMethod>
+							<Handler>ИзмененияЗарегистрировать</Handler>
+						</Properties>
+					</Method>
+				</ChildObjects>
+			</URLTemplate>
+			<URLTemplate uuid="6d2ff6a4-7c0b-4c78-956d-0acdbd2209aa">
+				<Properties>
+					<Name>ЗапускОбмена</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Запуск обмена</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Template>/V1/run-exchange</Template>
+				</Properties>
+				<ChildObjects>
+					<Method uuid="05e84b54-4a0f-4a39-bf3b-c295da07d2b3">
+						<Properties>
+							<Name>Запустить</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Запустить</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<HTTPMethod>POST</HTTPMethod>
+							<Handler>ОбменЗапустить</Handler>
+						</Properties>
+					</Method>
+				</ChildObjects>
+			</URLTemplate>
 		</ChildObjects>
 	</HTTPService>
 </MetaDataObject>

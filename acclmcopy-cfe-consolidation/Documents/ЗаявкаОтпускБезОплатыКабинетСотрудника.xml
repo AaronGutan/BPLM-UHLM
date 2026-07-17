@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="aed08d18-33bc-4fa5-99eb-1899d941ca97">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЗаявкаОтпускБезОплатыКабинетСотрудника" category="Object">
+				<xr:TypeId>a62a75fd-f830-46d2-88be-300c379955d3</xr:TypeId>
+				<xr:ValueId>597fda28-4b7f-4972-99ee-9d927edab4be</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЗаявкаОтпускБезОплатыКабинетСотрудника" category="Ref">
+				<xr:TypeId>1a7cab72-e6de-423d-a0e4-498e5843d0e4</xr:TypeId>
+				<xr:ValueId>515d9a7d-d00d-4911-be2a-20e9272577b4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЗаявкаОтпускБезОплатыКабинетСотрудника" category="Selection">
+				<xr:TypeId>657f0a13-bdd1-41ad-bb3c-e5c39e4a5cc3</xr:TypeId>
+				<xr:ValueId>740e0b32-af44-48ca-ad5b-3fc4dfdab3b1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЗаявкаОтпускБезОплатыКабинетСотрудника" category="List">
+				<xr:TypeId>065eabe1-30e0-4168-8e9d-efd96fc0dcff</xr:TypeId>
+				<xr:ValueId>0a3c39b2-a1a7-4c16-9989-2eee9c6ce617</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЗаявкаОтпускБезОплатыКабинетСотрудника" category="Manager">
+				<xr:TypeId>e469027d-1fbb-424b-a98e-cbb574fdecb4</xr:TypeId>
+				<xr:ValueId>dbd4dd00-3644-43b1-b71e-1f02be5359c9</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗаявкаОтпускБезОплатыКабинетСотрудника</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>bff38353-7d98-4d93-ac96-5d1e8c58a77f</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

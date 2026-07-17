@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="61c2cb36-9469-4ad7-8763-e5f185a7b38c">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьСведенияОДоходахФизлиц" category="Object">
+				<xr:TypeId>17fdb72a-07c8-43f2-8f4b-6f58f0b3dd23</xr:TypeId>
+				<xr:ValueId>d53257c7-5105-4f40-8ddc-3d1ecab3e6e2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьСведенияОДоходахФизлиц" category="Ref">
+				<xr:TypeId>aa20d346-c162-4bea-88f9-25d5088be0f2</xr:TypeId>
+				<xr:ValueId>13399e1b-347d-4722-a252-6d569e95df8b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьСведенияОДоходахФизлиц" category="Selection">
+				<xr:TypeId>2223da0c-442f-4891-9799-e295d996f64a</xr:TypeId>
+				<xr:ValueId>b2f6908b-67ef-4847-8e96-9ad10ae30e4f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьСведенияОДоходахФизлиц" category="List">
+				<xr:TypeId>110889ab-7001-4302-afbf-8dc67a497747</xr:TypeId>
+				<xr:ValueId>db134c55-c0cb-4d9a-b3b3-91c0d29044fb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьСведенияОДоходахФизлиц" category="Manager">
+				<xr:TypeId>19382264-264b-4f2c-9db8-64afac293e65</xr:TypeId>
+				<xr:ValueId>1dba2600-492b-449d-a561-2199efdd0669</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьСведенияОДоходахФизлиц</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>31c30184-9eda-47fe-b424-66eb38095fa4</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

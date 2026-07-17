@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="0053fc69-4acf-44c0-9bba-6a2b98cf9cf5">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УчетныеЗаписиСинхронизацииФайлов" category="Object">
+				<xr:TypeId>03a2eebf-c42f-4e96-b3b4-3a21590218e2</xr:TypeId>
+				<xr:ValueId>b2f2abac-59bb-486b-bc8c-40cff957a535</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УчетныеЗаписиСинхронизацииФайлов" category="Ref">
+				<xr:TypeId>c2c33d7a-d01c-4800-959d-e898f2746b99</xr:TypeId>
+				<xr:ValueId>0d34258a-41d5-4404-b4ea-7a9a3b25e694</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УчетныеЗаписиСинхронизацииФайлов" category="Selection">
+				<xr:TypeId>94445e10-70d0-4ceb-b74e-0820bf9d5188</xr:TypeId>
+				<xr:ValueId>018b5ae9-5624-4c76-84a2-acc6146f947e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УчетныеЗаписиСинхронизацииФайлов" category="List">
+				<xr:TypeId>cc142c86-f912-4e85-9bd7-63a6ce30e52f</xr:TypeId>
+				<xr:ValueId>f6d93192-f9d4-437f-b0e8-e7d52b3edd39</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УчетныеЗаписиСинхронизацииФайлов" category="Manager">
+				<xr:TypeId>9c9943c1-c6c3-49da-808a-a0c848df71b4</xr:TypeId>
+				<xr:ValueId>15f33c69-4b7e-4eee-931d-c27b1afd7968</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УчетныеЗаписиСинхронизацииФайлов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>a9441693-87ca-4157-98e1-63375852755c</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

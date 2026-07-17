@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="c523be5c-b9b3-4307-8539-43c10286b4bc">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СоставыВоеннослужащих" category="Object">
+				<xr:TypeId>c19f0c0a-9877-44b7-841d-765063e44811</xr:TypeId>
+				<xr:ValueId>a910b395-98c3-4a13-ac55-5436e841e5c8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СоставыВоеннослужащих" category="Ref">
+				<xr:TypeId>aed0ddfa-85d4-489d-a3dd-f8c6f141e483</xr:TypeId>
+				<xr:ValueId>c46c3bc5-3bfd-41e4-8436-778c9afe4a60</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СоставыВоеннослужащих" category="Selection">
+				<xr:TypeId>deb61f40-e318-4cf5-b62d-d0f66c6a74bb</xr:TypeId>
+				<xr:ValueId>499d0bf4-7c68-4e5d-8c11-e286f1055911</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СоставыВоеннослужащих" category="List">
+				<xr:TypeId>87dc3f7b-5ad7-410b-bad4-c0d60a420e58</xr:TypeId>
+				<xr:ValueId>b8e4fced-52f0-4493-b711-240196a10075</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СоставыВоеннослужащих" category="Manager">
+				<xr:TypeId>7b375b40-c459-4a64-a830-bee855e93f0e</xr:TypeId>
+				<xr:ValueId>8485cf7c-fb30-49e7-9a2e-f603bb53e29e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СоставыВоеннослужащих</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>be851481-1e5f-4b42-a4b9-0c6d8a499754</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

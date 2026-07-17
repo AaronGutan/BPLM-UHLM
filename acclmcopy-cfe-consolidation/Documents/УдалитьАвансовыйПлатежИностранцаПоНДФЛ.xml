@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="6255f8c6-78b0-4c26-bc36-e2ba2b95eb89">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьАвансовыйПлатежИностранцаПоНДФЛ" category="Object">
+				<xr:TypeId>c3037e66-f957-40e9-9f87-615b56d1ec93</xr:TypeId>
+				<xr:ValueId>42c7081b-6045-4d1c-bbbd-957148a5e44b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьАвансовыйПлатежИностранцаПоНДФЛ" category="Ref">
+				<xr:TypeId>0d166f46-6111-4a46-b2dd-6282c2783eb4</xr:TypeId>
+				<xr:ValueId>dde03d90-e68a-4a91-8f21-5db2bdaa4dde</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьАвансовыйПлатежИностранцаПоНДФЛ" category="Selection">
+				<xr:TypeId>83a30adb-3aab-40ea-a710-c2258ee8c1cb</xr:TypeId>
+				<xr:ValueId>16dca9b3-7890-4fa5-b35f-04278cb90595</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьАвансовыйПлатежИностранцаПоНДФЛ" category="List">
+				<xr:TypeId>de295606-c5d7-4cbf-9186-8150488665ae</xr:TypeId>
+				<xr:ValueId>9ad43881-0692-46c5-af5e-473f2352b6c7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьАвансовыйПлатежИностранцаПоНДФЛ" category="Manager">
+				<xr:TypeId>42f4a33e-6984-439c-badc-833f202b58f4</xr:TypeId>
+				<xr:ValueId>b5fb953c-1d53-492e-aa06-c69426cef133</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьАвансовыйПлатежИностранцаПоНДФЛ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>3e3cc1ad-b77b-4a09-a051-e0ece6566e75</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

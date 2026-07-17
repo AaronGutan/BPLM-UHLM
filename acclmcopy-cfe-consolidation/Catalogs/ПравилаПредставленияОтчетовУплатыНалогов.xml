@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="66dffb71-1a09-4cf9-be6c-d5a052ad228d">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ПравилаПредставленияОтчетовУплатыНалогов" category="Object">
+				<xr:TypeId>eab4b57a-c6c1-4713-8a56-d048f3575031</xr:TypeId>
+				<xr:ValueId>7ada9ffc-c721-40f9-a7a2-e233945629dd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ПравилаПредставленияОтчетовУплатыНалогов" category="Ref">
+				<xr:TypeId>6f0de822-076f-473f-8117-0ca7e480e1ed</xr:TypeId>
+				<xr:ValueId>6d9a315b-f38e-4fbe-8543-7497b943f42e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ПравилаПредставленияОтчетовУплатыНалогов" category="Selection">
+				<xr:TypeId>28325eff-ac92-48e5-9934-43fd86d9d2b4</xr:TypeId>
+				<xr:ValueId>842030dd-1ea5-4132-b2e3-ef8faff05f4c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ПравилаПредставленияОтчетовУплатыНалогов" category="List">
+				<xr:TypeId>01cd2fd3-9f8a-4f86-80f2-9f6fe1be5135</xr:TypeId>
+				<xr:ValueId>ccb09ff1-eebd-4395-93a1-3d8d9eb2545e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ПравилаПредставленияОтчетовУплатыНалогов" category="Manager">
+				<xr:TypeId>7fd575ee-7559-4279-9a3a-e29ae0ff2343</xr:TypeId>
+				<xr:ValueId>6fb94693-5234-4309-ba86-330fd22a61be</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПравилаПредставленияОтчетовУплатыНалогов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>fe3492b0-04a1-40dd-8417-8641e116ed59</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

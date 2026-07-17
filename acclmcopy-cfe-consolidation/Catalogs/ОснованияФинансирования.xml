@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="f7cbe3bf-e2bd-4909-ad3f-dcd682bb90fc">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ОснованияФинансирования" category="Object">
+				<xr:TypeId>e200de69-a0d9-48ec-b687-6b3fd8184533</xr:TypeId>
+				<xr:ValueId>adb52fdd-296c-4b90-b474-d0664fc23ab5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ОснованияФинансирования" category="Ref">
+				<xr:TypeId>7186587e-9b82-487e-9ff7-2ad4ab901ef8</xr:TypeId>
+				<xr:ValueId>2e91ec85-d3b8-4900-81d4-49c2a85f8bc0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ОснованияФинансирования" category="Selection">
+				<xr:TypeId>70c5b58d-d075-475e-93fb-1b7fba18370c</xr:TypeId>
+				<xr:ValueId>b4d3a954-7699-4940-939f-343f6afdda1c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ОснованияФинансирования" category="List">
+				<xr:TypeId>b54adff1-1f93-48bc-a7a1-ddbea6be8ee6</xr:TypeId>
+				<xr:ValueId>98b24c05-187c-4ee1-a1c2-adde1cdd4e4f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ОснованияФинансирования" category="Manager">
+				<xr:TypeId>271eabe7-1955-4a65-addc-1d56b32b433b</xr:TypeId>
+				<xr:ValueId>44fbed34-69ca-4a46-9c6d-7d0a48a7a90e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОснованияФинансирования</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>172edbdd-d569-4cb5-82b3-7d160c2d55f9</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

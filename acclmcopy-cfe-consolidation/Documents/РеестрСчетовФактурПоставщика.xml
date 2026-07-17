@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="8d6f1a60-c866-49b6-bd24-c17bbd9ac415">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РеестрСчетовФактурПоставщика" category="Object">
+				<xr:TypeId>57dbfcf8-0afc-4868-9245-63410a5f0ca3</xr:TypeId>
+				<xr:ValueId>40779d55-2e8e-4807-92ca-9d28fe165290</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РеестрСчетовФактурПоставщика" category="Ref">
+				<xr:TypeId>8b563ac1-6d9f-4a28-a1b1-300418b13940</xr:TypeId>
+				<xr:ValueId>4c6a7215-0c29-4954-bb66-47598a9e665c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РеестрСчетовФактурПоставщика" category="Selection">
+				<xr:TypeId>cdbdd429-23ba-4909-b3a1-9cdb73ea8ab9</xr:TypeId>
+				<xr:ValueId>cb4fd880-1821-40ce-bb5a-0ab4fb948970</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РеестрСчетовФактурПоставщика" category="List">
+				<xr:TypeId>728b385b-06d6-4f55-acb4-37806825a4be</xr:TypeId>
+				<xr:ValueId>901646bf-9921-4d01-ac58-a955fb946a60</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РеестрСчетовФактурПоставщика" category="Manager">
+				<xr:TypeId>c617fb86-15e5-4e1b-970e-f993e4cc091a</xr:TypeId>
+				<xr:ValueId>a1157b78-3387-4404-b8cc-c052e911bebd</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РеестрСчетовФактурПоставщика</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>c0a3f339-4b3a-4fcd-93b1-9d00b671fcae</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

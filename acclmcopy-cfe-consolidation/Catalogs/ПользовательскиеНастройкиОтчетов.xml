@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="b2b98ae7-3e12-40d3-9a33-f4b4564966f6">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ПользовательскиеНастройкиОтчетов" category="Object">
+				<xr:TypeId>1c97779a-c08d-474b-bae4-a6a8d9d7597a</xr:TypeId>
+				<xr:ValueId>427f97aa-171d-4fe0-acf4-390815bbae82</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ПользовательскиеНастройкиОтчетов" category="Ref">
+				<xr:TypeId>f1cff3f8-9934-4c93-8442-68d2adf07e54</xr:TypeId>
+				<xr:ValueId>7c6ee3f8-03a3-413e-a36c-ab53d533ab4e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ПользовательскиеНастройкиОтчетов" category="Selection">
+				<xr:TypeId>9cd536d9-a7e1-4dd7-97f9-406572429cc4</xr:TypeId>
+				<xr:ValueId>b523192c-a3cd-4ec7-b158-0a1d1d871e7a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ПользовательскиеНастройкиОтчетов" category="List">
+				<xr:TypeId>042fa76e-9ad6-472e-b170-61eba2a3f749</xr:TypeId>
+				<xr:ValueId>c47e5452-b13c-4348-b643-16b8441fc2d3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ПользовательскиеНастройкиОтчетов" category="Manager">
+				<xr:TypeId>f402d26d-9b67-4361-9a66-9726de8a8217</xr:TypeId>
+				<xr:ValueId>244be0fc-6feb-4dc3-a6c4-786b1e57d809</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПользовательскиеНастройкиОтчетов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>5eb4ca7f-027a-4860-a167-e6b424527e7a</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

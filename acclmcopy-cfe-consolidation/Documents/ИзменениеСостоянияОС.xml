@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="561b6967-a2b8-446f-9834-9cc3863c5394">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ИзменениеСостоянияОС" category="Object">
+				<xr:TypeId>9031bffc-94b4-46fe-b8b7-f49c21a96797</xr:TypeId>
+				<xr:ValueId>c8d31680-397d-4bc0-a53b-6ded306f49d8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ИзменениеСостоянияОС" category="Ref">
+				<xr:TypeId>ece7e5fc-5135-4428-bfda-6eac5d72ac6e</xr:TypeId>
+				<xr:ValueId>82527ce7-c0bc-4d36-88b2-49980fa4669c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ИзменениеСостоянияОС" category="Selection">
+				<xr:TypeId>739b3dfc-1b15-4a37-b052-8819b4d2706a</xr:TypeId>
+				<xr:ValueId>94cf45a5-e334-4c36-8ed8-b029088a4cd4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ИзменениеСостоянияОС" category="List">
+				<xr:TypeId>bd0a5bab-191e-4d94-8846-6a961de4fb8c</xr:TypeId>
+				<xr:ValueId>5f6c7d6a-5c91-49e7-9134-c7ab3c5db0a5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ИзменениеСостоянияОС" category="Manager">
+				<xr:TypeId>d2e4c08f-9838-40cb-8ddd-e129da4114ad</xr:TypeId>
+				<xr:ValueId>d6e20435-1fc3-48d2-acd0-d6add895c199</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ИзменениеСостоянияОС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>4d561076-1105-49ba-8b64-96e0cd2fcfa0</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

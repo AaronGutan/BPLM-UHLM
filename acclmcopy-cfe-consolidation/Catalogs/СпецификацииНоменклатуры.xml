@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="37771abe-0c71-4dbc-96f3-b7a7dfbd7b48">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СпецификацииНоменклатуры" category="Object">
+				<xr:TypeId>d5d05743-eb38-4169-b629-af4567220311</xr:TypeId>
+				<xr:ValueId>50d56862-b59b-4de7-a2fb-22ccf3f49ec1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СпецификацииНоменклатуры" category="Ref">
+				<xr:TypeId>dc0d8add-5b68-4465-a0e9-ab9538acadc1</xr:TypeId>
+				<xr:ValueId>5ce66f9b-20e8-4b39-8a7b-ec400f6b3769</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СпецификацииНоменклатуры" category="Selection">
+				<xr:TypeId>56902427-4725-48b7-ab8f-276d85a265cc</xr:TypeId>
+				<xr:ValueId>ae6e914b-34a1-4ad5-bd3f-b4fd220f765e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СпецификацииНоменклатуры" category="List">
+				<xr:TypeId>fa92f2e7-9792-434d-bfff-8e23e30beed7</xr:TypeId>
+				<xr:ValueId>ee65ddef-d6bd-4e7d-aaa7-6d5f495ce164</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СпецификацииНоменклатуры" category="Manager">
+				<xr:TypeId>31c0a07e-80ce-400d-98ef-c5a55d0d4985</xr:TypeId>
+				<xr:ValueId>cc75b473-2f8c-4ce5-a424-40aa4106866d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СпецификацииНоменклатуры</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>a6f6a819-8520-46ea-a4b5-217f37dfbd1f</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

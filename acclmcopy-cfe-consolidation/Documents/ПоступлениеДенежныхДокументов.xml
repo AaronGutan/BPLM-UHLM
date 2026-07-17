@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Document uuid="c985919d-3b24-4bfd-acb0-c26ad95ce7c7">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="f2638430-8696-4657-8f1e-e15eb3beef02">
 		<InternalInfo>
 			<xr:GeneratedType name="DocumentObject.ПоступлениеДенежныхДокументов" category="Object">
-				<xr:TypeId>0ab2ceab-0c42-4962-aaa2-40b8e8d857a7</xr:TypeId>
-				<xr:ValueId>3656c07b-6ec7-48f0-a200-7280b2602d78</xr:ValueId>
+				<xr:TypeId>fa8b4d6f-9612-495d-ac13-6f3d6b374db3</xr:TypeId>
+				<xr:ValueId>e74f7a05-ee60-413f-ba0d-103a8617c94a</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentRef.ПоступлениеДенежныхДокументов" category="Ref">
-				<xr:TypeId>687edd27-c5ea-48ac-858a-71547c34a118</xr:TypeId>
-				<xr:ValueId>74e5451b-b6f7-4aee-b726-5b5c1670f49e</xr:ValueId>
+				<xr:TypeId>c31eb6ce-7a91-491d-bf07-36c67254cec9</xr:TypeId>
+				<xr:ValueId>8aabe651-a1e6-4533-a5f4-7f3bf80ef7dc</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentSelection.ПоступлениеДенежныхДокументов" category="Selection">
-				<xr:TypeId>d01554cc-a99d-4801-8a4f-3ed05508912c</xr:TypeId>
-				<xr:ValueId>96c1e684-1569-4b7f-af6b-9a33e9cbb402</xr:ValueId>
+				<xr:TypeId>60703dee-23d9-4b81-b7eb-211f819fba39</xr:TypeId>
+				<xr:ValueId>b94323b9-5e75-4b86-9079-dd7a62b8bd32</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentList.ПоступлениеДенежныхДокументов" category="List">
-				<xr:TypeId>d6b15a72-818b-4779-a512-cc9c34e1e013</xr:TypeId>
-				<xr:ValueId>e57969e3-72f6-4d4f-a926-487390e7651e</xr:ValueId>
+				<xr:TypeId>0c88bffc-e2c2-4f4a-ac45-b5e2620a6a39</xr:TypeId>
+				<xr:ValueId>f5cbb58b-87e6-4e0b-9b33-2ffa4fbecbf3</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentManager.ПоступлениеДенежныхДокументов" category="Manager">
-				<xr:TypeId>2207815f-058b-48c6-bbda-061324b6e360</xr:TypeId>
-				<xr:ValueId>a68c8016-837e-4db6-b656-940aff3b605b</xr:ValueId>
+				<xr:TypeId>39453b60-76c7-490b-8739-22de3ee9944d</xr:TypeId>
+				<xr:ValueId>38248d4c-451e-4446-ba4a-e8aa3c375b17</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -28,7 +28,6 @@
 			<Name>ПоступлениеДенежныхДокументов</Name>
 			<Comment/>
 			<ExtendedConfigurationObject>fcc1410c-31d6-4ec2-8a5a-c6f16cdfad82</ExtendedConfigurationObject>
-			<RegisterRecords/>
 		</Properties>
 		<ChildObjects/>
 	</Document>

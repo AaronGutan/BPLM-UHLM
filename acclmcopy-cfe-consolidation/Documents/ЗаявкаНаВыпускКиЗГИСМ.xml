@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="0cbd255a-311c-4cd7-a987-7e53b67e7e26">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЗаявкаНаВыпускКиЗГИСМ" category="Object">
+				<xr:TypeId>0ecb330f-d43d-4f2c-940c-93059f80350d</xr:TypeId>
+				<xr:ValueId>2a85cd7f-f528-45d3-a84b-ed7263470531</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЗаявкаНаВыпускКиЗГИСМ" category="Ref">
+				<xr:TypeId>882bf122-3c35-4148-9cf1-f7cdc4c9f2a1</xr:TypeId>
+				<xr:ValueId>211322c0-9193-4500-9d83-2aa10c93b8f8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЗаявкаНаВыпускКиЗГИСМ" category="Selection">
+				<xr:TypeId>105d20f0-ad0c-4506-a880-639f27ae1097</xr:TypeId>
+				<xr:ValueId>051a010f-8274-4e07-9a85-efb512598055</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЗаявкаНаВыпускКиЗГИСМ" category="List">
+				<xr:TypeId>bc32838e-a4d1-4c3c-a6df-0cd85445ec73</xr:TypeId>
+				<xr:ValueId>98caf9e9-f134-4241-94cc-7885f11d2458</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЗаявкаНаВыпускКиЗГИСМ" category="Manager">
+				<xr:TypeId>2f5c4da6-a6f5-4f32-bbfa-c3fa8d8b52a8</xr:TypeId>
+				<xr:ValueId>459c0b35-8f77-4b81-ae86-266a71b4d596</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗаявкаНаВыпускКиЗГИСМ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>1d13b946-7d1b-49df-b8cb-d50a7e93045c</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

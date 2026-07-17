@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="ead20fa9-b414-4c56-bc37-4cfffd400871">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьЗаявкаНаОткрытиеСчетов" category="Object">
+				<xr:TypeId>0fd5aa63-0d44-41ce-b766-2897ddddc2f8</xr:TypeId>
+				<xr:ValueId>e3d68b02-09fd-4718-b0c0-800d30269322</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьЗаявкаНаОткрытиеСчетов" category="Ref">
+				<xr:TypeId>c24fe2bd-e193-47c6-a571-a5cb45295a8e</xr:TypeId>
+				<xr:ValueId>29afafa7-91c2-40e2-9712-ced699c6c95a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьЗаявкаНаОткрытиеСчетов" category="Selection">
+				<xr:TypeId>d7e4e184-7dd5-471c-9b53-70b5f3c16f5c</xr:TypeId>
+				<xr:ValueId>a6fba5f9-fa65-4101-99d4-d668da467fc9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьЗаявкаНаОткрытиеСчетов" category="List">
+				<xr:TypeId>3b776a7e-ce4d-4661-9887-8897f51115f5</xr:TypeId>
+				<xr:ValueId>fad7a01c-6766-4b01-8be3-50491055a5af</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьЗаявкаНаОткрытиеСчетов" category="Manager">
+				<xr:TypeId>570a6406-18ca-4242-aa36-9a43a34134c7</xr:TypeId>
+				<xr:ValueId>0fab219b-f7f5-4721-8a31-2ffcd4794724</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьЗаявкаНаОткрытиеСчетов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>9b4c9d1d-e584-4125-a2a8-5f1004f0ba31</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

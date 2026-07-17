@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="bc1d8918-0f56-4d71-851f-d8c4c6173185">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УведомленияАУСН" category="Object">
+				<xr:TypeId>ad662d6b-5e5f-4190-acde-888ef9d7b11a</xr:TypeId>
+				<xr:ValueId>6c2151a1-d8b6-4b1f-800e-190f6be39494</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УведомленияАУСН" category="Ref">
+				<xr:TypeId>ce8c6dff-d0f1-4558-9115-cf9755c84ff4</xr:TypeId>
+				<xr:ValueId>55426a17-6796-471a-afb2-565dc97618c8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УведомленияАУСН" category="Selection">
+				<xr:TypeId>863f1839-92d5-49e3-aab8-637d42f0c385</xr:TypeId>
+				<xr:ValueId>98708afe-9a5f-4aea-9654-90cf54cba8cd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УведомленияАУСН" category="List">
+				<xr:TypeId>9e8358b6-5edb-4385-9b06-66d96ce4d850</xr:TypeId>
+				<xr:ValueId>c37ebf25-0797-446b-9bf2-56435a4a62da</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УведомленияАУСН" category="Manager">
+				<xr:TypeId>0b2583be-9e41-4e6d-9396-b1795fdc3cc4</xr:TypeId>
+				<xr:ValueId>81c6a934-a94b-4fac-a752-8a307548858f</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УведомленияАУСН</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>19389198-0cbf-47ec-95b6-02e0bae3d6df</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="bbf15a39-8b01-4e77-8afd-6a8f27f435c6">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ФормированиеЗаписейРаздела7ДекларацииНДС" category="Object">
+				<xr:TypeId>6fc53d3f-32a3-404f-9be7-0e238a1b553d</xr:TypeId>
+				<xr:ValueId>ff51e2db-974e-4aa7-bfde-2a7fbc2d520c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ФормированиеЗаписейРаздела7ДекларацииНДС" category="Ref">
+				<xr:TypeId>325f7471-f065-4def-b8c7-43a4f36283a7</xr:TypeId>
+				<xr:ValueId>97fbb623-f4c2-4d18-bb64-6fcd6f96a516</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ФормированиеЗаписейРаздела7ДекларацииНДС" category="Selection">
+				<xr:TypeId>b01e3e3a-4548-4f5f-8f95-ce26bf5001ba</xr:TypeId>
+				<xr:ValueId>e4daaec4-217d-46da-9e61-12c6f57738f9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ФормированиеЗаписейРаздела7ДекларацииНДС" category="List">
+				<xr:TypeId>13a9fccb-a37f-40dc-b68c-c75951e8c0c6</xr:TypeId>
+				<xr:ValueId>16034ba7-c6d0-4e29-94b5-771daedff0dd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ФормированиеЗаписейРаздела7ДекларацииНДС" category="Manager">
+				<xr:TypeId>6160ad12-f76b-4efa-9c4c-e9a5a942d5ca</xr:TypeId>
+				<xr:ValueId>03f602ee-d706-41a7-b534-cace1bf2551c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ФормированиеЗаписейРаздела7ДекларацииНДС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>1aac9ddc-616f-4843-88cf-60ea232ed04f</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="afa2a855-915e-4bc1-bc16-73bb3e431e26">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ТипыИнформацииИнформационногоЦентра" category="Object">
+				<xr:TypeId>ac3bb3c8-b57a-43ff-94b6-f938ceac74e5</xr:TypeId>
+				<xr:ValueId>5c99b81d-52b1-4d8b-a613-2e2ce44b6d74</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ТипыИнформацииИнформационногоЦентра" category="Ref">
+				<xr:TypeId>e51fc08d-ae12-44d2-8c85-fdc20a2580e8</xr:TypeId>
+				<xr:ValueId>d50ae0a2-784c-40c3-8026-5b4d007f9893</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ТипыИнформацииИнформационногоЦентра" category="Selection">
+				<xr:TypeId>b96b0b29-c9c5-476b-bb6d-d2a5c1bc3fa8</xr:TypeId>
+				<xr:ValueId>b122ce0e-5e4b-4b9f-91e2-9a82d35d8626</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ТипыИнформацииИнформационногоЦентра" category="List">
+				<xr:TypeId>523df46a-fd55-420e-af55-8dc383dc3957</xr:TypeId>
+				<xr:ValueId>361a9627-64cf-4f6d-b600-b2f23f5a4c13</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ТипыИнформацииИнформационногоЦентра" category="Manager">
+				<xr:TypeId>368d44b6-7070-4fe6-8ca9-00fe3289f1a9</xr:TypeId>
+				<xr:ValueId>977971f4-05c5-40cd-a5ad-cb0cd7f1a51c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ТипыИнформацииИнформационногоЦентра</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e6ae5164-fe3b-48fd-8180-f31941e35238</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

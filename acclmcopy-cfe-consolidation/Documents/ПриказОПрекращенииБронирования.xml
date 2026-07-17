@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="a78eb860-6ed4-4c9a-9e0b-9cbfce68413f">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПриказОПрекращенииБронирования" category="Object">
+				<xr:TypeId>7c0cb591-4409-453a-9933-4cfa2a929958</xr:TypeId>
+				<xr:ValueId>e93051a1-1c90-4c27-bab1-1e5457b78709</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПриказОПрекращенииБронирования" category="Ref">
+				<xr:TypeId>509cd2ea-34cf-44b9-80e3-034444378a4c</xr:TypeId>
+				<xr:ValueId>49461cdc-699a-4c7b-9e59-f8219889757e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПриказОПрекращенииБронирования" category="Selection">
+				<xr:TypeId>8ca503b8-0108-4a63-9545-f69b39aa3931</xr:TypeId>
+				<xr:ValueId>f6b036d1-333e-4334-8c52-7a0eea585a33</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПриказОПрекращенииБронирования" category="List">
+				<xr:TypeId>be123889-96e0-4f96-aa6e-45dfbc60c539</xr:TypeId>
+				<xr:ValueId>dc85b088-465e-42f3-8e99-a282c2c412d7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПриказОПрекращенииБронирования" category="Manager">
+				<xr:TypeId>ab020b69-38dd-43f9-aa73-67c514dcfabc</xr:TypeId>
+				<xr:ValueId>2c768a8f-3e21-4332-8142-d37d30dbc486</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПриказОПрекращенииБронирования</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>a7aeeed8-fd3b-4d24-baa0-d3ad817e5893</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

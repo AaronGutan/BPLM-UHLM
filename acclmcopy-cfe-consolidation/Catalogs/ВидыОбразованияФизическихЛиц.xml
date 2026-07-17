@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="dccbab75-ab00-4bae-bb97-1c4a42306701">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ВидыОбразованияФизическихЛиц" category="Object">
+				<xr:TypeId>cca02946-3ed1-45a2-a9ea-314d1318fd11</xr:TypeId>
+				<xr:ValueId>b1ebf3be-058c-4948-868d-4b2b3858d2fa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ВидыОбразованияФизическихЛиц" category="Ref">
+				<xr:TypeId>922ea6c1-797c-4cdb-949e-cd94d236bf71</xr:TypeId>
+				<xr:ValueId>c405fdc5-8c61-4ce3-a99d-02a13b6880ea</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ВидыОбразованияФизическихЛиц" category="Selection">
+				<xr:TypeId>51a9cea6-3351-438a-a546-b64a5e5f7573</xr:TypeId>
+				<xr:ValueId>d3d3c812-1f5c-4471-8f0e-177774e0582d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ВидыОбразованияФизическихЛиц" category="List">
+				<xr:TypeId>d032f4d7-e87f-441b-9d28-462f7634e5b8</xr:TypeId>
+				<xr:ValueId>50dcde28-2e8b-438c-9a7b-08ee5a57268d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ВидыОбразованияФизическихЛиц" category="Manager">
+				<xr:TypeId>668f090b-8e43-497e-859e-b5944d4f0e8a</xr:TypeId>
+				<xr:ValueId>18415963-e4e3-498f-bb9c-a9cda18219b6</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВидыОбразованияФизическихЛиц</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>b205a1ea-891b-4d74-8547-caf8f53ef30a</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

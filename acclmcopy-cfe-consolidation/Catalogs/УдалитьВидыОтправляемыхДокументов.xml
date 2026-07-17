@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="2fbacb5c-8592-4b45-aa23-b64a80f38050">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УдалитьВидыОтправляемыхДокументов" category="Object">
+				<xr:TypeId>bfe87709-6fc4-4fde-b0e2-40cdcb3b8983</xr:TypeId>
+				<xr:ValueId>bcd84e0d-4b6c-4727-a039-ad923eecce2b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УдалитьВидыОтправляемыхДокументов" category="Ref">
+				<xr:TypeId>a95f814e-7e56-4f6f-b51b-3c324e27a8dc</xr:TypeId>
+				<xr:ValueId>a8d0530b-3eee-476d-860a-d4124d5ff15d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УдалитьВидыОтправляемыхДокументов" category="Selection">
+				<xr:TypeId>97a64c57-0b67-491e-bf98-a0ce7a3b859b</xr:TypeId>
+				<xr:ValueId>eccc8f3c-3b05-444b-9bdb-cbc2abdf6283</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УдалитьВидыОтправляемыхДокументов" category="List">
+				<xr:TypeId>b50efe4d-84e0-4f26-817b-ecf6c465b2ff</xr:TypeId>
+				<xr:ValueId>0cbe0aae-64b1-45b5-9435-f15c242d2a12</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УдалитьВидыОтправляемыхДокументов" category="Manager">
+				<xr:TypeId>88426b37-17e6-42d7-a00e-616894db6aa6</xr:TypeId>
+				<xr:ValueId>9c47b2a8-7b6a-4aa2-be2e-35f05936b589</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьВидыОтправляемыхДокументов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>2daf871b-468c-4fe1-9af5-392b37e54daf</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

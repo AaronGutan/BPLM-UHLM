@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="7e8e4299-f24c-4616-8fd3-2c7e4fa23295">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КлассификаторПолномочийФНСМЧД002" category="Object">
+				<xr:TypeId>3b196e1a-cb53-44ef-884f-752e994cb863</xr:TypeId>
+				<xr:ValueId>53994a96-1c6f-432d-8920-58457195dc90</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КлассификаторПолномочийФНСМЧД002" category="Ref">
+				<xr:TypeId>553c2d2b-eed4-4355-a1a6-beb2a7920777</xr:TypeId>
+				<xr:ValueId>55ba1829-8695-4229-a99a-07000f83a6a1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КлассификаторПолномочийФНСМЧД002" category="Selection">
+				<xr:TypeId>f09bed3c-8d36-4a87-ae6d-98fcabe785c2</xr:TypeId>
+				<xr:ValueId>3e94c176-c63f-4765-a20f-53eb5f2ab191</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КлассификаторПолномочийФНСМЧД002" category="List">
+				<xr:TypeId>d8ed761d-3f54-46e7-87c9-1ae61c7ac992</xr:TypeId>
+				<xr:ValueId>1220aba9-80d7-43fb-a74f-5304040867d9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КлассификаторПолномочийФНСМЧД002" category="Manager">
+				<xr:TypeId>4c512c75-7621-4418-b1e2-e0dfaf1f365d</xr:TypeId>
+				<xr:ValueId>76e23fef-744d-49b3-923e-093e6f0837fc</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КлассификаторПолномочийФНСМЧД002</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e450626c-4a30-4172-b578-75423114f935</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

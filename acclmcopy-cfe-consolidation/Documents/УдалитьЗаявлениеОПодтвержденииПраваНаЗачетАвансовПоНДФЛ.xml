@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="3a5e7de8-fe83-4f89-9fe9-f2b490e9cb3a">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьЗаявлениеОПодтвержденииПраваНаЗачетАвансовПоНДФЛ" category="Object">
+				<xr:TypeId>6e108df5-d3a9-45c5-bd93-302ef6abcef4</xr:TypeId>
+				<xr:ValueId>e550f79c-4eed-46a6-ac1b-5370059c50fa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьЗаявлениеОПодтвержденииПраваНаЗачетАвансовПоНДФЛ" category="Ref">
+				<xr:TypeId>fa3cbf77-12db-4368-bf42-2065911d6aa4</xr:TypeId>
+				<xr:ValueId>ca303805-b529-4d68-8d5b-2726b60391e2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьЗаявлениеОПодтвержденииПраваНаЗачетАвансовПоНДФЛ" category="Selection">
+				<xr:TypeId>c061ff05-a3dd-4488-b5ca-910494edb62f</xr:TypeId>
+				<xr:ValueId>abb3f0c4-044d-4f01-ac52-b38693a2b325</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьЗаявлениеОПодтвержденииПраваНаЗачетАвансовПоНДФЛ" category="List">
+				<xr:TypeId>40542253-0202-4a35-ac7d-51af9166a4fa</xr:TypeId>
+				<xr:ValueId>8b4c6182-79f1-44a5-b477-01b6eb193955</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьЗаявлениеОПодтвержденииПраваНаЗачетАвансовПоНДФЛ" category="Manager">
+				<xr:TypeId>ea258827-ba9a-4d71-b406-cf1de80d2eb0</xr:TypeId>
+				<xr:ValueId>dddb8bbe-fa43-4af9-90eb-081e7513b97b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьЗаявлениеОПодтвержденииПраваНаЗачетАвансовПоНДФЛ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8420c6a6-b11c-438c-a26d-4a8828770799</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

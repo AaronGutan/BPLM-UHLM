@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="f5140222-5ef9-4785-9b12-8f242aff014e">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОтветСтрахователяНаОбращениеСФР" category="Object">
+				<xr:TypeId>c3146ec2-66a7-4c13-ade8-00ab9383e919</xr:TypeId>
+				<xr:ValueId>3edd471b-8bdc-47a9-9bc7-8c2c160fa08c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОтветСтрахователяНаОбращениеСФР" category="Ref">
+				<xr:TypeId>aaf237a7-5d2b-47ec-87c5-0f9b2f8f8a30</xr:TypeId>
+				<xr:ValueId>9f17669e-0da5-4977-b8e4-b7eb1aa80c68</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОтветСтрахователяНаОбращениеСФР" category="Selection">
+				<xr:TypeId>9f30b499-fc7c-440c-8ae2-ac18cecf1dc2</xr:TypeId>
+				<xr:ValueId>23aa7dfb-63e2-4317-805c-066c3d030c6a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОтветСтрахователяНаОбращениеСФР" category="List">
+				<xr:TypeId>7a0780b0-69bf-4949-a1db-f039586b363b</xr:TypeId>
+				<xr:ValueId>7182498a-780e-45c0-907b-75e66b8dd98e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОтветСтрахователяНаОбращениеСФР" category="Manager">
+				<xr:TypeId>de5e2a21-0ff5-4070-86cd-a596e67e87d4</xr:TypeId>
+				<xr:ValueId>670e541d-1c5d-4a50-85ea-4740e874b794</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОтветСтрахователяНаОбращениеСФР</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>fe5f7d31-13b1-4b27-b5f8-156c92e54ca4</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

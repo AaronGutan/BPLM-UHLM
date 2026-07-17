@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="3a5c42d5-c7f3-4105-a27d-80ace153705a">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СправкиСПАРКРиски" category="Object">
+				<xr:TypeId>56f639d6-217e-4b20-962d-474c70905bd6</xr:TypeId>
+				<xr:ValueId>9e6d93f3-db96-4480-8617-eb073859896c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СправкиСПАРКРиски" category="Ref">
+				<xr:TypeId>a9926bc6-8887-460b-89c5-1e38b1d7967b</xr:TypeId>
+				<xr:ValueId>c6c709a8-573e-4254-a66b-d3fae6f4207e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СправкиСПАРКРиски" category="Selection">
+				<xr:TypeId>9c65fd08-eb7e-4974-aafe-6d6827d8fddd</xr:TypeId>
+				<xr:ValueId>cf0e12ac-631b-473c-9eb8-a5e179d092b3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СправкиСПАРКРиски" category="List">
+				<xr:TypeId>b6be9260-3917-445c-9ba6-76a7d9580015</xr:TypeId>
+				<xr:ValueId>292ec448-fbe7-4c48-91e1-8f311973a6b5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СправкиСПАРКРиски" category="Manager">
+				<xr:TypeId>28417e1d-2a03-4337-b999-74b02a8e8c02</xr:TypeId>
+				<xr:ValueId>91febdde-19e9-4138-b463-41b95d45a312</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СправкиСПАРКРиски</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>6516c4d5-2497-4e93-89d5-2ded45dd3ca8</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

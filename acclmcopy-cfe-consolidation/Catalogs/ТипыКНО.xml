@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="484c023e-a685-433d-81b4-2aa59bb967c5">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ТипыКНО" category="Object">
+				<xr:TypeId>8b3053ef-9fa9-4927-afb0-8178ede595db</xr:TypeId>
+				<xr:ValueId>86505bbd-56cd-41ae-bb7b-5caa1273ed34</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ТипыКНО" category="Ref">
+				<xr:TypeId>21e5504b-a86e-4b0f-ad4f-45768818f3c6</xr:TypeId>
+				<xr:ValueId>b27ecdd9-6787-44d4-ad5a-b53fc5d43fd6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ТипыКНО" category="Selection">
+				<xr:TypeId>bd41b723-d232-44ab-a4da-05cc5b22e33f</xr:TypeId>
+				<xr:ValueId>e18a3032-b1c1-441b-8956-a6c450466620</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ТипыКНО" category="List">
+				<xr:TypeId>d5e6c718-5072-4635-bb4f-f58b0d80ecfe</xr:TypeId>
+				<xr:ValueId>e972a8cf-e554-4321-a588-6e1e3b40c3e6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ТипыКНО" category="Manager">
+				<xr:TypeId>7494f30f-95dd-4476-9615-3cfd370b1f8b</xr:TypeId>
+				<xr:ValueId>971a3468-25b1-408d-a363-35c91e4a8ea1</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ТипыКНО</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>8c794278-c1b8-4846-bcaa-97ab8c70428b</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

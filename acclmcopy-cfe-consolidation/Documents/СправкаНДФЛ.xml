@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="080516fb-73b4-47aa-afbf-81de225ebe42">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СправкаНДФЛ" category="Object">
+				<xr:TypeId>021d1abc-f051-43af-b9a0-503e3bd9511a</xr:TypeId>
+				<xr:ValueId>99d6e8a2-89e8-461c-8530-05f2d97a35bc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СправкаНДФЛ" category="Ref">
+				<xr:TypeId>897fd79b-998b-455b-ab12-7bb62e4599ad</xr:TypeId>
+				<xr:ValueId>9466efb7-2eb4-4f94-ad8d-cd5689476ea7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СправкаНДФЛ" category="Selection">
+				<xr:TypeId>5856d3f0-2bfd-411e-a624-4e8ddb531152</xr:TypeId>
+				<xr:ValueId>b3aa1cf8-f3f5-46ea-a2f4-fb2cb244ef08</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СправкаНДФЛ" category="List">
+				<xr:TypeId>d6bd1cdc-c3e3-4342-9102-3e4a23d13af3</xr:TypeId>
+				<xr:ValueId>5fee62b9-cce2-42c3-9c8d-9421d5db4299</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СправкаНДФЛ" category="Manager">
+				<xr:TypeId>d8732bcf-872f-4b8b-8e47-f2cb6fbd61d7</xr:TypeId>
+				<xr:ValueId>3211ccf0-8151-4313-8075-eeef9a6a3108</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СправкаНДФЛ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>62701331-1499-4655-8afb-91023167fbf3</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

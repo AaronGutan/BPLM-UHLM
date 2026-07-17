@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="be1b2928-edd5-47c1-95f0-02ffdcb7cd6c">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УдалитьЗаявлениеАбонентаСпецоператораСвязи" category="Object">
+				<xr:TypeId>3c827327-6aee-400c-b512-b0103ecdeae9</xr:TypeId>
+				<xr:ValueId>b3f12d87-6aeb-4e44-b167-e603e263878f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УдалитьЗаявлениеАбонентаСпецоператораСвязи" category="Ref">
+				<xr:TypeId>e3854519-b6e7-46df-b6be-ed1811183d2c</xr:TypeId>
+				<xr:ValueId>fc307800-6e2e-4032-855c-8093d7e7afe4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УдалитьЗаявлениеАбонентаСпецоператораСвязи" category="Selection">
+				<xr:TypeId>3450187c-eff4-4879-8193-059c844d1022</xr:TypeId>
+				<xr:ValueId>d17317d0-f46b-4609-8f04-cb8d86a5b8c5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УдалитьЗаявлениеАбонентаСпецоператораСвязи" category="List">
+				<xr:TypeId>5340792f-08a2-487b-b142-5b78422920e3</xr:TypeId>
+				<xr:ValueId>8c1a4851-9da1-44e7-97fe-b7ca80d5be27</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УдалитьЗаявлениеАбонентаСпецоператораСвязи" category="Manager">
+				<xr:TypeId>5abde1db-396b-47dc-89ce-60797fea4386</xr:TypeId>
+				<xr:ValueId>db891972-1717-42ad-b12f-49385ebeca4a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УдалитьЗаявлениеАбонентаСпецоператораСвязи</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>41f81a60-9014-426d-9bf4-30c833df9091</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

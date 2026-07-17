@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Document uuid="62fc62b2-310d-41c6-a2da-221e28a3a04e">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="ae7d5834-6772-49af-9d83-05f345df30e8">
 		<InternalInfo>
 			<xr:GeneratedType name="DocumentObject.РеализацияУслугПоПереработке" category="Object">
-				<xr:TypeId>0a6efbbe-8b78-4884-9480-da665ce76ba4</xr:TypeId>
-				<xr:ValueId>34520a8c-25c6-4984-9be8-0beda4c2b1d3</xr:ValueId>
+				<xr:TypeId>1edc43c0-fc09-4adf-a227-7fd27e34a49b</xr:TypeId>
+				<xr:ValueId>d3b00f98-39c0-4c69-a768-ff3efbc9ffd7</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentRef.РеализацияУслугПоПереработке" category="Ref">
-				<xr:TypeId>e7f68332-901f-4bfe-9125-c6c57cc30a7b</xr:TypeId>
-				<xr:ValueId>d4ce4f64-35b8-4c7d-954e-73e0d52d4183</xr:ValueId>
+				<xr:TypeId>1d8de04c-cb5d-4318-a2ef-d35e6231c648</xr:TypeId>
+				<xr:ValueId>6617a621-5951-4e35-ad9c-ae33e5b8e82e</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentSelection.РеализацияУслугПоПереработке" category="Selection">
-				<xr:TypeId>1be37013-9c57-4da3-a2d0-750cafa443b5</xr:TypeId>
-				<xr:ValueId>5635ab1a-81ed-4ef3-b0b9-bb98b9b5a85e</xr:ValueId>
+				<xr:TypeId>1f68a6b6-7e71-4919-ad75-f70c14a6df7f</xr:TypeId>
+				<xr:ValueId>77583ab3-1e60-4135-acb6-6b184553c284</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentList.РеализацияУслугПоПереработке" category="List">
-				<xr:TypeId>746f82ee-b904-4d42-9dd1-a7ca96e7928e</xr:TypeId>
-				<xr:ValueId>0bdece00-f1a0-4200-8874-d166bdc8ac5b</xr:ValueId>
+				<xr:TypeId>0e9461e7-110d-4b55-95ac-2ea1dec95b6a</xr:TypeId>
+				<xr:ValueId>83dad661-fd54-4c43-87fa-fe617f60748c</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentManager.РеализацияУслугПоПереработке" category="Manager">
-				<xr:TypeId>2e03acb9-693f-4538-abde-90757ff7c744</xr:TypeId>
-				<xr:ValueId>89560fb3-01da-43ff-8c8d-fbf1d0bfb5e3</xr:ValueId>
+				<xr:TypeId>76c2c1c4-0bc3-4702-aa94-c19d862030af</xr:TypeId>
+				<xr:ValueId>b5c39efb-3dac-42fd-83ef-88aa8ee89801</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -28,7 +28,6 @@
 			<Name>РеализацияУслугПоПереработке</Name>
 			<Comment/>
 			<ExtendedConfigurationObject>afb8c492-306e-4c87-b79d-d3589cc07e01</ExtendedConfigurationObject>
-			<RegisterRecords/>
 		</Properties>
 		<ChildObjects/>
 	</Document>

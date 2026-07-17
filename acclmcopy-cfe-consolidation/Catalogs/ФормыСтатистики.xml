@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="406fb83f-6269-40a3-9158-9a6593346edd">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ФормыСтатистики" category="Object">
+				<xr:TypeId>a3474374-2520-4a43-8b88-8c42bab25137</xr:TypeId>
+				<xr:ValueId>711c5715-e927-43a6-9f66-f74f10e1b04f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ФормыСтатистики" category="Ref">
+				<xr:TypeId>506e5182-a61f-49f1-b416-6329f827daff</xr:TypeId>
+				<xr:ValueId>9e98742c-fab7-48db-ba44-eb08d882ebed</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ФормыСтатистики" category="Selection">
+				<xr:TypeId>56ed1262-1f75-41a6-a467-041eba06e322</xr:TypeId>
+				<xr:ValueId>05b320b0-0d34-473a-9279-2c8543e26e79</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ФормыСтатистики" category="List">
+				<xr:TypeId>7023a246-c2d7-4e34-9ab2-ab79bb2cf990</xr:TypeId>
+				<xr:ValueId>9b9c9c70-37d1-4125-a127-85babf820e19</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ФормыСтатистики" category="Manager">
+				<xr:TypeId>be0ce6d7-63f4-4ac5-a074-fe130466952c</xr:TypeId>
+				<xr:ValueId>b2e46a74-027c-42ed-b79c-b766f736179f</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ФормыСтатистики</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>26b57417-4613-4c1e-ae3b-f5a8bd21f5bc</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

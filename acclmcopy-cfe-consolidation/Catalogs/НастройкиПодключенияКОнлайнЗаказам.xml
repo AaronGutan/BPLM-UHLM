@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="05d7bc82-ce3e-4ad1-be7c-e2122c2eed7c">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НастройкиПодключенияКОнлайнЗаказам" category="Object">
+				<xr:TypeId>8564467f-8336-4fe1-975c-72ab95216b2f</xr:TypeId>
+				<xr:ValueId>d9e0f63e-e1b7-4dcb-bcc3-b26b4916b1fa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НастройкиПодключенияКОнлайнЗаказам" category="Ref">
+				<xr:TypeId>a1a312e7-53f6-473b-a382-9dcbe42361f4</xr:TypeId>
+				<xr:ValueId>12af3961-c732-4c1e-b5b6-d52dd739d69b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НастройкиПодключенияКОнлайнЗаказам" category="Selection">
+				<xr:TypeId>edce0ca4-125e-4694-ad0d-555e9802c7f8</xr:TypeId>
+				<xr:ValueId>6a8c3a23-f8d5-45e2-8f95-f43fb6919f11</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НастройкиПодключенияКОнлайнЗаказам" category="List">
+				<xr:TypeId>fe9c0a93-6504-4d8c-aa92-b5604a007182</xr:TypeId>
+				<xr:ValueId>aca68822-d796-48f1-9bc0-6123b7eee829</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НастройкиПодключенияКОнлайнЗаказам" category="Manager">
+				<xr:TypeId>4c408d3d-de1a-4a52-a504-2f1975f9b626</xr:TypeId>
+				<xr:ValueId>678bcbbf-743b-4672-aac3-09fab9f8044b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НастройкиПодключенияКОнлайнЗаказам</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>175dce9f-57bc-438c-a2fb-807335e55044</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

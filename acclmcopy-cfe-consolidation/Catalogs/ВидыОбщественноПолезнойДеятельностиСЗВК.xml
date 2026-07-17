@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="d42c303a-c49f-43f2-8b97-f503e63e88a5">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ВидыОбщественноПолезнойДеятельностиСЗВК" category="Object">
+				<xr:TypeId>b7ded6e9-4452-426d-9590-1e17b0c9f6f5</xr:TypeId>
+				<xr:ValueId>ab717715-dbf3-4c4d-99af-ee285a62ec62</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ВидыОбщественноПолезнойДеятельностиСЗВК" category="Ref">
+				<xr:TypeId>2264a733-7bc5-4277-8395-3767fd762dbe</xr:TypeId>
+				<xr:ValueId>ba88e807-d531-4ef3-9548-a92d419a7e70</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ВидыОбщественноПолезнойДеятельностиСЗВК" category="Selection">
+				<xr:TypeId>cbd5a02f-aa0c-49dc-80cb-4d7798acb196</xr:TypeId>
+				<xr:ValueId>79c3c645-9e9c-4497-8af6-ea7005b08950</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ВидыОбщественноПолезнойДеятельностиСЗВК" category="List">
+				<xr:TypeId>06fe6f4a-d9a5-46ab-a610-e0b614bdce1b</xr:TypeId>
+				<xr:ValueId>66542ecc-2883-4d36-bd4f-5f57770f3c06</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ВидыОбщественноПолезнойДеятельностиСЗВК" category="Manager">
+				<xr:TypeId>4af757e9-845f-4b67-ad43-2ed4d2fed01a</xr:TypeId>
+				<xr:ValueId>8e8ed685-800d-4658-87c3-98ce15ff9ef6</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВидыОбщественноПолезнойДеятельностиСЗВК</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>81e88c89-4fa2-4af0-b9e9-d145d27066c3</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

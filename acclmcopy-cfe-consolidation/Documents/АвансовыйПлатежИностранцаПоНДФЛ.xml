@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="d152d365-33bd-4fd1-bed3-9ac0a91d008d">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.АвансовыйПлатежИностранцаПоНДФЛ" category="Object">
+				<xr:TypeId>8edc45aa-542f-4f60-80c7-53c88e2bdf60</xr:TypeId>
+				<xr:ValueId>ebdc9519-3a28-463b-98fa-47f4799e2037</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.АвансовыйПлатежИностранцаПоНДФЛ" category="Ref">
+				<xr:TypeId>72850984-9ded-4d3a-8c4d-2edfefae7a40</xr:TypeId>
+				<xr:ValueId>cf6cafe8-bf6b-437a-b043-e7eb725aa69f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.АвансовыйПлатежИностранцаПоНДФЛ" category="Selection">
+				<xr:TypeId>36289236-7990-4801-b54b-495e4c959871</xr:TypeId>
+				<xr:ValueId>387c5e75-422e-439a-954e-47d6dd84c961</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.АвансовыйПлатежИностранцаПоНДФЛ" category="List">
+				<xr:TypeId>6a9daa4a-51ac-413e-8603-976ea21f605e</xr:TypeId>
+				<xr:ValueId>bd69e0d2-aec8-47c6-9cf4-0fd934fdc561</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.АвансовыйПлатежИностранцаПоНДФЛ" category="Manager">
+				<xr:TypeId>7966b571-941d-43af-8d01-2f748fb60647</xr:TypeId>
+				<xr:ValueId>6801edb4-7ac7-4ea3-beea-5d4af9665ad5</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>АвансовыйПлатежИностранцаПоНДФЛ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>dd1ea6a8-4364-49a5-bdf4-9ad34223cd28</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

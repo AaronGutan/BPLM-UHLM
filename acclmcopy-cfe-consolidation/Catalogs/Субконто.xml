@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
-	<Catalog uuid="8b870fed-9613-4862-b335-5f17e0e40f4f">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="9055a91b-f824-4145-9296-47c3ed13bbbc">
 		<InternalInfo>
 			<xr:GeneratedType name="CatalogObject.Субконто" category="Object">
-				<xr:TypeId>3cd3d1f0-3331-44c3-b403-1557215f5b89</xr:TypeId>
-				<xr:ValueId>4ebac1dc-9a17-42fe-bc74-1156d8a0dcce</xr:ValueId>
+				<xr:TypeId>34d31d21-0538-47f0-b4c5-41bf826cf189</xr:TypeId>
+				<xr:ValueId>0f54db97-db01-4777-a087-f6767edeb50f</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogRef.Субконто" category="Ref">
-				<xr:TypeId>51c9d54f-d820-4183-9c72-6c5a72b102c7</xr:TypeId>
-				<xr:ValueId>e53b1a5d-575a-4fdb-853c-a7ed24c1dcc9</xr:ValueId>
+				<xr:TypeId>4b4daa3e-3c19-4ff8-8f37-321843ca9f20</xr:TypeId>
+				<xr:ValueId>1d014da4-7e30-4775-ab3c-f3301a689de9</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogSelection.Субконто" category="Selection">
-				<xr:TypeId>5cc0e76b-f322-4b07-9237-58d3ba298e3c</xr:TypeId>
-				<xr:ValueId>a687a510-935d-4490-a92d-d8e4ea1e495a</xr:ValueId>
+				<xr:TypeId>45587a2a-64ed-4b87-8af8-d4009a8f4877</xr:TypeId>
+				<xr:ValueId>33e4dacd-904e-4242-8c11-0dfa9230f0d2</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogList.Субконто" category="List">
-				<xr:TypeId>98474b8a-ed2d-478c-ad56-cd19748fcf77</xr:TypeId>
-				<xr:ValueId>b6c4f9c6-bf32-48cd-8516-e90549d748c5</xr:ValueId>
+				<xr:TypeId>92121a6b-d2ce-49a4-b1fa-fca084d5c3d7</xr:TypeId>
+				<xr:ValueId>cf7efc3c-b4b1-4db9-babd-a891f1e3ae4f</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="CatalogManager.Субконто" category="Manager">
-				<xr:TypeId>efba9245-55e2-4471-b5ce-9addbe2a31b2</xr:TypeId>
-				<xr:ValueId>505757a6-0589-495e-82e8-7f887ad42c3f</xr:ValueId>
+				<xr:TypeId>68342ce6-fdfa-4b9d-a199-e1173d498f7a</xr:TypeId>
+				<xr:ValueId>5a78ed56-110c-4ace-9ff2-3d51a84fde6a</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>

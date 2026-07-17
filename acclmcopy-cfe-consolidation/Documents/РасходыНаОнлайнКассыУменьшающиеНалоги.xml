@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="6615bea2-6c65-429b-b9fb-fd0734fdce79">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РасходыНаОнлайнКассыУменьшающиеНалоги" category="Object">
+				<xr:TypeId>541b16ba-3e90-4416-86e3-33488d050f14</xr:TypeId>
+				<xr:ValueId>13a6d03a-8e5b-44c3-8d57-0abc9a40a370</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РасходыНаОнлайнКассыУменьшающиеНалоги" category="Ref">
+				<xr:TypeId>e78e57b5-75de-49a5-b532-ff1bee8b9bbd</xr:TypeId>
+				<xr:ValueId>eb4ff132-7a52-4449-bc0a-20aa35a6c5f0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РасходыНаОнлайнКассыУменьшающиеНалоги" category="Selection">
+				<xr:TypeId>fa8083cc-4590-425e-a229-d8387e8ffcf0</xr:TypeId>
+				<xr:ValueId>3524cfd3-f779-4c35-83a6-86935f5e7061</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РасходыНаОнлайнКассыУменьшающиеНалоги" category="List">
+				<xr:TypeId>d49b0c93-9c75-4e3e-8385-5ff80392d19b</xr:TypeId>
+				<xr:ValueId>669fb92b-e986-45b1-8c48-44d5b4e18e10</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РасходыНаОнлайнКассыУменьшающиеНалоги" category="Manager">
+				<xr:TypeId>21788009-5db3-46fc-aeb2-f432116d8215</xr:TypeId>
+				<xr:ValueId>8b30df46-7e18-41d0-b379-069ddcf3e883</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РасходыНаОнлайнКассыУменьшающиеНалоги</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>0d7bd26b-fb1b-4863-b15f-2f3206f3382b</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

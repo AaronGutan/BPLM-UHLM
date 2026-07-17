@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="efd11047-a8d4-4d5a-a4cb-806b042f3f1c">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КодыОКТМО" category="Object">
+				<xr:TypeId>f397bdf0-492d-4561-b174-91cae9082aa2</xr:TypeId>
+				<xr:ValueId>20cad96c-1f81-4553-80d1-6570b616280d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КодыОКТМО" category="Ref">
+				<xr:TypeId>a795cea2-f10f-43af-b67f-9b0c872dc065</xr:TypeId>
+				<xr:ValueId>e837f061-c3ec-431b-9821-321bc36775f3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КодыОКТМО" category="Selection">
+				<xr:TypeId>ac7def88-3ac0-4b46-ad2d-31f4620225fc</xr:TypeId>
+				<xr:ValueId>55920671-2028-4abb-bce6-381f41eaa9f6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КодыОКТМО" category="List">
+				<xr:TypeId>4edecf17-8df8-4977-83e7-c81894746e6f</xr:TypeId>
+				<xr:ValueId>0ba97d30-0aad-4a36-b9bb-0446a892c2ca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КодыОКТМО" category="Manager">
+				<xr:TypeId>5859bf59-7cf0-4526-a560-528ee68dd532</xr:TypeId>
+				<xr:ValueId>4a083d62-b5e3-4f18-a9ba-dbfb8fd51e98</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КодыОКТМО</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>58b46107-d639-4e2e-8632-0eaaeb492493</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
