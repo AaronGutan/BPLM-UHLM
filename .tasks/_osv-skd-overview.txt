@@ -1,0 +1,15 @@
+﻿=== DCS: ╨₧╤ü╨╜╨╛╨▓╨╜╨░╤Å╨í╤à╨╡╨╝╨░╨Ü╨╛╨╝╨┐╨╛╨╜╨╛╨▓╨║╨╕╨ö╨░╨╜╨╜╤ï╤à (65 lines) ===
+
+Sources: 
+
+Datasets:
+Params: (none)
+
+Variants:
+  [1] ╨₧╨▒╨╛╤Ç╨╛╤é╨╜╨╛╨í╨░╨╗╤î╨┤╨╛╨▓╨░╤Å╨Æ╨╡╨┤╨╛╨╝╨╛╤ü╤é╤î  "╨₧╨▒╨╛╤Ç╨╛╤é╨╜╨╛-╤ü╨░╨╗╤î╨┤╨╛╨▓╨░╤Å ╨▓╨╡╨┤╨╛╨╝╨╛╤ü╤é╤î"
+
+Next:
+  -Mode fields            field tables by dataset
+  -Mode variant           variant structure
+  -Mode trace -Name <f>   trace field origin (by name or title)
+  -Mode full              all sections at once

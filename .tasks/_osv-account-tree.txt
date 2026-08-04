@@ -1,0 +1,11 @@
+﻿\Ext\Help.xml
+\Ext\ManagerModule.bsl
+\Ext\ObjectModule.bsl
+\Ext\Help\ru.html
+\Forms\ФормаОтчета.xml
+\Forms\ФормаОтчета\Ext\Form.xml
+\Forms\ФормаОтчета\Ext\Form\Module.bsl
+\Templates\ОсновнаяСхемаКомпоновкиДанных.xml
+\Templates\СхемаКомпоновкиДанных.xml
+\Templates\ОсновнаяСхемаКомпоновкиДанных\Ext\Template.xml
+\Templates\СхемаКомпоновкиДанных\Ext\Template.xml
