@@ -68,10 +68,6 @@
             "description": "Расширение для сборки",
             "options": [
                 {
-                    "label": "Консолидация (БП)",
-                    "value": "acclmcopy-cfe-consolidation"
-                },
-                {
                     "label": "КонсолидацияУХ (УХ)",
                     "value": "ICORUHM/uh-cfe-consolidation"
                 },
@@ -80,7 +76,7 @@
                     "value": "EMS"
                 }
             ],
-            "default": "acclmcopy-cfe-consolidation"
+            "default": "EMS"
         }
     ]
 }

@@ -1,0 +1,26 @@
+Fix: deferred posting Boolean error on bank documents
+Date: 2026-08-18
+
+Problem
+- UH reports: cannot post Списание с расчетного счета received from another IB
+- Reason: value cannot be converted to Boolean
+- Cause: after load, BSP queues deferred posting (ОбменДаннымиСервер.ВыполнитьПроведениеДокументаПриЗагрузке)
+  which calls ПроверитьЗаполнение(). UH fill-check for bank docs uses ПлатежСКонвертацией
+  and accounting-policy flags. Posting is not the intended path: movements are transferred.
+
+Changes in BPLM-UH33LM_remix.xml
+1. Global AfterLoad: for СписаниеСРасчетногоСчета and ПоступлениеНаРасчетныйСчет
+   - coerce UH booleans ПлатежСКонвертацией and ОтражатьРазницуВКурсеВСоставеРасходов
+   - set Проведен = False so the document is not queued for deferred posting
+2. PKO AfterLoad СписаниеСРасчетногоСчета: set Проведен = False
+
+Checks
+- TrimEnd ends with </ПравилаОбмена> = true
+- empty source PKS = 0
+- remix.xml size = 44117934
+- BPLM-UH33LM_remix.zip count=3, ExchangeRules=44117934
+- BPKORP zip count=3, same sizes
+- Объект.Проведен = Ложь count = 2
+
+Reload rules on BOTH BP and UH, delete old exchange message, run exchange again.
+Document 028 should load unposted with Хозрасчетный movements, without the Boolean posting error.

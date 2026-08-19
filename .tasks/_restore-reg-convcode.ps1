@@ -1,4 +1,5 @@
 $ErrorActionPreference = 'Stop'
+. "$PSScriptRoot\RulesXml-SafeWrite.ps1"
 function U([int[]]$Codes) {
 	$sb = New-Object System.Text.StringBuilder
 	foreach ($c in $Codes) { [void]$sb.Append([char]$c) }
@@ -30,5 +31,5 @@ $text2 = $rx.Replace($text, {
 	return $m.Groups[1].Value + "`r`n`t`t`t`t<" + $ConvCode + '>' + $Name.PadRight(50) + '</' + $ConvCode + ">`r`n" + $m.Groups[2].Value
 }, 1)
 
-[IO.File]::WriteAllText($path, $text2, (New-Object Text.UTF8Encoding $false))
+Save-RulesXmlAtomic -Path $path -Content $text2 -MinRatioOfOriginal 50
 Write-Host ('Restored ConvCode, new len=' + $text2.Length)

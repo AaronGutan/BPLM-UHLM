@@ -1,5 +1,6 @@
 # Remove PVD unload rules for catalogs СправочникСсылка.*ПрисоединенныеФайлы
 $ErrorActionPreference = 'Stop'
+. "$PSScriptRoot\RulesXml-SafeWrite.ps1"
 function U([int[]]$Codes) {
 	$sb = New-Object System.Text.StringBuilder
 	foreach ($c in $Codes) { [void]$sb.Append([char]$c) }
@@ -30,6 +31,6 @@ $left = ([regex]::Matches($text, '<' + $SampleObj + '>' + [regex]::Escape($CatRe
 Write-Host ('Remaining SampleObj CatRef*Suffix: ' + $left)
 Write-Host ('Delta: ' + ($text.Length - $orig))
 
-Write-Host 'Writing...'
-[IO.File]::WriteAllText($path, $text, (New-Object Text.UTF8Encoding $false))
+Write-Host 'Writing (atomic)...'
+Save-RulesXmlAtomic -Path $path -Content $text -MinRatioOfOriginal 50
 Write-Host 'DONE'

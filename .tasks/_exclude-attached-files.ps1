@@ -1,6 +1,7 @@
 # ASCII-only: exclude catalogs *PrisoedinennyeFaily from BPLM-UH33LM_remix.xml
 [Console]::OutputEncoding = [Text.UTF8Encoding]::UTF8
 $ErrorActionPreference = 'Stop'
+. "$PSScriptRoot\RulesXml-SafeWrite.ps1"
 
 function U([int[]]$Codes) {
 	$sb = New-Object System.Text.StringBuilder
@@ -126,9 +127,8 @@ if (-not (Test-Path -LiteralPath $backup)) {
 	Write-Host 'Backup exists'
 }
 
-Write-Host 'Writing...'
-$utf8NoBom = New-Object Text.UTF8Encoding $false
-[IO.File]::WriteAllText($path, $text, $utf8NoBom)
+Write-Host 'Writing (atomic)...'
+Save-RulesXmlAtomic -Path $path -Content $text -MinRatioOfOriginal 50 -SkipBackup
 
 $rep = New-Object System.Text.StringBuilder
 [void]$rep.AppendLine('Suffix=' + $Suffix)

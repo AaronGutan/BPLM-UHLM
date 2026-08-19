@@ -1,0 +1,7 @@
+=== Remove empty-source PKS ===
+2026-08-12T12:29:25
+FILE=BPLM-UH33LM_remix.xml removedBlocks=200 emptySrc 206->6 fieldRegUchet 2->0 changed=True
+ZIP=E:\1C\AY\BPLM-UHLM-XML\БПКОРП 3.0.201.16_УХ 3.3.3.48.zip
+FILE=ExchangeRules.xml removedBlocks=0 emptySrc 0->0 fieldRegUchet 0->0 changed=False
+FILE=CorrespondentExchangeRules.xml removedBlocks=0 emptySrc 0->0 fieldRegUchet 0->0 changed=False
+ZIP_REBUILT size=4747510

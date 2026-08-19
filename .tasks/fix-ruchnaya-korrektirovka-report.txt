@@ -1,0 +1,40 @@
+Fix: RuchnayaKorrektirovka in exchange rules
+Date: 2026-08-18
+
+Problem
+- Documents with manual accounting movements (flag RuchnayaKorrektirovka=true)
+  keep showing the same difference after exchange.
+- AfterLoad wrote the document without forcing/preserving the flag, so UH could
+  regenerate postings.
+- 33 document PKOs with Hozraschetnyy movements had no header PKS for the flag.
+
+Changes in BPLM-UH33LM_remix.xml
+1. Global AfterLoad:
+   - If document has attribute RuchnayaKorrektirovka, set it True BEFORE write
+     (only when transferring Hozraschetnyy movements).
+   - Set НаборЗаписей.ОбменДанными.Загрузка = True before writing the register.
+2. Added header PKS RuchnayaKorrektirovka to 13 accounting document PKOs that
+   had movements but no PKS:
+   Avizo* (8), KorrektirovkaENS, NachislenieNDSpoSMRhozsposobom,
+   SpisanieTovarov, FormirovanieUstavnogoKapitala, OtrazhenieZarplatyVBuhuchete.
+
+Not added (no typical attribute / payroll / obsolete):
+- OperaciyaBuh
+- payroll/HR documents (Otpusk, BolnichnyyList, NachislenieZarplaty, ...)
+- Udaliit* documents
+
+After fix: header PKS 93 -> 106; remaining 20 without PKS are intentional.
+
+Checks
+- TrimEnd ends with </ПравилаОбмена> = true
+- empty source PKS = 0
+- control strings (AnketyPostavschikov, TipyOrganizacionnyhEdinic, TipOrganizacii,
+  VyplatyIPosobiya, IspolzovatVReglamentirovannomUchete) = 0
+- remix.xml size = 44117077
+- BPLM-UH33LM_remix.zip count=3: ExchangeRules.xml, CorrespondentExchangeRules.xml,
+  RegistrationRules.xml
+- BPKORP zip count=3, same three names
+
+Reload rules on BOTH BP and UH, delete old exchange message, run exchange again.
+On a "Pоступление на расчетный счет" with manual correction, confirm the flag
+is True on UH and Hozraschetnyy rows match BP.

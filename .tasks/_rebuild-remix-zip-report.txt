@@ -1,0 +1,3 @@
+remix bytes=44164357 catType=0 pvhType=0 emptySource=0 endsOk=True
+ZIP E:\1C\AY\BPLM-UHLM-XML\BPLM-UH33LM_remix.zip size=4752991 entries=CorrespondentExchangeRules.xml=44164357,ExchangeRules.xml=44164357,RegistrationRules.xml=638955 catType=0 pvhType=0 emptySource=0 endsOk=True
+ZIP E:\1C\AY\BPLM-UHLM-XML\БПКОРП 3.0.201.16_УХ 3.3.3.48.zip size=4752991 entries=CorrespondentExchangeRules.xml=44164357,ExchangeRules.xml=44164357,RegistrationRules.xml=638955 catType=0 pvhType=0 emptySource=0 endsOk=True

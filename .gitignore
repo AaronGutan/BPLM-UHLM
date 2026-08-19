@@ -27,8 +27,50 @@ diadoc_4_53_0/
 
 # Игнорируем временные файлы
 *.tmp
+.tmp/
 *.log
 *.cache
+
+# Метаданные конфигураций (локально, не в git)
+*_md.xml
+BP_md*.xml
+
+# Бэкапы и локальные копии правил
+*.bak
+*.bak-*
+.final-verify/
+.tasks/**/ExchangeRules.xml
+.tasks/**/CorrespondentExchangeRules.xml
+.tasks/**/RegistrationRules.xml
+.tasks/_remix-from-git.xml
+.tasks/_remix-fixed-check.xml
+.tasks/_git-remix-head-check.txt
+.tasks/_remix-diff-head.patch
+.tasks/_zip-rules-*/
+.tasks/_reg-extract*/
+.tasks/_fix-ankety-zip/
+.tasks/_fix-ankety-zip-recheck/
+.tasks/_fix-ankety-zip-verify/
+.tasks/_fix-vyplaty-verify/
+.tasks/_fix-tipy-verify/
+.tasks/_rules-full-fix/
+.tasks/_rules-md-check/
+.tasks/_rules-remove-empty-src/
+.tasks/_remix-zip-check/
+.tasks/task-cfe-consolidation-uh/_load-bisect-backup/
+
+# Временные скрипты правки в корне репозитория
+.comment-fix.ps1
+.final-fix.ps1
+.final-type-fix.ps1
+.fix-*.ps1
+.line-fix.ps1
+.line-replace.ps1
+.rebuild-zip-v2.ps1
+.remove-*.ps1
+.simple-replace.ps1
+.stream-fix.ps1
+.validate-xml.ps1
 
 # Игнорируем файлы IDE (опционально, можно раскомментировать)
 # .vscode/

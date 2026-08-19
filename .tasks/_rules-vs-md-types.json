@@ -1,0 +1,16 @@
+{
+    "CheckedAt":  "2026-08-12T12:26:15",
+    "Zip":  "E:\\1C\\AY\\BPLM-UHLM-XML\\BPLM-UH33LM_remix.zip",
+    "BpTypes":  3964,
+    "UhTypes":  5340,
+    "RulesSourceTypes":  3410,
+    "RulesDestTypes":  3431,
+    "MissingOnBpCount":  0,
+    "MissingOnUhCount":  0,
+    "MissingOnBp":  [
+
+                    ],
+    "MissingOnUh":  [
+
+                    ]
+}

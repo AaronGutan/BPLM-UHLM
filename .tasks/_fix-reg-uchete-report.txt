@@ -1,0 +1,9 @@
+=== Fix reg-uchete leftover + rebuild ===
+2026-08-12T12:40:18
+REMIX removed prop=0 grp=6 tipOrg=3
+CHECK remix: field=0 emptySrc=0 tipOrg=0 ankety=0 vyplaty=0 tipyOrg=0
+CHECK work-Exchange: field=0 emptySrc=0 tipOrg=0 ankety=0 vyplaty=0 tipyOrg=0
+ZIP E:\1C\AY\BPLM-UHLM-XML\БПКОРП 3.0.201.16_УХ 3.3.3.48.zip count=3 entries=CorrespondentExchangeRules.xml,ExchangeRules.xml,RegistrationRules.xml
+ZIP E:\1C\AY\BPLM-UHLM-XML\BPLM-UH33LM_remix.zip count=3 entries=CorrespondentExchangeRules.xml,ExchangeRules.xml,RegistrationRules.xml
+CHECK CFE:ПравилаОбмена: field=0 emptySrc=0 tipOrg=0 ankety=0 vyplaty=0 tipyOrg=0
+CFE synced: E:\1C\AY\BPLM-UHLM-XML\acclmcopy-cfe-consolidation\ExchangePlans\Консолидация\Templates\ПравилаОбмена\Ext\Template.txt

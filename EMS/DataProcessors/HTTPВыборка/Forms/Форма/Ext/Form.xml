@@ -6,11 +6,13 @@
 	<ChildItems>
 		<UsualGroup name="Группа2" id="40">
 			<Group>Vertical</Group>
+			<Behavior>Usual</Behavior>
 			<ShowTitle>false</ShowTitle>
 			<ExtendedTooltip name="Группа2РасширеннаяПодсказка" id="41"/>
 			<ChildItems>
 				<UsualGroup name="Группа7" id="97">
 					<Group>Vertical</Group>
+					<Behavior>Usual</Behavior>
 					<Representation>None</Representation>
 					<ShowTitle>false</ShowTitle>
 					<ExtendedTooltip name="Группа7РасширеннаяПодсказка" id="98"/>
@@ -23,6 +25,7 @@
 								</v8:item>
 							</Title>
 							<Group>Vertical</Group>
+							<Behavior>Usual</Behavior>
 							<Representation>None</Representation>
 							<ExtendedTooltip name="Группа6РасширеннаяПодсказка" id="96"/>
 						</UsualGroup>
@@ -60,6 +63,7 @@
 										</v8:item>
 									</Title>
 									<Group>Vertical</Group>
+									<Behavior>Usual</Behavior>
 									<Representation>None</Representation>
 									<ExtendedTooltip name="Группа5РасширеннаяПодсказка" id="91"/>
 									<ChildItems>
@@ -71,6 +75,7 @@
 										</InputField>
 										<UsualGroup name="Группа12" id="116">
 											<Group>AlwaysHorizontal</Group>
+											<Behavior>Usual</Behavior>
 											<Representation>None</Representation>
 											<ShowTitle>false</ShowTitle>
 											<ExtendedTooltip name="Группа12РасширеннаяПодсказка" id="117"/>
@@ -110,6 +115,7 @@
 								</UsualGroup>
 								<UsualGroup name="Группа14" id="131">
 									<Group>AlwaysHorizontal</Group>
+									<Behavior>Usual</Behavior>
 									<ShowTitle>false</ShowTitle>
 									<ExtendedTooltip name="Группа14РасширеннаяПодсказка" id="132"/>
 									<ChildItems>
@@ -121,6 +127,7 @@
 												</v8:item>
 											</Title>
 											<Group>Vertical</Group>
+											<Behavior>Usual</Behavior>
 											<Representation>None</Representation>
 											<ExtendedTooltip name="Группа4РасширеннаяПодсказка" id="62"/>
 											<ChildItems>
@@ -150,6 +157,7 @@
 												</v8:item>
 											</Title>
 											<Group>Vertical</Group>
+											<Behavior>Usual</Behavior>
 											<Representation>None</Representation>
 											<ExtendedTooltip name="Группа11РасширеннаяПодсказка" id="115"/>
 											<ChildItems>
@@ -293,12 +301,14 @@
 			</Title>
 			<Group>AlwaysHorizontal</Group>
 			<VerticalAlign>Center</VerticalAlign>
+			<Behavior>Usual</Behavior>
 			<Representation>None</Representation>
 			<ExtendedTooltip name="Группа9РасширеннаяПодсказка" id="105"/>
 			<ChildItems>
 				<UsualGroup name="Группа16" id="144">
 					<Group>Vertical</Group>
 					<VerticalSpacing>None</VerticalSpacing>
+					<Behavior>Usual</Behavior>
 					<Representation>None</Representation>
 					<ShowTitle>false</ShowTitle>
 					<ExtendedTooltip name="Группа16РасширеннаяПодсказка" id="145"/>
@@ -311,6 +321,7 @@
 								</v8:item>
 							</Title>
 							<Group>AlwaysHorizontal</Group>
+							<Behavior>Usual</Behavior>
 							<Representation>None</Representation>
 							<ShowTitle>false</ShowTitle>
 							<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="77"/>
@@ -349,6 +360,7 @@
 								</v8:item>
 							</Title>
 							<Group>AlwaysHorizontal</Group>
+							<Behavior>Usual</Behavior>
 							<Representation>None</Representation>
 							<ShowTitle>false</ShowTitle>
 							<ExtendedTooltip name="Группа8РасширеннаяПодсказка" id="107"/>
@@ -387,6 +399,7 @@
 								</v8:item>
 							</Title>
 							<Group>AlwaysHorizontal</Group>
+							<Behavior>Usual</Behavior>
 							<Representation>None</Representation>
 							<ShowTitle>false</ShowTitle>
 							<ExtendedTooltip name="Группа10РасширеннаяПодсказка" id="111"/>
@@ -426,6 +439,7 @@
 							</ChildItems>
 						</UsualGroup>
 						<UsualGroup name="Группа21" id="164">
+							<Behavior>Usual</Behavior>
 							<ShowTitle>false</ShowTitle>
 							<ExtendedTooltip name="Группа21РасширеннаяПодсказка" id="165"/>
 							<ChildItems>
@@ -486,6 +500,7 @@
 				</UsualGroup>
 				<UsualGroup name="Группа17" id="146">
 					<Group>Vertical</Group>
+					<Behavior>Usual</Behavior>
 					<Representation>None</Representation>
 					<ShowTitle>false</ShowTitle>
 					<ExtendedTooltip name="Группа17РасширеннаяПодсказка" id="147"/>
@@ -535,6 +550,7 @@
 				<UsualGroup name="Группа13" id="157">
 					<Group>Vertical</Group>
 					<VerticalSpacing>None</VerticalSpacing>
+					<Behavior>Usual</Behavior>
 					<Representation>None</Representation>
 					<ShowTitle>false</ShowTitle>
 					<ExtendedTooltip name="Группа13РасширеннаяПодсказка" id="158"/>
@@ -547,6 +563,7 @@
 								</v8:item>
 							</Title>
 							<Group>Vertical</Group>
+							<Behavior>Usual</Behavior>
 							<Representation>None</Representation>
 							<ExtendedTooltip name="Группа18РасширеннаяПодсказка" id="152"/>
 							<ChildItems>
@@ -567,6 +584,7 @@
 					</ChildItems>
 				</UsualGroup>
 				<UsualGroup name="Группа20" id="159">
+					<Behavior>Usual</Behavior>
 					<Representation>None</Representation>
 					<ShowTitle>false</ShowTitle>
 					<ExtendedTooltip name="Группа20РасширеннаяПодсказка" id="160"/>
@@ -695,11 +713,13 @@
 				</UsualGroup>
 				<UsualGroup name="Группа19" id="153">
 					<Group>Vertical</Group>
+					<Behavior>Usual</Behavior>
 					<Representation>StrongSeparation</Representation>
 					<ShowTitle>false</ShowTitle>
 					<ExtendedTooltip name="Группа19РасширеннаяПодсказка" id="154"/>
 					<ChildItems>
 						<UsualGroup name="Группа23" id="214">
+							<Behavior>Usual</Behavior>
 							<Representation>StrongSeparation</Representation>
 							<ExtendedTooltip name="Группа23РасширеннаяПодсказка" id="215"/>
 							<ChildItems>
@@ -754,6 +774,7 @@
 									<ExtendedTooltip name="УзелРасширеннаяПодсказка" id="237"/>
 								</InputField>
 								<UsualGroup name="Группа24" id="227">
+									<Behavior>Usual</Behavior>
 									<ExtendedTooltip name="Группа24РасширеннаяПодсказка" id="228"/>
 									<ChildItems>
 										<Button name="ПолучитьСоответствия" id="219">
@@ -861,6 +882,7 @@
 			</ChildItems>
 		</UsualGroup>
 		<UsualGroup name="Группа15" id="136">
+			<Behavior>Usual</Behavior>
 			<Representation>None</Representation>
 			<ShowTitle>false</ShowTitle>
 			<ExtendedTooltip name="Группа15РасширеннаяПодсказка" id="137"/>
@@ -873,6 +895,7 @@
 						</v8:item>
 					</Title>
 					<Group>AlwaysHorizontal</Group>
+					<Behavior>Usual</Behavior>
 					<Representation>None</Representation>
 					<ExtendedTooltip name="Группа3РасширеннаяПодсказка" id="81"/>
 					<ChildItems>

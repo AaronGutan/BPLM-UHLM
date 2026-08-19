@@ -1,0 +1,30 @@
+Fix: bank documents movements + functional option posting error
+Date: 2026-08-19
+
+Root cause (ICORUHM analysis)
+1. PKO СписаниеСРасчетногоСчета / ПоступлениеНаРасчетныйСчет had Хозрасчетный in properties but NOT ОбъектСДвижениями.
+   Without it, posted docs export with РежимЗаписи=Проведение and load into deferred posting queue
+   (КонвертацияОбъектовИнформационныхБаз -> ОбменДаннымиСервер.ВыполнитьПроведениеДокументаПриЗагрузке).
+
+2. Previous fix Объект.Проведен = Ложь made things worse:
+   when XML has empty РежимЗаписи, KD sets mode ОтменаПроведения -> ОтменитьПроведениеОбъектаВИБ clears movements.
+
+3. Error "Функциональная опция не найдена" comes from deferred posting calling ПроверитьЗаполнение()
+   outside ОбменДанными.Загрузка. Bank docs with transferred movements must NOT be re-posted in UH.
+
+Changes in BPLM-UH33LM_remix.xml
+- Added <ОбъектСДвижениями>true</ОбъектСДвижениями> to PKO СписаниеСРасчетногоСчета and ПоступлениеНаРасчетныйСчет
+- Removed Объект.Проведен = Ложь from PKO ПослеЗагрузки (global handler already cleaned earlier)
+- Kept boolean coercion for ПлатежСКонвертацией / ОтражатьРазницуВКурсеВСоставеРасходов in global ПослеЗагрузкиОбъекта
+- Kept global Хозрасчетный movement write as fallback
+
+Checks
+- ends </ПравилаОбмена> OK
+- ОбъектСДвижениями count=2
+- Проведен = Ложь count=0
+- Источник Имя="" = 0
+- remix size=44118012
+- BPLM-UH33LM_remix.zip count=3
+- BPKORP zip count=3
+
+Reload rules on BOTH BP and UH, delete old exchange message, run exchange again.

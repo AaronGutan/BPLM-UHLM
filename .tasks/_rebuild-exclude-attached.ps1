@@ -1,4 +1,5 @@
 $ErrorActionPreference = 'Stop'
+. "$PSScriptRoot\RulesXml-SafeWrite.ps1"
 function U([int[]]$Codes) {
 	$sb = New-Object System.Text.StringBuilder
 	foreach ($c in $Codes) { [void]$sb.Append([char]$c) }
@@ -127,8 +128,8 @@ if ($bu.Contains('<') -or $bu.Contains('>')) {
 }
 if ($bu.Contains('<>')) { throw 'Raw <> still present in BeforeUnload' }
 
-Write-Host 'Writing full file...'
-[IO.File]::WriteAllText($path, $text, $utf8)
+Write-Host 'Writing full file (atomic)...'
+Save-RulesXmlAtomic -Path $path -Content $text -MinRatioOfOriginal 50 -SkipBackup
 $newSize = (Get-Item -LiteralPath $path).Length
 Write-Host ('Written size: ' + $newSize)
 

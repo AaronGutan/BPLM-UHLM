@@ -1,0 +1,9 @@
+=== Rules vs metadata type check ===
+ZIP: E:\1C\AY\BPLM-UHLM-XML\BPLM-UH33LM_remix.zip
+BP MD: E:\1C\AY\BPLM-UHLM-XML\BP_md_3_0_201_16.xml (types=3964)
+UH MD: E:\1C\AY\BPLM-UHLM-XML\UH33_md.xml (types=5340)
+Rules source types: 3410; dest types: 3431
+
+--- MISSING ON BP (source) : 0 ---
+
+--- MISSING ON UH (receiver) : 0 ---
