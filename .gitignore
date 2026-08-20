@@ -59,19 +59,6 @@ BP_md*.xml
 .tasks/_remix-zip-check/
 .tasks/task-cfe-consolidation-uh/_load-bisect-backup/
 
-# Временные скрипты правки в корне репозитория
-.comment-fix.ps1
-.final-fix.ps1
-.final-type-fix.ps1
-.fix-*.ps1
-.line-fix.ps1
-.line-replace.ps1
-.rebuild-zip-v2.ps1
-.remove-*.ps1
-.simple-replace.ps1
-.stream-fix.ps1
-.validate-xml.ps1
-
 # Игнорируем файлы IDE (опционально, можно раскомментировать)
 # .vscode/
 # .idea/
