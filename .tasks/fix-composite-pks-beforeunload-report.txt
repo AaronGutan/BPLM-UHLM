@@ -1,0 +1,62 @@
+=== Add BeforeUnload to naked composite PKS ===
+2026-08-24T17:42:08
+remix bytes before=44117077
+leaf PKS=57737
+naked no-Type=6741
+inserted=6741
+skip already has BeforeUnload=0
+skip empty source name=0
+skip has Type=50996
+naked with ConvRef (handler still added if no BeforeUnload)=0
+top source names:
+  Регистратор=1792
+  ВидДвижения=708
+  ДокументОплаты=352
+  СчетФактура=324
+  Партия=322
+  РасчетныйДокумент=166
+  Номенклатура=127
+  СубконтоДт=121
+  СубконтоКт=121
+  ДокументОтгрузки=116
+  ИсправленныйСчетФактура=116
+  ДокументОснование=110
+  Субконто3=108
+  Субконто2=108
+  Субконто1=108
+  РеквизитыДокументаОплаты=103
+  Значение=103
+  СтатьяЗатрат=89
+  Контрагент=75
+  ДоговорКонтрагента=53
+  ЭлементРасхода=53
+  Объект=48
+  Документ=46
+  ВидРасхода=46
+  НоменклатураПоступившая=31
+  ПартияСписаннойНоменклатуры=31
+  НоменклатураСписанная=31
+  ПартияПоступившейНоменклатуры=31
+  ДокументОперации=29
+  Начисление=27
+  ДокументРеализации=26
+  ПартияМПЗ=26
+  УзелИнформационнойБазы=24
+  ОснованиеДляВозврата=24
+  ПлатежныйДокумент=23
+  ДокументРасчетов=22
+  Субконто=21
+  Сделка=18
+  ДокументАванса=17
+  Ведомость=16
+remix bytes after=47008094
+BeforeUnloadObject 1 -> 1
+BeforeLoadObject 1 -> 1
+empty source 0 -> 0
+PKO_BY_TYPE markers=6741
+BeforeUnload tags (PKO+PKS)=6752
+ends root close=True
+handler WriteMode=Write=True
+forbidden АнкетыПоставщиков U=0
+ZIP БПКОРП 3.0.201.16_УХ 3.3.3.48.zip count=3 entries=CorrespondentExchangeRules.xml=47008094,ExchangeRules.xml=47008094,RegistrationRules.xml=638955
+ZIP BPLM-UH33LM_remix.zip count=3 entries=CorrespondentExchangeRules.xml=47008094,ExchangeRules.xml=47008094,RegistrationRules.xml=638955

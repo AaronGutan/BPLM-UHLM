@@ -1,0 +1,10 @@
+==== BP exists=True ====
+Ведомость U count=0
+module exists=True
+  mod contains Ведомость U=False
+  mod contains ПеречислениеЗаработнойПлаты FillChecking U=False
+==== UH exists=True ====
+Ведомость U count=0
+module exists=True
+  mod contains Ведомость U=False
+  mod contains ПеречислениеЗаработнойПлаты FillChecking U=False

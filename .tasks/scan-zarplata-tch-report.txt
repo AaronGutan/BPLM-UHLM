@@ -1,0 +1,14 @@
+==== BP ====
+FILE СписаниеСРасчетногоСчета.xml
+  attrBlocks=3
+  ATTR УдалитьВедомость fill=DontCheck types=cfg:DocumentRef.ВедомостьНаВыплатуЗарплаты
+  ATTR СуммаПлатежа fill=ShowError types=xs:decimal
+  ATTR Ведомость fill=ShowError types=cfg:DocumentRef.ВедомостьНаВыплатуЗарплаты,cfg:DocumentRef.ВедомостьНаВыплатуЗарплатыВБанк
+  contains PaymentVedomost=False
+==== UH ====
+FILE СписаниеСРасчетногоСчета.xml
+  attrBlocks=3
+  ATTR УдалитьВедомость fill=DontCheck types=cfg:DocumentRef.ВедомостьНаВыплатуЗарплаты
+  ATTR СуммаПлатежа fill=ShowError types=xs:decimal
+  ATTR Ведомость fill=ShowError types=cfg:DocumentRef.ВедомостьНаВыплатуЗарплаты,cfg:DocumentRef.ВедомостьНаВыплатуЗарплатыВБанк
+  contains PaymentVedomost=False

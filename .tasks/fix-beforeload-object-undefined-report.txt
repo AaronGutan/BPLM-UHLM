@@ -1,0 +1,7 @@
+=== Fix BeforeLoadObject: Object is Undefined ===
+2026-08-25T18:16:39
+handlerInnerLen=117 hasObjExchange=True bytesBefore=47167685
+newInnerLen=75 hasObjExchangeAfter=False
+bytesAfter=47167608
+ZIP E:\1C\AY\BPLM-UHLM-XML\БПКОРП 3.0.201.16_УХ 3.3.3.48.zip count=3 entries=CorrespondentExchangeRules.xml,ExchangeRules.xml,RegistrationRules.xml
+ZIP E:\1C\AY\BPLM-UHLM-XML\BPLM-UH33LM_remix.zip count=3 entries=CorrespondentExchangeRules.xml,ExchangeRules.xml,RegistrationRules.xml

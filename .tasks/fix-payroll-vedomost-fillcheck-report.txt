@@ -1,0 +1,26 @@
+=== Fix payroll Vedomost fill-check on load ===
+2026-08-25T11:17:33
+
+Cause: UH document СписаниеСРасчетногоСчета, TCH ПеречислениеЗаработнойПлаты,
+column Ведомость (synonym "Платежная ведомость"), FillChecking=ShowError.
+Nested payroll sheets were skipped by global "posted documents only", so the
+composite PKS Ведомость arrived empty. Converter then failed fill-check.
+
+Handlers:
+- BeforeUnload //VEDOMOST_NESTED_OK — still skip unposted documents, except
+  ВедомостьНаВыплатуЗарплаты / ...ВБанк / ...ВКассу
+- BeforeLoad — documents: РежимЗаписи=Запись and ОбменДанными.Загрузка=Истина
+- AfterLoad //PAYROLL_VEDOMOST_TCH — if TCH row.Ведомость empty, copy
+  row.УдалитьВедомость (no global РучнаяКорректировка)
+
+remix bytes=47009653
+ends root=True
+empty source (pre-existing, not introduced)=97648
+PAYROLL_VEDOMOST_TCH=True
+VEDOMOST_NESTED_OK=True
+Load=True=True
+BeforeUnload=1 BeforeLoad=1 AfterLoad=1
+ZIP БПКОРП 3.0.201.16_УХ 3.3.3.48.zip count=3 entries=CorrespondentExchangeRules.xml=47009653,ExchangeRules.xml=47009653,RegistrationRules.xml=638955
+ZIP BPLM-UH33LM_remix.zip count=3 entries=CorrespondentExchangeRules.xml=47009653,ExchangeRules.xml=47009653,RegistrationRules.xml=638955
+
+Next: load zip on BOTH sides, delete old exchange message, rerun exchange.

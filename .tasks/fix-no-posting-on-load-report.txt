@@ -1,0 +1,10 @@
+=== Rebuild zips after write-without-posting ===
+2026-08-22T20:19:57
+fixed EndIf semicolon=true
+remix bytes=44122753
+BeforeLoadObject=1
+handler WriteMode=Write=True
+empty source now=97659 bak=97659
+ends root close=True
+ZIP E:\1C\AY\BPLM-UHLM-XML\БПКОРП 3.0.201.16_УХ 3.3.3.48.zip count=3 entries=CorrespondentExchangeRules.xml=44122753,ExchangeRules.xml=44122753,RegistrationRules.xml=638955
+ZIP E:\1C\AY\BPLM-UHLM-XML\BPLM-UH33LM_remix.zip count=3 entries=CorrespondentExchangeRules.xml=44122753,ExchangeRules.xml=44122753,RegistrationRules.xml=638955
