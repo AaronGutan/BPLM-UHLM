@@ -1,0 +1,7 @@
+=== Skip early Write in AfterObjectLoad ===
+2026-08-27T12:22:35
+remix before=47236803 after=47236187
+FILE=BPLM-UH33LM_remix.xml size=47236187 emptySrc=0 endsOk=True badCounts=2,0,0,0,5
+also rebuilt БПКОРП 3.0.201.16_УХ 3.3.3.48.zip
+ZIP E:\1C\AY\BPLM-UHLM-XML\BPLM-UH33LM_remix.zip size=4944953 count=3 CorrespondentExchangeRules.xml=47236187,ExchangeRules.xml=47236187,RegistrationRules.xml=638955
+ZIP E:\1C\AY\BPLM-UHLM-XML\БПКОРП 3.0.201.16_УХ 3.3.3.48.zip size=4944953 count=3 CorrespondentExchangeRules.xml=47236187,ExchangeRules.xml=47236187,RegistrationRules.xml=638955
