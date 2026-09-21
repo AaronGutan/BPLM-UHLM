@@ -1,0 +1,22 @@
+---
+description: CFE — нельзя переопределять свойства Adopted при совместимости 8.3.13 и ниже
+globs: "EMS/**,ID_org/**,**/Rights.xml"
+alwaysApply: false
+---
+
+# CFE: свойства заимствованных объектов
+
+В режиме совместимости **8.3.13 и ниже** нельзя переопределять свойства объектов с `ObjectBelonging=Adopted`.
+
+Ошибка `update-db-cfg`: `Переопределение свойств заимствованных объектов в расширениях недопустимо в режиме совместимости 8.3.13 и ниже`.
+
+Запрещено менять у Adopted: `DefaultRoles`, `DefaultRunMode`, `InterfaceCompatibilityMode`, `Type`, синоним, `HomePageWorkArea`, свои `GeneratedType` / TypeId.
+
+Разрешено: расширять модули (`PropertyState` Module / ObjectModule / Form = Extended) и добавлять новые объекты.
+
+1. Смотреть `ConfigurationExtensionCompatibilityMode` в `Configuration.xml`.
+2. Режим 8.3.13 и ниже — логику в перехватчики модуля, не в свойства родителя.
+3. Нужны свойства родителя — поднять совместимость минимум до 8.3.14 (родители БП и УХ — 8.3.27).
+4. Не откатывать EMS на 8.3.12 без снятия `DefaultRoles` и прочих переопределений.
+
+Основная роль (`DefaultRoles`) не может давать права на Adopted. В `Rights.xml` — только свои объекты (`EMS_*`, `ЦТ_*`, собственные обработки). `setForNewObjects` = `false`.

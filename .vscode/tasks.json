@@ -42,7 +42,6 @@
                 "${workspaceFolder}/${input:cfeConfigDir}",
                 "-UseAgentMode",
                 "-KeepAgentConnected",
-                "-RecreateExtension",
                 "-DebugAgent"
             ],
             "options": {

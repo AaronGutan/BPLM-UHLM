@@ -48,14 +48,17 @@
 			<ConfigurationExtensionPurpose>AddOn</ConfigurationExtensionPurpose>
 			<KeepMappingToExtendedConfigurationObjectsByIDs>true</KeepMappingToExtendedConfigurationObjectsByIDs>
 			<NamePrefix>ЦТ_</NamePrefix>
-			<ConfigurationExtensionCompatibilityMode>Version8_3_12</ConfigurationExtensionCompatibilityMode>
+			<ConfigurationExtensionCompatibilityMode>Version8_3_14</ConfigurationExtensionCompatibilityMode>
 			<DefaultRunMode>ManagedApplication</DefaultRunMode>
 			<UsePurposes>
 				<v8:Value xsi:type="app:ApplicationUsePurpose">PlatformApplication</v8:Value>
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
+			<DefaultRoles>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.EMS_ОсновнаяРоль</xr:Item>
+			</DefaultRoles>
 			<Vendor/>
-			<Version>2026.01.20.1</Version>
+			<Version>26_09_09_v3</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -74,6 +77,7 @@
 			<CommonModule>EMS_ПроверкаСинхронизации</CommonModule>
 			<CommonModule>EMS_ИзмененияПланаОбмена</CommonModule>
 			<CommonModule>EMS_Express</CommonModule>
+			<CommonModule>EMS_ВыполнениеВнешнихОбработок</CommonModule>
 			<HTTPService>ЦТ_HTTP_Сверка</HTTPService>
 			<HTTPService>Express</HTTPService>
 			<HTTPService>EMS_ExpressData</HTTPService>

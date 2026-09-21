@@ -1,0 +1,1 @@
+"C:\Program Files\1cv8\common\1cestart.exe" ENTERPRISE /S DNA-DEVAPPS-1S0\Conv2Dev /Execute E:\1C\AY\BPLM-UHLM-XML\MCPToolkit\MCP_Toolkit.epf /DisableStartupMessages /RunModeManagedApplication
