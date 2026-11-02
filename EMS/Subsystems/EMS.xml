@@ -33,6 +33,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.EMS_ОбъектыМетаданных</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.EMS_СообщенияСинхронизации</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.EMS_ПроверкаСинхронизации</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ЗагрузитьКомплектПравил</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

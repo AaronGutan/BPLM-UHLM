@@ -173,6 +173,61 @@ function Test-TcpPortOpen {
     }
 }
 
+function Get-ListeningAgentCommandLine {
+    param(
+        [int]$Port
+    )
+
+    $processes = Get-CimInstance Win32_Process -Filter "Name = '1cv8.exe'" -ErrorAction SilentlyContinue
+    foreach ($process in $processes) {
+        $commandLine = [string]$process.CommandLine
+        if ($commandLine -match "AgentMode" -and $commandLine -match "/AgentPort\s+`"?$Port`"?") {
+            return $commandLine
+        }
+    }
+
+    return $null
+}
+
+function Assert-AgentMatchesDatabase {
+    param(
+        [int]$Port,
+        [string]$DatabaseConnection,
+        [string]$AgentBaseDirectory
+    )
+
+    $commandLine = Get-ListeningAgentCommandLine -Port $Port
+    if (-not $commandLine) {
+        return
+    }
+
+    $actualBase = $null
+    if ($commandLine -match '/S\s+"([^"]+)"') {
+        $actualBase = $Matches[1]
+    }
+
+    $actualBaseDir = $null
+    if ($commandLine -match '/AgentBaseDir\s+"([^"]+)"') {
+        $actualBaseDir = $Matches[1]
+    }
+
+    $baseMismatch = $actualBase -and ($actualBase -ne $DatabaseConnection)
+    $expectedBaseDir = (Resolve-Path $AgentBaseDirectory).Path
+    $dirMismatch = $false
+    if ($actualBaseDir -and (Test-Path $actualBaseDir)) {
+        $dirMismatch = (Resolve-Path $actualBaseDir).Path -ne $expectedBaseDir
+    }
+
+    if ($baseMismatch -or $dirMismatch) {
+        throw @"
+Агент на порту $Port подключен к другой базе: $actualBase
+Каталог агента: $actualBaseDir
+Сборка ожидает: $DatabaseConnection
+Перезапустите сборку с -RestartAgent. Без этого исходники загрузятся в чужую ИБ.
+"@
+    }
+}
+
 function Wait-AgentPort {
     param(
         [int]$Port,
@@ -899,8 +954,7 @@ function Invoke-CfeAgentBuild {
     else {
         Write-Host "Агент уже слушает порт $AgentPort, используем существующий процесс." -ForegroundColor Yellow
         Write-Host "  Ожидаемая база: $databaseConnection" -ForegroundColor Cyan
-        Write-Host "  Внимание: работающий агент подключён к базе, с которой был запущен ранее." -ForegroundColor Yellow
-        Write-Host "  Если база отличается — перезапустите сборку с параметром -RestartAgent." -ForegroundColor Yellow
+        Assert-AgentMatchesDatabase -Port $agentPortNumber -DatabaseConnection $databaseConnection -AgentBaseDirectory $AgentBaseDirectory
     }
 
     if ($AgentCommandsOverride -and $AgentCommandsOverride.Count -gt 0) {

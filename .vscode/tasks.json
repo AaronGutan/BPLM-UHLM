@@ -42,7 +42,8 @@
                 "${workspaceFolder}/${input:cfeConfigDir}",
                 "-UseAgentMode",
                 "-KeepAgentConnected",
-                "-DebugAgent"
+                "-DebugAgent",
+                "-RestartAgent"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"

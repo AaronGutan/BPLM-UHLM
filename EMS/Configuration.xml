@@ -58,7 +58,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.EMS_ОсновнаяРоль</xr:Item>
 			</DefaultRoles>
 			<Vendor/>
-			<Version>26_09_21_v1</Version>
+			<Version>26_10_30_v3</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -92,6 +92,7 @@
 			<DataProcessor>КоннекторФормОбработок</DataProcessor>
 			<DataProcessor>ПоискГУИДОВиОбъектов</DataProcessor>
 			<DataProcessor>EMS_ПроверкаСинхронизации</DataProcessor>
+			<DataProcessor>ЗагрузитьКомплектПравил</DataProcessor>
 			<InformationRegister>EMS_ОбъектыОбмен</InformationRegister>
 			<InformationRegister>EMS_КодСопоставленияОрганизации</InformationRegister>
 			<InformationRegister>EMS_ОбъектыМетаданных</InformationRegister>
