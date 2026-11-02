@@ -94,6 +94,24 @@
 												</CheckBoxField>
 											</ChildItems>
 										</UsualGroup>
+										<CheckBoxField name="СверкаДокументовПоРеквизитам" id="292">
+											<DataPath>СверкаДокументовПоРеквизитам</DataPath>
+											<Title>
+												<v8:item>
+													<v8:lang>ru</v8:lang>
+													<v8:content>Упрощенное соответствие</v8:content>
+												</v8:item>
+											</Title>
+											<ToolTip>
+												<v8:item>
+													<v8:lang>ru</v8:lang>
+													<v8:content>Сверка документов по дате, номеру, организации</v8:content>
+												</v8:item>
+											</ToolTip>
+											<CheckBoxType>Auto</CheckBoxType>
+											<ContextMenu name="СверкаДокументовПоРеквизитамКонтекстноеМеню" id="293"/>
+											<ExtendedTooltip name="СверкаДокументовПоРеквизитамРасширеннаяПодсказка" id="294"/>
+										</CheckBoxField>
 									</ChildItems>
 								</UsualGroup>
 								<UsualGroup name="Группа28" id="287">
@@ -1547,6 +1565,20 @@
 			</Type>
 			<Save>
 				<Field>ПометкаУдаления</Field>
+			</Save>
+		</Attribute>
+		<Attribute name="СверкаДокументовПоРеквизитам" id="35">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Сверка документов по дате, номеру, организации</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:boolean</v8:Type>
+			</Type>
+			<Save>
+				<Field>СверкаДокументовПоРеквизитам</Field>
 			</Save>
 		</Attribute>
 	</Attributes>
