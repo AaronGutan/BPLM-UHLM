@@ -16,12 +16,10 @@
 				</v8:item>
 			</Title>
 			<Group>AlwaysHorizontal</Group>
-			<Behavior>Usual</Behavior>
 			<ExtendedTooltip name="Группа3РасширеннаяПодсказка" id="46"/>
 			<ChildItems>
 				<UsualGroup name="Группа1" id="41">
 					<Group>Vertical</Group>
-					<Behavior>Usual</Behavior>
 					<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="42"/>
 					<ChildItems>
 						<SpreadSheetDocumentField name="СписокОбъектов" id="36">
@@ -148,12 +146,10 @@
 				</UsualGroup>
 				<UsualGroup name="Группа4" id="60">
 					<Group>Vertical</Group>
-					<Behavior>Usual</Behavior>
 					<ExtendedTooltip name="Группа4РасширеннаяПодсказка" id="61"/>
 					<ChildItems>
 						<UsualGroup name="Группа2" id="43">
 							<Group>Vertical</Group>
-							<Behavior>Usual</Behavior>
 							<Representation>StrongSeparation</Representation>
 							<ExtendedTooltip name="Группа2РасширеннаяПодсказка" id="44"/>
 							<ChildItems>
@@ -258,7 +254,6 @@
 						</UsualGroup>
 						<UsualGroup name="Группа5" id="62">
 							<Group>Vertical</Group>
-							<Behavior>Usual</Behavior>
 							<ExtendedTooltip name="Группа5РасширеннаяПодсказка" id="63"/>
 							<ChildItems>
 								<InputField name="Период" id="64">

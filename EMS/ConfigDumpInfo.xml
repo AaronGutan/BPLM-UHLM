@@ -16,6 +16,8 @@
 		<Metadata name="CommonModule.EMS_ВыполнениеВнешнихОбработок.Module" id="f7e8d9c0-b1a2-4c3d-8e5f-6a7b8c9d0e1f.0" configVersion="ba932aa7c857c1b478110595d5f2013f96d7911f"/>
 		<Metadata name="CommonModule.EMS_ИзмененияПланаОбмена" id="2588ff89-2de0-4d54-a53e-585311ad839f" configVersion="d44d2babb51f71dba6e2aa747189c67888a96d75"/>
 		<Metadata name="CommonModule.EMS_ИзмененияПланаОбмена.Module" id="2588ff89-2de0-4d54-a53e-585311ad839f.0" configVersion="85a3eadc297d1fe50826dd1f158a44c5705d6c4b"/>
+		<Metadata name="CommonModule.EMS_ПоискГУИДОВиОбъектов" id="c4e8a1b2-7d35-4f6a-9e10-2c8b5d4a6f71" configVersion="36e6c98f8dad1063fe10a2f5f580a7187bafc8c8"/>
+		<Metadata name="CommonModule.EMS_ПоискГУИДОВиОбъектов.Module" id="c4e8a1b2-7d35-4f6a-9e10-2c8b5d4a6f71.0" configVersion="ee158863092777cadda4c41107bb83580d6255fe"/>
 		<Metadata name="CommonModule.EMS_ПроверкаСинхронизации" id="423b7439-7f5d-4fb3-a421-db367a4f2e6d" configVersion="ab8f3491ac5250764188f9e4475dac5a227b30e4"/>
 		<Metadata name="CommonModule.EMS_ПроверкаСинхронизации.Module" id="423b7439-7f5d-4fb3-a421-db367a4f2e6d.0" configVersion="a6e6f8a1dfeada3d9ef7dde2fed86030997e76e0"/>
 		<Metadata name="CommonModule.ОбменДаннымиПереопределяемый" id="fe526915-73d8-4c00-bc65-d6970d962710" configVersion="a66ee0ca247cfa043b12d3cb28d0d294a5dbe0f0"/>
@@ -24,14 +26,20 @@
 		<Metadata name="CommonModule.ЦТ_ОбщегоНазначенияНаСервере.Module" id="09a9ce88-fdcc-479b-9aef-d95a849d829d.0" configVersion="a50a39bf6e809601e4f17c011f3f7ca10ae60e86"/>
 		<Metadata name="CommonPicture.ЦТ_Logo" id="a79550ac-c95d-4d8c-bd8c-008349c4ac70" configVersion="9ed2924178cd74c82f778da828274423554c94b9"/>
 		<Metadata name="CommonPicture.ЦТ_Logo.Picture" id="a79550ac-c95d-4d8c-bd8c-008349c4ac70.0" configVersion="7cd888bdebebb581a46db4d9a3e0130e73280179"/>
-		<Metadata name="Configuration.EMS" id="801e5512-f3f0-4ea7-b852-84c41b8ab70c" configVersion="5085b78e4730443c964f278898868315472e7faa"/>
+		<Metadata name="Configuration.EMS" id="801e5512-f3f0-4ea7-b852-84c41b8ab70c" configVersion="5ff6b386a7987f80924a62a050c2d320c2d3a1bc"/>
 		<Metadata name="Configuration.EMS.HomePageWorkArea" id="4f70ea2c-63d4-485e-89ef-71c55f8d7d4b.8" configVersion="532451118867404a5187df9d53b67eee82d74530"/>
 		<Metadata name="DataProcessor.EMS_ПроверкаСинхронизации" id="d65b4880-723f-403e-aa38-1bb60791ea56" configVersion="d81e627578160622a9ee008a347ed18fa894162c"/>
 		<Metadata name="DataProcessor.EMS_ПроверкаСинхронизации.Form.Форма" id="0b67882d-58f0-499d-9afd-78fd6ca809fa" configVersion="02f81122a16d754ea612ac08a14e8cfcf75f8a37"/>
 		<Metadata name="DataProcessor.EMS_ПроверкаСинхронизации.Form.Форма.Form" id="0b67882d-58f0-499d-9afd-78fd6ca809fa.0" configVersion="19c85ad23e4b91d56a15160cdba63bb9d9274aeb"/>
 		<Metadata name="DataProcessor.HTTPВыборка" id="44d1bdeb-2042-46c7-8936-3b89a375b9ef" configVersion="aed410d361563f2394d0ab1a94493a3f1ade1647"/>
 		<Metadata name="DataProcessor.HTTPВыборка.Form.Форма" id="658af411-6b47-475a-993b-25ea39a2e4f4" configVersion="75a373ae3e8c7b86c7eb5b15f0ee5ba4096e34cf"/>
-		<Metadata name="DataProcessor.HTTPВыборка.Form.Форма.Form" id="658af411-6b47-475a-993b-25ea39a2e4f4.0" configVersion="a358dfba684d1ea19e5e07282183eae7f1ccdf45"/>
+		<Metadata name="DataProcessor.HTTPВыборка.Form.Форма.Form" id="658af411-6b47-475a-993b-25ea39a2e4f4.0" configVersion="c3744a7f8a5bcdb9cb50b598a7941ea0a28d658b"/>
+		<Metadata name="DataProcessor.ДетальныеВедомости" id="10cd8dd0-6245-4abc-b7b8-19a9961c344c" configVersion="42657bd44d90aecaf1e063fcea596f8c70ab4470"/>
+		<Metadata name="DataProcessor.ДетальныеВедомости.Form.Форма" id="d5bc22b5-b13a-4f89-a093-3dd762397490" configVersion="e8d257df4e84c5578e5c7852366c5f3528b9149b"/>
+		<Metadata name="DataProcessor.ДетальныеВедомости.Form.Форма.Form" id="d5bc22b5-b13a-4f89-a093-3dd762397490.0" configVersion="9cd9820508f018a24932e617152a9172dc85126b"/>
+		<Metadata name="DataProcessor.ДетальныеВедомости.ObjectModule" id="10cd8dd0-6245-4abc-b7b8-19a9961c344c.0" configVersion="4cb6b913ceaaf8a89b2ed7f2fc096eeaac20b5e9"/>
+		<Metadata name="DataProcessor.ДетальныеВедомости.Template.Макет" id="5fbccfbc-ddf0-4b34-b169-fe4aa1b82e24" configVersion="0c8b740a0ed987a3be9a51c33092eca611408cd8"/>
+		<Metadata name="DataProcessor.ДетальныеВедомости.Template.Макет.Template" id="5fbccfbc-ddf0-4b34-b169-fe4aa1b82e24.0" configVersion="c8aa98b0e79226413f0a35d18453ebc6e14f97b4"/>
 		<Metadata name="DataProcessor.ЗагрузитьКомплектПравил" id="c2cc44ad-45bf-4b07-9321-6b896d3b3c49" configVersion="804b972a3f9c57fc0f38ec388d55df4164b21c9e"/>
 		<Metadata name="DataProcessor.ЗагрузитьКомплектПравил.Form.Форма" id="1019765b-cd21-423d-919f-2c75ab661ef6" configVersion="ba1b0da86387d0f668bc02d1014939d37dc576da"/>
 		<Metadata name="DataProcessor.ЗагрузитьКомплектПравил.Form.Форма.Form" id="1019765b-cd21-423d-919f-2c75ab661ef6.0" configVersion="3025d0e231b775a36fdf96d04b368a2b2747322b"/>
@@ -45,7 +53,7 @@
 		<Metadata name="DataProcessor.КоннекторФормОбработок.Form.Форма.Form" id="b78236f2-07ae-4584-96c9-152b1676ee1c.0" configVersion="def55a75317b8e9f1799dba45f5220944fa83cb0"/>
 		<Metadata name="DataProcessor.ПоискГУИДОВиОбъектов" id="64fc06bb-4961-4455-a409-1edc9f8508ae" configVersion="3a741f733113db56b6b15df580a0befedc09af9f"/>
 		<Metadata name="DataProcessor.ПоискГУИДОВиОбъектов.Form.Форма" id="aaebcbb4-e9ad-450f-be56-0504a48040e1" configVersion="6d2912aaaa37bd8db7d789f5145499b2dfc08d92"/>
-		<Metadata name="DataProcessor.ПоискГУИДОВиОбъектов.Form.Форма.Form" id="aaebcbb4-e9ad-450f-be56-0504a48040e1.0" configVersion="2ea275701417e989ddeb1cae10b73f455e985f6a"/>
+		<Metadata name="DataProcessor.ПоискГУИДОВиОбъектов.Form.Форма.Form" id="aaebcbb4-e9ad-450f-be56-0504a48040e1.0" configVersion="3a84300b6fe64f9dd09132c3b587a05337868618"/>
 		<Metadata name="DataProcessor.ПоискОбъектНеНайден" id="edab5c5a-0cea-44ef-aa8b-85401d4104d1" configVersion="7a03187ede98d5f6e313028e8578b057dade6de0"/>
 		<Metadata name="DataProcessor.ПоискОбъектНеНайден.Form.Форма" id="bd1cc5e0-9d59-49fd-ba32-06a8b5845524" configVersion="8e663c7ee6cabe0414abce7b3911442b32042e61"/>
 		<Metadata name="DataProcessor.ПоискОбъектНеНайден.Form.Форма.Form" id="bd1cc5e0-9d59-49fd-ba32-06a8b5845524.0" configVersion="e1f1d47a699c9c38e04997f0eee00aaf75a736db"/>
@@ -131,6 +139,6 @@
 		<Metadata name="Role.EMS_ОсновнаяРоль.Rights" id="c6e24127-c648-4541-acf1-36c403344535.0" configVersion="0d921d587590b7d7dc6be41b1518d203a4c36d04"/>
 		<Metadata name="ScheduledJob.EMS_АктуализацияДанныхПослеСинхронизации" id="a750d92a-32e2-433e-9aca-fffc23a2b84e" configVersion="f2089ec18411e3b4428f4affd4c7725b5488d76d"/>
 		<Metadata name="ScheduledJob.EMS_ПроверкаСинхронизации" id="47f7255d-c055-4749-8158-9c119066f931" configVersion="ddeaa44b319ccd5caa259b68b6a669cdd47969dc"/>
-		<Metadata name="Subsystem.EMS" id="d3b25e91-7313-475e-9e35-74cb39bc828a" configVersion="0e22ee7cc41a2fee0f1c6e05ce0885afad8dc924"/>
+		<Metadata name="Subsystem.EMS" id="d3b25e91-7313-475e-9e35-74cb39bc828a" configVersion="ce67ae02939ae4ccb743696b7bbd5be450c20077"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
