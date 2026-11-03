@@ -58,7 +58,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.EMS_ОсновнаяРоль</xr:Item>
 			</DefaultRoles>
 			<Vendor/>
-			<Version>26_11_03_v1</Version>
+			<Version>26_11_03_v2</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -85,6 +85,7 @@
 			<ScheduledJob>EMS_ПроверкаСинхронизации</ScheduledJob>
 			<ScheduledJob>EMS_АктуализацияДанныхПослеСинхронизации</ScheduledJob>
 			<Catalog>EMS_ПараметрыБаз</Catalog>
+			<Catalog>Организации</Catalog>
 			<DataProcessor>КонвертацияОбъектовИнформационныхБаз</DataProcessor>
 			<DataProcessor>СопоставлениеОбъектовОбмена</DataProcessor>
 			<DataProcessor>ПоискОбъектНеНайден</DataProcessor>
@@ -99,6 +100,7 @@
 			<InformationRegister>EMS_КодСопоставленияОрганизации</InformationRegister>
 			<InformationRegister>EMS_ОбъектыМетаданных</InformationRegister>
 			<InformationRegister>EMS_СообщенияСинхронизации</InformationRegister>
+			<ChartOfAccounts>Хозрасчетный</ChartOfAccounts>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
