@@ -34,7 +34,7 @@ $extensionDatabaseMap = @{
     "acclmcopy-cfe-consolidation"     = "bp-copy"
     "ICORUHM/uh-cfe-consolidation"    = "uh-lm"
     "ICORUHM\uh-cfe-consolidation"    = "uh-lm"
-    "EMS"                             = "uh-lm"
+    "EMS"                             = "bp-copy"
 }
 
 if (-not $ConfigDir) {

@@ -58,7 +58,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.EMS_ОсновнаяРоль</xr:Item>
 			</DefaultRoles>
 			<Vendor/>
-			<Version>26_11_03_v2</Version>
+			<Version>26_11_06_v1</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -79,6 +79,8 @@
 			<CommonModule>EMS_Express</CommonModule>
 			<CommonModule>EMS_ВыполнениеВнешнихОбработок</CommonModule>
 			<CommonModule>EMS_ПоискГУИДОВиОбъектов</CommonModule>
+			<CommonModule>ЦТ_ODataКлиентСервер</CommonModule>
+			<CommonModule>ЦТ_СверкаODataСервер</CommonModule>
 			<HTTPService>ЦТ_HTTP_Сверка</HTTPService>
 			<HTTPService>Express</HTTPService>
 			<HTTPService>EMS_ExpressData</HTTPService>
@@ -96,6 +98,7 @@
 			<DataProcessor>EMS_ПроверкаСинхронизации</DataProcessor>
 			<DataProcessor>ЗагрузитьКомплектПравил</DataProcessor>
 			<DataProcessor>ДетальныеВедомости</DataProcessor>
+			<DataProcessor>EMS_СверкаOData</DataProcessor>
 			<InformationRegister>EMS_ОбъектыОбмен</InformationRegister>
 			<InformationRegister>EMS_КодСопоставленияОрганизации</InformationRegister>
 			<InformationRegister>EMS_ОбъектыМетаданных</InformationRegister>

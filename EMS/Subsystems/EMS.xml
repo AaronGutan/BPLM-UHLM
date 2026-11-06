@@ -35,6 +35,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.EMS_ПроверкаСинхронизации</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ЗагрузитьКомплектПравил</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ДетальныеВедомости</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.EMS_СверкаOData</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

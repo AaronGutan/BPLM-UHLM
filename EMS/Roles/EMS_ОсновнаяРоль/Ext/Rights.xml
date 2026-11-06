@@ -77,6 +77,17 @@
 		</right>
 	</object>
 	<object>
+		<name>DataProcessor.EMS_СверкаOData</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>DataProcessor.HTTPВыборка</name>
 		<right>
 			<name>Use</name>
