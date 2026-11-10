@@ -59,10 +59,10 @@ flowchart LR
 УХ:
 
 ```text
-GET .../AccountingRegister_Хозрасчетный/BalanceAndTurnovers(StartPeriod=..., EndPeriod=..., Condition='Организация_Key eq guid''...''')?$format=json&$top=1000&$skip=0
+GET .../AccountingRegister_Хозрасчетный/BalanceAndTurnovers(StartPeriod=..., EndPeriod=..., Condition='Организация_Key eq guid''...'' and Account_Key eq guid''...''')?$format=json&$top=1000&$skip=0
 ```
 
-Один вызов на организацию и период, страницы по `$skip` / `@odata.nextLink`. Код счёта — из кэша `ChartOfAccounts_Хозрасчетный`. Организация УХ переводится в координаты БП через [EMS_КодСопоставленияОрганизации](EMS/InformationRegisters/EMS_КодСопоставленияОрганизации.xml) и `СоответствияОбъектовИнформационныхБаз`.
+Отдельный вызов на каждый код счёта локальной ОСВ. Полный `$metadata` при сверке не скачивается. Страницы по `$skip` / `@odata.nextLink`. Код счёта — из кэша `ChartOfAccounts_Хозрасчетный`. Организация УХ переводится в координаты БП через `СоответствияОбъектовИнформационныхБаз`. Счёт, которого нет в локальной ОСВ, в выборку УХ не попадает.
 
 Ключ строки: `орг | кодСчёта | подразделение | валюта | субконто1 | субконто2 | субконто3`. Ссылочное субконто: `ИмяМетаданных|УИД`. В OData это `ExtDimensionN_Type` и `ExtDimensionN_Key`; отбор по аналитике — `cast(guid'...', 'Catalog_...')`, как в [главе 17](docs/integraciya/глава-17-интеграция-с-внешними-системами.md) для `Balance`.
 

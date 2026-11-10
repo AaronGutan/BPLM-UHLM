@@ -58,7 +58,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.EMS_ОсновнаяРоль</xr:Item>
 			</DefaultRoles>
 			<Vendor/>
-			<Version>26_11_09_v2</Version>
+			<Version>26_11_10_v14</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>

@@ -1301,6 +1301,7 @@ Write-BuildModeHeader `
 
 try {
     $buildDuration = Invoke-CfeBuildCore -AgentMode:$UseAgentMode @buildParams
+    $buildFinishedAt = Get-Date
 }
 catch {
     Write-Host ""
@@ -1312,9 +1313,11 @@ Write-Host ""
 if ($agentDebugOnly) {
     Write-Host "Отладка команды агента завершена." -ForegroundColor Green
     Write-Host "Время: $(Format-BuildDuration -Duration $buildDuration)" -ForegroundColor Cyan
+    Write-Host "Завершена в: $($buildFinishedAt.ToString('dd.MM.yyyy HH:mm:ss'))" -ForegroundColor Cyan
 }
 else {
     Write-Host "Сборка завершена: $outputFileFull" -ForegroundColor Green
+    Write-Host "Завершена в: $($buildFinishedAt.ToString('dd.MM.yyyy HH:mm:ss'))" -ForegroundColor Cyan
     Write-Host "Время сборки: $(Format-BuildDuration -Duration $buildDuration)" -ForegroundColor Cyan
     Copy-BuildArtifact -SourcePath $outputFileFull -TargetDirectory $CopyToDir
 }
